@@ -1,126 +1,244 @@
-# Gatsby + Netlify CMS Starter
+# Markdown & HTML
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+> * Make sure to use at least one `line-break` to separate `html` and `markdown` whenever you are using them together
+> * Do not `indent` html
+> * You have to switch to `markdown` mode when you copy and paste from this documentation 
 
-**Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
+# Utility class
 
-This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
+## Simple grid with `2` simple class `row` & `col`
+### 2 columns
+```html
+<div class="row">
+<div class="col">
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
+<!-- left column content -->
 
-## Features
+</div>
+<div class="col">
 
-- A simple landing page with blog functionality built with Netlify CMS
-- Editable Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
-- Create Blog posts from Netlify CMS
-- Tags: Separate page for posts under each tag
-- Basic directory organization
-- Uses Bulma for styling, but size is reduced by `purge-css-plugin`
-- Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
-- Uses `gatsby-image` with Netlify-CMS preview support
-- Separate components for everything
-- Netlify deploy configuration
-- Netlify function support, see `lambda` folder
-- Perfect score on Lighthouse for SEO, Accessibility and Performance (wip:PWA)
-- ..and more
+<!-- right column content -->
 
-## Prerequisites
-
-- Node (I recommend using v8.2.0 or higher)
-- [Gatsby CLI](https://www.gatsbyjs.org/docs/)
-- [Netlify CLI](https://github.com/netlify/cli)
-
-## Getting Started (Recommended)
-
-Netlify CMS can run in any frontend web environment, but the quickest way to try it out is by running it on a pre-configured starter site with Netlify. The example here is the Kaldi coffee company template (adapted from [One Click Hugo CMS](https://github.com/netlify-templates/one-click-hugo-cms)). Use the button below to build and deploy your own copy of the repository:
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/gatsby-starter-netlify-cms&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
-After clicking that button, you’ll authenticate with GitHub and choose a repository name. Netlify will then automatically create a repository in your GitHub account with a copy of the files from the template. Next, it will build and deploy the new site on Netlify, bringing you to the site dashboard when the build is complete. Next, you’ll need to set up Netlify’s Identity service to authorize users to log in to the CMS.
-
-### Access Locally
-
-Pulldown a local copy of the Github repository Netlify created for you, with the name you specified in the previous step
-```
-$ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-$ cd [REPO_NAME]
-$ yarn
-$ netlify dev # or ntl dev
+</div>
+</div>
 ```
 
-This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
 
-To test the CMS locally, you'll need to run a production build of the site:
+### 3 columns
+```html
+<div class="row">
+<div class="col">
 
-```
-$ npm run build
-$ netlify dev # or ntl dev
-```
+<!-- left column content -->
 
-### Media Libraries (installed, but optional)
+</div>
+<div class="col">
 
-Media Libraries have been included in this starter as a default. If you are not planning to use `Uploadcare` or `Cloudinary` in your project, you **can** remove them from module import and registration in `src/cms/cms.js`. Here is an example of the lines to comment or remove them your project.
+<!-- center column content -->
 
-```javascript
-import CMS from 'netlify-cms-app'
-// import uploadcare from 'netlify-cms-media-library-uploadcare'
-// import cloudinary from 'netlify-cms-media-library-cloudinary'
+</div>
+<div class="col">
 
-import AboutPagePreview from './preview-templates/AboutPagePreview'
-import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProductPagePreview from './preview-templates/ProductPagePreview'
-import IndexPagePreview from './preview-templates/IndexPagePreview'
+<!-- right column content -->
 
-// CMS.registerMediaLibrary(uploadcare);
-// CMS.registerMediaLibrary(cloudinary);
-
-CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+</div>
+</div>
 ```
 
-Note: Don't forget to also remove them from `package.json` and `yarn.lock` / `package-lock.json` using `yarn` or `npm`. During the build netlify-cms-app will bundle the media libraries as well, having them removed will save you build time.
-Example:
-```
-yarn remove netlify-cms-media-library-uploadcare
-```
-OR
-```
-yarn remove netlify-cms-media-library-cloudinary
-```
-## Getting Started (Without Netlify)
+## To take `text` or any `inline` / `inline-block` to center
 
-```
-$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/netlify-templates/gatsby-starter-netlify-cms/
-$ cd [SITE_DIRECTORY_NAME]
-$ npm run build
-$ npm run serve
+```html
+<div class="text-center">
+
+<!-- content -->
+
+</div>
 ```
 
-### Setting up the CMS
+## There are `3` space utils
 
-Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
+### Vertical space (top, bottom)
+```html
+<div class="v-space">
 
-## Debugging
+<!-- content -->
 
-Windows users might encounter `node-gyp` errors when trying to npm install.
-To resolve, make sure that you have both Python 2.7 and the Visual C++ build environment installed.
-
-```
-npm config set python python2.7
-npm install --global --production windows-build-tools
+</div>
 ```
 
-[Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
+### Horizontal space (left, right)
+```html
+<div class="h-space">
 
-MacOS users might also encounter some errors, for more info check [node-gyp](https://github.com/nodejs/node-gyp). We recommend using the latest stable node version.
+<!-- content -->
 
-## Purgecss
+</div>
+```
+### All side space (top, right, left, bottom)
+```html
+<div class="space">
 
-This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). The bulma builds are usually ~170K but reduced 90% by purgecss.
+<!-- content -->
 
-# CONTRIBUTING
+</div>
+```
 
-Contributions are always welcome, no matter how large or small. Before contributing,
-please read the [code of conduct](CODE_OF_CONDUCT.md).
+# Example
+
+## Two column chart
+
+```html
+<div class="row">
+<div class="text-center col">
+<data-chart value="50" />
+
+### Free
+
+Goodies 1
+
+Goodies 2
+
+Goodies 3
+
+</div>
+<div class="col">
+
+# This is Heading
+
+This is content
+
+</div>
+</div>
+```
+
+![Chart 2](./docs/chart2.jpg)
+
+## Three column chart
+
+```html
+<div class="text-center row">
+<div class="col">
+<data-chart value="25" />
+
+### Good
+
+Feature 1
+
+Feature 2
+
+</div>
+<div class="col">
+<data-chart value="50" />
+
+### Better
+
+Feature 1
+
+Feature 2
+
+</div>
+<div class="col">
+<data-chart value="75" />
+
+### Best
+
+Feature 1
+
+Feature 2
+
+</div>
+</div>
+```
+
+![Chart 3](./docs/chart3.jpg)
+
+## Pros & Cons
+
+```html
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Pros 1</div>
+<div class="pros-item">Pros 2</div>
+<div class="pros-item">Pros 3</div>
+</div>
+<div class="col">
+<div class="cons-header">Cons</div>
+<div class="cons-item">Cons 1</div>
+<div class="cons-item">Cons 2</div>
+<div class="cons-item">Cons 3</div>
+</div>
+</div>
+```
+
+![Pro Cons](./docs/procons.jpg)
+
+## Two column product
+
+```html
+<div class="row">
+<div class="text-center col">
+
+![Picture](/img/picture.png)
+
+<div class="v-space">
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="link-1">Buy Now</a>
+</div>
+</div>
+<div class="col">
+
+# This is Heading
+
+This is content
+
+</div>
+</div>
+```
+
+![Product 2](./docs/product2.jpg)
+
+## General Note
+
+```html
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### This is the note
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="link-1">Buy Now</a>
+</div>
+</div>
+```
+
+![Product 2](./docs/generalnote.jpg)
+
+## Product table
+
+```html
+<table class="product-table">
+<tr>
+<td colspan="2">
+
+![Picture](/img/picture.png)
+
+</td>
+</tr>
+<tr>
+<td>Modal</td>
+<td>This is Model</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td>This is Speed</td>
+</tr>
+<tr>
+<td>Power</td>
+<td>This is Power</td>
+</tr>
+</table>
+```
+
+![Product 2](./docs/producttable.jpg)

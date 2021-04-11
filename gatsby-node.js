@@ -8,7 +8,10 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        limit: 1000
+        filter: { frontmatter: { templateKey: { ne: null } } }
+      ) {
         edges {
           node {
             id
@@ -16,8 +19,10 @@ exports.createPages = ({ actions, graphql }) => {
               slug
             }
             frontmatter {
-              tags
               templateKey
+              tags {
+                name
+              }
             }
           }
         }
@@ -46,12 +51,14 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Tag pages:
     let tags = []
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
-        tags = tags.concat(edge.node.frontmatter.tags)
+        Array.isArray(edge.node.frontmatter.tags) &&
+          edge.node.frontmatter.tags.forEach(({ name }) => {
+            tags = tags.concat(name)
+          })
       }
     })
     // Eliminate duplicate tags
@@ -63,7 +70,7 @@ exports.createPages = ({ actions, graphql }) => {
 
       createPage({
         path: tagPath,
-        component: path.resolve(`src/templates/tags.js`),
+        component: path.resolve(`src/templates/tags-page.js`),
         context: {
           tag,
         },

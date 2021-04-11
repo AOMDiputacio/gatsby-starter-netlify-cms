@@ -1,16 +1,34 @@
 import CMS from 'netlify-cms-app'
-import uploadcare from 'netlify-cms-media-library-uploadcare'
-import cloudinary from 'netlify-cms-media-library-cloudinary'
 
-import AboutPagePreview from './preview-templates/AboutPagePreview'
-import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProductPagePreview from './preview-templates/ProductPagePreview'
-import IndexPagePreview from './preview-templates/IndexPagePreview'
-
-CMS.registerMediaLibrary(uploadcare)
-CMS.registerMediaLibrary(cloudinary)
-
-CMS.registerPreviewTemplate('index', IndexPagePreview)
-CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerEditorComponent({
+  id: 'affililateButton',
+  label: 'Affililate Button',
+  fields: [
+    { name: 'text', label: 'Text', widget: 'string' },
+    {
+      name: 'link',
+      label: 'Link',
+      widget: 'relation',
+      collection: 'affiliateLinks',
+      value_field: 'id',
+      search_fields: ['id', 'link'],
+      display_fields: ['id', 'link'],
+    },
+  ],
+  pattern: /^<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="([^"]+)">([^<]+)<\/a>$/,
+  fromBlock: function (match) {
+    return {
+      link: match[1],
+      text: match[2],
+    }
+  },
+  toBlock: function (obj) {
+    return (
+      '<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="' +
+      obj.link +
+      '">' +
+      obj.text +
+      '</a>'
+    )
+  },
+})

@@ -12,55 +12,393 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - label: Affiliate Links
+    name: affiliateLinks
+    folder: src/data/affiliate-links
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{id}}'
+    editor:
+      preview: false
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
-
-  - name: "pages"
-    label: "Pages"
+      - label: Data Key
+        name: dataKey
+        widget: hidden
+        default: affiliateLinks
+      - label: Id (Should Be Unique & Don't change it)
+        name: id
+        widget: string
+      - label: Link
+        name: link
+        widget: string
+  - label: Articles
+    name: article
+    folder: src/pages/article
+    create: true
+    slug: '{{fields.slug}}'
+    editor:
+      preview: false
+    fields:
+      - label: Template Key
+        name: templateKey
+        widget: hidden
+        default: article-page
+      - label: Title
+        name: title
+        widget: string
+      - label: Slug
+        name: slug
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        fields:
+          - label: Name
+            name: name
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+      - label: Article Image
+        name: articleImage
+        widget: image
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+      - label: Related Articles (Maximum 3)
+        name: relatedArticles
+        widget: list
+        max: 3
+        required: false
+        fields:
+          - label: Article
+            name: article
+            widget: relation
+            collection: article
+            value_field: slug
+            search_fields: [title]
+            display_fields: [title]
+  - label: Navbar & Footer
+    name: data
+    editor:
+      preview: false
     files:
-      - file: "src/pages/index.md"
-        label: "Landing Page"
-        name: "index"
+      - label: Navbar
+        name: navbar
+        file: src/data/navbar.md
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Subheading, name: subheading, widget: string}
-          - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-      - file: "src/pages/about/index.md"
-        label: "About"
-        name: "about"
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: navbar
+          - label: Logo
+            name: logo
+            widget: image
+          - label: Menu items
+            name: menuitems
+            widget: list
+            fields:
+              - label: Title
+                name: title
+              - label: Link
+                name: link
+      - label: Footer
+        name: footer
+        file: src/data/footer.md
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/products/index.md"
-        label: "Products Page"
-        name: "products"
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: footer
+          - label: Column 1
+            name: column1
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: text
+              - label: Social links
+                name: socialLinks
+                widget: object
+                fields:
+                  - label: Facebook
+                    name: facebook
+                    widget: string
+                    required: false
+                  - label: Youtube
+                    name: youtube
+                    widget: string
+                    required: false
+                  - label: Pinterest
+                    name: pinterest
+                    widget: string
+                    required: false
+                  - label: Linkedin
+                    name: linkedin
+                    widget: string
+                    required: false
+          - label: Column 2
+            name: column2
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Links
+                name: links
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                  - label: Link
+                    name: link
+          - label: Column 3
+            name: column3
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Links
+                name: links
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                  - label: Link
+                    name: link
+          - label: Column 4
+            name: column4
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: text
+              - label: Button Text
+                name: buttonText
+                widget: string
+              - label: Placeholder Text
+                name: placeholderText
+                widget: string
+  - label: Pages
+    name: pages
+    editor:
+      preview: false
+    files:
+      - label: Home Page
+        name: index
+        file: src/pages/index.md
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+          - label: Template Key
+            name: templateKey
+            widget: hidden
+            default: index-page
+          - label: Title
+            name: title
+            widget: string
+          - label: Subtitle
+            name: subtitle
+            widget: string
+          - label: Tagline
+            name: tagline
+            widget: string
+          - label: Feature tags
+            name: featureTags
+            widget: object
+            fields:
+              - label: Item 1
+                name: item1
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Link
+                    name: link
+                    widget: string
+              - label: Item 2
+                name: item2
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Link
+                    name: link
+                    widget: string
+              - label: Item 3
+                name: item3
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Link
+                    name: link
+                    widget: string
+              - label: Item 4
+                name: item4
+                widget: object
+                fields:
+                  - label: Image
+                    name: image
+                    widget: image
+                  - label: Link
+                    name: link
+                    widget: string
+          - label: Section 2
+            name: section2
+            widget: object
+            fields:
+              - label: Image
+                name: image
+                widget: image
+              - label: Tagline
+                name: tagline
+                widget: string
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: text
+              - label: Button Text
+                name: buttonText
+                widget: string
+              - label: Button Link
+                name: buttonLink
+                widget: string
+          - label: Feature Articles
+            name: featureArticles
+            widget: object
+            fields:
+              - label: Button Text
+                name: buttonText
+                widget: string
+              - label: Articles
+                name: articles
+                widget: list
+                fields:
+                  - label: Article
+                    name: article
+                    widget: relation
+                    collection: article
+                    value_field: slug
+                    search_fields: [title]
+                    display_fields: [title]
+          - label: Section 3
+            name: section3
+            widget: object
+            fields:
+              - label: Tagline
+                name: tagline
+                widget: string
+              - label: Title
+                name: title
+                widget: string
+              - label: Content List
+                name: contentList
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Description
+                    name: description
+                    widget: text
+              - label: Image
+                name: image
+                widget: image
+          - label: Section 4
+            name: section4
+            widget: object
+            fields:
+              - label: Tagline
+                name: tagline
+                widget: string
+              - label: Title
+                name: title
+                widget: string
+              - label: Category List
+                name: categoryList
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                  - label: Link
+                    name: link
+      - label: Tags Page
+        name: tagsPage
+        file: src/data/tags-page.md
+        fields:
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: tagsPage
+          - label: Cover Image
+            name: coverImage
+            widget: image
+          - label: Main Title
+            name: mainTitle
+            widget: string
+          - label: Secondary Title
+            name: secondaryTitle
+            widget: string
+          - label: Recent Article Title
+            name: recentArticleTitle
+            widget: string
+      - label: Single Tag Page
+        name: tagPage
+        file: src/data/tag-page.md
+        fields:
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: tagPage
+          - label: Cover Image
+            name: coverImage
+            widget: image
+          - label: Main Title
+            name: mainTitle
+            widget: string
+          - label: Secondary Title
+            name: secondaryTitle
+            widget: string
+      - label: Articles Page
+        name: articlesPage
+        file: src/data/articles-page.md
+        fields:
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: articlesPage
+          - label: Cover Image
+            name: coverImage
+            widget: image
+          - label: Main Title
+            name: mainTitle
+            widget: string
+          - label: Secondary Title
+            name: secondaryTitle
+            widget: string
+      - label: Single Article Page
+        name: articlePage
+        file: src/data/article-page.md
+        fields:
+          - label: Data Key
+            name: dataKey
+            widget: hidden
+            default: articlePage
+          - label: Related Article Title
+            name: relatedArticleTitle
+            widget: string
