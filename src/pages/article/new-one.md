@@ -18,8 +18,17 @@ El [Xiaomi Mi Electric Scooter Pro 2 ](https://www.amazon.es/dp/B089WDJJ7H/ref=a
 
 # Pros y contras
 
-<!--StartFragment-->
-
-<div class="row"> <div class="col"> <div class="pros-header">Pros</div> <div class="pros-item">Pros 1</div> <div class="pros-item">Pros 2</div> <div class="pros-item">Pros 3</div> </div> <div class="col"> <div class="cons-header">Cons</div> <div class="cons-item">Cons 1</div> <div class="cons-item">Cons 2</div> <div class="cons-item">Cons 3</div> </div> </div>
-
-<!--EndFragment-->
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Pros 1</div>
+<div class="pros-item">Pros 2</div>
+<div class="pros-item">Pros 3</div>
+</div>
+<div class="col">
+<div class="cons-header">Cons</div>
+<div class="cons-item">Cons 1</div>
+<div class="cons-item">Cons 2</div>
+<div class="cons-item">Cons 3</div>
+</div>
+</div>
