@@ -82,3 +82,22 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 </td>
 </tr>
 </table>
+
+## Review del patinete eléctrico Xiaomi Mi Electric Pro 2
+
+<div class="row">
+<div class="col">
+
+![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
+
+</div>
+<div class="col">
+
+### Gran Potencia y Autonomia
+
+Si por algo destaca el [Xiaomi Mi Electric Scooter Pro 2 ](https://www.amazon.es/dp/B089WDJJ7H/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=sl1&tag=xiaomi-pro2-21&linkId=b320692e892d9a722aa856aed9e2bd4a&language=es_ES)es por su potente motor sin escobillas el cual, ademås de ser silencioso y no necesitar mantenimiento, nos ofrece una **potencia nominal de 300 W** y una potencia maxima de 600 W. Esta caracter(stica técnica nos permitiré **subir cuestas** de hasta 20 grados de inclinaciön sin perder velocidad, por lo que el Xiaomi Pro 2 se posiciona como una de las mejores opciones para aquellas personas que vivian en pueblos o ciudades con cuestas.
+Su bateria de litio (12800 mAh / 474Wh), nos proporciona una excelente autonomia pudiendo recorrer hasta 45 km con una ürmca carga.
+
+</div>
+</div>
