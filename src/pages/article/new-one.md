@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: Análisis del Patinete eléctrico Xiaomi Mi Pro 2
+title: Patinete eléctrico Xiaomi Mi Pro 2, poder a un precio atractivo
 slug: Analisis-Patinete-Electrico-Xiaomi-Mi-Pro-2
 date: 2021-04-11T20:31:41.282Z
 tags:
