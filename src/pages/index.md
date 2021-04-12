@@ -27,7 +27,7 @@ section2:
   description: Vous commencez votre recherche ? Utilisez notre simulateur pour
     trouver un matelas parfaitement adapté à vos besoins – en moins d'une
     minute.
-  buttonText: JE TROUVE MON MATELAS
+  buttonText: Aquí está
   buttonLink: /tags
 featureArticles:
   articles:
