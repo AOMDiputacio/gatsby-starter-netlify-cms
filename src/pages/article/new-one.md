@@ -116,42 +116,43 @@ En el modelo Xiaomi Mi Scooter Pro 2 la bater(a dispone de un sistema inteligent
 
 No tiene la carga mås répida del mercado (8-9 h) pero es el precio que debemos pagar por tener un patinete eléctrico potente, con una gran autonomia y durabilidad.
 
-
 > La bateria LG, ofrece hasta 500 ciclos de carga con una potencia mantenida por encima del 70%. Estamos por 10 tanto ante un patinete no sölo con una gran potencia sino también durabilidad, ya que la calidad de la bateria nos asegura cubrir nuestras necesidades de desplazamiento durante muchos arios.
-﻿
+
 ## Velocidad crucero
-﻿
+
 El patinete eléctrico Xiaomi Mi Electric Scooter Pro 2 dispone de **3 modos predeterminados de conducciön**.
 En funciön del modo elegido obtendremos mayor o menor potencia por parte del motor eléctrico y por lo
 tanto podemos **elegir el nivel de aceleraciön y la velocidad maxima** en cada momento.
 Esta caracter(stica es muy interesante para aquellos que viajen por zonas muy concurridas o hagan largos trayectos ya que te permite **elegir la velocidad mäxima en funciön de las condiciones de la via**, aumentando la seguridad y reduciendo reduciendo la tensiön y la fatiga en la conducciön.
 Estas son las **caracteristicas de cada uno de los modos de conducciön del Xiaomi Mi electric Scooter Pro 2:**
-﻿
+
 <div class="text-center row">
 <div class="col">
 <data-chart value="20" />
-﻿
+
 ### Peatonal
-﻿
+
 Velocidad limitada 5 km/h
 Bajo consumo
 Gran autonomía
-﻿
+
 </div>
 <div class="col">
 <data-chart value="60" />
-﻿
+
 ### Modo Standard
-﻿
+
 Velocidad limitada 15 km/h
 Equilibrio entre potencia y consumo
-﻿
+
 </div>
 <div class="col">
 <data-chart value="100" />
-﻿
-### Modo Deportivo
-﻿
+
+
+### ﻿Modo Deportivo
+
+
 Velocidad limitada 25 km/h
 Gran aceleraciön
 Sube cuestas 200
