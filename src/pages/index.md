@@ -54,7 +54,7 @@ section3:
 section4:
   categoryList:
     - title: Mémoire de forme
-      link: /tags/mémoire-de-forme
+      link: /article/mémoire-de-forme
     - title: Pour le dos
       link: /tags/pour-le-dos
     - title: Sur le ventre
@@ -62,7 +62,7 @@ section4:
     - title: Pas chers
       link: /tags/pas-chers
     - title: Haut de gamme
-      link: /tags/haut-de-gamme
+      link: /article/leg/
   tagline: NOUS AVONS TESTÉ POUR VOUS
   title: Découvrez nos meilleurs choix matelas par catégorie.
 ---
