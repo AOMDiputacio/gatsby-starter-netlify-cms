@@ -89,6 +89,10 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 <div class="col">
 
 ![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+<p>
+
+</p>
+
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 
 </div>
@@ -101,3 +105,14 @@ Su bateria de litio (12800 mAh / 474Wh), nos proporciona una excelente autonomia
 
 </div>
 </div>
+
+En el modelo Xiaomi Mi Scooter Pro 2 la bater(a dispone de un sistema inteligente de gestiön el cual aumenta la seguridad y durabilidad de la bater(a prolongando su vida ütil. Incorpora hasta seis protecciones inteligentes:
+
+* Protecciön contra cortocircuitos
+* Protecciön contra sobrecorrientes
+* Doble protecciån contra la sobrecarga
+* Doble protecciån contra la descarga excesiva
+* Protecciön de la temperatura
+* Protecciön contra el reposo de bajo voltaje 
+
+No tiene la carga mås répida del mercado (8-9 h) pero es el precio que debemos pagar por tener un patinete eléctrico potente, con una gran autonomia y durabilidad.
