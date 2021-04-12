@@ -9,7 +9,7 @@ tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
   tus necesidades
 featureTags:
   item1:
-    image: /img/sommier.png
+    image: /img/apple-touch-icon.png
     link: /tags/sommier
   item2:
     image: /img/oreiller.png
