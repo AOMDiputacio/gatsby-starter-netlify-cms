@@ -9,6 +9,10 @@ tags:
   - name: Scooter
     image: /img/apple-touch-icon.png
 articleImage: /img/simple-image.jpg
+relatedArticles:
+  - article: demo-article-2
+  - article: demo-article-1
+  - article: demo-article-3
 ---
 El [Xiaomi Mi Electric Scooter Pro 2 ](https://www.amazon.es/dp/B089WDJJ7H/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=sl1&tag=xiaomi-pro2-21&linkId=b320692e892d9a722aa856aed9e2bd4a&language=es_ES)es el nuevo buque insignia de la marca Xiaomi dentro de su gama alta de patinetes eléctricos. Si bien sus mejoras probablemente no justifiquen su compra si tienes el modelo anterior (Xiaomi Mi Scooter Pro), se trata de uno de los mejores patinetes eléctricos del momento que destaca especialmente por su **extraordinaria potencia y velocidad y una ajustada relación calidad-precio.**
 
