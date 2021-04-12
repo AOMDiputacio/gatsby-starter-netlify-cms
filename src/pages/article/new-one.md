@@ -6,9 +6,9 @@ date: 2021-04-11T20:31:41.282Z
 tags:
   - name: Xiaomi
     image: /img/apple-touch-icon.png
-  - name: Scooter
+  - name: Patinetes Electricos
     image: /img/apple-touch-icon.png
-  - name: sommier
+  - name: Mi 365
     image: /img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg
 articleImage: /img/simple-image.jpg
 relatedArticles:
