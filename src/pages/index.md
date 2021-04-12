@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
 title: Probamos y comparamos para ti.
-subtitle: "Si tu también necesitas consejos de expertos independientes para
-  comprar el mejor producto para ti, \vestás en el lugar adecuado.  Este mes
-  inauguramos nuestra selección de soluciones de movilidad urbana sostenibles
-  que están revolucionando nuestro futuro sin que nos demos cuenta."
+subtitle: Si tu también necesitas consejos de expertos independientes para
+  comprar el mejor producto para ti, <b> estás en el lugar adecuado</b>.  Este
+  mes inauguramos nuestra selección de soluciones de movilidad urbana
+  sostenibles que están revolucionando nuestro futuro sin que nos demos cuenta.
 tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
   tus necesidades
 featureTags:
