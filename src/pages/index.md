@@ -62,7 +62,7 @@ section4:
     - title: Pas chers
       link: /tags/pas-chers
     - title: Haut de gamme
-      link: /article/leg/
+      link: /article/leg
   tagline: NOUS AVONS TESTÉ POUR VOUS
   title: Découvrez nos meilleurs choix matelas par catégorie.
 ---
