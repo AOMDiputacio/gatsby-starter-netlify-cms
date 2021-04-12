@@ -8,6 +8,8 @@ tags:
     image: /img/apple-touch-icon.png
   - name: Scooter
     image: /img/apple-touch-icon.png
+  - name: sommier
+    image: /img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg
 articleImage: /img/simple-image.jpg
 relatedArticles:
   - article: demo-article-2
@@ -154,14 +156,12 @@ Equilibrio entre potencia y consumo
 <div class="col">
 <data-chart value="100" />
 
-
 ### ﻿Modo Deportivo
-
 
 Velocidad limitada 25 km/h
 Gran aceleraciön
 Sube cuestas 200
 Mås gasto de baterfa
-﻿
+
 </div>
 </div>
