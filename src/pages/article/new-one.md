@@ -89,10 +89,9 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 <div class="col">
 
 ![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+
 <p>
-
 </p>
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 
 </div>
