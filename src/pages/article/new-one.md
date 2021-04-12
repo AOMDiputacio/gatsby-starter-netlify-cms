@@ -48,9 +48,10 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 ﻿
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 ﻿
+
 <div class="row">
 <div class="col">
-﻿
+
 Modelo
 Velocidad mäxima
 Autonomia
@@ -66,10 +67,10 @@ Altura Usuario
 Capacidad de carga
 Envio
 Precio
-﻿
+
 </div>
 <div class="col">
-﻿
+
 Xiaomi Mi Sccnoter Pro 2
 25 Km/h
 45 Km
@@ -80,6 +81,7 @@ E-A3S y Freno de discos
 120 cm - 200 cm
 100 h
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
-﻿
+
 </div>
 </div>
+
