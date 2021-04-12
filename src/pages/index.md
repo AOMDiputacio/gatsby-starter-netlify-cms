@@ -22,12 +22,13 @@ featureTags:
     link: /tags/matelas
 section2:
   image: /img/matelas2.png
-  tagline: UN BON ENDROIT POUR COMMENCER
-  title: Trouvez votre matelas idéal
-  description: Vous commencez votre recherche ? Utilisez notre simulateur pour
-    trouver un matelas parfaitement adapté à vos besoins – en moins d'une
-    minute.
-  buttonText: Aquí está
+  tagline: UN BUEN LUGAR PARA EMPEZAR
+  title: Encuentra tu patinete urbano ideal
+  description: >
+    Por patinetes urbano entendemos estos patinetes eléctricos de menos de 15
+    Kg. más compatibles con los paetones, ecologicos y fáciles de transporter.
+    Son una solución sostenible de transporte.
+  buttonText: ENCONTRAR MI PATINETE
   buttonLink: /tags
 featureArticles:
   articles:
