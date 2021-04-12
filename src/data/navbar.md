@@ -3,9 +3,9 @@ dataKey: navbar
 logo: /img/logo.png
 menuitems:
   - title: Xiaomi
-    link: /tags/Xiaomi
+    link: /tags/xiaomi
   - title: Scooter
-    link: /tags/Scooter
+    link: /tags/scooter
   - title: Cecotec
-    link: /tags/Cecotec
+    link: /tags/cecotec
 ---
