@@ -6,9 +6,9 @@ column1:
     passer les meilleures nuits.
   title: À propos
   socialLinks:
-    facebook: https://www.facebook.com/sleeps.fr/
-    youtube: https://www.youtube.com/channel/UCBlW8CFQ3C0-DJhxskmSUAA
-    pinterest: https://www.pinterest.fr/sleeps_fr/
+    facebook: ""
+    youtube: ""
+    pinterest: ""
     linkedin: ""
 column2:
   links:
