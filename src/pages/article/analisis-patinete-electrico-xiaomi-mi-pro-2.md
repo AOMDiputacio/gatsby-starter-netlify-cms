@@ -6,6 +6,7 @@ date: 2021-04-13T18:27:57.484Z
 tags:
   - name: Xiaomi
     image: /img/xiaomi-1s-pantalla.png
+articleImage: /img/xiaomi-1s-plegado.png
 ---
 ## Estamos ante el Patinete eléctrico Xiaomi S1, la versión modernizada del mítico Xiaomi 365
 
