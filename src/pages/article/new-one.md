@@ -23,9 +23,7 @@ A finales de 2020 la gigante china Xiaomi lanzó **tres modelos de patinetes el�
 
 A diferencia de los patinetes [Xiaomi Essential](XXX) y [S1,](XXX) los otros dos modelos lanzados en esta tríada, el **Pro 2** es un patinete de clase Premium dirigido a quienes buscan potencia y autonomía.
 
-Para explicarlo mejor, **el [Essential ](XXX)y el [S1 ](XXX)son prácticamente iguales que el patinete M365** (con algunas mejoras estéticas y electrónicas). De hecho comparten un mismo motor de 250 W de potencia y cuentan con baterías ligeras de 183 Wh y 275 Wh, respectivamente.
-
-Esto los hace ideales para personas de poco peso, que no deseen viajar maś de 10 o 15 kilómetros al día.
+Para explicarlo mejor, **el [Essential ](XXX)y el [S1 ](XXX)son prácticamente iguales que el patinete M365** (con algunas mejoras estéticas y electrónicas). De hecho comparten un mismo motor de 250 W de potencia y cuentan con baterías ligeras de 183 Wh y 275 Wh, respectivamente. Esto los hace ideales para personas de poco peso, que no deseen viajar maś de 10 o 15 kilómetros al día.
 
 En cambio **el Pro 2 posee un motor de 300 W de potencia** y una mayor **batería de 460 Wh** que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
 
@@ -58,10 +56,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113\*43\*118</td></tr>
+<td>113\\*43\\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113\*43\*49</td></tr>
+<td>113\\*43\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -258,7 +256,7 @@ Por supuesto, es unánime el reconocimiento al **funcionamiento silencioso del m
 
 En cuanto a lo negativo, algunos usuarios se quejan de la **falta de amortiguación** y de que **no se ha corregido totalmente el juego de la bisagra del manillar** que va apareciendo con el uso.
 
-# Conclusión: un patinete de precio moderado con muy buen desempeño; una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
+# Conclusión: un precio moderado por un patinete con muy buen desempeño; una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
 
 Si bien n**o es uno de los patinetes Xiaomi más baratos**, el **Pro 2** representa una mejora sobre el ya reconocido modelo **Pro 1** de 2019.
 
