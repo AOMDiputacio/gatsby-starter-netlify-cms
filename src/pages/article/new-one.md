@@ -251,27 +251,27 @@ Sin embargo, esto se ve compensado por los neumáticos hinchables que absorben e
 
 Este modelo ha tenido buenas opiniones de los compradores en el portal de Amazon España.
 
-La mayoría destacan el hecho de que Xiaomi incluya una rueda de repuesto con su respectiva cámara neumática.
+La mayoría destacan el hecho de que Xiaomi incluya una rueda de repuesto con su correspondiente cámara neumática.
 
-También resaltan la potencia del motor del patinete Xiaomi Pro 2, que le permite circular por todo tipo de calles, así como su mayor autonomía.
+También resaltan la potencia del motor del patinete **Xiaomi Pro 2**, que le permite circular por todo tipo de calles, así como su mayor autonomía.
 
-Por supuesto, es unánime el reconocimiento al funcionamiento silencioso del motor, así como la buena calidad y resistencia del chasis de aluminio de aviación.
+Por supuesto, es unánime el reconocimiento al **funcionamiento silencioso del motor**, así como la **buena calidad y resistencia del chasis de aluminio de aviación**.
 
-En cuanto a lo negativo, algunos usuarios se quejan de la falta de amortiguación y de que no se ha corregido totalmente el juego de la bisagra del manillar que va apareciendo con el uso.
+En cuanto a lo negativo, algunos usuarios se quejan de la **falta de amortiguación** y de que **no se ha corregido totalmente el juego de la bisagra del manillar** que va apareciendo con el uso.
 
-# Conclusión: un patinete de precio moderado con muy buen desempeño: una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
+# Conclusión: un patinete de precio moderado con muy buen desempeño; una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
 
-Si bien no es uno de los patinetes Xiaomi más baratos, el Pro 2 representa una mejora sobre el ya reconocido modelo Pro 1 de 2019.
+Si bien n**o es uno de los patinetes Xiaomi más baratos**, el Pro 2 representa una mejora sobre el ya reconocido modelo Pro 1 de 2019.
 
-Su calidad de construcción y autonomía lo hacen ideal para el público joven que desea moverse cerca de casa o del trabajo sin preocuparse de recargar batería durante el resto del día.
+Su **calidad de construcción y autonomía** lo hacen ideal para el público joven que desea moverse cerca de casa o del trabajo sin preocuparse de recargar batería durante el resto del día.
 
-La ventaja del Pro 2 es su mayor potencia y ergonomía, que atrae a usuarios de mayor peso corporal y estatura que sus modelos hermanos.
+La ventaja del Pro 2 es su **mayor potencia y ergonomía,** que atrae a **usuarios de mayor peso corporal y estatura que sus modelos hermanos**.
 
 Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar a la competencia durante 2021, en medio de un mercado afectado por la pandemia y con un creciente interés en la movilidad autosustentable y el respeto al medio ambiente.
 
 # Nuestro Benchmark
 
-> A diferencia del modelo [Bongo Serie A Advance Connected MAX de Cecotec](XXX), el **Xiaomi Pro 2** cuenta con un motor de 300W solamente. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros. Por otra parte, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos de Cecotec. \
-> Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar.\
+> A diferencia del modelo [Bongo Serie A Advance Connected MAX de Cecotec](XXX), el **Xiaomi Pro 2** cuenta con un motor de 300W solamente frente a los 350 del Bongo. Para ser honestos, **la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes** al igual que la **diferencia de precio de 5 Euros**. Por otra parte, **los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento** que los neumáticos tubeless de [Cecotec](XXX). \
+> Por último, Xiaomi siempre disfrutará de una **imagen de calidad difícil de superar**.
 >
-> A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
+> **A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio**.
