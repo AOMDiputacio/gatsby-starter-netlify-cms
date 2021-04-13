@@ -13,9 +13,9 @@ tags:
     image: /img/apple-touch-icon.png
 articleImage: /img/xiaomi-1s-plegado.png
 relatedArticles:
-  - article: demo-article-2
-  - article: demo-article-1
-  - article: demo-article-3
+  - article: analisis-patinete-electrico-xiaomi-Essential
+  - article: Analisis-Patinete-Electrico-Xiaomi-1S
+  - article: guía-última-del patinete-eléctrico
 ---
 # El descendiente del Xiaomi 365 con mayor autonomía
 
