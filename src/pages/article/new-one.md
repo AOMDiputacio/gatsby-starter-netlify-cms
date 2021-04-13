@@ -7,10 +7,6 @@ date: 2021-04-13T14:31:35.666Z
 tags:
   - name: Xiaomi
     image: /img/apple-touch-icon.png
-  - name: Patinetes Electricos
-    image: /img/apple-touch-icon.png
-  - name: Mi 365
-    image: /img/apple-touch-icon.png
 articleImage: /img/xiaomi-1s-plegado.png
 relatedArticles: []
 ---
