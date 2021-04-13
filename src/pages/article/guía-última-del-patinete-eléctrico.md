@@ -3,6 +3,7 @@ templateKey: article-page
 title: La guía última del patinete eléctrico ¿Cuál comprar y por qué?
 slug: guía-última-del patinete-eléctrico
 date: 2021-04-13T17:54:45.558Z
+articleImage: /img/xiaomi-1s-plegado.png
 ---
 
 Tanto el COVID-19 como la transición verde han cambiado para siempre la forma en que entendemos y vivimos la movilidad urbana. Comprar un patinete eléctrico es ahora una acción normal para muchos, como alguna vez lo fue adquirir un vehículo.
