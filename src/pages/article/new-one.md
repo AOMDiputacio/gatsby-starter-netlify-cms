@@ -19,25 +19,25 @@ relatedArticles:
 ---
 # El descendiente del Xiaomi 365 con mayor autonomía
 
-A finales de 2020 la gigante china Xiaomi lanzó tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365. Y de estos, el modelo Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más poder.
+A finales de 2020 la gigante china Xiaomi lanzó tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365. Y de estos, el modelo Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más autonomía.
 
-A diferencia de los patinetes Xiaomi Essential y S1, los otros dos modelos lanzados en esta tríada, el Pro 2 es un patinete de clase Premium dirigido a quienes buscan potencia, velocidad y autonomía.
+A diferencia de los patinetes [Xiaomi Essential](XXX) y [S1,](XXX) los otros dos modelos lanzados en esta tríada, el **Pro 2** es un patinete de clase Premium dirigido a quienes buscan potencia y autonomía.
 
-Para explicarlo mejor, el Essential y el S1 son prácticamente iguales que el patinete M365 (con algunas mejoras estéticas y electrónicas). De hecho comparten un mismo motor de 250 W de potencia y cuentan con baterías ligeras de 183 Wh y 275 Wh, respectivamente.
+Para explicarlo mejor, **el [Essential ](XXX)y el [S1 ](XXX)son prácticamente iguales que el patinete M365** (con algunas mejoras estéticas y electrónicas). De hecho comparten un mismo motor de 250 W de potencia y cuentan con baterías ligeras de 183 Wh y 275 Wh, respectivamente.
 
 Esto los hace ideales para personas de poco peso, unos 60 kilogramos en promedio, que no deseen viajar maś de 10 o 15 kilómetros al día.
 
-Pero en cambio el Pro 2 posee un motor de 300 W de potencia y una mayor batería que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
+Pero en cambio **el Pro 2 posee un motor de 300 W de potencia** y una mayor **batería de 460 Wh** que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
 
-Con este patinete eléctrico Xiaomi busca mantener el liderato entre los  scooters de gama alta de clase ligera, segmento en el que enfrenta una dura batalla de su rival Cecotec en España.
+Con este patinete eléctrico Xiaomi busca mantener el liderazgo entre los  patinetes eléctricos de gama alta de clase ligera, segmento en el que enfrenta una dura batalla de su rival [Cecotec ](XXX)en España.
 
 # Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
-Este monopatín Xiaomi es la versión actualizada del Pro 1 lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
+Este monopatín Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
-Cuenta con un motor de 300W de potencia y una batería de 12.800 mAh (474Wh). Esto le da poder suficiente para recorrer hasta 45 kilómetros y subir cuestas de hasta 20 grados de inclinación.
+Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460Wh)**. Esto le da poder suficiente para **recorrer hasta 45 kilómetros y subir cuestas de hasta 20 grados de inclinación**.
 
-Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es ideal para uso intensivo diario en calles con todo tipo de desnivel, sin tener que preocuparse por recargar batería con frecuencia.
+Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo diario en calles con todo tipo de desnivel**, sin tener que preocuparse por recargar batería con frecuencia.
 
 <table class="product-table">
 <tr>
@@ -58,10 +58,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es ideal para uso intensivo di
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113\\*43\\*118</td></tr>
+<td>113\\\\*43\\\\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113\\*43\\*49</td></tr>
+<td>113\\\\*43\\\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -149,59 +149,57 @@ Regulador de velocidad</td></tr>
 
 # Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
 
-Puedes comprar el patinete eléctrico Xiaomi Pro 2 en Amazon España en su versión negra sin accesorios, por un precio de oferta de 428 euros (para la fecha de redacción de este artículo).
+Puedes comprar el patinete eléctrico Xiaomi Pro 2 en Amazon España en su versión negra sin accesorios, por un **precio de oferta de 428 euros** (para la fecha de redacción de este artículo).
 
-Sin embargo,  Amazon ofrece la posiblidad de comprarlo a crédito a 4 cuotas con tiempo de espera de 90 días. En este caso el precio sube a los 438,70 euros con los recargos adicionales.
+Sin embargo,  **Amazon ofrece la posiblidad de comprarlo a crédito a 4 cuotas** con tiempo de espera de 90 días. En este caso el precio sube a los 438,70 euros con los recargos adicionales.
 
-Esto lo hace más caro que muchas de las versiones de su competidor Cecotec Bongo Serie A. Pero la calidad de su construcción, durabilidad, autonomía y buen desempeño justifican esta diferencia de precio.
+Esto lo hace más caro que muchas de las versiones de su competidor [Cecotec Bongo Serie A](XXX). Pero **la calidad de su construcción, durabilidad, autonomía y buen desempeño justifican esta diferencia de precio**.
 
 # Una autonomía de 45 kilómetros que compensa el largo tiempo de carga de su batería de 474 Wh
 
-La batería de este patinete eléctrico Xiaomi es fabricada por LG y usa celdas de litio, con una capacidad de 12.800 mAh, lo que equivale a 474 Wh.
+La batería de este patinete eléctrico Xiaomi es fabricada por LG y usa celdas de litio, con una capacidad de 12.800 mAh, lo que equivale a 460 Wh.
 
-Gracias a esta batería, el Xiaomi Pro 2 logra una increíble autonomía de hasta 45 kilómetros, más que suficiente para cualquier tipo de recorrido en zonas urbanas.
+Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **autonomía de hasta 45 kilómetros**, más que suficiente para cualquier tipo de recorrido en zonas urbanas.
 
-Su tiempo de carga de 8,5 horas es algo larga, pero se compensa con su gran autonomía.
+Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran autonomía.
 
 # Excelente motor capaz de subir cuestas de hasta 20 grados
 
-El monopatín Xiaomi Mi Scooter Pro 2 equipa un motor sin escobillas con potencia nominal de 300 Kw y capacidad máxima de 600 Kw.
+El monopatín Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
-Destaca por su funcionamiento silencioso y por no necesitar mantenimiento. Combinado con su batería de 474 Wh puede alcanzar una velocidad máxima de 25 kilómetros por hora y subir fácilmente pendientes de 20º de inclinación.
+Destaca por su funcionamiento silencioso y por no necesitar mantenimiento. Combinado con su batería de alta capacidad, puede alcanzar una velocidad máxima de 25 kilómetros por hora (limitación por normativa) y subir fácilmente pendientes de 20º de inclinación.
 
-Como los otros modelos Xiaomi lanzados en 2020, el Pro 2 cuenta con 3 modos de conducción seleccionables a través de la pantalla de control LCD instalada en el manillar.
+Como los otros modelos Xiaomi lanzados en 2020, el Pro 2 cuenta con **3 modos de conducción seleccionables a través de la pantalla de control LCD** instalada en el manillar.
 
 Cada modo tiene una velocidad límite y permite andar con seguridad en diferentes situaciones de tráfico urbano:
 
-* Peatonal: La velocidad máxima está limitada 5 km/h y la potencia del motor se reduce para ahorrar batería.
-* Estándar: La velocidad máxima es de 15 km/h y se libera más potencia para subir cuestas leves. Equilibrio entre autonomía y potencia.
-* Deportivo: Permite ir a un máximo de 25 km/h y subir cuestas de hasta 20 grados máximo, a cambio de un mayor consumo de batería.
+* **Peatonal:** La velocidad máxima está limitada 5 km/h y la potencia del motor se reduce para ahorrar batería.
+* **Estándar:** La velocidad máxima es de 15 km/h y se libera más potencia para subir cuestas leves. Equilibrio entre autonomía y potencia.
+* **Deportivo:** Permite ir a un máximo de 25 km/h y subir cuestas de hasta 20 grados máximo, a cambio de un mayor consumo de batería.
 
 # No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
 
-Xiaomi hace uso intensivo del aluminio de calidad aeronáutica para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
+Xiaomi hace uso intensivo del **aluminio de calidad aeronáutica** para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
 
-El monopatín tiene un peso total de 14,7 kilogramos, casi 2 kilos más que sus hermanos Essential y S1.
+El patinete eléctrico tiene un **peso total de 14,7 kilogramos**, casi 2 kilos más que sus hermanos Essential y S1.
 
 También cuenta con el sistema de “cierre en 3 segundos” de Xiaomi, en el que el manillar se pliegua hacia atrás y se bloquea con el guardabarros trasero usando un gancho especial.
 
 La manilla del timbre actúa como mecanismo de liberación a la hora de volver a armar el scooter para seguir usándolo.
 
-Destaca en manillar del patinete Xiaomi Pro 2 el rediseño de los alojamientos de cables. También se aprecia un mejor tratamiento anticorrosivo del cuadro y del espacio donde se aloja la batería.
+Destaca en el manillar del patinete Xiaomi Pro 2 el rediseño de los alojamientos de cables. También se aprecia un mejor tratamiento anticorrosivo del cuadro y del espacio donde se aloja la batería.
 
 # Su diseño sobrio y elegante es una mejora al del atractivo antecesor Mi Pro 1
 
-Este monopatín Xiaomi se asemeja en diseño al Mi Pro 1 de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
+Este monopatín Xiaomi se asemeja en diseño al **Mi Pro 1** de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
 
 Además, se ha remozado su área de carga, con cubiertas antideslizantes y reflectores más grandes para seguridad del conductor.
 
 Igualmente, se mejoró la ubicación de los cables, que ahora están ocultos en el cuerpo del scooter.
 
-Además, el modelo distribuido en Europa viene con un porta matrículas en su guardabarro trasero, que será util para los usuarios españoles cuando se inicie la matriculación de este tipo de patinetes.
-
 # Cuenta con la excelente pantalla LCD y sistema de diagnóstico de los últimos modelos de Xiaomi
 
-El Xiaomi Pro 2 cuenta con una pantalla de control LCD ubicada en el manillar, característica que ya habíamos visto en el Pro 1 y ahora también en el Essential y el S1 de 2020.
+El **Xiaomi Pro 2** cuenta con una pantalla de control LCD ubicada en el manillar, característica que ya habíamos visto en el **Pro 1** y ahora también en el [Essential ](XXX)y el [S1 ](XXX)de 2020.
 
 Con un solo clic, el usuario puede encender motor, luces y elegir uno de los 3 modos de conducción. También puede ver datos sobre distancia recorrida, nivel de carga de batería y otros datos de navegación.
 
@@ -211,11 +209,11 @@ A través de varios íconos, el sistema avisa sobre exceso de temperatura en el 
 
 # Gracias a su conectividad bluetooth, es fácilmente configurable a través de la aplicación Mi Home
 
-Los dueños del patinete Xiaomi Pro 2 pueden conectarlo con su teléfono inteligente usando la aplicación Mi Home y una conexión bluetooth 4.1.
+Los dueños del patinete **Xiaomi Pro 2** pueden conectarlo con su teléfono inteligente usando la aplicación **Mi Home** y una conexión bluetooth 4.1.
 
 Esta aplicación es estándar en los nuevos patinetes de la empresa china y facilita operaciones como:
 
-* Activar o desctivar el cierre remoto
+* Activar o desactivar el cierre remoto
 * Elegir cualquiera de los 3 modos de conducción
 * Visualizar información sobre velocidad y distancia recorrida
 * Verificar el nivel de carga y temperatura de la batería
@@ -241,13 +239,13 @@ El freno delantero usa tecnología de recarga de energía KERS, por lo que cada 
 
 El rodaje está a cargo de ruedas de acero TST reforzadas con cámaras neumáticas de 8,5 pulgadas de diámetro y alta resistencia a los pinchazos.
 
-# La falta de amortiguación se compensa por unos neumaticos hinchables y adherentes; es fácilmente ajustable para ser conducido por personas altas
+# La falta de amortiguación se compensa con unos neumáticos hinchables y adherentes; es fácilmente ajustable para ser conducido por personas altas
 
-Se trata de uno de los monopatines Xiaomi más silenciosos al andar, gracias a su motor brushless. Sin embargo, adolece de la falta de amortiguación de los modelos de las series Essential y S.
+Se trata de uno de los monopatines Xiaomi más silenciosos al andar, gracias a su motor brushless. Sin embargo, padece de la falta de amortiguación de los modelos de las series Essential y S.
 
 Por esta razón, es incómodo su uso en calles adoquinadas o con terreno irregular.
 
-Sin embargo, esto se ve compensado con un manillar más largo y con mejor ergonomía, que facilita la conducción por parte de usuarios entre los 1,60 y los 1,90 metros de estatura.
+Sin embargo, esto se ve compensado por los neumáticos hinchables que absorben eficazmente las vibraciones y por el manillar más largo y con mejor ergonomía, que facilita la conducción por parte de usuarios entre los 1,60 y los 1,90 metros de estatura.
 
 # Los clientes de Amazon destacan que traiga rueda y neumático de repuesto y su gran autonomía
 
