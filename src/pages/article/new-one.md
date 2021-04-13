@@ -58,10 +58,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113\\\\*43\\\\*118</td></tr>
+<td>113\*43\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113\\\\*43\\\\*49</td></tr>
+<td>113\*43\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -133,13 +133,12 @@ Regulador de velocidad</td></tr>
 <div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
 <div class="pros-item">Neumáticos reforzados de bajo mantenimiento</div>
 <div class="pros-item">3 modos de conducción disponibles</div>
-<div class="pros-item">Pantalla LCD multifuncional</div>
 <div class="pros-item">Ideal para personas altas</div>
 <div class="pros-item">Guardabarros trasero con portamatrícula</div>
 </div>
 <div class="col">
 <div class="cons-header">Contras</div>
-<div class="cons-item">No posee amortiguación</div>
+<div class="cons-item">No tiene suspensiones</div>
 <div class="cons-item">Requiere mucho tiempo para recargar batería</div>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 <div class="cons-item">Mayor peso que otros modelos similares</div>
