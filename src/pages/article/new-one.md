@@ -145,53 +145,6 @@ Regulador de velocidad</td></tr>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<table class="product-table">
-<tr>
-<td></td>
-<td>
-
-![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
-
-</td>
-</tr>
-<tr>
-<td>Modelo</td>
-<td>Xiaomi Mi Sccnoter Pro 2</td>
-</tr>
-<tr>
-<td>Velocidad mäxima</td>
-<td>25 Km/h</td>
-</tr>
-<tr>
-<td>Potencia nominal</td>
-<td>474 W/h</td>
-</tr>
-<tr>
-<td>Potencia mäxima</td>
-<td>E-A3S y Freno de discos</td>
-</tr>
-<tr>
-<td>Angulo ascenso</td>
-<td>14,2 Kg</td>
-</tr>
-<tr>
-<td>Peso</td>
-<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
-</td>
-</tr>
-</table>
-
 ## Review del patinete eléctrico Xiaomi Mi Electric Pro 2
 
 <div class="row">
