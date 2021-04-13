@@ -54,8 +54,6 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 
-
-
 <table class="product-table">
 <tr>
 <td></td>
@@ -75,10 +73,10 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113*43*118</td></tr>
+<td>113\\\*43\\\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113*43*49</td></tr>
+<td>113\\\*43\\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -140,10 +138,6 @@ Regulador de velocidad</td></tr>
 </td>
 </tr>
 </table>
-
-
-
-
 
 ## Review del patinete eléctrico Xiaomi Mi Electric Pro 2
 
