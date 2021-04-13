@@ -188,9 +188,7 @@ Por supuesto, es unánime el reconocimiento al funcionamiento silencioso del mot
 
 En cuanto a lo negativo, algunos usuarios se quejan de la falta de amortiguación y de que no se ha corregido totalmente el juego de la bisagra del manillar que va apareciendo con el uso.
 
-## Conclusión
-
-QUOTE Un patinete de precio moderado con muy buen desempeño. Una buena apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
+## Conclusión: un patinete de precio moderado con muy buen desempeño: una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
 
 Si bien no es uno de los patinetes Xiaomi más baratos, el Pro 2 representa una mejora sobre el ya reconocido modelo Pro 1 de 2019.
 
@@ -200,10 +198,10 @@ La ventaja del Pro 2 es su mayor potencia y ergonomía, que atrae a usuarios de 
 
 Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar a la competencia durante 2021, en medio de un mercado afectado por la pandemia y con un creciente interés en la movilidad autosustentable y el respeto al medio ambiente.
 
-## Nuestro Benchmark
 
-## A diferencia del modelo precedente, el Xiaomi Pro 2 cuenta con un motor de 300W solamente. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros. Además, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos de Cecotec. Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar.
 
-## A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
+# Nuestro Benchmark
 
-<!--EndFragment-->
+A diferencia del modelo precedente, el Xiaomi Pro 2 cuenta con un motor de 300W solamente. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros. Además, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos de Cecotec. Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar.
+
+A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
