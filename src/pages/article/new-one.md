@@ -27,13 +27,13 @@ Para explicarlo mejor, **el [Essential ](XXX)y el [S1 ](XXX)son prácticamente i
 
 Esto los hace ideales para personas de poco peso, unos 60 kilogramos en promedio, que no deseen viajar maś de 10 o 15 kilómetros al día.
 
-Pero en cambio **el Pro 2 posee un motor de 300 W de potencia** y una mayor **batería de 460 Wh** que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
+En cambio **el Pro 2 posee un motor de 300 W de potencia** y una mayor **batería de 460 Wh** que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
 
-Con este patinete eléctrico Xiaomi busca mantener el liderazgo entre los  patinetes eléctricos de gama alta de clase ligera, segmento en el que enfrenta una dura batalla de su rival [Cecotec ](XXX)en España.
+Con este patinete eléctrico, Xiaomi busca mantener el liderazgo entre los  patinetes eléctricos de gama alta de clase ligera, segmento en el que enfrenta una dura batalla de su rival [Cecotec ](XXX)en España.
 
 # Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
-Este monopatín Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
+Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
 Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460Wh)**. Esto le da poder suficiente para **recorrer hasta 45 kilómetros y subir cuestas de hasta 20 grados de inclinación**.
 
