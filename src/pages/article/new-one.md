@@ -56,7 +56,7 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 
 
 
-<table class=""product-table"">
+<table class="product-table">
 <tr>
 <td></td>
 <td>
