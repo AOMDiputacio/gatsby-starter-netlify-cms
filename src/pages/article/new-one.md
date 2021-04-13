@@ -54,6 +54,106 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 
+
+
+"<table class=""product-table"">
+<tr>
+<td></td>
+<td>
+
+![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg ""Olivier Morgan"")
+
+</td></tr>
+<tr>
+<td>Modelo</td>
+<td>Xiaomi Mi PRO 2</td></tr>
+<tr>
+<td>Precio min</td>
+<td>445</td></tr>
+<tr>
+<td>Peso (en Kg)</td>
+<td>14.2</td></tr>
+<tr>
+<td>Dimensiones desplegada (en cm)</td>
+<td>113*43*118</td></tr>
+<tr>
+<td>Dimensiones plegada (en cm)</td>
+<td>113*43*49</td></tr>
+<tr>
+<td>Batería: capacidad en mAh</td>
+<td>12800</td></tr>
+<tr>
+<td>Batería: capacidad en Wh</td>
+<td>460</td></tr>
+<tr>
+<td>Potencia nominal (en W)</td>
+<td>300</td></tr>
+<tr>
+<td>Tiempo de carga (en h)</td>
+<td>8.5</td></tr>
+<tr>
+<td>Carga máxima</td>
+<td>100</td></tr>
+<tr>
+<td>Tamaño de las ruedas (en pulgadas)</td>
+<td>8,5""</td></tr>
+<tr>
+<td>Tipo de rueda</td>
+<td>Cámara de aire</td></tr>
+<tr>
+<td>Autonomía (en km)</td>
+<td>45</td></tr>
+<tr>
+<td>Velocidad máxima (en km/h)</td>
+<td>25</td></tr>
+<tr>
+<td>Modos</td>
+<td>Paetonal (5 km/h) /Estándar (15 km/h) / Sport (25 km/h)
+Regulador de velocidad</td></tr>
+<tr>
+<td>Cuestas</td>
+<td>20</td></tr>
+<tr>
+<td>Sistema de frenado</td>
+<td>Freno de disco + Freno regenerativo</td></tr>
+<tr>
+<td>Suspensiones</td>
+<td>No</td></tr>
+<tr>
+<td>Pantalla LCD</td>
+<td>Sí</td></tr>
+<tr>
+<td>Aplicación</td>
+<td>Sí</td></tr>
+<tr>
+<td>Alumbrado</td>
+<td>Luz delantera y trasera</td></tr>
+<tr>
+<td>Extras</td>
+<td>Pata de cabra</td></tr>
+<tr>
+<td>Grado de resistencia al agua</td>
+<td>IP 54 (No resiste a la lluvia)</td><td>Consultar precio</td>
+<td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a>
+</td>
+</tr>
+</table>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table class="product-table">
 <tr>
 <td></td>
