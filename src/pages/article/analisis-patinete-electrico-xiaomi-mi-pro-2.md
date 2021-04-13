@@ -22,10 +22,6 @@ El patinete eléctrico Xiaomi S1 es excelente para movilizarse en entornos urban
 
 Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 
-
-
-
-
 <table class="product-table">
 <tr>
 <td></td>
@@ -45,10 +41,10 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td>12.7</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>108*43*114</td></tr>
+<td>108\*43\*114</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>108*43*49</td></tr>
+<td>108\*43\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>7650</td></tr>
@@ -111,25 +107,26 @@ Regulador de velocidad</td></tr>
 </tr>
 </table>
 
+## Pros y contras
 
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Insuperable relación calidad/precio</div>
+<div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+<div class="pros-item">Neumáticos reforzados de bajo mantenimiento</div>
+<div class="pros-item">3 modos de conducción disponibles</div>
+<div class="pros-item">Pantalla LCD multifuncional</div>
+<div class="pros-item">Guardabarros trasero</div>
+</div>
+<div class="col">
+<div class="cons-header">Contras</div>
+<div class="cons-item">No posee amortiguación</div>
+<div class="cons-item">Limitado a usuarios con peso máximo de 100 kilogramos</div>
+<div class="cons-item">No posee batería de carga rápida (requiere hasta 6 horas)</div>
 
-
-
-Pros y contras
-
-Pros
-Contras
-Insuperable relación calidad/precio
-No posee amortiguación
-Cuadro ligero de alta resistencia a base de aluminio de aviación
-Limitado a usuarios con peso máximo de 100 kilogramos
-Neumáticos reforzados de bajo mantenimiento
-No posee batería de carga rápida (requiere hasta 6 horas)
-3 modos de conducción disponibles
-
-Pantalla LCD multifuncional
-
-Guardabarros trasero
+</div>
+</div>
 
 ## Su precio es el justo para quienes buscan un patinete ligero con buena autonomía
 
