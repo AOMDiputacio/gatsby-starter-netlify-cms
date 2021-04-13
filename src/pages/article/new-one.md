@@ -3,7 +3,7 @@ templateKey: article-page
 title: El patinete eléctrico Xiaomi Pro 2, como un Xiaomi 365 con más autonomía
   a un precio atractivo
 slug: Analisis-Patinete-Electrico-Xiaomi-Mi-Pro-2
-date: 2021-04-11T20:31:41.282Z
+date: 2021-04-13T14:31:35.666Z
 tags:
   - name: Xiaomi
     image: /img/apple-touch-icon.png
