@@ -11,7 +11,7 @@ tags:
     image: /img/apple-touch-icon.png
   - name: Mi 365
     image: /img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg
-articleImage: /img/xiaomi-pro2-transporte.jpg
+articleImage: /img/xiaomi-1s-plegado.png
 relatedArticles:
   - article: demo-article-2
   - article: demo-article-1
