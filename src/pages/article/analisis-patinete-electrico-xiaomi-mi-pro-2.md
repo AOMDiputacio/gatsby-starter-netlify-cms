@@ -30,7 +30,6 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td></td>
 <td>
 
-![Patinete eléctrico 1S - Perspectiva](/img/xiaomi-1s-perspective.jpg "Patinete eléctrico 1S - Perspectiva")
 
 </td></tr>
 <tr>
@@ -141,7 +140,6 @@ Si consideramos que este patinete es liviano y cuenta con el mismo motor del Ess
 
 ## El Xiaomi Mi S1 mantiene la misma batería de 280 Wh de su antecesor M365
 
-![Patinete eléctrico 1S - Batería](/img/xiaomi-1s-baterias.jpg "Patinete eléctrico 1S - Batería")
 
 La batería de este patinete eléctrico Xiaomi está fabricada con tecnología de celdas de litio de calidad LG y una capacidad de 7.650 mAh (280 Wh).
 
