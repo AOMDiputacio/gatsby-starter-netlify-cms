@@ -17,7 +17,7 @@ relatedArticles:
   - article: demo-article-1
   - article: demo-article-3
 ---
-# Un descendiente del Xiaomi 365 con mayor autonomía
+# El descendiente del Xiaomi 365 con mayor autonomía
 
 A finales de 2020 la gigante china Xiaomi lanzó tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365. Y de estos, el modelo Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más poder.
 
@@ -31,7 +31,7 @@ Pero en cambio el Pro 2 posee un motor de 300 W de potencia y una mayor batería
 
 Con este patinete eléctrico Xiaomi busca mantener el liderato entre los  scooters de gama alta de clase ligera, segmento en el que enfrenta una dura batalla de su rival Cecotec en España.
 
-## Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
+# Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
 Este monopatín Xiaomi es la versión actualizada del Pro 1 lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
@@ -58,10 +58,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es ideal para uso intensivo di
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113\*43\*118</td></tr>
+<td>113\\*43\\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113\*43\*49</td></tr>
+<td>113\\*43\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -123,7 +123,7 @@ Regulador de velocidad</td></tr>
 </tr>
 </table>
 
-## Pros y contras
+# Pros y contras
 
 <div class="row">
 <div class="col">
@@ -147,7 +147,7 @@ Regulador de velocidad</td></tr>
 </div>
 </div>
 
-## Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
+# Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
 
 Puedes comprar el patinete eléctrico Xiaomi Pro 2 en Amazon España en su versión negra sin accesorios, por un precio de oferta de 428 euros (para la fecha de redacción de este artículo).
 
@@ -155,7 +155,7 @@ Sin embargo,  Amazon ofrece la posiblidad de comprarlo a crédito a 4 cuotas co
 
 Esto lo hace más caro que muchas de las versiones de su competidor Cecotec Bongo Serie A. Pero la calidad de su construcción, durabilidad, autonomía y buen desempeño justifican esta diferencia de precio.
 
-## Una autonomía de 45 kilómetros que compensa el largo tiempo de carga de su batería de 474 Wh
+# Una autonomía de 45 kilómetros que compensa el largo tiempo de carga de su batería de 474 Wh
 
 La batería de este patinete eléctrico Xiaomi es fabricada por LG y usa celdas de litio, con una capacidad de 12.800 mAh, lo que equivale a 474 Wh.
 
@@ -163,7 +163,7 @@ Gracias a esta batería, el Xiaomi Pro 2 logra una increíble autonomía de hast
 
 Su tiempo de carga de 8,5 horas es algo larga, pero se compensa con su gran autonomía.
 
-## Excelente motor capaz de subir cuestas de hasta 20 grados
+# Excelente motor capaz de subir cuestas de hasta 20 grados
 
 El monopatín Xiaomi Mi Scooter Pro 2 equipa un motor sin escobillas con potencia nominal de 300 Kw y capacidad máxima de 600 Kw.
 
@@ -177,7 +177,7 @@ Cada modo tiene una velocidad límite y permite andar con seguridad en diferente
 * Estándar: La velocidad máxima es de 15 km/h y se libera más potencia para subir cuestas leves. Equilibrio entre autonomía y potencia.
 * Deportivo: Permite ir a un máximo de 25 km/h y subir cuestas de hasta 20 grados máximo, a cambio de un mayor consumo de batería.
 
-## No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
+# No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
 
 Xiaomi hace uso intensivo del aluminio de calidad aeronáutica para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
 
@@ -189,7 +189,7 @@ La manilla del timbre actúa como mecanismo de liberación a la hora de volver a
 
 Destaca en manillar del patinete Xiaomi Pro 2 el rediseño de los alojamientos de cables. También se aprecia un mejor tratamiento anticorrosivo del cuadro y del espacio donde se aloja la batería.
 
-## Su diseño sobrio y elegante es una mejora al del atractivo antecesor Mi Pro 1
+# Su diseño sobrio y elegante es una mejora al del atractivo antecesor Mi Pro 1
 
 Este monopatín Xiaomi se asemeja en diseño al Mi Pro 1 de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
 
@@ -199,7 +199,7 @@ Igualmente, se mejoró la ubicación de los cables, que ahora están ocultos en 
 
 Además, el modelo distribuido en Europa viene con un porta matrículas en su guardabarro trasero, que será util para los usuarios españoles cuando se inicie la matriculación de este tipo de patinetes.
 
-## Cuenta con la excelente pantalla LCD y sistema de diagnóstico de los últimos modelos de Xiaomi
+# Cuenta con la excelente pantalla LCD y sistema de diagnóstico de los últimos modelos de Xiaomi
 
 El Xiaomi Pro 2 cuenta con una pantalla de control LCD ubicada en el manillar, característica que ya habíamos visto en el Pro 1 y ahora también en el Essential y el S1 de 2020.
 
@@ -209,7 +209,7 @@ Esta pantalla nos avisa de cualquier falla detectada por el sistema de autodiagn
 
 A través de varios íconos, el sistema avisa sobre exceso de temperatura en el motor o batería, problemas con la recarga, frenos o luces.
 
-## Gracias a su conectividad bluetooth, es fácilmente configurable a través de la aplicación Mi Home
+# Gracias a su conectividad bluetooth, es fácilmente configurable a través de la aplicación Mi Home
 
 Los dueños del patinete Xiaomi Pro 2 pueden conectarlo con su teléfono inteligente usando la aplicación Mi Home y una conexión bluetooth 4.1.
 
@@ -223,7 +223,7 @@ Esta aplicación es estándar en los nuevos patinetes de la empresa china y faci
 
 Otra función importante es la descarga de actualizaciones de firmware para optimizar las funciones de este patinete eléctrico Xiaomi.
 
-## Faro delantero de 2W visible de lejos y luz de freno más ancha para una conducción segura a toda hora
+# Faro delantero de 2W visible de lejos y luz de freno más ancha para una conducción segura a toda hora
 
 Si te preocupaba la baja luminosidad de las luces del Pro 1, puedes alegrarte ya que el Xiaomi Pro 2 viene equipado con un potente luz delantera tipo LED de 2 vatios de potencia.
 
@@ -231,7 +231,7 @@ Además, su luz trasera de freno es más ancha y luminosa que la del modelo Pro 
 
 Al usar el modo de conducción Peatonal, la luz trasera parpadea en forma intermitente para avisar a los demás sobre la presencia del patinete en movimiento.
 
-## Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
+# Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
 
 El sistema de frenos del patinete Xiaomi Pro 2 está conformado por un freno de motor en la rueda delantera y un freno de disco trasero de 120 milímetros con tecnología antibloqueo eABS.
 
@@ -241,7 +241,7 @@ El freno delantero usa tecnología de recarga de energía KERS, por lo que cada 
 
 El rodaje está a cargo de ruedas de acero TST reforzadas con cámaras neumáticas de 8,5 pulgadas de diámetro y alta resistencia a los pinchazos.
 
-## La falta de amortiguación se compensa por unos neumaticos hinchables y adherentes; es fácilmente ajustable para ser conducido por personas altas
+# La falta de amortiguación se compensa por unos neumaticos hinchables y adherentes; es fácilmente ajustable para ser conducido por personas altas
 
 Se trata de uno de los monopatines Xiaomi más silenciosos al andar, gracias a su motor brushless. Sin embargo, adolece de la falta de amortiguación de los modelos de las series Essential y S.
 
@@ -249,7 +249,7 @@ Por esta razón, es incómodo su uso en calles adoquinadas o con terreno irregul
 
 Sin embargo, esto se ve compensado con un manillar más largo y con mejor ergonomía, que facilita la conducción por parte de usuarios entre los 1,60 y los 1,90 metros de estatura.
 
-## Los clientes de Amazon destacan que traiga rueda y neumático de repuesto y su gran autonomía
+# Los clientes de Amazon destacan que traiga rueda y neumático de repuesto y su gran autonomía
 
 Este modelo ha tenido buenas opiniones de los compradores en el portal de Amazon España.
 
@@ -261,7 +261,7 @@ Por supuesto, es unánime el reconocimiento al funcionamiento silencioso del mot
 
 En cuanto a lo negativo, algunos usuarios se quejan de la falta de amortiguación y de que no se ha corregido totalmente el juego de la bisagra del manillar que va apareciendo con el uso.
 
-## Conclusión: un patinete de precio moderado con muy buen desempeño: una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
+# Conclusión: un patinete de precio moderado con muy buen desempeño: una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
 
 Si bien no es uno de los patinetes Xiaomi más baratos, el Pro 2 representa una mejora sobre el ya reconocido modelo Pro 1 de 2019.
 
