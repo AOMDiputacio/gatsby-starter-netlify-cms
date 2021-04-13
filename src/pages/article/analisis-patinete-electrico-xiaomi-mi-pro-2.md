@@ -41,10 +41,10 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td>12.7</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>108\*43\*114</td></tr>
+<td>108\\*43\\*114</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>108\*43\*49</td></tr>
+<td>108\\*43\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>7650</td></tr>
@@ -178,9 +178,7 @@ Para desbloquear el manillar basta con presionar la manilla de la campaña, que 
 
 Adicionalmente, se ha mejorado el proceso de impermeabilización del chásis y la fijación de batería y conectores para que resisten mejor el clima y las vibraciones.
 
-El diseño
-
-QUOTE Tiene el mismo diseño de su hermano menor Mi Essential, que a su vez es una versión refinada del M365 original.
+## Tiene el mismo diseño de su hermano menor Mi Essential, que a su vez es una versión refinada del M365 original.
 
 En este monopatín Xiaomi barato se ha mejorado el guardabarro trasero, ahora de aluminio y fijado con herrajes metálicos al chasis, que le dan más resistencia a los golpes.
 
@@ -190,9 +188,9 @@ Igualmente, se mejoró la ubicación de los cables, que ahora están ocultos en 
 
 Destaca además que viene de fábrica con una porta matrículas en el guardabarros trasero, algo que será muy útil si en España se empieza a exigir la matriculación de este tipo de vehículos livianos.
 
-Pantalla
 
-QUOTE Sistema de autodiagnóstico y una pantalla LED que brinda información muy completa al usuario
+
+## Sistema de autodiagnóstico y una pantalla LED que brinda información muy completa al usuario
 
 Aunque tiene gran parecido con el M365 original, el patinete eléctrico Xiaomi S1 incorpora de fábrica el sistema de control por pantalla LCD en el manillar que caracterizó a la serie Pro.
 
@@ -202,9 +200,9 @@ Una novedad muy interesante es que el software que controla el Mi Essential incl
 
 De esta forma serás notificado con un icono luminoso sobre cualquier problema con el motor, batería, sistema de recarga y frenos.
 
-Aplicación
+## Se conecta fácilmente con una aplicación instalada en teléfonos iOS o Android
 
-QUOTE Se conecta fácilmente con una aplicación instalada en teléfonos iOS o Android
+
 Gracias a la pantalla LCD y el minicomputador de control en su interior, los dueños del patinete Xiaomi S1 pueden conectarlo vía bluetooth con un teléfono inteligente con sistema iOS o Android usando la aplicación Mi Home.
 
 Esta aplicación permite realizar operaciones como:
@@ -217,9 +215,9 @@ Esta aplicación permite realizar operaciones como:
 
 Además, la aplicación permite descargar actualizaciones de firmware para mejorar o corregir la funcionalidad y capacidades del patinete.
 
-Iluminación y complementos
 
-QUOTE Luz frontal más potente y reflectores de alta calidad para mayor seguridad del usuario
+
+## Luz frontal más potente y reflectores de alta calidad para mayor seguridad del usuario
 
 Al igual que en los modelos Essential y Pro 2, Xiaomi ha dotado al patinete eléctrico S1 de una potente luz delantera LED de 2 vatios de potencia. En este aspecto, duplica la potencia del modelo original M365 del cual es sucesor.
 
@@ -227,9 +225,9 @@ Además, este monopatín cuenta con una luz de freno y posición mucho más gran
 
 Otras mejoras incluyen nuevos reflectores delanteros y traseros ajustados a la normativa de seguridad vial europea.
 
-Sistema de frenos y neumáticos
 
-QUOTE Ruedas más resistentes a los pinchazos y frenos dobles
+
+## Ruedas más resistentes a los pinchazos y frenos dobles
 
 Otro apartado en el que el S1 comparte características con el Essential es en los frenados y neumáticos.
 
@@ -241,9 +239,9 @@ Es de destacar que el freno delantero utiliza tecnología regenerativa KERS, que
 
 En cuanto a las ruedas, son de acero TST reforzadas y montan cámaras neumáticas de 8,5 pulgadas de diámetro, más resistentes a los pinchazos.
 
-Calidad de la conducción
 
-QUOTE Algo incómodo para circular en calles adoquinadas o superficies irregulares
+
+## Algo incómodo para circular en calles adoquinadas o superficies irregulares
 
 Este monopatín ofrece una buena conducción en terreno plano, pero la falta de amortiguación lo hace incómodo al usarlo en piso empedrado o irregular.
 
@@ -251,9 +249,9 @@ En todo caso, destaca la facilidad de control que brinda su manillar, más estre
 
 Disponibilidad de repuestos
 
-Opiniones en Amazon
 
-QUOTE Compradores destacan autonomía y calidad de construcción pero advierten sobre problemas en el acelerador.
+
+## Compradores destacan autonomía y calidad de construcción pero advierten sobre problemas en el acelerador
 
 A pocos meses de haber sido lanzado, el patinete Xiaomi S1 ha recibido buenas opiniones de los compradores de Amazon.
 
@@ -263,9 +261,7 @@ En cuanto a lo negativo, algunos usuarios se quejan de problemas en el sistema d
 
 Aunque es algo más costoso que el Essential, el más económico de la última serie de Xiami, el S1 sigue considerándose uno de los patinetes Xiaomi baratos más atractivos del mercado.
 
-Conclusión
-
-QUOTE El patinete ideal para quienes buscan una combinación de precio accesible y buenas prestaciones
+## Conclusión: El patinete ideal para quienes buscan una combinación de precio accesible y buenas prestaciones
 
 Su precio promedio de 347 euros y las características técnicas ofrecidas convierten al patinete eléctrico Xiaomi S1 en el scooter ideal para los que buscan un equipo básico pero bien construido y con suficiente autonomía.
 
