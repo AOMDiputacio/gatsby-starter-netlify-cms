@@ -56,7 +56,7 @@ Esta versiön dispone de una **bateria LG de gran capacidad** (474 Wh) la cual n
 
 
 
-"<table class=""product-table"">
+<table class=""product-table"">
 <tr>
 <td></td>
 <td>
@@ -137,7 +137,7 @@ Regulador de velocidad</td></tr>
 <td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a>
 </td>
 </tr>
-</table>"
+</table>
 
 
 
