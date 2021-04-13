@@ -58,10 +58,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es ideal para uso intensivo di
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113*43*118</td></tr>
+<td>113\*43\*118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113*43*49</td></tr>
+<td>113\*43\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -123,7 +123,6 @@ Regulador de velocidad</td></tr>
 </tr>
 </table>
 
-
 ## Pros y contras
 
 <div class="row">
@@ -145,12 +144,8 @@ Regulador de velocidad</td></tr>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 <div class="cons-item">Mayor peso que otros modelos similares</div>
 
-
-
-
 </div>
 </div>
-
 
 ## Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
 
@@ -276,10 +271,9 @@ La ventaja del Pro 2 es su mayor potencia y ergonomía, que atrae a usuarios de 
 
 Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar a la competencia durante 2021, en medio de un mercado afectado por la pandemia y con un creciente interés en la movilidad autosustentable y el respeto al medio ambiente.
 
-
-
 # Nuestro Benchmark
 
-A diferencia del modelo precedente, el Xiaomi Pro 2 cuenta con un motor de 300W solamente. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros. Además, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos de Cecotec. Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar.
-
-A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
+> A diferencia del modelo [Bongo Serie A Advance Connected MAX de Cecotec](XXX), el **Xiaomi Pro 2** cuenta con un motor de 300W solamente. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros. Por otra parte, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos de Cecotec. \
+> Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar.\
+>
+> A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
