@@ -27,7 +27,7 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td></td>
 <td>
 
-![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+![Patinete eléctrico 1S - Perspectiva](/img/xiaomi-1s-perspective.jpg "Patinete eléctrico 1S - Perspectiva")
 
 </td></tr>
 <tr>
@@ -41,10 +41,10 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td>12.7</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>108\\*43\\*114</td></tr>
+<td>108\\\*43\\\*114</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>108\\*43\\*49</td></tr>
+<td>108\\\*43\\\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>7650</td></tr>
@@ -137,6 +137,8 @@ Pero es posible comprarlo a través del sistema de pago por cuotas en 90 días �
 Si consideramos que este patinete es liviano y cuenta con el mismo motor del Essential, pero con más autonomía, podemos afirmar que tiene un precio justo. Además está en un rango accesible para el público joven que quiere iniciarse en el mundo de la movilidad eléctrica.
 
 ## El Xiaomi Mi S1 mantiene la misma batería de 280 Wh de su antecesor M365
+
+![](/img/xiaomi-1s-baterias.jpg)
 
 La batería de este patinete eléctrico Xiaomi está fabricada con tecnología de celdas de litio de calidad LG y una capacidad de 7.650 mAh (280 Wh).
 
