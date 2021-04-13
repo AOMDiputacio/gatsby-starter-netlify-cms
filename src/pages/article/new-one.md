@@ -31,7 +31,6 @@ Con este patinete eléctrico, Xiaomi busca mantener el liderazgo entre los  pat
 
 # Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
-![Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas](/img/xiaomi-1s-plegado.png "Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas")
 
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
@@ -43,8 +42,6 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <tr>
 <td></td>
 <td>
-
-![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-1s-plegado.png "Patinete eléctrico Xiaomi Pro 2")
 
 </td></tr>
 <tr>
@@ -162,11 +159,10 @@ Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **autonomía d
 
 Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran autonomía.
 
-![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-1s-baterias.jpg "Patinete eléctrico Xiaomi Pro 2")
 
 # Excelente motor capaz de subir cuestas de hasta 20 grados
 
-![Patinete eléctrico Xiaomi Pro 2 - Rueda motriz](/img/xiaomi-1s-plegado.png "Patinete eléctrico Xiaomi Pro 2 - Rueda motriz")
+
 
 El monopatín Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
@@ -182,7 +178,7 @@ Cada modo tiene una velocidad límite y permite andar con seguridad en diferente
 
 # No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
 
-![Patinete eléctrico Xiaomi Pro 2 - Dimensiones plegado](/img/xiaomi-pro2-dimensiones-plegado.png "Patinete eléctrico Xiaomi Pro 2 - Dimensiones plegado")
+
 
 Xiaomi hace uso intensivo del **aluminio de calidad aeronáutica** para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
 
@@ -196,7 +192,6 @@ Destaca en el manillar del **patineteeléctrico Xiaomi Pro 2** el rediseño de l
 
 # Su diseño sobrio y elegante es una mejora al del atractivo antecesor Xiaomi Pro 1
 
-![Patinete eléctrico Xiaomi Pro 2- Perspectiva](/img/xiaomi-pro2-perspectiva.jpg "Patinete eléctrico Xiaomi Pro 2- Perspectiva")
 
 Este patinete eléctrico Xiaomi se asemeja en diseño al **Xiaomi Pro 1** de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
 
@@ -230,7 +225,6 @@ Otra función importante es la **descarga de actualizaciones de firmware para op
 
 # Faro delantero de 2W visible de lejos y luz de freno más ancha para una conducción segura a toda hora
 
-![Patinete eléctrico Xiaomi Pro 2- Reflectores](/img/xiaomi-1s-plegado.png "Patinete eléctrico Xiaomi Pro 2- Reflectores")
 
 Si te preocupaba la baja luminosidad de las luces del Pro 1, puedes alegrarte ya que el **Xiaomi Pro 2** viene equipado con un **potente luz delantera tipo LED de 2 vatios de potencia**.
 
@@ -238,7 +232,6 @@ Además, su luz trasera de freno es más ancha y luminosa que la del modelo Pro 
 
 Al usar el modo de conducción Peatonal, la luz trasera parpadea en forma intermitente para avisar a los demás sobre la presencia del patinete en movimiento.
 
-![Patinete eléctrico Xiaomi Pro 2 - Luz trasera](/img/xiaomi-1s-plegado.png "Patinete eléctrico Xiaomi Pro 2 - Luz trasera")
 
 # Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
 
@@ -282,7 +275,6 @@ Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar
 
 # Nuestro Benchmark
 
-![Comparativa Patinetes eléctricos - Capacidad batería y Precio](/img/patinetes-eléctricos-precio-capacidad.jpg "Comparativa Patinetes eléctricos - Capacidad batería y Precio")
 
 > A diferencia del modelo [Bongo Serie A Advance Connected MAX de Cecotec](XXX), el **Xiaomi Pro 2** cuenta con un motor de 300W solamente frente a los 350 del Bongo. Para ser honestos, **la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes** al igual que la **diferencia de precio de 5 Euros**. Por otra parte, **los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento** que los neumáticos tubeless de [Cecotec](XXX). \
 > Por último, Xiaomi siempre disfrutará de una **imagen de calidad difícil de superar**.
