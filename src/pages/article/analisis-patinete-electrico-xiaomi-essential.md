@@ -65,7 +65,8 @@ Su ficha técnica nos demuestra que este es un producto bien pensado para el mer
 <td></td>
 <td>
 
-![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+
+
 
 </td></tr>
 <tr>
