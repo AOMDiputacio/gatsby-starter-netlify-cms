@@ -56,10 +56,10 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <td>14.2</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>113\\\\*43\\\\*118</td></tr>
+<td>113/43/118</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>113\\\\*43\\\\*49</td></tr>
+<td>113/43/49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>12800</td></tr>
@@ -164,6 +164,8 @@ Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran 
 
 # Excelente motor capaz de subir cuestas de hasta 20 grados
 
+![Patinete eléctrico Xiaomi Pro 2 - Rueda motriz](/img/xiaomi-pro2-rueda-delantera.jpg "Patinete eléctrico Xiaomi Pro 2 - Rueda motriz")
+
 El monopatín Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
 Destaca por su funcionamiento silencioso y por no necesitar mantenimiento. Combinado con su batería de alta capacidad, puede alcanzar una velocidad máxima de 25 kilómetros por hora (limitación por normativa) y subir fácilmente pendientes de 20º de inclinación.
@@ -179,8 +181,6 @@ Cada modo tiene una velocidad límite y permite andar con seguridad en diferente
 # No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
 
 ![Patinete eléctrico Xiaomi Pro 2 - Dimensiones plegado](/img/xiaomi-pro2-dimensiones-plegado.png "Patinete eléctrico Xiaomi Pro 2 - Dimensiones plegado")
-
-
 
 Xiaomi hace uso intensivo del **aluminio de calidad aeronáutica** para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
 
@@ -235,6 +235,8 @@ Si te preocupaba la baja luminosidad de las luces del Pro 1, puedes alegrarte ya
 Además, su luz trasera de freno es más ancha y luminosa que la del modelo Pro 1 y se han instalado dos reflectores traseros amarillos y dos delanteros rojos para mayor seguridad al circular en ambiente de poca luz.
 
 Al usar el modo de conducción Peatonal, la luz trasera parpadea en forma intermitente para avisar a los demás sobre la presencia del patinete en movimiento.
+
+![Patinete eléctrico Xiaomi Pro 2 - Luz trasera](/img/xiaomi-pro2-luz-trasera.jpg "Patinete eléctrico Xiaomi Pro 2 - Luz trasera")
 
 # Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
 
