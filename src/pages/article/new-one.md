@@ -31,6 +31,8 @@ Con este patinete eléctrico, Xiaomi busca mantener el liderazgo entre los  pat
 
 # Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
+![Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas](/img/xiaomi-pro2-propiedades.jpg "Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas")
+
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
 Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460Wh)**. Esto le da poder suficiente para **recorrer hasta 45 kilómetros** (30 en condiciones reales) **y subir cuestas de hasta 20 grados de inclinación**.
@@ -42,7 +44,7 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <td></td>
 <td>
 
-![Picture](/img/xiaomi-pro2-propiedades.jpg "Olivier Morgan")
+![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-pro2-perspectiva.jpg "Patinete eléctrico Xiaomi Pro 2")
 
 </td></tr>
 <tr>
