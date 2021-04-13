@@ -56,44 +56,108 @@ Sin embargo, esto no le quita que tiene muy buenas especificaciones para su uso 
 Su ficha técnica nos demuestra que este es un producto bien pensado para el mercado urbano.
 
 
+<table class="product-table">
+<tr>
+<td></td>
+<td>
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
 
-
+</td></tr>
+<tr>
+<td>Modelo</td>
+<td>Xiaomi Mi Essential</td></tr>
+<tr>
+<td>Precio min</td>
+<td>288</td></tr>
+<tr>
+<td>Peso (en Kg)</td>
+<td>12</td></tr>
+<tr>
+<td>Dimensiones desplegada (en cm)</td>
+<td>108 / 43 / 114</td></tr>
+<tr>
+<td>Dimensiones plegada (en cm)</td>
+<td>108 / 43 / 49</td></tr>
+<tr>
+<td>Batería: capacidad en mAh</td>
+<td>5000</td></tr>
+<tr>
+<td>Batería: capacidad en Wh</td>
+<td>180</td></tr>
+<tr>
+<td>Potencia nominal (en W)</td>
+<td>250</td></tr>
+<tr>
+<td>Tiempo de carga (en h)</td>
+<td>4</td></tr>
+<tr>
+<td>Carga máxima</td>
+<td>100</td></tr>
+<tr>
+<td>Tamaño de las ruedas (en pulgadas)</td>
+<td>8,5"</td></tr>
+<tr>
+<td>Tipo de rueda</td>
+<td>Cámara de aire</td></tr>
+<tr>
+<td>Autonomía (en km) estimada por el fabricante</td>
+<td>20</td></tr>
+<tr>
+<td>Velocidad máxima (en km/h)</td>
+<td>20</td></tr>
+<tr>
+<td>Modos</td>
+<td>Paetonal (5 km/h) /Estándar (15 km/h) / Sport (20 km/h)
+Regulador de velocidad</td></tr>
+<tr>
+<td>Cuestas</td>
+<td>10</td></tr>
+<tr>
+<td>Sistema de frenado</td>
+<td>Freno de disco + Freno regenerativo</td></tr>
+<tr>
+<td>Suspensiones</td>
+<td>No</td></tr>
+<tr>
+<td>Pantalla LCD</td>
+<td>Sí</td></tr>
+<tr>
+<td>Aplicación</td>
+<td>Sí</td></tr>
+<tr>
+<td>Alumbrado</td>
+<td>Luz delantera y trasera</td></tr>
+<tr>
+<td>Extras</td>
+<td>Pata de cabra</td></tr>
+<tr>
+<td>Grado de resistencia al agua</td>
+<td>IP 54 (No resiste a la lluvia)</td></tr>
+<tr><td>Consultar precio</td>
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
+</td>
+</tr>
+</table>
 
 # Pros y contras
-
  
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Insuperable relación calidad/precio</div>
+<div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+<div class="pros-item">Neumáticos de buena calidad y bajo mantenimiento</div>
+<div class="pros-item">3 modos de conducción disponibles</div>
+<div class="pros-item">Batería de carga rápida</div>
+<div class="pros-item">Pantalla LCD y sistema de autodiagnóstico integrado</div>
+</div>
+<div class="col">
+<div class="cons-header">Contras</div>
+<div class="cons-item">Batería limitada que afecta la autonomía</div>
+<div class="cons-item">No tiene suspensiones</div>
+</div>
+</div>
 
 
 # Un precio bajo por una autonomía limitada
