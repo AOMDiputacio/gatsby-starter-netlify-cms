@@ -31,7 +31,7 @@ Con este patinete eléctrico, Xiaomi busca mantener el liderazgo entre los  pat
 
 # Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
-![Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas](/img/xiaomi-pro2-propiedades.jpg "Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas")
+![Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas]( "Patinete eléctrico Xiaomi Pro 2 - Características seleccionadas")
 
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
@@ -44,7 +44,7 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <td></td>
 <td>
 
-![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-pro2-perspectiva.jpg "Patinete eléctrico Xiaomi Pro 2")
+![Patinete eléctrico Xiaomi Pro 2]( "Patinete eléctrico Xiaomi Pro 2")
 
 </td></tr>
 <tr>
@@ -162,11 +162,11 @@ Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **autonomía d
 
 Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran autonomía.
 
-![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-pro2-baterias.jpg "Patinete eléctrico Xiaomi Pro 2")
+![Patinete eléctrico Xiaomi Pro 2](/img/xiaomi-1s-baterias.jpg "Patinete eléctrico Xiaomi Pro 2")
 
 # Excelente motor capaz de subir cuestas de hasta 20 grados
 
-![Patinete eléctrico Xiaomi Pro 2 - Rueda motriz](/img/xiaomi-pro2-rueda-delantera.jpg "Patinete eléctrico Xiaomi Pro 2 - Rueda motriz")
+![Patinete eléctrico Xiaomi Pro 2 - Rueda motriz]( "Patinete eléctrico Xiaomi Pro 2 - Rueda motriz")
 
 El monopatín Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
@@ -230,7 +230,7 @@ Otra función importante es la **descarga de actualizaciones de firmware para op
 
 # Faro delantero de 2W visible de lejos y luz de freno más ancha para una conducción segura a toda hora
 
-![Patinete eléctrico Xiaomi Pro 2- Reflectores](/img/xiaomi-pro2-reflectores.jpg "Patinete eléctrico Xiaomi Pro 2- Reflectores")
+![Patinete eléctrico Xiaomi Pro 2- Reflectores]( "Patinete eléctrico Xiaomi Pro 2- Reflectores")
 
 Si te preocupaba la baja luminosidad de las luces del Pro 1, puedes alegrarte ya que el **Xiaomi Pro 2** viene equipado con un **potente luz delantera tipo LED de 2 vatios de potencia**.
 
@@ -238,7 +238,7 @@ Además, su luz trasera de freno es más ancha y luminosa que la del modelo Pro 
 
 Al usar el modo de conducción Peatonal, la luz trasera parpadea en forma intermitente para avisar a los demás sobre la presencia del patinete en movimiento.
 
-![Patinete eléctrico Xiaomi Pro 2 - Luz trasera](/img/xiaomi-pro2-luz-trasera.jpg "Patinete eléctrico Xiaomi Pro 2 - Luz trasera")
+![Patinete eléctrico Xiaomi Pro 2 - Luz trasera]( "Patinete eléctrico Xiaomi Pro 2 - Luz trasera")
 
 # Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
 
