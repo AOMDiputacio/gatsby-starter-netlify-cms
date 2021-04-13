@@ -35,7 +35,7 @@ Con este patinete eléctrico, Xiaomi busca mantener el liderazgo entre los  pat
 
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
-Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460Wh)**. Esto le da poder suficiente para **recorrer hasta 45 kilómetros y subir cuestas de hasta 20 grados de inclinación**.
+Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460Wh)**. Esto le da poder suficiente para **recorrer hasta 45 kilómetros** (30 en condiciones reales) **y subir cuestas de hasta 20 grados de inclinación**.
 
 Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo diario en calles con todo tipo de desnivel**, sin tener que preocuparse por recargar batería con frecuencia.
 
@@ -154,11 +154,11 @@ Sin embargo,  **Amazon ofrece la posibilidad de comprarlo a crédito a 4 cuotas
 
 Esto lo hace más caro que muchas de las versiones de su competidor [Cecotec Bongo Serie A](XXX). Pero **la calidad de su construcción, durabilidad, autonomía y buen desempeño justifican esta diferencia de precio**.
 
-# Una autonomía de 45 kilómetros que compensa el largo tiempo de carga de su batería de 474 Wh
+# Una autonomía de hasta 45 kilómetros que compensa el largo tiempo de carga de su batería de 460 Wh
 
 La **batería de este patinete eléctrico Xiaomi es fabricada por LG** y usa **celdas de litio**, con una capacidad de 12.800 mAh, lo que equivale a **460 Wh**.
 
-Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **autonomía de hasta 45 kilómetros**, más que suficiente para cualquier tipo de recorrido en zonas urbanas.
+Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **autonomía de hasta 45 kilómetros** (contar 30 km. approx en condiciones reales), más que suficiente para cualquier tipo de recorrido en zonas urbanas.
 
 Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran autonomía.
 
@@ -188,9 +188,9 @@ La manilla del timbre actúa como mecanismo de liberación a la hora de volver a
 
 Destaca en el manillar del **patineteeléctrico Xiaomi Pro 2** el rediseño de los alojamientos de cables. También se aprecia un **mejor tratamiento anticorrosivo** del cuadro y del espacio donde se aloja la batería.
 
-# Su diseño sobrio y elegante es una mejora al del atractivo antecesor Mi Pro 1
+# Su diseño sobrio y elegante es una mejora al del atractivo antecesor Xiaomi Pro 1
 
-Este patinete eléctrico Xiaomi se asemeja en diseño al **Mi Pro 1** de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
+Este patinete eléctrico Xiaomi se asemeja en diseño al **Xiaomi Pro 1** de 2019. Sin embargo, incorpora un nuevo guardabarro trasero de tipo envolvente fijado con dos herrajes al chasis, para mayor firmeza ante golpes.
 
 Además, se ha mejorado su área de carga, con cubiertas antideslizantes y reflectores más grandes para una mayor seguridad del conductor.
 
