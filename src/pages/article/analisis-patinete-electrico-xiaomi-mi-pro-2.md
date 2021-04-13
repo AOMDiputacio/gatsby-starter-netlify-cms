@@ -41,10 +41,10 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 <td>12.7</td></tr>
 <tr>
 <td>Dimensiones desplegada (en cm)</td>
-<td>108\\*43\\*114</td></tr>
+<td>108\*43\*114</td></tr>
 <tr>
 <td>Dimensiones plegada (en cm)</td>
-<td>108\\*43\\*49</td></tr>
+<td>108\*43\*49</td></tr>
 <tr>
 <td>Batería: capacidad en mAh</td>
 <td>7650</td></tr>
@@ -188,8 +188,6 @@ Igualmente, se mejoró la ubicación de los cables, que ahora están ocultos en 
 
 Destaca además que viene de fábrica con una porta matrículas en el guardabarros trasero, algo que será muy útil si en España se empieza a exigir la matriculación de este tipo de vehículos livianos.
 
-
-
 ## Sistema de autodiagnóstico y una pantalla LED que brinda información muy completa al usuario
 
 Aunque tiene gran parecido con el M365 original, el patinete eléctrico Xiaomi S1 incorpora de fábrica el sistema de control por pantalla LCD en el manillar que caracterizó a la serie Pro.
@@ -201,7 +199,6 @@ Una novedad muy interesante es que el software que controla el Mi Essential incl
 De esta forma serás notificado con un icono luminoso sobre cualquier problema con el motor, batería, sistema de recarga y frenos.
 
 ## Se conecta fácilmente con una aplicación instalada en teléfonos iOS o Android
-
 
 Gracias a la pantalla LCD y el minicomputador de control en su interior, los dueños del patinete Xiaomi S1 pueden conectarlo vía bluetooth con un teléfono inteligente con sistema iOS o Android usando la aplicación Mi Home.
 
@@ -215,8 +212,6 @@ Esta aplicación permite realizar operaciones como:
 
 Además, la aplicación permite descargar actualizaciones de firmware para mejorar o corregir la funcionalidad y capacidades del patinete.
 
-
-
 ## Luz frontal más potente y reflectores de alta calidad para mayor seguridad del usuario
 
 Al igual que en los modelos Essential y Pro 2, Xiaomi ha dotado al patinete eléctrico S1 de una potente luz delantera LED de 2 vatios de potencia. En este aspecto, duplica la potencia del modelo original M365 del cual es sucesor.
@@ -224,8 +219,6 @@ Al igual que en los modelos Essential y Pro 2, Xiaomi ha dotado al patinete elé
 Además, este monopatín cuenta con una luz de freno y posición mucho más grande y visible para los demás conductores.
 
 Otras mejoras incluyen nuevos reflectores delanteros y traseros ajustados a la normativa de seguridad vial europea.
-
-
 
 ## Ruedas más resistentes a los pinchazos y frenos dobles
 
@@ -239,8 +232,6 @@ Es de destacar que el freno delantero utiliza tecnología regenerativa KERS, que
 
 En cuanto a las ruedas, son de acero TST reforzadas y montan cámaras neumáticas de 8,5 pulgadas de diámetro, más resistentes a los pinchazos.
 
-
-
 ## Algo incómodo para circular en calles adoquinadas o superficies irregulares
 
 Este monopatín ofrece una buena conducción en terreno plano, pero la falta de amortiguación lo hace incómodo al usarlo en piso empedrado o irregular.
@@ -248,8 +239,6 @@ Este monopatín ofrece una buena conducción en terreno plano, pero la falta de 
 En todo caso, destaca la facilidad de control que brinda su manillar, más estrecho que en el M365. Este manillar está pensado especialmente para usuarios con estaturas entre los 1,60 y 1,80 metros.
 
 Disponibilidad de repuestos
-
-
 
 ## Compradores destacan autonomía y calidad de construcción pero advierten sobre problemas en el acelerador
 
