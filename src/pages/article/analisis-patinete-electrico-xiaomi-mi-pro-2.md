@@ -3,6 +3,9 @@ templateKey: article-page
 title: El patinete eléctrico Xiaomi Mi S1, el digno sucesor del pionero Xiaomi 365
 slug: Analisis-Patinete-Electrico-Xiaomi-S1
 date: 2021-04-13T14:39:18.502Z
+tags:
+  - name: Xiaomi
+    image: /img/xiaomi-1s-pantalla.png
 ---
 ## Estamos ante el Patinete eléctrico Xiaomi S1, la versión modernizada del mítico Xiaomi 365
 
