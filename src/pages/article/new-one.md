@@ -19,7 +19,7 @@ relatedArticles:
 ---
 # El descendiente del Xiaomi 365 con mayor autonomía
 
-A finales de 2020 la gigante china Xiaomi lanzó tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365. Y de estos, el modelo Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más autonomía.
+A finales de 2020 la gigante china Xiaomi lanzó **tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365**. Y de estos, el modelo **Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más autonomía**.
 
 A diferencia de los patinetes [Xiaomi Essential](XXX) y [S1,](XXX) los otros dos modelos lanzados en esta tríada, el **Pro 2** es un patinete de clase Premium dirigido a quienes buscan potencia y autonomía.
 
