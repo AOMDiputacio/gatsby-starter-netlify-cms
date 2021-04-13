@@ -9,19 +9,19 @@ tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
   tus necesidades
 featureTags:
   item1:
-    image: /img/apple-touch-icon.png
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
     link: /tags/sommier
   item2:
-    image: /img/oreiller.png
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
     link: /tags/oreiller
   item3:
-    image: /img/couette.png
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
     link: /tags/couette
   item4:
-    image: /img/matelas.png
+    image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
     link: /tags/matelas
 section2:
-  image: /img/matelas2.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
   tagline: UN BUEN LUGAR PARA EMPEZAR
   title: Encuentra tu patinete urbano ideal
   description: >
@@ -31,9 +31,7 @@ section2:
   buttonText: ENCONTRAR MI PATINETE
   buttonLink: /tags
 featureArticles:
-  articles:
-    - article: demo-article-1
-    - article: demo-article-2
+  articles: []
   buttonText: VOIR LES MARQUES
 section3:
   contentList:
