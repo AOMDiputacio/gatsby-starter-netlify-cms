@@ -34,33 +34,12 @@ featureArticles:
   articles: []
   buttonText: VOIR LES MARQUES
 section3:
-  contentList:
-    - title: Des conseils d'experts
-      description: "Tests, comparatifs, guides d'achats : avec son équipe de testeurs
-        indépendants, Sleeps.fr est à votre service pour vous conseiller et vous
-        aider à trouver gratuitement les meilleurs produits de literie du
-        marché."
-    - title: Des outils efficaces
-      description: Des comparatifs et des simulateurs vous aideront à choisir une
-        literie adaptée à vos besoins et passer les meilleures nuits.
-    - title: Un suivi personnalisé
-      description: Vous avez une question ? Contactez directement notre équipe
-        d'experts en sommeil basée en France et à votre disposition par email.
+  contentList: []
   tagline: VOS AVANTAGES
   title: Indépendant et 100% gratuit
   image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
 section4:
-  categoryList:
-    - title: Mémoire de forme
-      link: /article/mémoire-de-forme
-    - title: Pour le dos
-      link: /tags/pour-le-dos
-    - title: Sur le ventre
-      link: /tags/sur-le-ventre
-    - title: Pas chers
-      link: /tags/pas-chers
-    - title: Haut de gamme
-      link: /article/leg
+  categoryList: []
   tagline: NOUS AVONS TESTÉ POUR VOUS
   title: Découvrez nos meilleurs choix matelas par catégorie.
 ---
