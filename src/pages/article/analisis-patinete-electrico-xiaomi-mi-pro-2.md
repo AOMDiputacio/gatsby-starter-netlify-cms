@@ -4,7 +4,7 @@ title: El patinete eléctrico Xiaomi Mi S1, el digno sucesor del pionero Xiaomi 
 slug: Analisis-Patinete-Electrico-Xiaomi-S1
 date: 2021-04-12T19:55:08.425Z
 ---
-## Estamos ante la versión renovada del famoso Mi 365
+## Estamos ante la versión modernizada del mítico Xiaomi 365
 
 En 2017 la gigante china Xiaomi lanzó su famoso modelo de patinete eléctrico M365, que marcó un hito en ventas en el sector de la movilidad eléctrica urbana. En octubre de 2020 Xiaomi respondió al clamor del mercado y lanzó a su digno sucesor, el patinete Xiaomi Mi Electric Scooter 1S.
 
