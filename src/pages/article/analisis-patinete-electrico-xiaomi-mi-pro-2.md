@@ -1,6 +1,6 @@
 ---
 templateKey: article-page
-title: El patinete eléctrico Xiaomi Mi S1, el digno sucesor del pionero M365
+title: El patinete eléctrico Xiaomi Mi S1, el digno sucesor del pionero Xiaomi 365
 slug: Analisis-Patinete-Electrico-Xiaomi-Mi-Pro-2
 date: 2021-04-12T19:55:08.425Z
 ---
@@ -8,19 +8,187 @@ date: 2021-04-12T19:55:08.425Z
 
 En 2017 la gigante china Xiaomi lanzó su famoso modelo de patinete eléctrico M365, que marcó un hito en ventas en el sector de la movilidad eléctrica urbana. En octubre de 2020 Xiaomi respondió al clamor del mercado y lanzó a su digno sucesor, el patinete Xiaomi Mi Electric Scooter 1S.
 
-El Xiaomi S1 es para una versión remozada del M365, en el que se han corregido fallas y debilidades para aumentar la durabilidad del producto y su comodidad de uso en condiciones diarias.
+El Xiaomi S1 es una versión modernizada del Xiaomi 365, en el que se han corregido fallas y debilidades para aumentar la durabilidad del producto y su comodidad de uso en condiciones diarias.
 
-Se trata de un patinete para uso ligero, dirigido a jóvenes que quieren un scooter a buen precio y que no les de problemas. Y Xiaomi ha sabido responder con un equipo que presume de buenas características.
+Se trata de un patinete para uso diario, dirigido a jóvenes que quieren un scooter a buen precio y que no les de problemas. Y Xiaomi ha sabido responder con un equipo que presume de buenas características.
 
 El S1 salió a la venta en octubre de 2020 junto a su versión económica Mi Essential y el más caro y potente Pro 2. Esta tríada demuestra que Xiaomi apuesta por la estrategia de responder simultáneamente a los gustos de los clientes en varios segmentos del mercado.
 
 ## Un patinete ligero pero con suficiente poder para moverse por la ciudad
 
-Este monopatín Xiaomi cuenta con un motor de 250 Kw de potencia, igual al del Mi Essential. Sin embargo, su batería es de 7.650 mAh o 275Wh, lo que le permite ir más rápido y subir cuestas más empinadas que su hermano más económico.
+Este monopatín Xiaomi cuenta con un motor de 250 Kw de potencia, igual al del Mi Essential. Sin embargo, su batería es de 7.650 mAh o 275Wh, lo que le proporciona una mayor autonomía que su hermano más económico.
 
 El patinete eléctrico Xiaomi S1 es excelente para movilizarse en entornos urbanos con ligeros desniveles y sin preocuparse mucho de quedarse sin potencia o necesitar una recarga urgente lejos de casa.
 
-Sus cualidades como patinete urbano lo vemos en su ficha técnica.
+Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
+
+
+
+<table class="product-table">
+
+<tr>
+
+<td></td>
+
+<td>
+
+
+
+!\[Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")
+
+
+
+</td></tr>
+
+<tr>
+
+<td>Modelo</td>
+
+<td>XIAOMI Mi 1S</td></tr>
+
+<tr>
+
+<td>Precio min</td>
+
+<td>350</td></tr>
+
+<tr>
+
+<td>Peso (en Kg)</td>
+
+<td>12.7</td></tr>
+
+<tr>
+
+<td>Dimensiones desplegada (en cm)</td>
+
+<td>108\*43\*114</td></tr>
+
+<tr>
+
+<td>Dimensiones plegada (en cm)</td>
+
+<td>108\*43\*49</td></tr>
+
+<tr>
+
+<td>Batería: capacidad en mAh</td>
+
+<td>7650</td></tr>
+
+<tr>
+
+<td>Batería: capacidad en Wh</td>
+
+<td>275</td></tr>
+
+<tr>
+
+<td>Potencia nominal (en W)</td>
+
+<td>250</td></tr>
+
+<tr>
+
+<td>Tiempo de carga (en h)</td>
+
+<td>5.5</td></tr>
+
+<tr>
+
+<td>Carga máxima</td>
+
+<td>100</td></tr>
+
+<tr>
+
+<td>Tamaño de las ruedas (en pulgadas)</td>
+
+<td>8,5"</td></tr>
+
+<tr>
+
+<td>Tipo de rueda</td>
+
+<td>Cámara de aire</td></tr>
+
+<tr>
+
+<td>Autonomía (en km)</td>
+
+<td>30</td></tr>
+
+<tr>
+
+<td>Velocidad máxima (en km/h)</td>
+
+<td>25</td></tr>
+
+<tr>
+
+<td>Modos</td>
+
+<td>Paetonal (5 km/h) /Estándar (15 km/h) / Sport (25 km/h)
+
+Regulador de velocidad</td></tr>
+
+<tr>
+
+<td>Cuestas</td>
+
+<td>14</td></tr>
+
+<tr>
+
+<td>Sistema de frenado</td>
+
+<td>Freno de disco + Freno regenerativo</td></tr>
+
+<tr>
+
+<td>Suspensiones</td>
+
+<td>No</td></tr>
+
+<tr>
+
+<td>Pantalla LCD</td>
+
+<td>Sí</td></tr>
+
+<tr>
+
+<td>Aplicación</td>
+
+<td>Sí</td></tr>
+
+<tr>
+
+<td>Alumbrado</td>
+
+<td>Luz delantera y trasera</td></tr>
+
+<tr>
+
+<td>Extras</td>
+
+<td>Pata de cabra</td></tr>
+
+<tr>
+
+<td>Grado de resistencia al agua</td>
+
+<td>IP 54 (No resiste a la lluvia)</td><td>Consultar precio</td>
+
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
+
+</td>
+
+</tr>
+
+</table>
+
+
 
 Dimensiones desplegado
 108 x 43 x 114 cms
@@ -88,19 +256,15 @@ Pero es posible comprarlo a través del sistema de pago por cuotas en 90 días �
 
 Si consideramos que este patinete es liviano y cuenta con el mismo motor del Essential, pero con más autonomía, podemos afirmar que tiene un precio justo. Además está en un rango accesible para el público joven que quiere iniciarse en el mundo de la movilidad eléctrica.
 
-
-
 ## El Xiaomi Mi S1 mantiene la misma batería de 280 Wh de su antecesor M365
 
 La batería de este patinete eléctrico Xiaomi está fabricada con tecnología de celdas de litio de calidad LG y una capacidad de 7.650 mAh (280 Wh).
 
-Es la misma que usó en su momento el M365, pero supera a la de su hermano económico Mi Essential, que solo brinda 183 Wh.
+Es la misma que usó en su momento el Xiaomi 365, pero supera a la de su hermano económico Mi Essential, que solo proporciona 183 Wh.
 
 Sin embargo, esta batería es más que suficiente para darle una autonomía de 30 kilómetros, llevando a un pasajero de 60 kilogramos de peso y a una velocidad promedio de 20 km/h.
 
 Esto le hace ideal para quienes necesitan desplazarse a corta distancia del trabajo de casa y no quieren quedarse sin batería a mitad de camino.
-
-
 
 ## Podrás ir seguro en todo tipo de tráfico gracias a su velocidad máxima de 25 km/h y 3 modos de conducción
 
@@ -112,15 +276,13 @@ Esto le permite superar con facilidad pendientes de hasta 14 grados y alcanzar u
 
 Aunque teóricamente podría ir más rápido, la DGT establece un límite de 25 km/h pra los patinetes eléctricos.
 
-Cuenta con 3 modos de conducción ajusatbles a través de su pantalla LCD o de la aplicación Mi Home. Estos modos cubren los tres escenarios más comunes que encontrará el usuario en un entorno urbano.
+Cuenta con 3 modos de conducción ajustables a través de su pantalla LCD o de la aplicación Mi Home. Estos modos cubren los tres escenarios más comunes que encontrará el usuario en un entorno urbano.
 
 * Peatonal: Limita la velocidad a 5 km/h a cambio de una gran economía de batería.
 
   Estándar: La velocidad máxima es de 15 km/h y brinda un gran equilibrio entre autonomía y potencia.
 
   Deportivo: Permite ir a un máximo de 25 km/h y superar elevaciones de terreno de 14 grados máximo.
-
-
 
 ## Gran resistencia y peso bajo gracias al uso de aluminio de calidad aeronáutica
 
