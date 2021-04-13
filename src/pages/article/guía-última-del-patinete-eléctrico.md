@@ -2,7 +2,10 @@
 templateKey: article-page
 title: La guía última del patinete eléctrico ¿Cuál comprar y por qué?
 slug: guía-última-del patinete-eléctrico
-date: 2021-04-13T17:54:45.558Z
+date: 2021-04-13T18:30:12.644Z
+tags:
+  - name: Patinetes eléctricos
+    image: /img/xiaomi-1s-plegado.png
 articleImage: /img/xiaomi-1s-plegado.png
 ---
 
