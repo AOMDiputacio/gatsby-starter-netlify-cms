@@ -48,7 +48,7 @@ section3:
         d'experts en sommeil basée en France et à votre disposition par email.
   tagline: VOS AVANTAGES
   title: Indépendant et 100% gratuit
-  image: /img/sommeil-mini.png
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
 section4:
   categoryList:
     - title: Mémoire de forme
