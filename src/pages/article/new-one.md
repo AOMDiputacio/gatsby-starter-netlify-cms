@@ -12,10 +12,7 @@ tags:
   - name: Mi 365
     image: /img/apple-touch-icon.png
 articleImage: /img/xiaomi-1s-plegado.png
-relatedArticles:
-  - article: analisis-patinete-electrico-xiaomi-Essential
-  - article: Analisis-Patinete-Electrico-Xiaomi-1S
-  - article: guía-última-del patinete-eléctrico
+relatedArticles: []
 ---
 # El descendiente del Xiaomi 365 con mayor autonomía
 
