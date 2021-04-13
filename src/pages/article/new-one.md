@@ -247,7 +247,7 @@ Por esta razón, es incómodo su uso en calles adoquinadas o con terreno irregul
 
 Sin embargo, esto se ve compensado por los neumáticos hinchables que absorben eficazmente las vibraciones y por el manillar más largo y con mejor ergonomía, que facilita la conducción por parte de usuarios entre los 1,60 y los 1,90 metros de estatura.
 
-# Los clientes de Amazon destacan que traiga rueda y neumático de repuesto y su gran autonomía
+# Los clientes de Amazon aprecian la rueda y el neumático de repuesto y la gran autonomía del patinete
 
 Este modelo ha tenido buenas opiniones de los compradores en el portal de Amazon España.
 
