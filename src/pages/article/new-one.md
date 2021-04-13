@@ -1,7 +1,7 @@
 ---
 templateKey: article-page
-title: Xiaomi Mi Electric Scooter Pro 2, el Xiaomi 365 con más autonomía a un
-  precio atractivo
+title: Xiaomi Mi Electric Scooter Pro 2, como un Xiaomi 365 con más autonomía a
+  un precio atractivo
 slug: Analisis-Patinete-Electrico-Xiaomi-Mi-Pro-2
 date: 2021-04-11T20:31:41.282Z
 tags:
@@ -17,7 +17,7 @@ relatedArticles:
   - article: demo-article-1
   - article: demo-article-3
 ---
-## Un descendiente del M365 con mayor poder y autonomía
+## Un descendiente del M365 con mayor autonomía
 
 A finales de 2020 la gigante china Xiaomi lanzó tres modelos de patinetes eléctricos ligeros  que sucedieron a su gran éxito de ventas de 2017, el M365. Y de estos, el modelo Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más poder.
 
