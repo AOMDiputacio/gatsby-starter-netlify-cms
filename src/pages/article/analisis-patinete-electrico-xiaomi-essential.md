@@ -2,7 +2,11 @@
 templateKey: article-page
 title: Patinete eléctrico Xiaomi Essential, el patinete de bajo costo para todos
 slug: analisis-patinete-electrico-xiaomi-Essential
-date: 2021-04-13T17:37:26.000Z
+date: 2021-04-13T18:28:37.732Z
+tags:
+  - name: Xiaomi
+    image: /img/xiaomi-1s-plegado.png
+articleImage: /img/xiaomi-1s-plegado.png
 ---
 
 # La versión liviana (y económica) del mítico Xiaomi M365: una referencia!
