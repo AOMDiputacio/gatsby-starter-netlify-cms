@@ -25,7 +25,7 @@ A diferencia de los patinetes [Xiaomi Essential](XXX) y [S1,](XXX) los otros dos
 
 Para explicarlo mejor, **el [Essential ](XXX)y el [S1 ](XXX)son prácticamente iguales que el patinete M365** (con algunas mejoras estéticas y electrónicas). De hecho comparten un mismo motor de 250 W de potencia y cuentan con baterías ligeras de 183 Wh y 275 Wh, respectivamente.
 
-Esto los hace ideales para personas de poco peso, unos 60 kilogramos en promedio, que no deseen viajar maś de 10 o 15 kilómetros al día.
+Esto los hace ideales para personas de poco peso, que no deseen viajar maś de 10 o 15 kilómetros al día.
 
 En cambio **el Pro 2 posee un motor de 300 W de potencia** y una mayor **batería de 460 Wh** que le da capacidad para ir mucho más lejos llevando un pasajero de mayor peso corporal.
 
