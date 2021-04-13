@@ -103,7 +103,9 @@ Regulador de velocidad</td></tr>
 <td>Pata de cabra</td></tr>
 <tr>
 <td>Grado de resistencia al agua</td>
-<td>IP 54 (No resiste a la lluvia)</td><td>Consultar precio</td>
+<td>IP 54 (No resiste a la lluvia)</td></tr>
+<tr>
+<td>Consultar precio</td>
 <td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
 </td>
 </tr>
