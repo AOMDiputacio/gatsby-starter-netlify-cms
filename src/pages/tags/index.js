@@ -5,10 +5,13 @@ import Layout from '../../components/Layout'
 import Cover from '../../components/Cover'
 import CategoryItems from '../../components/CategoryItems'
 import ArticleItems from '../../components/ArticleItems'
+import { joinTagArticle } from '../../helper/helper'
 
 export default function TagsPage({ data: { tags, articles, pageData } }) {
+  const joinedArticles = joinTagArticle(tags.edges, articles.edges)
+
   return (
-    <Layout title={'Category'}>
+    <Layout title="Category" description={pageData.frontmatter.description}>
       <section className="container category">
         <Cover
           title={pageData.frontmatter.mainTitle}
@@ -23,7 +26,7 @@ export default function TagsPage({ data: { tags, articles, pageData } }) {
             {pageData.frontmatter.recentArticleTitle}
           </span>
         </h1>
-        <ArticleItems items={articles.edges} />
+        <ArticleItems items={joinedArticles} />
       </section>
     </Layout>
   )
@@ -32,19 +35,17 @@ export default function TagsPage({ data: { tags, articles, pageData } }) {
 export const tagPageQuery = graphql`
   query TagsQuery {
     tags: allMarkdownRemark(
-      filter: { frontmatter: { tags: { elemMatch: { name: { ne: null } } } } }
+      filter: { frontmatter: { dataKey: { eq: "tags" } } }
     ) {
       edges {
         node {
           frontmatter {
-            title
-            tags {
-              name
-              image {
-                childImageSharp {
-                  fixed(width: 150, height: 150) {
-                    ...GatsbyImageSharpFixed
-                  }
+            id
+            name
+            image {
+              childImageSharp {
+                fixed(width: 150, height: 150) {
+                  ...GatsbyImageSharpFixed
                 }
               }
             }
@@ -55,7 +56,7 @@ export const tagPageQuery = graphql`
     articles: allMarkdownRemark(
       limit: 6
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { templateKey: { eq: "article-page" } } }
+      filter: { frontmatter: { dataKey: { eq: "articles" } } }
     ) {
       edges {
         node {
@@ -64,6 +65,10 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            slug
+            tags {
+              tag
+            }
             articleImage {
               childImageSharp {
                 fluid(maxWidth: 500) {
@@ -77,6 +82,7 @@ export const tagPageQuery = graphql`
     }
     pageData: markdownRemark(frontmatter: { dataKey: { eq: "tagsPage" } }) {
       frontmatter {
+        description
         coverImage {
           childImageSharp {
             fluid(maxWidth: 1000, maxHeight: 400) {

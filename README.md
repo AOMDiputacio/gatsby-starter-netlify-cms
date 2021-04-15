@@ -1,8 +1,64 @@
 # Markdown & HTML
 
+<details>
+<summary><b>WARNINGS</b></summary>
+
 > * Make sure to use at least one `line-break` to separate `html` and `markdown` whenever you are using them together
 > * Do not `indent` html
 > * You have to switch to `markdown` mode when you copy and paste from this documentation 
+
+> * **You shouldn't delete all the `articles` or `affiliate-links` or `tags`. You must have to keep at least one.**
+> * **If accidentally delete all of them then here all the examples. Create one and then `commit` & `push`.**
+
+## Article
+
+`/src/pages/article/article-1.md`
+
+```
+---
+dataKey: articles
+title: Article 1
+description: Article description
+slug: article-1
+date: 2021-01-01T00:00:00.000Z
+tags:
+  - tag: tag-1
+articleImage: /img/example.png
+relatedArticles:
+  - article: article-2
+---
+
+# Article 1
+
+```
+
+## Affiliate Link
+
+`/src/data/affiliate-links/link-1.md`
+
+```
+---
+dataKey: affiliateLinks
+id: link-1
+link: https://example.com
+---
+```
+
+## Tag
+
+`/src/data/tags/tag-1.md`
+
+```
+---
+dataKey: tags
+id: tag-1
+name: tagname
+image: /img/example.png
+---
+```
+
+</details>
+
 
 # Utility class
 

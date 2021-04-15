@@ -1,6 +1,7 @@
 ---
 dataKey: tagsPage
-coverImage: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png
+description: This is page description (SEO)
+coverImage: /img/simple-image.jpg
 mainTitle: Category
 secondaryTitle: Do you want to know the pros and cons before buying?
 recentArticleTitle: Recent articles

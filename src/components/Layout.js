@@ -1,6 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import { withPrefix } from 'gatsby'
+import { graphql, useStaticQuery, withPrefix } from 'gatsby'
 
 import useSiteMetadata from './SiteMetadata'
 import Footer from '../components/Footer'
@@ -11,11 +11,22 @@ export default function Layout({
   description: pageDescription,
   children,
 }) {
+  const {
+    markdownRemark: { frontmatter },
+  } = useStaticQuery(graphql`
+    query LangQuery {
+      markdownRemark(frontmatter: { dataKey: { eq: "navbar" } }) {
+        frontmatter {
+          lang
+        }
+      }
+    }
+  `)
   const { title, description } = useSiteMetadata()
   return (
     <div className="root">
       <Helmet>
-        <html lang="en" />
+        <html lang={frontmatter.lang ? frontmatter.lang : 'en'} />
         <title>{pageTitle ? `${pageTitle} | ${title}` : title}</title>
         <meta name="description" content={pageDescription ?? description} />
 

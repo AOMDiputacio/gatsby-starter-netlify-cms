@@ -1,5 +1,8 @@
 ---
 dataKey: navbar
+lang: en
 logo: /img/logo.png
-menuitems: []
+menuitems:
+  - item: tag-1
+  - item: tag-3
 ---

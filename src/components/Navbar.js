@@ -1,16 +1,19 @@
 import React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
 import Img from 'gatsby-image'
+import { kebabCase, capitalize } from 'lodash'
 
 import { MenuIcon } from './Icons'
-import { resolveLink } from '../helper/helper'
+import { mapTags, resolveLink } from '../helper/helper'
 
 export default function Navbar() {
   const [open, setOpen] = React.useState(false)
 
   const data = useStaticQuery(graphql`
     query NavbarQuery {
-      markdownRemark(frontmatter: { dataKey: { eq: "navbar" } }) {
+      componentData: markdownRemark(
+        frontmatter: { dataKey: { eq: "navbar" } }
+      ) {
         frontmatter {
           logo {
             childImageSharp {
@@ -20,15 +23,30 @@ export default function Navbar() {
             }
           }
           menuitems {
-            title
-            link
+            item
+          }
+        }
+      }
+      tags: allMarkdownRemark(
+        filter: { frontmatter: { dataKey: { eq: "tags" } } }
+      ) {
+        edges {
+          node {
+            frontmatter {
+              id
+              name
+            }
           }
         }
       }
     }
   `)
 
-  const { logo, menuitems } = data.markdownRemark.frontmatter
+  const { logo, menuitems } = data.componentData.frontmatter
+
+  const tagsMap = mapTags(data.tags.edges)
+
+  const joinedMenuitems = menuitems.map(({ item }) => tagsMap[item])
 
   return (
     <nav className="navbar" role="navigation" aria-label="main-navigation">
@@ -42,13 +60,13 @@ export default function Navbar() {
           </button>
         </div>
         <div className={`navbar__menu ${open ? 'navbar__menu--open' : ''}`}>
-          {menuitems.map(({ title, link }, index) => (
+          {joinedMenuitems.map(({ name }, index) => (
             <Link
               key={index}
               className="navbar__menu-item"
-              to={resolveLink(link)}
+              to={`/${resolveLink(kebabCase(name).toLowerCase())}`}
             >
-              {title}
+              {capitalize(name)}
             </Link>
           ))}
         </div>

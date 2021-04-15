@@ -3,31 +3,25 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import { kebabCase, capitalize } from 'lodash'
 
+import { resolveLink } from '../helper/helper'
+
 export default function CategoryItems({ items }) {
   const tagsMap = {}
   const allTags = []
-  items.forEach(
-    ({
-      node: {
-        frontmatter: { tags },
-      },
-    }) => {
-      tags.forEach((tag) => {
-        if (!tagsMap[tag.name]) {
-          tagsMap[tag.name] = 1
-          allTags.push(tag)
-        } else {
-          tagsMap[tag.name]++
-        }
-      })
+  items.forEach(({ node: { frontmatter: tag } }) => {
+    if (!tagsMap[tag.name]) {
+      tagsMap[tag.name] = 1
+      allTags.push(tag)
+    } else {
+      tagsMap[tag.name]++
     }
-  )
+  })
   return (
     <div className="category__items">
       {allTags.map(({ name, image }) => (
         <Link
           key={name}
-          to={`/tags/${kebabCase(name)}/`}
+          to={resolveLink(`/${kebabCase(name)}/`.toLowerCase())}
           className="category__item"
         >
           {image && (

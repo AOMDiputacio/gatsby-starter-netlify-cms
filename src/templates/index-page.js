@@ -1,14 +1,22 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import Img from 'gatsby-image'
+import marked from 'marked'
+import { capitalize, kebabCase } from 'lodash'
 
 import Layout from '../components/Layout'
 import FeatureArticleItem from '../components/FeatureArticleItem'
-import { findByArray, resolveLink } from '../helper/helper'
+import {
+  findByArray,
+  joinTagArticle,
+  resolveLink,
+  mapTags,
+} from '../helper/helper'
 
-export default function IndexPage({ data: { article, articles } }) {
+export default function IndexPage({ data: { tags, articles, pageData } }) {
   const {
     title,
+    description,
     subtitle,
     tagline,
     featureTags,
@@ -16,8 +24,10 @@ export default function IndexPage({ data: { article, articles } }) {
     featureArticles,
     section3,
     section4,
-  } = article.frontmatter
+  } = pageData.frontmatter
+
   let finalFeatureArticles = []
+
   if (featureArticles.articles) {
     finalFeatureArticles = findByArray({
       arr1: articles.edges,
@@ -26,24 +36,34 @@ export default function IndexPage({ data: { article, articles } }) {
       cb2: (item) => item.article,
     })
   }
+
+  const joinedFeatureArticles = joinTagArticle(tags.edges, finalFeatureArticles)
+
+  const tagsMap = mapTags(tags.edges)
+
+  const joinedFeatureTags = featureTags.map(({ tag }) => tagsMap[tag])
+  const joinedCategoryTags = section4.categoryList.map(
+    ({ tag }) => tagsMap[tag]
+  )
+
   return (
-    <Layout>
+    <Layout description={description}>
       <section className="hero">
         <div className="container">
           <h1 className="hero__title">{title}</h1>
-          <p className="hero__desc">{subtitle}</p>
+          <div
+            className="hero__desc"
+            dangerouslySetInnerHTML={{ __html: marked(subtitle) }}
+          />
           <strong className="hero__strong">{tagline}</strong>
         </div>
       </section>
       <section className="feature">
         <div className="feature__wrapper">
-          {Object.keys(featureTags).map((key) => (
-            <div key={key} className="feature__item">
-              <Link to={resolveLink(featureTags[key].link)}>
-                <Img
-                  fluid={featureTags[key].image.childImageSharp.fluid}
-                  alt="Feature tag"
-                />
+          {joinedFeatureTags.map(({ name, image }, index) => (
+            <div key={index} className="feature__item">
+              <Link to={resolveLink(`/${kebabCase(name).toLowerCase()}`)}>
+                <Img fluid={image.childImageSharp.fluid} alt="Feature tag" />
               </Link>
             </div>
           ))}
@@ -68,17 +88,17 @@ export default function IndexPage({ data: { article, articles } }) {
       </section>
       <section className="container feature-article">
         <div className="feature-article__wrapper">
-          {finalFeatureArticles.map(
-            ({ node: { frontmatter, fields } }, index) => (
-              <FeatureArticleItem
-                key={index}
-                subtitle={frontmatter.tags[0].name}
-                title={frontmatter.title}
-                to={resolveLink(fields.slug)}
-                linkText={featureArticles.buttonText}
-              />
-            )
-          )}
+          {joinedFeatureArticles.map(({ title, slug, tags }, index) => (
+            <FeatureArticleItem
+              key={index}
+              subtitle={tags[0].name}
+              title={title}
+              to={resolveLink(
+                `/${kebabCase(tags[0].name)}/${kebabCase(slug)}`.toLowerCase()
+              )}
+              linkText={featureArticles.buttonText}
+            />
+          ))}
         </div>
       </section>
       <section className="container advantage">
@@ -105,10 +125,12 @@ export default function IndexPage({ data: { article, articles } }) {
           <strong className="test__subtitle">{section4.tagline}</strong>
           <h3 className="test__title">{section4.title}</h3>
           <div className="test__content">
-            {section4.categoryList.map(({ title, link }, index) => (
+            {joinedCategoryTags.map(({ name }, index) => (
               <React.Fragment key={index}>
                 {index ? <span> | </span> : ''}
-                <Link to={resolveLink(link)}>{title}</Link>
+                <Link to={resolveLink(`/${kebabCase(name).toLowerCase()}`)}>
+                  {capitalize(name)}
+                </Link>
               </React.Fragment>
             ))}
           </div>
@@ -120,54 +142,16 @@ export default function IndexPage({ data: { article, articles } }) {
 
 export const indexPageQuery = graphql`
   query IndexPageQuery {
-    article: markdownRemark(
+    pageData: markdownRemark(
       frontmatter: { templateKey: { eq: "index-page" } }
     ) {
       frontmatter {
         title
+        description
         subtitle
         tagline
         featureTags {
-          item1 {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            link
-          }
-          item2 {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            link
-          }
-          item3 {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            link
-          }
-          item4 {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            link
-          }
+          tag
         }
         section2 {
           image {
@@ -208,15 +192,33 @@ export const indexPageQuery = graphql`
           tagline
           title
           categoryList {
-            title
-            link
+            tag
+          }
+        }
+      }
+    }
+    tags: allMarkdownRemark(
+      filter: { frontmatter: { dataKey: { eq: "tags" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            id
+            name
+            image {
+              childImageSharp {
+                fluid(maxWidth: 500) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
     }
     articles: allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { templateKey: { eq: "article-page" } } }
+      filter: { frontmatter: { dataKey: { eq: "articles" } } }
     ) {
       edges {
         node {
@@ -227,7 +229,7 @@ export const indexPageQuery = graphql`
             slug
             title
             tags {
-              name
+              tag
             }
           }
         }

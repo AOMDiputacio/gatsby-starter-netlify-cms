@@ -4,13 +4,15 @@ import Img from 'gatsby-image'
 
 import Layout from '../components/Layout'
 import ArticleItems from '../components/ArticleItems'
-import { findByArray } from '../helper/helper'
+import { findByArray, joinTagArticle } from '../helper/helper'
 
 export default function ArticlePage({
-  data: { article, articles, affiliateLinks, pageData },
+  data: { article, tags, articles, affiliateLinks, pageData },
 }) {
   const { frontmatter: articleData } = article
+
   let relatedArticles = []
+
   if (articleData.relatedArticles) {
     relatedArticles = findByArray({
       arr1: articles.edges,
@@ -19,6 +21,8 @@ export default function ArticlePage({
       cb2: (item) => item.article,
     })
   }
+
+  const joinedRelatedArticles = joinTagArticle(tags.edges, relatedArticles)
 
   const html = article.html
     .replace(/<data-chart[\s\n]+value="([^"]+)"[\s\n]*\/>/g, (_, value) => {
@@ -52,7 +56,10 @@ export default function ArticlePage({
     })
 
   return (
-    <Layout title={articleData.title}>
+    <Layout
+      title={articleData.title}
+      description={pageData.frontmatter.description}
+    >
       <section className="container article-page">
         <h1 className="article-page__title">{articleData.title}</h1>
         {articleData.articleImage && (
@@ -67,15 +74,14 @@ export default function ArticlePage({
             __html: html,
           }}
         />
-
-        {relatedArticles.length > 0 && (
+        {joinedRelatedArticles.length > 0 && (
           <>
             <h1 className="cool-title__wrapper">
               <span className="cool-title">
                 {pageData.frontmatter.relatedArticleTitle}
               </span>
             </h1>
-            <ArticleItems items={relatedArticles} />
+            <ArticleItems items={joinedRelatedArticles} />
           </>
         )}
       </section>
@@ -101,8 +107,20 @@ export const pageQuery = graphql`
         }
       }
     }
+    tags: allMarkdownRemark(
+      filter: { frontmatter: { dataKey: { eq: "tags" } } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            id
+            name
+          }
+        }
+      }
+    }
     articles: allMarkdownRemark(
-      filter: { frontmatter: { templateKey: { eq: "article-page" } } }
+      filter: { frontmatter: { dataKey: { eq: "articles" } } }
     ) {
       edges {
         node {
@@ -112,6 +130,9 @@ export const pageQuery = graphql`
           frontmatter {
             title
             slug
+            tags {
+              tag
+            }
             articleImage {
               childImageSharp {
                 fluid(maxWidth: 500) {
@@ -137,6 +158,7 @@ export const pageQuery = graphql`
     }
     pageData: markdownRemark(frontmatter: { dataKey: { eq: "articlePage" } }) {
       frontmatter {
+        description
         relatedArticleTitle
       }
     }

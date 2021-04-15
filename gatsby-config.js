@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Sleeps',
     description: 'This is a brief description of Sleeps!',
+    siteUrl: 'https://www.example.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -70,5 +71,6 @@ module.exports = {
         id: 'GTM-MFPBJLM',
       },
     },
+    'gatsby-plugin-sitemap',
   ],
 }
