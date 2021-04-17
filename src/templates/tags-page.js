@@ -18,9 +18,11 @@ export default function TagPage({
 
   const joinedArticles = joinTagArticle(tags.edges, articles.edges)
 
-  const tagArticles = joinedArticles.filter((article) =>
-    Boolean(article.tags.find((tag) => tag.name === pageContext.tag))
-  )
+  const tagArticles = joinedArticles
+    .filter((article) =>
+      Boolean(article.tags.find((tag) => tag.name === pageContext.tag))
+    )
+    .filter((item) => Boolean(item))
 
   return (
     <Layout title={tagTitle} description={pageData.frontmatter.description}>

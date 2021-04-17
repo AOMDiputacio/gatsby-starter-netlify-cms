@@ -26,7 +26,7 @@ export const joinTagArticle = (tags, articles) => {
     })
   })
 
-  return joinedArticles
+  return joinedArticles.filter((item) => Boolean(item))
 }
 
 /**

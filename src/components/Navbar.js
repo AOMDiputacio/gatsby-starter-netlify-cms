@@ -46,7 +46,9 @@ export default function Navbar() {
 
   const tagsMap = mapTags(data.tags.edges)
 
-  const joinedMenuitems = menuitems.map(({ item }) => tagsMap[item])
+  const joinedMenuitems = menuitems
+    .map(({ item }) => tagsMap[item])
+    .filter((item) => Boolean(item))
 
   return (
     <nav className="navbar" role="navigation" aria-label="main-navigation">

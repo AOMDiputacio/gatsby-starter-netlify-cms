@@ -37,14 +37,19 @@ export default function IndexPage({ data: { tags, articles, pageData } }) {
     })
   }
 
-  const joinedFeatureArticles = joinTagArticle(tags.edges, finalFeatureArticles)
+  const joinedFeatureArticles = joinTagArticle(
+    tags.edges,
+    finalFeatureArticles.filter((item) => Boolean(item))
+  )
 
   const tagsMap = mapTags(tags.edges)
 
-  const joinedFeatureTags = featureTags.map(({ tag }) => tagsMap[tag])
-  const joinedCategoryTags = section4.categoryList.map(
-    ({ tag }) => tagsMap[tag]
-  )
+  const joinedFeatureTags = featureTags
+    .map(({ tag }) => tagsMap[tag])
+    .filter((item) => Boolean(item))
+  const joinedCategoryTags = section4.categoryList
+    .map(({ tag }) => tagsMap[tag])
+    .filter((item) => Boolean(item))
 
   return (
     <Layout description={description}>

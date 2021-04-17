@@ -163,6 +163,7 @@ body {
   .feature__wrapper {
     max-width: 624px;
     display: flex;
+    justify-content: center;
   }
   .feature__item {
     width: 25%;

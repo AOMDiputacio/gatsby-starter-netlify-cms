@@ -58,32 +58,44 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const articles = result.data.articles.edges
-    const tags = result.data.tags.edges
-    const pages = result.data.pages.edges
+    const articles = result?.data?.articles?.edges || []
+    const tags = result?.data?.tags?.edges || []
+    const pages = result?.data?.pages?.edges || []
 
     const tagsMap = {}
     tags.forEach((edge) => {
-      tagsMap[edge.node.frontmatter.id] = edge.node.frontmatter
+      if (edge?.node?.frontmatter?.id && edge?.node?.frontmatter) {
+        tagsMap[edge.node.frontmatter.id] = edge.node.frontmatter
+      }
     })
 
     articles.forEach((edge) => {
-      const firstTag = tagsMap[edge.node.frontmatter.tags[0].tag]
-      const id = edge.node.id
-      const articlePath = `/${_.kebabCase(firstTag.name)}/${_.kebabCase(
-        edge.node.frontmatter.slug
-      )}/`.toLowerCase()
+      if (
+        edge?.node?.frontmatter?.tags?.[0]?.tag &&
+        edge?.node?.frontmatter?.slug &&
+        edge?.node?.id
+      ) {
+        const id = edge.node.id
+        const firstTag = tagsMap[edge.node.frontmatter.tags[0].tag]
+        if (firstTag) {
+          const articlePath = `/${_.kebabCase(firstTag.name)}/${_.kebabCase(
+            edge.node.frontmatter.slug
+          )}/`.toLowerCase()
 
-      createPage({
-        path: articlePath,
-        component: path.resolve(`src/templates/article-page.js`),
-        context: {
-          id,
-        },
-      })
+          createPage({
+            path: articlePath,
+            component: path.resolve(`src/templates/article-page.js`),
+            context: {
+              id,
+            },
+          })
+        }
+      }
     })
 
-    const tagsNames = tags.map((edge) => edge.node.frontmatter.name)
+    const tagsNames = tags
+      .map((edge) => edge?.node?.frontmatter?.name)
+      .filter((item) => Boolean(item))
 
     _.uniq(tagsNames).forEach((tag) => {
       const tagPath = `/${_.kebabCase(tag)}/`.toLowerCase()
@@ -98,16 +110,22 @@ exports.createPages = ({ actions, graphql }) => {
     })
 
     pages.forEach((edge) => {
-      const id = edge.node.id
-      createPage({
-        path: edge.node.fields.slug,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
-        context: {
-          id,
-        },
-      })
+      if (
+        edge?.node?.id &&
+        edge?.node?.fields?.slug &&
+        edge?.node?.frontmatter?.templateKey
+      ) {
+        const id = edge.node.id
+        createPage({
+          path: edge.node.fields.slug,
+          component: path.resolve(
+            `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
+          ),
+          context: {
+            id,
+          },
+        })
+      }
     })
   })
 }
