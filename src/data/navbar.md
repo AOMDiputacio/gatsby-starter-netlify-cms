@@ -1,8 +1,7 @@
 ---
 dataKey: navbar
-lang: en
+lang: es
 logo: /img/logo.png
 menuitems:
-  - item: tag-1
-  - item: tag-3
+  - item: patinete-electrico
 ---
