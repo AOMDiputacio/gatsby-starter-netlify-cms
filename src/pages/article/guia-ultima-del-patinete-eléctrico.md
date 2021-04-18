@@ -12,8 +12,20 @@ tags:
 ---
 # La guía última del patinete eléctrico ¿Cual es el mejor patinete eléctrico? ¿Cuál comprar y por qué?
 
-> Si quieres comprar un patinete eléctrico o simplemente te preguntas si este medio de locomoción te podría interesar, estás en el lugar correcto! Esta guía contiene todo lo que necesitas saber a la hora de comprar un patinete eléctrico, incluyendo los aspectos técnicos y legales, y su método de análisis numérico original te permitirá determinar de forma imparcial cual es el patinete eléctrico mejor opción adaptada a tus necesidades
 
+
+<u>automóviles pesados, peligrosos, voluminosos y contaminantes pronto darán paso a medios de transporte más seguros y sostenibles. Las calles volverán a ser de las peatones y veremos una masificación de los medios de transporte poco in</u>
+
+
+
+<img src="https://media.artsper.com/artwork/645060_1_m.jpg" alt="Italian Trulli">
+
+
+
+
+
+> Si quieres comprar un patinete eléctrico o simplemente te preguntas si este medio de locomoción te podría interesar, estás en el lugar correcto! Esta guía contiene todo lo que necesitas saber a la hora de comprar un patinete eléctrico, incluyendo los aspectos técnicos y legales, y su método de análisis numérico original te permitirá determinar de forma imparcial cual es el patinete eléctrico mejor opción adaptada a tus necesidades
+>
 > CLICK Hemos analizado las mejores soluciones de movilidad urbana en general, según tus necesidades personales
 
 Tanto el COVID-19 como la transición verde han cambiado para siempre la forma en que entendemos y vivimos la movilidad urbana. Comprar un patinete eléctrico es ahora tan normal como alguna vez lo fue adquirir un vehículo.
@@ -50,7 +62,7 @@ Para ello hemos probado los siguientes modelos de patinetes eléctricos, que ya 
 # I. Hablemos solo de patinetes eléctricos ligeros, más recomendados tras la ley de la DGT del 2019
 
 > CLICK Hemos analizado en profundidad la normativa española sobre los patinetes eléctricos
-
+>
 > Hemos elaborado esta guía de compra con la mira puesta en la oferta de patinetes eléctricos ligeros, es decir, aquellos de menos de 15 kilogramos de peso
 
 Puede ser que te llame la atención comprar el patinete más veloz y potente disponible, como lo harías con una bicicleta eléctrica. Y de hecho hay modelos que destacan por sus excelentes capacidades técnicas.
@@ -159,9 +171,9 @@ Algo que debemos considerar es que en España (y en Europa), la velocidad máxim
 Por fín, cabe mencionar que casi todos los patinetes eléctricos disponen de varios modos de conducción para adaptar su velocidad máxima al enterno; por ejemplo, el modo ECO suele estar limitado a 5 km/h que corresponde a la velocidad máxima permitida entre paetones.
 
 >  Por lo tanto, el verdadero criterio para escoger un modelo más potente que otro no será la velocidad, sino la capacidad para subir largas cuestas empinadas, conducir agresivamente entre atascos, o llevar más peso a bordo.
-
+>
 >  En conclusión, un motor eléctrico de 250W de potencia es más que suficiente para la mayoría de los usuarios que no tienen que subir cuestas a diario, aunque uno más potente brindará más capacidad de respuesta al camino, sin sacrificar la autonomía.
-
+>
 > CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## El cuadro, ¿Qué tan robusto y ligero es?
@@ -193,7 +205,7 @@ Sin embargo, solo el KUGOO S1 posee un faro delantero suficientemente potente pa
 En realidad, en este segmento predomina el uso de faros diseñados para conducir solamente en un entorno urbano iluminado.
 
 >  Por esta razón, debes considerar la posibilidad de tener que comprar un faro externo más potente para el patinete de tu elección, si deseas usarlo al anochecer.
-
+>
 > CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## Sistema de frenos y neumáticos
@@ -215,7 +227,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
   Xiaomi
 
 > CLICK Hemos agrupado en un solo lugar todos los patinetes Cecotec Bongo Serie A con sus respectivos análisis
-
+>
 > CLICK Hemos juntado en un artículo nuestro análisis de la marca Xiaomi y de todos sus patinetes
 
 * Freno de disco: Es el método de freno más eficiente y costoso. Consiste en un mecanismo de pinzas activadas por un cable desde el , que aprietan un disco colocado en el eje de la rueda trasera, deteniendo su giro. Marcas como Cecotec, Hiboy y  utilizan  trasero con control electrónico antibloqueo, que evita que la rueda pierda agarre con el suelo durante la .\
@@ -229,9 +241,9 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
   frenada
 
 > CLICK Hemos agrupado en un solo lugar todos los patinetes Cecotec Bongo Serie A con sus respectivos análisis
-
+>
 > CLICK Hemos juntado en un artículo nuestro análisis de la marca Xiaomi y de todos sus patinetes
-
+>
 > CLICK Hiboy propone unos de los mejores patinetes eléctricos del mercado; los hemos analizado
 
 * Freno de pedal: Heredado de los antiguos patinetes, consiste en un sistema que permite pisar con el pie el  trasero y hacer que este roce la rueda para provocar un frenado por fricción. El modelo Cetotec es el único que incorpora este sistema, mientras que Hiboy y  lo han sustituido por un freno de disco.\
@@ -241,7 +253,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
   Xiaomi
 
 > CLICK Hemos agrupado en un solo lugar todos los patinetes Cecotec Bongo Serie A con sus respectivos análisis
-
+>
 > CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## Calidad de la conducción
@@ -267,9 +279,9 @@ Para solucionar esto, varias marcas han optado por usar neumáticos hinchables, 
 En contraste, los neumáticos hinchables son vulnerables a pinchazos y requieren una revisión periódica para verificar si tienen la presión óptima.
 
 > Xiaomi ha elegido neumáticos hinchables con cámara de aire, mientras que Cetotec prefiere los modelos “tubeless” (sin cámara de aire). El problema de los tubeless es que requieren ser hinchados con mayor frecuencia. El resto de las marcas usa neumáticos solidos sin mantenimiento, combinándolos a menudo con sistemas de amortización
-
+>
 > CLICK Hemos agrupado en un solo lugar todos los patinetes Cecotec Bongo Serie A con sus respectivos análisis
-
+>
 > CLICK Hemos juntado en un artículo nuestro análisis de la marca Xiaomi y de todos sus patinetes
 
 ## El sistema de amortiguación
@@ -290,7 +302,7 @@ Sin embargo, en un patinete ligero de menos de 15 kilogramos, la amortiguación 
 # III. Normativa española sobre los patinetes eléctricos
 
 >  La Dirección General de Tránsito ha establecido los criterios para el uso de patinetes eléctricos en España. Mucho de su contenido imita a las regulaciones europeas; en particular la velocidad debe ser limitada a 25 km/h
-
+>
 > CLICK Hemos realizado un artículo dedicado para tratar en profundidad la Normativa española sobre los patinetes eléctricos
 
 La Dirección General de Tránsito (DGT) de España ha elaborado una normativa que regula el uso de los patinetes eléctricos y otros tipos de vehículos motorizados personales (VMP). Además, ha establecido cuáles son las características que debe cumplir un vehículo de estos para ser considerado como patinete ligero.
@@ -334,7 +346,7 @@ Además de la norma de la DGT, algunos gobiernos autónomos y ayuntamientos esta
 Este reglamento señala que los monopatines, patines y equipos similares no podrán circular por la calzada, excepto cuando se trate de vías (o parte de estas) que estén especialmente destinadas para ello.
 
 > Solo podrán circular a una velocidad máxima de 5 kilómetros por hora (paso de persona) por las calles residenciales o aceras que estén señalizadas para el caso
-
+>
 > Los patinetes ligeros pueden utilizar los carriles bici, ciclovías y otras vías destinadas a las bicicletas, pero la regulación de uso dependerá en muchos casos de los ayuntamientos respectivos
 
 # IV. ¿Qué patinete debo elegir?
@@ -477,7 +489,7 @@ Estos patinetes se encuentran por debajo de la línea promedio por lo que su pre
    tubeless
 
 > CLICK  Hemos probado extensivamente el patinete Xiaomi Pro 2 / ver mejor oferta
-
+>
 > CLICK  Hemos probado en bonus el modelo  SMARTGYRO Xtreme SpeedWay V2.0, con un peso de 22 kilogramos pero con prestaciones de gama alta a un precio asequible por estos tipos de patinetes
 
 # Nuestra selección final de patinetes, según su utilización
@@ -495,7 +507,7 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
   Xiaomi
 
 > CLICK Haz click aquí para saber más acerca del modelo Cecotec Bongo Serie A Advance Connected MAX/ Ver en Amazon
-
+>
 > CLICK Haz click aquí para saber más acerca del modelo Xiaomi Pro 2/ Ver en Amazon
 
 * Alta autonomía (40 km) con suspensiones y neumáticos sólidos de bajo mantenimiento: Hiboy S2 Pro
