@@ -16,13 +16,9 @@ tags:
 
 <u>automóviles pesados, peligrosos, voluminosos y contaminantes pronto darán paso a medios de transporte más seguros y sostenibles. Las calles volverán a ser de las peatones y veremos una masificación de los medios de transporte poco in</u>
 
-<!--StartFragment-->
 
-**!\[fe](https://www.revistaecclesia.com/wp-content/uploads/2020/07/Image-foi-1_UqjRHuu.2e16d0ba.fill-690x450-1.jpg)**
 
-<!--EndFragment-->
-
-**!\[fe](https://www.revistaecclesia.com/wp-content/uploads/2020/07/Image-foi-1_UqjRHuu.2e16d0ba.fill-690x450-1.jpg)**
+![fe](https://www.revistaecclesia.com/wp-content/uploads/2020/07/Image-foi-1_UqjRHuu.2e16d0ba.fill-690x450-1.jpg "fe")
 
 
 
