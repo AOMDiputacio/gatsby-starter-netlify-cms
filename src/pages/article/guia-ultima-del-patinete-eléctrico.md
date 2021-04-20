@@ -8,6 +8,7 @@ slug: guia-ultima-del-patinete-electrico
 date: 2021-04-16T15:21:18.940Z
 tags:
   - tag: patinetes-electricos
+articleImage: /img/xiaomi-logo-patinete-electrico.jpg
 ---
 # La guía última del patinete eléctrico ¿Cual es el mejor patinete eléctrico? ¿Cuál comprar y por qué?
 
