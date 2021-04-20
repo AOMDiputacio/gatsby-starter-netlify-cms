@@ -1,11 +1,19 @@
 ---
 templateKey: index-page
-title: Dormez mieux, vivez heureux.
-description: This is page description (SEO)
-subtitle: Vousmghm yrtyr cherchez des **conseils d'experts, fiables** et
-  impartiaux pour répondre à vos questions sur le sommeil ? Vous êtes au bon
-  [endroit](https://example.com).
-tagline: Comparez des dizaines de marques pour trouver votre meilleur
+title: Probamos y comparamos para ti.
+description: Pruebas, análisis y descuentos para patinetes y bicicletas eléctricos.
+subtitle: >-
+  <p style="text-align: center;">
+
+  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, **estás en el lugar adecuado**. 
+
+
+  Este mes inauguramos nuestra selección de soluciones de movilidad urbana sostenibles que están revolucionando nuestro futuro sin que nos demos cuenta.
+
+
+  </p>
+tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
+  tus necesidades
 featureTags:
   - tag: tag-1
   - tag: tag-2
