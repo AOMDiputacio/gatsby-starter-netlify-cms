@@ -15,12 +15,12 @@ subtitle: >-
 tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
   tus necesidades
 featureTags:
-  - tag: tag-1
-  - tag: tag-2
-  - tag: tag-3
-  - tag: tag-4
+  - tag: patinete-xiaomi
+  - tag: patinete-cecotec
+  - tag: patinete-hiboy
+  - tag: patinete-kugoo
 section2:
-  image: /img/matelas2.png
+  image: /img/xiaomi-logo-patinete-electrico.jpg
   tagline: UN BON ENDROIT POUR COMMENCER
   title: Trouvez votre matelas idéal
   description: Vous commencez votre recherche ? Utilisez notre simulateur pour
