@@ -7,7 +7,6 @@ description: Te traemos nuestra guía de consejos para quienes buscan comprar un
 slug: guia-ultima-del-patinete-electrico
 date: 2021-04-16T15:21:18.940Z
 tags:
-  - tag: tag-1
   - tag: patinete-electrico
 ---
 # La guía última del patinete eléctrico ¿Cual es el mejor patinete eléctrico? ¿Cuál comprar y por qué?
