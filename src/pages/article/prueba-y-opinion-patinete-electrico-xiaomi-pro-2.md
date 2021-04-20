@@ -8,6 +8,7 @@ slug: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
 date: 2021-04-20T15:24:54.743Z
 tags:
   - tag: patinetes-electricos
+  - tag: patinete-xiaomi
 articleImage: /img/xiaomi-logo-patinete-electrico.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
