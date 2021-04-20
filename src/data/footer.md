@@ -34,8 +34,8 @@ column3:
       link: /contact
     - title: FAQ
       link: /faq
-    - title: Mentions Légales
-      link: /legal-notice
+    - title: Aviso Legal
+      link: "/pagina/aviso-legal "
     - title: Politique de Transparence
       link: /transparency-policy
 column4:
