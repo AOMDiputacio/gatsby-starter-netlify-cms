@@ -5,7 +5,10 @@ description: Pruebas, análisis y descuentos para patinetes y bicicletas eléctr
 subtitle: >-
   <p style="text-align: center;">
 
-  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, **estás en el lugar adecuado**. 
+  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, 
+
+
+  **estás en el lugar adecuado.** 
 
 
   Este mes inauguramos nuestra selección de soluciones de movilidad urbana sostenibles que están revolucionando nuestro futuro sin que nos demos cuenta.
@@ -20,35 +23,35 @@ featureTags:
   - tag: patinete-hiboy
   - tag: patinete-kugoo
 section2:
-  image: /img/xiaomi-logo-patinete-electrico.jpg
-  tagline: UN BON ENDROIT POUR COMMENCER
-  title: Trouvez votre matelas idéal
-  description: Vous commencez votre recherche ? Utilisez notre simulateur pour
-    trouver un matelas parfaitement adapté à vos besoins – en moins d'une
-    minute.
-  buttonText: JE TROUVE MON MATELAS
-  buttonLink: /tags
+  image: /img/chica-patinete-electrico.jpg
+  tagline: UN BUEN LUGAR PARA EMPEZAR
+  title: Encuentra tu patinete urbano ideal
+  description: Por patinetes urbano entendemos estos patinetes eléctricos de menos
+    de 15 Kg. más compatibles con los peatones, ecológicos y fáciles de
+    transporter. Son una solución sostenible de transporte.
+  buttonText: ENCONTRAR MI PATINETE
+  buttonLink: /patinetes-electricos/guia-ultima-del-patinete-electrico
 featureArticles:
   articles:
-    - article: demo-article-1
-    - article: demo-article-2
-  buttonText: VOIR LES MARQUES
+    - article: guia-ultima-del-patinete-electrico
+    - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
+  buttonText: VER MÁS SOBRE
 section3:
   contentList:
-    - title: Des conseils d'experts
-      description: "Tests, comparatifs, guides d'achats : avec son équipe de testeurs
-        indépendants, Sleeps.fr est à votre service pour vous conseiller et vous
-        aider à trouver gratuitement les meilleurs produits de literie du
-        marché."
-    - title: Des outils efficaces
-      description: Des comparatifs et des simulateurs vous aideront à choisir une
-        literie adaptée à vos besoins et passer les meilleures nuits.
-    - title: Un suivi personnalisé
-      description: Vous avez une question ? Contactez directement notre équipe
-        d'experts en sommeil basée en France et à votre disposition par email.
-  tagline: VOS AVANTAGES
-  title: Indépendant et 100% gratuit
-  image: /img/sommeil-mini.png
+    - title: Asesoramiento de expertos
+      description: "Pruebas, comparaciones, guías de compra: con nuestro equipo de
+        probadores independientes, le asesoramos y ayudamos a encontrar los
+        mejores productos del mercado de forma gratuita."
+    - title: Herramientas eficientes
+      description: Las reseñas y simuladores te ayudarán a elegir los medios de
+        transporte urbano que se adapten a tus necesidades y pasar las mejores
+        noches.
+    - title: Seguimiento personalizado
+      description: Tienes una pregunta ? Deja tu comentario en nuestro blog y nuestro
+        equipo te brindará la respuesta que necesitas.
+  tagline: QUE TE OFRECEMOS
+  title: Independiente y 100% gratis
+  image: /img/patinete-xiaomi.jpg
 section4:
   categoryList:
     - tag: tag-1
