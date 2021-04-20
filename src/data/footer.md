@@ -1,47 +1,36 @@
 ---
 dataKey: footer
 column1:
-  description: Sleeps.fr est le leader de la comparaison de produits de literie
-    sur internet. Indépendant et 100% gratuit, notre mission est de vous aider à
-    passer les meilleures nuits.
-  title: À propos
+  description: Nuestro objetivo es ser líder en la comparación de soluciones de
+    movilidad urbana. Independiente y 100% gratis, nuestra misión es ayudarte a
+    tomar la mejor decisión para tí y tu entorno en relación con las soluciones
+    sostenibles de movilidad
+  title: Sobre nosotros
   socialLinks:
-    facebook: https://www.facebook.com/sleeps.fr/
-    youtube: https://www.youtube.com/channel/UCBlW8CFQ3C0-DJhxskmSUAA
-    pinterest: https://www.pinterest.fr/sleeps_fr/
+    facebook: ""
+    youtube: ""
+    pinterest: ""
     linkedin: ""
 column2:
   links:
-    - title: Meilleurs Matelas
-      link: /tags/meilleurs-matelas
-    - title: Meilleurs Oreillers
-      link: /tags/meilleurs-oreillers
-    - title: Meilleurs Sommiers
-      link: /tags/meilleurs-sommiers
-    - title: Meilleures Couettes
-      link: /tags/meilleures-couettes
-    - title: Meilleurs Surmatelas
-      link: /tags/meilleurs-surmatelas
-    - title: Meilleurs Matelas Bébé
-      link: /tag/meilleurs-matelas-bébé
-  title: Guides Literie
+    - title: La guía última del patinete eléctrico
+      link: /patinetes-electricos/guia-ultima-del-patinete-electrico
+    - title: El patinete eléctrico Xiaomi Pro 2
+      link: /patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2
+  title: Guías de compra
 column3:
-  title: Plus d’infos
+  title: Mas información
   links:
-    - title: Le Blog
-      link: /article
-    - title: Contact
-      link: /contact
-    - title: FAQ
-      link: /faq
     - title: Aviso Legal
-      link: "/pagina/aviso-legal "
-    - title: Politique de Transparence
-      link: /transparency-policy
+      link: /pagina/aviso-legal
+    - title: Afiliación
+      link: /pagina/afiliacion
+    - link: /pagina/politica-privacidad
+      title: Política de Privacidad
 column4:
-  title: La newsletter Sleeps.fr
-  description: Chaque mois, des réductions exclusives et nos derniers tests
-    produits dans votre boîte mail.
-  buttonText: Je m'inscris !
-  placeholderText: Votre email
+  title: Newsletter Guía del consumidor
+  description: Recibe cada mes ofertas exclusivas y nuevas pruebas en tu buzón de
+    correo electrónico.
+  buttonText: ¡Me registro !
+  placeholderText: Su email
 ---
