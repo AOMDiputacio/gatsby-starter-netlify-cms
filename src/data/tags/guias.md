@@ -2,5 +2,5 @@
 dataKey: tags
 id: guias
 name: Guías
-image: /img/information.svg
+image: /img/guias.jpg
 ---
