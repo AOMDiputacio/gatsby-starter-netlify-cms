@@ -54,10 +54,10 @@ section3:
   image: /img/patinete-xiaomi.jpg
 section4:
   categoryList:
-    - tag: tag-1
-    - tag: tag-2
-    - tag: tag-3
-    - tag: tag-4
-  tagline: NOUS AVONS TESTÉ POUR VOUS
-  title: Découvrez nos meilleurs choix matelas par catégorie.
+    - tag: bicicletas-electricas
+    - tag: guias
+    - tag: patinete-cecotec
+    - tag: patinete-hiboy
+  tagline: HEMOS PROBADO PARA TI
+  title: Descubre nuestros mejores colchones por categorías.
 ---
