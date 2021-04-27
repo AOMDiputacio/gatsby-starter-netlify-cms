@@ -9,7 +9,7 @@ date: 2021-04-27T18:05:31.184Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: /img/chica-patinete-electrico.jpg
+articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
@@ -47,7 +47,7 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <tr>
 <td>
 </td>
-<td>![Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")</td>
+<td>!\[Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")</td>
 </tr>
 <tr>
 <td>Modelo</td>
@@ -152,44 +152,28 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 </tr>
 </table>
 
-
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## Pros y contras
 
-"<div class=""row"">
-<div class=""col"">
-<div class=""pros-header"">Pros</div>
-<div class=""pros-item"">Excelente autonomía</div>
-<div class=""pros-item"">Motor capaz de subir pendientes de 20º</div>
-<div class=""pros-item"">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
-<div class=""pros-item"">Neumáticos con cámara de aire que absorben las vibraciones</div>
-<div class=""pros-item"">Freno motor con recuperación de energía de frenado</div>
-<div class=""pros-item"">Excelente freno manual de disco trasero</div>
-<div class=""pros-item"">Ideal para personas altas</div>
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Excelente autonomía</div>
+<div class="pros-item">Motor capaz de subir pendientes de 20º</div>
+<div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+<div class="pros-item">Neumáticos con cámara de aire que absorben las vibraciones</div>
+<div class="pros-item">Freno motor con recuperación de energía de frenado</div>
+<div class="pros-item">Excelente freno manual de disco trasero</div>
+<div class="pros-item">Ideal para personas altas</div>
 
 </div>
-<div class=""col"">
-<div class=""cons-header"">Contras</div>
-<div class=""cons-item"">No posee amortiguación</div>
-<div class=""cons-item"">Requiere mucho tiempo para recargar batería</div>
-<div class=""cons-item"">Precio más alto que las otras opciones de Xiaomi</div>
-<div class=""cons-item"">Mayor peso que otros modelos similares</div>
-
-
-
-
-"
-
-
-
-
-
-
-
-
-
-
+<div class="col">
+<div class="cons-header">Contras</div>
+<div class="cons-item">No posee amortiguación</div>
+<div class="cons-item">Requiere mucho tiempo para recargar batería</div>
+<div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
+<div class="cons-item">Mayor peso que otros modelos similares</div>
 
 ## Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
 
@@ -203,6 +187,8 @@ CLICK Hemos elaborado una metodología rigurosa y original de comparación de pr
 
 ## Una autonomía de hasta 45 kilómetros que compensa el largo tiempo de carga de su batería de 460 Wh
 
+![Una enorme autonomía y un freno regenerativo](/img/patinete-electrico-hiboy-s2-pro-regenerative.jpg "Una enorme autonomía y un freno regenerativo")
+
 La **batería de este patinete eléctrico Xiaomi es fabricada por LG** y usa **celdas de litio**, con una capacidad de 12.800 mAh, lo que equivale a **460 Wh**.
 
 Gracias a esta batería, el **Xiaomi Pro 2** logra una increíble **45 kilómetros de autonomía**  (contar 27 km. aproximadamente en condiciones reales según hemos podido comprobar), más que suficiente para cualquier tipo de recorrido en zonas urbanas.
@@ -212,6 +198,8 @@ Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## Excelente motor capaz de subir cuestas de hasta 20 grados
+
+![Un excelente motor de 300 W](/img/patinete-electrico-hiboy-s2-pro-motor.jpg "Un excelente motor de 300 W regenerativo")
 
 El monopatín electrico Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
@@ -352,6 +340,8 @@ CLICK Hemos probado en bonus **el modelo  SMARTGYRO Xtreme SpeedWay V2.0**, con 
 ## Nuestro Benchmark: tabla comparativa
 
 "<table class=""product-table"">
+
+<table class="product-table">
 <tr>
 <td>
 </td>
@@ -439,8 +429,8 @@ CLICK Hemos probado en bonus **el modelo  SMARTGYRO Xtreme SpeedWay V2.0**, con 
 </tr>
 <tr>
 <td>Tamaño de las ruedas (en pulgadas)</td>
-<td>8,5""</td>
-<td>8,5""</td>
+<td>8,5"</td>
+<td>8,5"</td>
 <td>10''</td>
 <td>10''</td>
 </tr>
@@ -533,13 +523,12 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td></td>
-<td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a></td>
-<td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a></td>
-<td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a></td>
-<td><a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""xiaomi-pro-2"">Ver en Amazon</a></td>
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
 </td>
 </tr>
-</table>"
-
+</table>
 
 CLICK Hemos **agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos** que hemos analizado
