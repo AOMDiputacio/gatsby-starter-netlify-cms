@@ -6,7 +6,7 @@ date: 2021-04-28T20:07:42.839Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg
+articleImage: https://res.cloudinary.com/aom/image/upload/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg
 relatedArticles:
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: guia-ultima-del-patinete-electrico
@@ -57,7 +57,7 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 
 </td>
 
-<td>!\[El patinete eléctrico Xiaomi 1S](https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619633344/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil-Peque_wtxlju.jpg "El patinete eléctrico Xiaomi 1S")
+<td>!\\[El patinete eléctrico Xiaomi 1S](https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619633344/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil-Peque_wtxlju.jpg "El patinete eléctrico Xiaomi 1S")
 
 </td>
 
@@ -306,6 +306,8 @@ Regulador de velocidad</td>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 
 <div class="cons-item">Mayor peso que otros modelos similares</div>
+
+</div>
 
 ## Un precio justo para quienes buscan un patinete ligero con buena autonomía
 
