@@ -35,6 +35,10 @@ CLICK Hemos analizado a fondo el modelo Xiaomi 1S, el más parecido al Xiaomi 36
 
 CLICK Un artículo completo acerca del Xiaomi  Essential, la versión más ligera y barata que los Xiaomi 1S y 365 / Ver mejor precio
 
+## Ver video: análisis de Xiaomi Pro 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qx2MEZ5teWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
 
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
@@ -47,7 +51,7 @@ Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo 
 <tr>
 <td>
 </td>
-<td>!\[Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")</td>
+<td>!\\[Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")</td>
 </tr>
 <tr>
 <td>Modelo</td>
