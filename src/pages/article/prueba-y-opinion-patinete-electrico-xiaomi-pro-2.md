@@ -13,7 +13,11 @@ articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
-## El descendiente del Xiaomi 365 que tiene 40% más autonomía que Mi electric scooter 1S
+# El patinete Xiaomi Pro 2
+
+## El patinete eléctrico Xiaomi Pro 2, el heredero del Xiaomi 365 con más autonomía a un precio atractivo
+
+**El descendiente del Xiaomi 365 que tiene 40% más autonomía que Mi electric scooter 1S**
 
 CLICK Hemos analizado las **mejores soluciones de movilidad urbana en general y las hemos analizado según tus necesidades** personales
 
@@ -35,11 +39,15 @@ CLICK Hemos analizado a fondo el modelo Xiaomi 1S, el más parecido al Xiaomi 36
 
 CLICK Un artículo completo acerca del Xiaomi  Essential, la versión más ligera y barata que los Xiaomi 1S y 365 / Ver mejor precio
 
-## Ver video: análisis de Xiaomi Pro 2
+## Video análisis completo del Xiaomi Mijia Pro 2
+
+<div class=”iframe-container”>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qx2MEZ5teWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Buenas características técnicas y mejoras funcionales respecto al modelo Pro 1 de 2019
+</div>
+
+## Ficha técnica: Buenas características técnicas respecto al Mi Pro 1 de 2019
 
 Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado en el año 2019 y recoge varias mejoras solicitadas por los compradores.
 
@@ -48,112 +56,163 @@ Cuenta con un **motor de 300W** de potencia y una **batería de 12.800 mAh (460W
 Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo diario en calles con todo tipo de desnivel**, sin tener que preocuparse por recargar batería con frecuencia.
 
 <table class="product-table">
+
 <tr>
+
+<td></td>
+
 <td>
-</td>
-<td>!\\[Picture](/img/1129-xiaomi-mi-electric-scooter-pro-2-patinete-electrico-negro.jpg "Olivier Morgan")</td>
-</tr>
+
+![Patinete electrico Xiaomi Mi Pro 2](/img/patinete-electrico-hiboy-s2-pro-perspectiva-peque.jpg "Patinete electrico Xiaomi Mi Pro 2")
+
+</td></tr>
+
 <tr>
+
 <td>Modelo</td>
-<td>SMARTGYRO Xtreme SpeedWay V2.0</td>
-</tr>
+
+<td>SMARTGYRO Xtreme SpeedWay V2.0</td></tr>
+
 <tr>
+
 <td>Precio min</td>
-<td>550</td>
-</tr>
+
+<td>550</td></tr>
+
 <tr>
+
 <td>Peso (en Kg)</td>
-<td>22</td>
-</tr>
+
+<td>22</td></tr>
+
 <tr>
+
 <td>Dimensiones desplegada (en cm)</td>
-<td>119 / 130 / 60</td>
-</tr>
+
+<td>119 / 130 / 60</td></tr>
+
 <tr>
+
 <td>Dimensiones plegada (en cm)</td>
-<td>119 / 450 / 23</td>
-</tr>
+
+<td>119 / 450 / 23</td></tr>
+
 <tr>
+
 <td>Batería: capacidad en mAh</td>
-<td>13000</td>
-</tr>
+
+<td>13000</td></tr>
+
 <tr>
+
 <td>Batería: capacidad en Wh</td>
-<td>468</td>
-</tr>
+
+<td>468</td></tr>
+
 <tr>
+
 <td>Potencia nominal (en W)</td>
-<td>500</td>
-</tr>
+
+<td>500</td></tr>
+
 <tr>
+
 <td>Tiempo de carga (en h)</td>
-<td>7</td>
-</tr>
+
+<td>7</td></tr>
+
 <tr>
+
 <td>Carga máxima</td>
-<td>120</td>
-</tr>
+
+<td>120</td></tr>
+
 <tr>
+
 <td>Tamaño de las ruedas (en pulgadas)</td>
-<td>10''</td>
-</tr>
+
+<td>10''</td></tr>
+
 <tr>
+
 <td>Tipo de rueda</td>
-<td>Tubeless</td>
-</tr>
+
+<td>Tubeless</td></tr>
+
 <tr>
+
 <td>Autonomía (en km) estimada por el fabricante</td>
-<td>25</td>
-</tr>
+
+<td>25</td></tr>
+
 <tr>
+
 <td>Velocidad máxima (en km/h)</td>
-<td>25</td>
-</tr>
+
+<td>25</td></tr>
+
 <tr>
+
 <td>Modos</td>
-<td>1 (10 km/h)/ 2 (15km/h) / 3 (25 km/h)</td>
-</tr>
+
+<td>1 (10 km/h)/ 2 (15km/h) / 3 (25 km/h)</td></tr>
+
 <tr>
-<td>Cuestas (en grados)</td>
-<td>15</td>
-</tr>
+
+<td>Cuestas</td>
+
+<td>15</td></tr>
+
 <tr>
+
 <td>Sistema de frenado</td>
-<td>Freno de disco</td>
-</tr>
+
+<td>Freno de disco</td></tr>
+
 <tr>
+
 <td>Suspensiones</td>
-<td>Suspensión doble reforzada delantera y trasera</td>
-</tr>
+
+<td>Suspensión doble reforzada delantera y trasera</td></tr>
+
 <tr>
+
 <td>Pantalla LCD</td>
-<td>Sí</td>
-</tr>
+
+<td>Sí</td></tr>
+
 <tr>
+
 <td>Aplicación</td>
-<td>No</td>
-</tr>
+
+<td>No</td></tr>
+
 <tr>
+
 <td>Alumbrado</td>
-<td>Foco de LED delantero y luz de freno trasera, bandas LED laterales e intermitentes</td>
-</tr>
+
+<td>Foco de LED delantero y luz de freno trasera, bandas LED laterales e intermitentes</td></tr>
+
 <tr>
+
 <td>Extras</td>
-<td>Pata de cabra</td>
-</tr>
+
+<td>Pata de cabra</td></tr>
+
 <tr>
+
 <td>Grado de resistencia al agua</td>
-<td>IPX4 (puede soportar una leve salpicadura de agua)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+
+<td>IPX4 (puede soportar una leve salpicadura de agua)</td></tr>
+
+<tr><td>Consultar precio</td>
+
+<td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a>
+
 </td>
+
 </tr>
+
 </table>
 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
@@ -161,22 +220,37 @@ CLICK Hemos agrupado la información pertinente en una tabla comparativa de todo
 ## Pros y contras
 
 <div class="row">
+
 <div class="col">
+
 <div class="pros-header">Pros</div>
+
 <div class="pros-item">Excelente autonomía</div>
+
 <div class="pros-item">Motor capaz de subir pendientes de 20º</div>
+
 <div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+
 <div class="pros-item">Neumáticos con cámara de aire que absorben las vibraciones</div>
+
 <div class="pros-item">Freno motor con recuperación de energía de frenado</div>
+
 <div class="pros-item">Excelente freno manual de disco trasero</div>
+
 <div class="pros-item">Ideal para personas altas</div>
 
 </div>
+
 <div class="col">
+
 <div class="cons-header">Contras</div>
+
 <div class="cons-item">No posee amortiguación</div>
+
 <div class="cons-item">Requiere mucho tiempo para recargar batería</div>
+
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
+
 <div class="cons-item">Mayor peso que otros modelos similares</div>
 
 ## Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
@@ -189,9 +263,7 @@ Esto lo hace más caro que muchas de las versiones de su competidor [Cecotec Bon
 
 CLICK Hemos elaborado una metodología rigurosa y original de comparación de precios, para determinar que patinete tiene la mejor relación calidad/precio por cada segmento
 
-## Una autonomía de hasta 45 kilómetros que compensa el largo tiempo de carga de su batería de 460 Wh
-
-![Una enorme autonomía y un freno regenerativo](/img/patinete-electrico-hiboy-s2-pro-regenerative.jpg "Una enorme autonomía y un freno regenerativo")
+## Una autonomía de hasta 45 km (o 27 km) que tarda 8,5 horas en cargarse
 
 La **batería de este patinete eléctrico Xiaomi es fabricada por LG** y usa **celdas de litio**, con una capacidad de 12.800 mAh, lo que equivale a **460 Wh**.
 
@@ -202,8 +274,6 @@ Su **tiempo de carga de 8,5 horas** es algo larga, pero se compensa con su gran 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
 ## Excelente motor capaz de subir cuestas de hasta 20 grados
-
-![Un excelente motor de 300 W](/img/patinete-electrico-hiboy-s2-pro-motor.jpg "Un excelente motor de 300 W regenerativo")
 
 El monopatín electrico Xiaomi Mi Scooter Pro 2 viene equipado de un **motor sin escobillas con potencia nominal de 300 Kw** y capacidad máxima de 600 Kw.
 
@@ -219,7 +289,7 @@ Cada modo tiene una velocidad límite y permite andar con seguridad en diferente
 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
-## No es el más ligero de los patinetes Xiaomi, pero es muy fácil de doblar y transportar
+## No es el más ligero de los Xiaomi, pero es fácil de doblar y transportar
 
 Xiaomi hace uso intensivo del **aluminio de calidad aeronáutica** para dar más fuerza estructural a sus patinetes. Y este patinete eléctrico Xiaomi no es la excepción.
 
@@ -241,7 +311,7 @@ Además, se ha mejorado su área de carga, con cubiertas antideslizantes y refle
 
 Finalmente, se mejoró la ubicación de los cables, que ahora están un poco más ocultos en el cuerpo del patinete.
 
-## Cuenta con la excelente pantalla LCD y sistema de diagnóstico de los últimos modelos de Xiaomi
+## La excelente pantalla LCD y el sistema de diagnóstico de los últimos modelos de Xiaomi
 
 El **Xiaomi Pro 2** cuenta con una **pantalla de control LCD ubicada en el manillar**, característica que ya habíamos visto en el **Pro 1** y ahora también en el Essential y el S1 de 2020.
 
@@ -275,7 +345,7 @@ Al usar el modo de conducción Peatonal, la luz trasera parpadea en forma interm
 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
-## Frenada segura con sistema regenerativo KERS y antibloqueo complementados por neumáticos de mejor calidad
+## Frenada segura con sistema regenerativo KERS y antibloqueo potenciados por neumáticos de mejor calidad
 
 El sistema de frenos del patinete Xiaomi Pro 2 está conformado por un sistema de doble frenado con el **motor a inversión de polaridad en la rueda delantera** y un **freno de disco trasero de 120 milímetros con tecnología antibloqueo eABS**.
 
@@ -287,7 +357,7 @@ El rodaje está a cargo de ruedas de acero TST reforzadas con **cámaras neumát
 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
-## La falta de amortiguación se compensa con unos neumáticos hinchables y adherentes; es fácilmente ajustable para ser conducido por personas altas
+## Una falta de amortiguación compensada con neumáticos hinchables y adherentes
 
 Se trata de uno de los monopatines Xiaomi más silenciosos al andar, gracias a su motor brushless. Sin embargo, **padece de la falta de amortiguación** de los modelos de las series [Essential](https://www.notion.so/XXX) y [S1](https://www.notion.so/XXX).
 
@@ -297,7 +367,7 @@ Sin embargo, esto se ve compensado por los las **ruedas neumáticas hinchables q
 
 CLICK Hemos agrupado la información pertinente en una tabla comparativa de todos los scooters eléctricos analizados
 
-## Los clientes de Amazon aprecian la rueda y el neumático de repuesto y la gran autonomía del patinete
+## Los clientes de Amazon aprecian la rueda de repuesto y la gran autonomía del patinete
 
 Este modelo ha tenido buenas opiniones de los compradores en el portal de Amazon España.
 
@@ -311,7 +381,7 @@ En cuanto a lo negativo, algunos usuarios se quejan de la **falta de amortiguaci
 
 CLICK Ver mejor precio
 
-## Conclusión: un precio moderado por un patinete con muy buen desempeño; una excelente apuesta de Xiaomi para mantenerse entre los líderes del mercado de scooters eléctricos
+## Conclusión: un precio moderado por un patinete con muy buen desempeño y gran autonomía
 
 Si bien n**o es uno de los patinetes Xiaomi más baratos**, el **Pro 2** representa una mejora sobre el ya reconocido modelo **Pro 1** de 2019.
 
@@ -343,196 +413,382 @@ CLICK Hemos probado en bonus **el modelo  SMARTGYRO Xtreme SpeedWay V2.0**, con 
 
 ## Nuestro Benchmark: tabla comparativa
 
-"<table class=""product-table"">
-
 <table class="product-table">
+
 <tr>
+
 <td>
+
 </td>
+
 <td>Foto</td>
+
 <td>Foto</td>
+
 <td>Foto</td>
+
 <td>Foto</td>
+
 </tr>
+
 <tr>
+
 <td></td>
+
 <td>Modelo analizado</td>
+
 <td>Alternativa más parecida</td>
+
 <td>Alternativa más costosa 1</td>
+
 <td>Alternativa más costosa 2</td>
+
 </tr>
+
 <tr>
+
 <td>Modelo</td>
+
 <td>Xiaomi Mi PRO 2</td>
+
 <td>Cecotec Bongo Serie A Advance Connected MAX</td>
+
 <td>Hiboy S2 Pro</td>
+
 <td>SMARTGYRO Xtreme SpeedWay V2.0</td>
+
 </tr>
+
 <tr>
+
 <td>Precio min</td>
+
 <td>445</td>
+
 <td>450</td>
+
 <td>470</td>
+
 <td>550</td>
+
 </tr>
+
 <tr>
+
 <td>Peso (en Kg)</td>
+
 <td>14.2</td>
+
 <td>15</td>
+
 <td>16.5</td>
+
 <td>22</td>
+
 </tr>
+
 <tr>
+
 <td>Dimensiones desplegada (en cm)</td>
+
 <td>113 / 43 / 118</td>
+
 <td>116,6 / 46,1 / 108</td>
+
 <td>116 / 45 / 121</td>
+
 <td>119 / 130 / 60</td>
+
 </tr>
+
 <tr>
+
 <td>Dimensiones plegada (en cm)</td>
+
 <td>113 / 43 / 49</td>
+
 <td>0</td>
+
 <td>116 / 42 / 49cm</td>
+
 <td>119 / 450 / 23</td>
+
 </tr>
+
 <tr>
+
 <td>Batería: capacidad en mAh</td>
+
 <td>12800</td>
+
 <td>12800</td>
+
 <td>11400</td>
+
 <td>13000</td>
+
 </tr>
+
 <tr>
+
 <td>Batería: capacidad en Wh</td>
+
 <td>460</td>
+
 <td>460</td>
+
 <td>410</td>
+
 <td>468</td>
+
 </tr>
+
 <tr>
+
 <td>Potencia nominal (en W)</td>
+
 <td>300</td>
+
 <td>350</td>
+
 <td>350</td>
+
 <td>500</td>
+
 </tr>
+
 <tr>
+
 <td>Tiempo de carga (en h)</td>
+
 <td>8.5</td>
+
 <td>4 a 5</td>
+
 <td>4 a 6</td>
+
 <td>7</td>
+
 </tr>
+
 <tr>
+
 <td>Carga máxima</td>
+
 <td>100</td>
+
 <td>-</td>
+
 <td>130</td>
+
 <td>120</td>
+
 </tr>
+
 <tr>
+
 <td>Tamaño de las ruedas (en pulgadas)</td>
+
 <td>8,5"</td>
+
 <td>8,5"</td>
+
 <td>10''</td>
+
 <td>10''</td>
+
 </tr>
+
 <tr>
+
 <td>Tipo de rueda</td>
+
 <td>Cámara de aire</td>
+
 <td>Tubeless</td>
+
 <td>Sólidas</td>
+
 <td>Tubeless</td>
+
 </tr>
+
 <tr>
+
 <td>Autonomía (en km) estimada por el fabricante</td>
+
 <td>45</td>
+
 <td>45</td>
+
 <td>40</td>
+
 <td>25</td>
+
 </tr>
+
 <tr>
+
 <td>Velocidad máxima (en km/h)</td>
+
 <td>25</td>
+
 <td>25</td>
+
 <td>25</td>
+
 <td>25</td>
+
 </tr>
+
 <tr>
+
 <td>Modos</td>
+
 <td>Paetonal (5 km/h) /Estándar (15 km/h) / Sport (25 km/h)
+
 Regulador de velocidad</td>
+
 <td>Eco, Confort y Sport (25 km/h)
+
 Regulador de velocidad</td>
+
 <td>25 km/h y 17.7 km/h
+
 Regulador de velocidad</td>
+
 <td>1 (10 km/h)/ 2 (15km/h) / 3 (25 km/h)</td>
+
 </tr>
+
 <tr>
+
 <td>Cuestas (en grados)</td>
+
 <td>20</td>
+
 <td>0</td>
+
 <td>15</td>
+
 <td>15</td>
+
 </tr>
+
 <tr>
+
 <td>Sistema de frenado</td>
+
 <td>Freno de disco + Freno regenerativo</td>
+
 <td>freno de disco, eléctrico regenerativo y freno de pie</td>
+
 <td>Frenado eléctrico regenerativo y freno de disco</td>
+
 <td>Freno de disco</td>
+
 </tr>
+
 <tr>
+
 <td>Suspensiones</td>
+
 <td>No</td>
+
 <td>No</td>
+
 <td>Trasera doble</td>
+
 <td>Suspensión doble reforzada delantera y trasera</td>
+
 </tr>
+
 <tr>
+
 <td>Pantalla LCD</td>
+
 <td>Sí</td>
+
 <td>Sí</td>
+
 <td>Sí</td>
+
 <td>Sí</td>
+
 </tr>
+
 <tr>
+
 <td>Aplicación</td>
+
 <td>Sí</td>
+
 <td>Sí</td>
+
 <td>Hiboy S2 APP</td>
+
 <td>No</td>
+
 </tr>
+
 <tr>
+
 <td>Alumbrado</td>
+
 <td>Luz delantera y trasera</td>
+
 <td>Luz delantera y trasera</td>
+
 <td>Faro delantero, bandas luminosas laterales, luz trasera</td>
+
 <td>Foco de LED delantero y luz de freno trasera, bandas LED laterales e intermitentes</td>
+
 </tr>
+
 <tr>
+
 <td>Extras</td>
+
 <td>Pata de cabra</td>
+
 <td>Pata de cabra, batería extraible, sistema Mazinger de puños extraibles</td>
+
 <td>Pata de cabra</td>
+
 <td>Pata de cabra</td>
+
 </tr>
+
 <tr>
+
 <td>Grado de resistencia al agua</td>
+
 <td>IP 54 (No resiste a la lluvia)</td>
+
 <td>No se recomienda exponer a la lluvia</td>
+
 <td>IPX4 (puede soportar una leve salpicadura de agua)</td>
+
 <td>IPX4 (puede soportar una leve salpicadura de agua)</td>
+
 </tr>
+
 <tr>
+
 <td></td>
+
 <td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+
 <td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+
 <td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+
 <td><a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="xiaomi-pro-2">Ver en Amazon</a></td>
+
 </td>
+
 </tr>
+
 </table>
 
 CLICK Hemos **agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos** que hemos analizado
