@@ -142,7 +142,7 @@ body {
 }
 /* ====== feature ====== */
 .feature {
-  background: linear-gradient(#f6f5fb 50%, transparent 50%);
+  background: linear-gradient(#e4edfc 50%, transparent 50%);
 }
 .feature__wrapper {
   position: relative;
@@ -355,7 +355,7 @@ body {
 
 /* ====== test ====== */
 .test__wrapper {
-  background: #f8f8ff;
+  background: #e4edfc;
   text-align: center;
   margin: 4rem auto;
   border-radius: 0.25rem;
@@ -384,7 +384,7 @@ body {
 
 /* ====== footer ====== */
 .footer {
-  background: #f6f5fb;
+  background: #e4edfc;
   color: #6b7280;
   margin-top: auto;
 }
