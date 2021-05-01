@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Sleeps',
-    description: 'This is a brief description of Sleeps!',
-    siteUrl: 'https://www.example.com',
+    title: 'guiadelconsumidor',
+    description: 'Probamos patinetes para ti',
+    siteUrl: 'https://guiadelconsumidor.es/',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
