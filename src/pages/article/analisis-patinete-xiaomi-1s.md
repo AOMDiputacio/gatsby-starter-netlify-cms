@@ -12,11 +12,11 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
 <!--
-\\*\\*Slug\\*\\*: analisis-patinete-xiaomi-1s
+\\\*\\\*Slug\\\*\\\*: analisis-patinete-xiaomi-1s
 
-\\*\\*Palabras clave:\\*\\* patin electrico xiaomi, e scooter e-scooter, scooter electric
+\\\*\\\*Palabras clave:\\\*\\\* patin electrico xiaomi, e scooter e-scooter, scooter electric
 
-\\*\\*Clearscope:\\*\\* \\[https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize](https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize)
+\\\*\\\*Clearscope:\\\*\\\* \\\[https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize](https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize)
 
 # El patinete eléctrico Xiaomi 1S
 -->
@@ -37,7 +37,7 @@ El 1S salió a la venta en octubre de 2020 **junto a su versión económica Mi E
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
-CLICK Ver mejor precio
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
 
 [Hemos juntado en un solo artículo nuestro análisis completo de la marca Xiaomi y de todos sus patinetes](https://guiadelconsumidor.es/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
