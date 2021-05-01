@@ -204,7 +204,7 @@ body {
 }
 .cta__link:hover {
   color: #ffffff;
-  background: #8529ff;
+  background: #45b6fe;
 }
 @media (min-width: 624px) {
   .cta {
@@ -271,7 +271,7 @@ body {
   align-items: center;
   margin-top: auto;
   padding: 1rem 1.25rem;
-  color: #8529ff;
+  color: #0000ff;
   border: 1px solid;
   font-weight: 500;
   font-size: 0.9rem;
@@ -281,7 +281,7 @@ body {
   transition: transform 0.25s;
 }
 .feature-article__link:hover {
-  color: #8529ff;
+  color: #45b6fe;
 }
 .feature-article__link:hover svg {
   transform: translateX(0.25rem);
@@ -414,7 +414,7 @@ body {
   margin: 0.5rem 0;
 }
 .footer__list a:hover {
-  color: #5c00d8;
+  color: #0000ff;
 }
 .footer__social-icons {
   margin-top: auto;
@@ -424,7 +424,7 @@ body {
   margin-right: 0.75rem;
 }
 .footer__social-icons a:hover {
-  color: #5c00d8;
+  color: #0000ff;
 }
 .footer__newsletter {
   margin-top: auto;
@@ -440,7 +440,7 @@ body {
   outline: none;
 }
 .footer__newsletter button {
-  background: #0bb46e;
+  background: #0000ff;
   border: none;
   border-radius: 0.25rem;
   padding: 0.5rem;
