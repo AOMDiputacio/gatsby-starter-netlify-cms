@@ -1,31 +1,42 @@
 ---
 dataKey: articles
-title: "El patinete eléctrico Xiaomi 1S: análisis"
+title: "Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365"
 slug: analisis-patinete-xiaomi-1s
 date: 2021-04-28T20:07:42.839Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: /img/patinete-xiaomi.jpg
+articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg
 relatedArticles:
+  - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: guia-ultima-del-patinete-electrico
 ---
 <!--
-\\\*\\\*Slug\\\*\\\*: analisis-patinete-xiaomi-1s
 
-\\\*\\\*Palabras clave:\\\*\\\* patin electrico xiaomi, e scooter e-scooter, scooter electric
+**Slug**:
+analisis-patinete-xiaomi-1s
 
-\\\*\\\*Clearscope:\\\*\\\* \\\[https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize](https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize)
+**Palabras clave:** patin electrico xiaomi, e scooter e-scooter, scooter electric
 
-# El patinete eléctrico Xiaomi 1S
--->
+**Clearscope:** [https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize](https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize)
+
+# Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365
+# Xiaomi 1S
 
 ![Un patinete eléctrico equilibrado y confortable para cada día](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg "Un patinete eléctrico equilibrado y confortable para cada día")
 
+
+
+-->
+
+
+
+
+
 ## El patinete eléctrico Xiaomi 1S, el digno sucesor del pionero Xiaomi 365
 
-[ ¿Todavía no sabes que solución de movilidad eléctrica te conviene mejor? Hemos analizado las mejores soluciones de movilidad urbana y las hemos analizado según tus necesidades personales](https://guiadelconsumidor.es/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [ ¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 En 2017 la gigante china Xiaomi lanzó su **famoso modelo de patinete eléctrico M365**, que fue sin duda el mejor patinete eléctrico durante mucho tiempo y que marcó un hito en ventas en el sector de la movilidad eléctrica urbana. En octubre de 2020 Xiaomi respondió al clamor del mercado y **lanzó a su digno sucesor, el patinete Xiaomi Mi Electric Scooter 1S**.
 
@@ -37,34 +48,11 @@ El 1S salió a la venta en octubre de 2020 **junto a su versión económica Mi E
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
-[Hemos juntado en un solo artículo nuestro análisis completo de la marca Xiaomi y de todos sus patinetes](https://guiadelconsumidor.es/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
-[Hemos probado extensivamente el patinete Xiaomi Pro 2 y realizado un artículo dedicado / Ver mejor precio](https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-mi-pro2)
-
-[Nuestro artículo acerca del modelo Xiaomi Mi Essential / Ver mejor precio](https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential)
-
-## Contenido
-
-* [El patinete eléctrico Xiaomi 1S, el digno sucesor del pionero Xiaomi 365](#el-patinete-eléctrico-xiaomi-1s-el-digno-sucesor-del-pionero-xiaomi-365)
-* [Contenido](#contenido)
-* [Video de análisis completo del Xiaomi Mijia 1S](#video-de-análisis-completo-del-xiaomi-mijia-1s)
-* [Ficha técnica: un patinete ligero y práctico para moverse por la ciudad](#ficha-técnica-un-patinete-ligero-y-práctico-para-moverse-por-la-ciudad)
-* [Pros y contras](#pros-y-contras)
-* [Un precio justo para quienes buscan un patinete ligero con buena autonomía](#un-precio-justo-para-quienes-buscan-un-patinete-ligero-con-buena-autonomía)
-* \[El Xiaomi Mi 1S mantiene la misma batería de 280 Wh de su antecesor M365 ](#el-xiaomi-mi-1s-mantiene-la-misma-batería-de-280-wh-de-su-antecesor-m365-)
-* [Podrás ir seguro en todo tipo de tráfico gracias a su velocidad máxima de 25 km/h y 3 modos de conducción](#podrás-ir-seguro-en-todo-tipo-de-tráfico-gracias-a-su-velocidad-máxima-de-25-kmh-y-3-modos-de-conducción)
-* [Gran resistencia y peso bajo gracias al aluminio de calidad aeronáutica](#gran-resistencia-y-peso-bajo-gracias-al-aluminio-de-calidad-aeronáutica)
-* [Tiene el mismo diseño de su hermano menor Mi Essential, también una versión pulida del M365 original](#tiene-el-mismo-diseño-de-su-hermano-menor-mi-essential-también-una-versión-pulida-del-m365-original)
-* [Un sistema de autodiagnóstico y una pantalla LED que facilitan una información muy completa](#un-sistema-de-autodiagnóstico-y-una-pantalla-led-que-facilitan-una-información-muy-completa)
-* [La aplicación Xiaomi: una novedad por la marca y  un clásico para el sector](#la-aplicación-xiaomi-una-novedad-por-la-marca-y--un-clásico-para-el-sector)
-* [Luz frontal más potente y más reflectores para ser visto](#luz-frontal-más-potente-y-más-reflectores-para-ser-visto)
-* [Neumáticos más resistentes a los pinchazos y doble sistema de frenos](#neumáticos-más-resistentes-a-los-pinchazos-y-doble-sistema-de-frenos)
-* [Algo incómodo para circular en calles pavimentadas o superficies irregulares](#algo-incómodo-para-circular-en-calles-pavimentadas-o-superficies-irregulares)
-* [Compradores destacan autonomía y calidad de construcción, pero advierten sobre problemas en el acelerador](#compradores-destacan-autonomía-y-calidad-de-construcción-pero-advierten-sobre-problemas-en-el-acelerador)
-* [Conclusión: El patinete ideal para quienes buscan una combinación de precio accesible y buenas prestaciones](#conclusión-el-patinete-ideal-para-quienes-buscan-una-combinación-de-precio-accesible-y-buenas-prestaciones)
-* [Mejores alternativas a este patinete según nuestro modelo de regresión](#mejores-alternativas-a-este-patinete-según-nuestro-modelo-de-regresión)
++ [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
 ## Video de análisis completo del Xiaomi Mijia 1S
 
@@ -82,52 +70,137 @@ El patinete eléctrico **Xiaomi 1S es excelente para movilizarse en entornos urb
 
 Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 
-| Modelo                                       | SMARTGYRO Xtreme SpeedWay V2.0                                                     |
-| -------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Precio min                                   | 550                                                                                |
-| Peso (en Kg)                                 | 22                                                                                 |
-| Dimensiones desplegada (en cm)               | 119 / 130 / 60                                                                     |
-| Dimensiones plegada (en cm)                  | 119 / 450 / 23                                                                     |
-| Batería: capacidad en mAh                    | 13000                                                                              |
-| Batería: capacidad en Wh                     | 468                                                                                |
-| Potencia nominal (en W)                      | 500                                                                                |
-| Tiempo de carga (en h)                       | 7                                                                                  |
-| Carga máxima                                 | 120                                                                                |
-| Tamaño de las ruedas (en pulgadas)           | 10''                                                                               |
-| Tipo de rueda                                | Tubeless                                                                           |
-| Autonomía (en km) estimada por el fabricante | 25                                                                                 |
-| Velocidad máxima (en km/h)                   | 25                                                                                 |
-| Modos                                        | 1 (10 km/h)/ 2 (15km/h) / 3 (25 km/h)                                              |
-| Cuestas (en grados)                          | 15                                                                                 |
-| Sistema de frenado                           | Freno de disco                                                                     |
-| Suspensiones                                 | Suspensión doble reforzada delantera y trasera                                     |
-| Pantalla LCD                                 | Sí                                                                                 |
-| Aplicación                                   | No                                                                                 |
-| Alumbrado                                    | Foco de LED delantero y luz de freno trasera, bandas LED laterales e intermitentes |
-| Extras                                       | Pata de cabra                                                                      |
-| Grado de resistencia al agua                 | IPX4 (puede soportar una leve salpicadura de agua)                                 |
+<table class="product-table">
+<tr>
+<td>
+</td>
+<td>
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619633344/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil-Peque_wtxlju.jpg" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+</td>
+</tr>
+<tr>
+<td>Modelo</td>
+<td>Hiboy MAX V2</td>
+</tr>
+<tr>
+<td>Precio min</td>
+<td>370</td>
+</tr>
+<tr>
+<td>Peso (en Kg)</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Dimensiones desplegada (en cm)</td>
+<td>113 / 42 / 120</td>
+</tr>
+<tr>
+<td>Dimensiones plegada (en cm)</td>
+<td>113 / 42 / 48</td>
+</tr>
+<tr>
+<td>Batería: capacidad en mAh</td>
+<td>7500</td>
+</tr>
+<tr>
+<td>Batería: capacidad en Wh</td>
+<td>270</td>
+</tr>
+<tr>
+<td>Potencia nominal (en W)</td>
+<td>350</td>
+</tr>
+<tr>
+<td>Tiempo de carga (en h)</td>
+<td>4 a 6</td>
+</tr>
+<tr>
+<td>Carga máxima</td>
+<td>135</td>
+</tr>
+<tr>
+<td>Tamaño de las ruedas (en pulgadas)</td>
+<td>8,5"</td>
+</tr>
+<tr>
+<td>Tipo de rueda</td>
+<td>Sólidas</td>
+</tr>
+<tr>
+<td>Autonomía (en km) estimada por el fabricante</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Velocidad máxima (en km/h)</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Modos</td>
+<td>18 km/h y 25 km/h
+Regulador de velocidad</td>
+</tr>
+<tr>
+<td>Cuestas (en grados)</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Sistema de frenado</td>
+<td>Frenado eléctrico NO regenerativo y freno de disco</td>
+</tr>
+<tr>
+<td>Suspensiones</td>
+<td>Delantera y trasera doble</td>
+</tr>
+<tr>
+<td>Pantalla LCD</td>
+<td>Sí</td>
+</tr>
+<tr>
+<td>Aplicación</td>
+<td>Hiboy MAX APP</td>
+</tr>
+<tr>
+<td>Alumbrado</td>
+<td>Faro delantero, bandas luminosas laterales, luz trasera</td>
+</tr>
+<tr>
+<td>Extras</td>
+<td>Pata de cabra</td>
+</tr>
+<tr>
+<td>Grado de resistencia al agua</td>
+<td>IPX4 (puede soportar una leve salpicadura de agua)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
 
 ## Pros y contras
 
-<div class=""row"">
+<div class= "row ">
+<div class= "col ">
+<div class= "pros-header ">Pros</div>
+<div class= "pros-item ">Relación calidad/precio de referencia</div>
+<div class= "pros-item ">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+<div class= "pros-item ">Neumáticos con cámara de aire que absorben las vibraciones</div>
+<div class= "pros-item ">Freno motor con recuperación de energía de frenado</div>
+<div class= "pros-item ">Excelente freno manual de disco trasero</div>
 
-<div class="col"">
-<div class="pros-header">Pros</div>
-<div class="pros-item">Relación calidad/precio de referencia</div>
-<div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
-<div class="pros-item">Neumáticos con cámara de aire que absorben las vibraciones</div>
-<div class="pros-item">Freno motor con recuperación de energía de frenado</div>
-<div class="pros-item">Excelente freno manual de disco trasero</div>
+</div>
+<div class= "col ">
+<div class= "cons-header ">Contras</div>
+<div class= "cons-item ">No posee amortiguación</div>
+<div class= "cons-item ">Limitado a usuarios con peso máximo de 100 kilogramos</div>
+<div class= "cons-item ">No posee batería de carga rápida (requiere hasta 6 horas)</div>
 </div>
 
-<div class="col"">
-<div class="cons-header">Contras</div>
-<div class="cons-item">No posee amortiguación</div>
-<div class="cons-item">Limitado a usuarios con peso máximo de 100 kilogramos</div>
-<div class="cons-item">No posee batería de carga rápida (requiere hasta 6 horas)</div>
-</div>
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
 
 ## Un precio justo para quienes buscan un patinete ligero con buena autonomía
 
@@ -137,9 +210,10 @@ Pero es posible comprarlo a través del sistema de pago por cuotas en 90 días �
 
 Si consideramos que este patinete es liviano y cuenta con el mismo motor del Essential, pero con más autonomía, podemos afirmar que **tiene un precio justo**. Además está en un rango accesible para el público joven que quiere iniciarse en el mundo de la movilidad eléctrica.
 
-[¿Qué modelo de patinete se adapta mejor a tus necesidades al mejor precio? La respuesta definitiva en un gráfico, sea cual sea tu necesidad](https://guiadelconsumidor.es/patinetes-electricos/guia-ultima-del-patinete-electrico)
+[¿Qué modelo de patinete se adapta mejor a tus necesidades al mejor precio? La respuesta definitiva en un gráfico, sea cual sea tu necesidad](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ## El Xiaomi Mi 1S mantiene la misma batería de 280 Wh de su antecesor M365 \
+
 
 ![Una batería de 280 Wh con 500 ciclos de cargade vida util](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633345/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Baterias_x7jteu.jpg "Una batería de 280 Wh con 500 ciclos de cargade vida util")
 
@@ -153,7 +227,8 @@ Sin embargo, esta batería es más que suficiente para darle una **autonomía de
 
 Esto lo hace ideal para quienes necesitan desplazarse a corta distancia del trabajo de casa y no quieren quedarse sin batería a mitad de camino.
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
 
 ## Podrás ir seguro en todo tipo de tráfico gracias a su velocidad máxima de 25 km/h y 3 modos de conducción
 
@@ -169,13 +244,14 @@ Aunque teóricamente podría ir más rápido, **la DGT establece un límite de 2
 
 Cuenta con **3 modos de conducción ajustables a través de su pantalla LCD o de la aplicación Mi Home**. Estos modos cubren los tres escenarios más comunes que encontrará el usuario en un entorno urbano.
 
-* **Peatonal:** Limita la velocidad a **5 km/h** y ahorra batería.
-* **Estándar:** La velocidad máxima es de **15 km/h** y brinda un gran equilibrio entre potencia y ahorro de energía.
-* **Deportivo:** Permite ir a un máximo de **25 km/h** y superar elevaciones de terreno de **14 grados** máximo.
-
-[Hemos juntado en un solo artículo nuestro análisis completo de la marca Xiaomi y de todos sus patinetes](https://guiadelconsumidor.es/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ **Peatonal:** Limita la velocidad a **5 km/h** y ahorra batería.
++ **Estándar:** La velocidad máxima es de **15 km/h** y brinda un gran equilibrio entre potencia y ahorro de energía.
++ **Deportivo:** Permite ir a un máximo de **25 km/h** y superar elevaciones de terreno de **14 grados** máximo.
 
 ![El sistema de frenado con recuperación de energía Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633346/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-REcuperacion-energia_m2pkis.jpg "El sistema de frenado con recuperación de energía Xiaomi")
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
+
 
 ## Gran resistencia y peso bajo gracias al aluminio de calidad aeronáutica
 
@@ -193,7 +269,7 @@ Para desbloquear el manillar basta con presionar la manilla de la campaña, que 
 
 Adicionalmente, se ha mejorado el proceso de impermeabilización del chasis y la fijación de batería y conectores para que resistan mejor al clima y a las vibraciones.
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Tiene el mismo diseño de su hermano menor Mi Essential, también una versión pulida del M365 original
 
@@ -211,23 +287,25 @@ Destaca por fín que viene de fábrica con una porta matrículas en el guardabar
 
 Aunque tiene gran parecido con el M365 original, el patinete eléctrico Xiaomi 1S incorpora de fábrica el **sistema de control por pantalla LCD en el manillar** que caracterizó a la serie Pro.
 
-A través de esta pantalla, el usuario puede encender el patinete,  las luces y programar el modo de conducción. También puede ver información sobre distancia recorrida, nivel de batería y otros datos importantes.
+A través de esta pantalla, el usuario puede encender el patinete, las luces y programar el modo de conducción. También puede ver información sobre distancia recorrida, nivel de batería y otros datos importantes.
 
 Una novedad muy interesante es que el software que controla el Mi Essential incluye el **sistema de autodiagnóstico de fallas** presente en sus modelos de scooter más caros.
 
 De esta forma **serás notificado con un icono luminoso sobre cualquier problema con el motor, batería, sistema de recarga y frenos**.
 
-## La aplicación Xiaomi: una novedad por la marca y  un clásico para el sector
+## La aplicación Xiaomi: una novedad por la marca y un clásico para el sector
 
 Gracias a la pantalla LCD y el minicomputador de control en su interior, los dueños del patinete Xiaomi 1S pueden conectarlo vía bluetooth con un teléfono inteligente con sistema iOS o Android usando la aplicación Mi Home.
 
 Esta aplicación permite realizar operaciones como:
 
-* Activar o desctivar el cierre remoto
-* Configurar uno de los 3 modos de conducción
-* Ver estadísticas e información sobre velocidad y distancia recorrida
-* Verificar nivel de carga y estado de la batería
-* Verificar señales de alarma del sistema de autodiagnóstico Xiaomi
+
+
++ Activar o desctivar el cierre remoto
++ Configurar uno de los 3 modos de conducción
++ Ver estadísticas e información sobre velocidad y distancia recorrida
++ Verificar nivel de carga y estado de la batería
++ Verificar señales de alarma del sistema de autodiagnóstico Xiaomi
 
 Además, la aplicación permite **descargar actualizaciones de firmware para mejorar o corregir la funcionalidad y capacidades** del patinete.
 
@@ -241,7 +319,7 @@ Además, este monopatín cuenta con una **luz de freno y posición mucho más gr
 
 Otras mejoras incluyen nuevos reflectores delanteros y traseros ajustados a la normativa de seguridad vial europea.
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Neumáticos más resistentes a los pinchazos y doble sistema de frenos
 
@@ -257,7 +335,7 @@ Es de destacar que **el freno delantero utiliza tecnología regenerativa KERS, q
 
 En cuanto a las ruedas, son de acero TST reforzadas y montan **cámaras neumáticas de 8,5 pulgadas de diámetro, más resistentes a los pinchazos.**
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Algo incómodo para circular en calles pavimentadas o superficies irregulares
 
@@ -265,7 +343,7 @@ Este monopatín ofrece una buena conducción en terreno plano, pero la **falta d
 
 En todo caso, destaca la facilidad de control que brinda su manillar, más estrecho que en el M365. Este manillar está pensado especialmente para usuarios con estaturas entre los 1,60 y 1,80 metros.
 
-[Hemos agrupado en una tabla comparativa la información pertinente  de todos los scooters eléctricos que hemos analizado](https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Compradores destacan autonomía y calidad de construcción, pero advierten sobre problemas en el acelerador
 
@@ -277,11 +355,7 @@ En cuanto a lo negativo, algunos usuarios se quejan de problemas en el sistema d
 
 Aunque es algo más costoso que el Essential, el más económico de la última serie de Xiami, el 1S sigue considerándose **el patinete eléctrico Xiaomi que ofrece el mejor compromiso autonomía/precio.**
 
-CLICK Ver mejor precio
-
 ## Conclusión: El patinete ideal para quienes buscan una combinación de precio accesible y buenas prestaciones
-
-![El patinete eléctrico Xiaomi 1S que puedes usar cada día](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633342/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle2_muayih.jpg "El patinete eléctrico Xiaomi 1S que puedes usar cada día")
 
 Su precio promedio de 347 euros y las características técnicas ofrecidas convierten al patinete eléctrico Xiaomi 1S en la **mejor opción para los que buscan un equipo básico pero bien construido, con suficiente autonomía y larga vida útil.**
 
@@ -289,14 +363,19 @@ En este caso, la principal ventaja sobre el Essential, con el que comparte dise�
 
 No en vano es considerado **el sucesor ideal del famoso patinete Xiaomi M365** que conquistó el corazón de tantos jóvenes tras su lanzamiento en 2017.
 
-CLICK Ver mejor precio
-
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-[¿Qué modelo de patinete se adapta mejor a tus necesidades al mejor precio? La respuesta definitiva en un gráfico, sea cual sea tu necesidad](https://guiadelconsumidor.es/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
-> Aunque este descendiente directo del mítico **Mi 365** sigue siendo un punto de referencia en el mundo de los patinetes eléctricos, su liderazgo está siendo atacado por numerosos fabricantes. El **Hiboy S2** por ejemplo tiene una batería (y una autonomía) comparable además de suspensiones delanteras y traseras, neumáticos sólidos sin mantenimiento y un acabado correcto sin ser sobresaliente. Este último modelo también tiene un motor de 350 W que supera de 100 W el del Xiaomi 1S, por un precio más elevado de 10 Euros a penas.
+![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_701/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
-CLICK Ver mejor precio
+> Aunque este descendiente directo del mítico **Mi 365** sigue siendo un punto de referencia en el mundo de los patinetes eléctricos, su liderazgo está siendo atacado por numerosos fabricantes. 
 
-[Nuestro artículo para saber más acerca del modelo Hiboy S2 / Ver mejor precio y también acerca del MAX V2 / Ver mejor precio](https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s2)
+> El **Hiboy S2** por ejemplo tiene una batería (y una autonomía) comparable además de suspensiones delanteras y traseras, neumáticos sólidos sin mantenimiento y un acabado correcto sin ser sobresaliente. 
+
+> Este último modelo también tiene un motor de 350 W que supera de 100 W el del Xiaomi 1S, por un precio más elevado de 10 Euros a penas.
+
++ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s2)
+
++ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+ 
