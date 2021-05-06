@@ -9,7 +9,7 @@ date: 2021-05-06T16:34:30.733Z
 tags:
   - tag: patinetes-electricos
   - tag: estudios-comparativos
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Lifestyle_jwlway.jpg
+articleImage: /img/patinete-electrico-xiaomi-pro2-lifestyle.jpg
 ---
 <!--
 
