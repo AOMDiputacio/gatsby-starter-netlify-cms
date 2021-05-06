@@ -8,7 +8,7 @@ date: 2021-05-06T16:43:41.037Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-kugoo
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg
+articleImage: /img/patinete-electrico-kugoo-s1-perfil.jpg
 ---
 <!--
 **Slug:**
