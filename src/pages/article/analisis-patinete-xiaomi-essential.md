@@ -10,6 +10,10 @@ tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
 articleImage: /img/patinete-electrico-xiaomi-essential-lifestyle3.jpg
+relatedArticles:
+  - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: guia-ultima-del-patinete-electrico
 ---
 <!--
 
