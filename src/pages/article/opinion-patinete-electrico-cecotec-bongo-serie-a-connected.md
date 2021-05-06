@@ -8,7 +8,7 @@ date: 2021-05-06T17:05:57.566Z
 tags:
   - tag: patinete-cecotec
   - tag: patinetes-electricos
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg
+articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 ---
 <!--
 
