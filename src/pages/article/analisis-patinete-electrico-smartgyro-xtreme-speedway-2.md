@@ -8,7 +8,6 @@ slug: analisis-patinete-electrico-smartgyro-xtreme-speedway-2
 date: 2021-05-06T16:54:14.760Z
 tags:
   - tag: patinetes-electricos
-  - tag: estudios-comparativos
 articleImage: /img/patinete-electrico-smartgyro-speedway-v2-perspectiva.jpg
 ---
 <!--
