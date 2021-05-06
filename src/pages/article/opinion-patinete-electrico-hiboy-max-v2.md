@@ -8,7 +8,7 @@ date: 2021-05-04T17:15:38.222Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-hiboy
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945754/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Frente-Perfil_d2a2zo.jpg
+articleImage: /img/patinete-electrico-hiboy-max-v2-frente-perfil.jpg
 ---
 <!--
 
