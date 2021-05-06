@@ -1,6 +1,8 @@
 ---
 dataKey: articles
 title: "Análisis del patinete Hiboy S2: La respuesta al Xiaomi M365"
+description: Te hablamos del patinete eléctrico Hiboy S2, la respuesta de esta
+  fabricante al más popular patinete del mercado, el Xiaomi Mi M365
 slug: opinion-patinete-electrico-hiboy-s2
 date: 2021-05-04T17:11:33.338Z
 articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg
@@ -12,11 +14,11 @@ opinion-patinete-electrico-hiboy-s2
 
 \*\*Keywords:\*\* Hiboy S2, Hiboy, patinete eléctrico, patín eléctrico, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-\*\*Metadescripción\*\*: Te hablamos del <span style="text-decoration:underline;">patinete eléctrico Hiboy S2</span>, la respuesta de esta fabricante al más popular patinete del mercado, el Xiaomi Mi M365
+\*\*Metadescripción\*\*: Te hablamos del patinete eléctrico Hiboy S2, la respuesta de esta fabricante al más popular patinete del mercado, el Xiaomi Mi M365
 
-\*\*Clearscope: \*\*ttps://\[www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)
+\*\*Clearscope: \*\* https://\[www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)
 
-# Patinete Hiboy S2: La respuesta al Xiaomi M365
+# Análisis del patinete Hiboy S2: La respuesta al Xiaomi M365
 # Hiboy S2
 
 !\[Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg "Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar")
@@ -25,7 +27,7 @@ opinion-patinete-electrico-hiboy-s2
 
 ## La propuesta de Hiboy para retar al mítico M365 de Xiaomi
 
-* [ ¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 En 2017 la empresa china Xiaomi lanzó al mercado su patinete eléctrico M365, que marcó un hito en el mercado de la movilidad urbana. Pero en poco tiempo apareció en el mercado mundial un scooter dispuesto a retar su liderato, el Hiboy S2.
 
@@ -329,13 +331,13 @@ En definitiva, esta es una excelente apuesta del fabricante chino para competir 
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+* [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_701/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
 > Los **Hiboy S2 y el MAX V2 tienen prestaciones y características similares**. El MAX V2 cuenta con suspensiones delanteras y traseras, mientras el S2 solo dispone de suspensiones traseras dobles. Este último también es más barato de 10 Euros ; poca cosa...
 >
-> Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, **ambos nos resultan más atractivos que el Xiaomi 1S**, pues **por la misma autonomía, porque poseen un motor de 350 W (contra 250 W para el Xiaomi 1S) suspensiones, y ruedas rígidas sin mantenimiento**, por un muy pequeño sobrecoste de 10 Euros para el S2 y de 20 Euros para el MAX 2.
+> Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, **ambos nos resultan más atractivos que el Xiaomi 1S**, pues **tienen la misma autonomía y poseen un motor de 350 W (contra 250 W para el Xiaomi 1S) suspensiones asi como ruedas rígidas sin mantenimiento**, por un muy pequeño sobrecoste de 10 Euros para el S2 y de 20 Euros para el MAX 2.
 
 * [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s2-pro)
