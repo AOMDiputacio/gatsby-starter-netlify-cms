@@ -7,7 +7,6 @@ slug: prueba-patinete-electrico-megawheels-s1
 date: 2021-05-06T16:49:19.682Z
 tags:
   - tag: patinetes-electricos
-  - tag: estudios-comparativos
 articleImage: /img/patinete-electrico-megawheels-s1-adolescente-transportable.jpg
 ---
 <!--
