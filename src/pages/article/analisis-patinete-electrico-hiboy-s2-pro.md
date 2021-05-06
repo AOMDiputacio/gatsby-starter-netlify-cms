@@ -8,7 +8,7 @@ date: 2021-05-04T17:20:18.245Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-hiboy
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg
+articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: opinion-patinete-electrico-hiboy-s2
   - article: guia-ultima-del-patinete-electrico
