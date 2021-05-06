@@ -5,7 +5,7 @@ description: Te hablamos del patinete eléctrico Hiboy S2, la respuesta de esta
   fabricante al más popular patinete del mercado, el Xiaomi Mi M365
 slug: opinion-patinete-electrico-hiboy-s2
 date: 2021-05-04T17:11:33.338Z
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg
+articleImage: /img/patinete-electrico-hiboy-s2-perfil-app.jpg
 ---
 <!--
 
