@@ -9,7 +9,7 @@ date: 2021-05-06T16:54:14.760Z
 tags:
   - tag: patinetes-electricos
   - tag: estudios-comparativos
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-perspectiva_wpur3s.jpg
+articleImage: /img/patinete-electrico-smartgyro-speedway-v2-perspectiva.jpg
 ---
 <!--
 
