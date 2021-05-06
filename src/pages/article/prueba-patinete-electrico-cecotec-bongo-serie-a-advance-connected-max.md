@@ -6,8 +6,8 @@ description: Conoce el nuevo patinete Bongo Advance Connected MAX, la versión
 slug: prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 date: 2021-05-06T17:04:08.321Z
 tags:
-  - tag: patinete-cecotec
   - tag: patinetes-electricos
+  - tag: patinete-cecotec
 articleImage: /img/cecotec-bongo-serie-a-advance-max-paseo3.jpg
 ---
 <!--
