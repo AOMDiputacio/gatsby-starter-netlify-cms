@@ -59,5 +59,5 @@ section4:
     - tag: patinete-cecotec
     - tag: patinete-hiboy
   tagline: HEMOS PROBADO PARA TI
-  title: Descubre nuestros mejores colchones por categorías.
+  title: Descubre nuestros mejores productos por categorías.
 ---
