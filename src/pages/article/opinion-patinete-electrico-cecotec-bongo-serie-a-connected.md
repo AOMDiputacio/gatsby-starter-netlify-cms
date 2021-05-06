@@ -6,7 +6,6 @@ description: Te hablamos del patinete eléctrico Cecotec Bongo Advance Connected
 slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 date: 2021-05-06T17:05:57.566Z
 tags:
-  - tag: patinete-cecotec
   - tag: patinetes-electricos
 articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 ---
