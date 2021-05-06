@@ -8,7 +8,7 @@ date: 2021-05-06T16:49:19.682Z
 tags:
   - tag: patinetes-electricos
   - tag: estudios-comparativos
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg
+articleImage: /img/patinete-electrico-megawheels-s1-adolescente-transportable.jpg
 ---
 <!--
 
