@@ -8,7 +8,7 @@ date: 2021-04-27T18:05:31.184Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Lifestyle_jwlway.jpg
+articleImage: /img/patinete-electrico-xiaomi-pro2-lifestyle.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
