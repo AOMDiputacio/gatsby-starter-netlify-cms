@@ -3,6 +3,9 @@ dataKey: articles
 title: ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
 slug: futuro-de-la-movilidad-urbana
 date: 2021-05-06T16:31:57.855Z
+tags:
+  - tag: guias
+  - tag: patinetes-electricos
 articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg
 ---
 <!--
