@@ -6,7 +6,7 @@ date: 2021-05-06T17:08:03.432Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg
+articleImage: /img/cecotec-bongo-serie-a-paseo2.jpg
 ---
 <!--
 \*\*Slug:\*\*
