@@ -6,7 +6,6 @@ date: 2021-05-06T17:08:03.432Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
-  - tag: bicicletas-electricas
 articleImage: /img/cecotec-bongo-serie-a-paseo2.jpg
 ---
 <!--
