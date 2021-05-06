@@ -8,7 +8,7 @@ date: 2021-05-06T16:51:59.321Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg
+articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 ---
 <!--
 \*\*Slug:\*\*
