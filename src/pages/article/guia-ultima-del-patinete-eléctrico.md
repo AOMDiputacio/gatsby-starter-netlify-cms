@@ -9,7 +9,7 @@ date: 2021-04-16T15:21:18.940Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg
+articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 relatedArticles:
   - article: futuro-de-la-movilidad-urbana
   - article: mejor-patinete-electrico-xiaomi
