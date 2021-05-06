@@ -9,7 +9,7 @@ date: 2021-05-04T19:15:35.429Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945408/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Lifestyle3_wwxg99.jpg
+articleImage: /img/patinete-electrico-xiaomi-essential-lifestyle3.jpg
 ---
 <!--
 
