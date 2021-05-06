@@ -12,7 +12,6 @@ articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: opinion-patinete-electrico-hiboy-s2
   - article: guia-ultima-del-patinete-electrico
-  - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
 <!--
 
