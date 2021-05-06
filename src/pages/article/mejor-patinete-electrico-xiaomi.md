@@ -8,7 +8,6 @@ slug: mejor-patinete-electrico-xiaomi
 date: 2021-05-06T16:34:30.733Z
 tags:
   - tag: patinetes-electricos
-  - tag: estudios-comparativos
 articleImage: /img/patinete-electrico-xiaomi-pro2-lifestyle.jpg
 ---
 <!--
