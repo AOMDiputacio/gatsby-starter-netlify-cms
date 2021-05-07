@@ -222,6 +222,9 @@ Regulador de velocidad</td>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 <div class="cons-item">Mayor peso que otros modelos similares</div>
 </div>
+</div>
+
+
 
 ## Precio algo elevado en su segmento, que se compensa con su mayor potencia y una excelente autonomía
 
