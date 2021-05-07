@@ -188,6 +188,7 @@ Regulador de velocidad</td>
 <div class= "cons-item ">No posee tratamiento anticorrosión  en el chasis</div>
 <div class= "cons-item ">Neumáticos sólidos y delgados afectan mucho la amortiguación en suelo irregular</div>
 </div>
+</div>
 
 * Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
