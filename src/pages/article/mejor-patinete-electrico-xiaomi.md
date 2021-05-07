@@ -335,6 +335,9 @@ El patinete eléctrico Xiaomi Mi S1 **se puede comprar en Amazon España por un 
 <div class="cons-item">Limitado a usuarios con peso máximo de 100 kilogramos</div>
 <div class="cons-item">No posee batería de carga rápida (requiere hasta 6 horas)</div>
 </div>
+</div>
+
+
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
 
@@ -398,6 +401,9 @@ Se echa en falta algún tipo de amortiguación, pero el uso de ruedas con cámar
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 <div class="cons-item">Mayor peso que otros modelos similares</div>
 </div>
+</div>
+
+
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
@@ -458,7 +464,10 @@ Vemos que se parece mucho al modelo S1 en características y equipamiento. Pero 
 <div class="cons-item">Batería limitada que afecta la autonomía</div>
 <div class="cons-item">No posee amortiguación</div>
 <div class="cons-item">Limitado a usuarios con peso máximo de 100 kilogramos</div>
-</div>"
+</div>
+</div>
+
+
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
