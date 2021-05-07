@@ -199,6 +199,9 @@ Regulador de velocidad</td>
 <div class="cons-item">No es a prueba de agua</div>
 <div class="cons-item">Uso de neumáticos duros genera mucha vibración al andar por suelo irregular</div>
 </div>
+</div>
+
+
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
