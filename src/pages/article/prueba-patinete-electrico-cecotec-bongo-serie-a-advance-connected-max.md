@@ -200,6 +200,7 @@ Regulador de velocidad</td>
 <div class=""cons-item"">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
 <div class=""cons-item"">No tiene amortiguadores.</div>
 </div>
+</div>
 
 ## Un precio muy razonable por la calidad, potencia y autonomía
 
