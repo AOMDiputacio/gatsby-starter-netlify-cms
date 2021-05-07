@@ -197,6 +197,9 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 <div class="cons-item">No posee pantalla de control</div>
 <div class="cons-item">Carece de luz frontal para conducir de noche</div>
 </div>
+</div>
+
+
 
 ## Un precio inmejorable muy atractivo para regalar a un hijo o familiar joven
 
