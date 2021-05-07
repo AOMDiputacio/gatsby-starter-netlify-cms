@@ -201,6 +201,7 @@ Una batería de poca capacidad afecta su autonomía, pero al ser intercambiable 
 <div class="cons-item">Mantenimiento de neumáticos (hinchar 2 o 3 veces por semana)</div>
 <div class="cons-item">A las ruedas les faltan amortiguadores.</div>
 </div>
+</div>
 
 ## Su precio es atractivo, considerando que apenas supera en 30 euros al modelo básico que no tiene conectividad bluetooth
 
