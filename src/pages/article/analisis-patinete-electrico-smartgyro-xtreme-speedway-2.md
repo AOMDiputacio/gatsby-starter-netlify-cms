@@ -184,6 +184,7 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 ## Pros y contras
 
 <div class="row">
+
 <div class="col">
 <div class="pros-header">Pros</div>
 <div class="pros-item">Impresionante potencia de motor y gran autonomía</div>
@@ -193,13 +194,16 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 <div class="pros-item">Luz delantera de gran intensidad y buena iluminación trasera y lateral</div>
 <div class="pros-item">Manubrio ancho de altura ajustable en tres posiciones</div>
 <div class="pros-item">Excelente amortiguación delantera y trasera con doble muelle y pistón de gas</div>
-
 </div>
+
 <div class="col">
 <div class="cons-header">Contras</div>
 <div class="cons-item">Batería requiere hasta 7 horas para recargarse</div>
 <div class="cons-item">Peso de 22 kgs y un sistema de plegado incómodo lo hace difícil de guardar o llevarlo alzado en un tren, autobús o en el supermercado.</div>
 <div class="cons-item">Carece de conectividad con dispositivo móvil y aplicación</div>
+</div>
+
+</div>
 
 ## Un precio razonable por un scooter eléctrico pesado con prestaciones de alto nivel
 
