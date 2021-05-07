@@ -7,6 +7,7 @@ slug: analisis-patinete-electrico-hiboy-s-2-pro
 date: 2021-05-07T10:12:47.613Z
 tags:
   - tag: patinetes-electricos
+  - tag: patinete-hiboy
 articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
@@ -14,19 +15,19 @@ relatedArticles:
 ---
 <!--
 
-\\*\\*Slug:\\*\\*
+\\\*\\\*Slug:\\\*\\\*
 analisis-patinete-electrico-hiboy-s-2-pro
 
-\\*\\*Keywords:\\*\\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
+\\\*\\\*Keywords:\\\*\\\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-\\*\\*Metadescripción\\*\\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
+\\\*\\\*Metadescripción\\\*\\\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
 
-\\*\\*Clearscope: \\[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\\*\\*
+\\\*\\\*Clearscope: \\\[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\\\*\\\*
 
 # Opinión: el patinete Hiboy S2 Pro - una referencia
 # Hiboy S2 Pro
 
-!\\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
+!\\\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
 
