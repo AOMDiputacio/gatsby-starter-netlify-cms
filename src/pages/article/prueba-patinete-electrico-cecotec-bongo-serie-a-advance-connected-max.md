@@ -15,20 +15,20 @@ relatedArticles:
 ---
 <!--
 
-\*\*Slug:\*\*
+\\*\\*Slug:\\*\\*
 prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 
-\*\*Keyword:\*\* patinete eléctrico Cecotec, patinetes Cecotec, monopatín eléctrico Cecotec, patinete Bongo Serie A
+\\*\\*Keyword:\\*\\* patinete eléctrico Cecotec, patinetes Cecotec, monopatín eléctrico Cecotec, patinete Bongo Serie A
 
-\*\*Metadescripción:\*\* Conoce el nuevo patinete Bongo Advance Connected MAX, la versión superior de la serie A de esta fabricante española
+\\*\\*Metadescripción:\\*\\* Conoce el nuevo patinete Bongo Advance Connected MAX, la versión superior de la serie A de esta fabricante española
 
-\*\*Link Clearscope: \*\*\[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
+\\*\\*Link Clearscope: \\*\\*\\[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
 
 
 # Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX
 # Cecotec Bongo Serie A Advance Connected MAX
 
-!\[Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945864/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Paseo3_j0ow8v.jpg "Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad")
+!\\[Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945864/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Paseo3_j0ow8v.jpg "Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad")
 
 -->
 
@@ -191,21 +191,21 @@ Regulador de velocidad</td>
 
 ## Pros y contras
 
-<div class=""row"">
-<div class=""col"">
-<div class=""pros-header"">Pros</div>
-<div class=""pros-item"">Excelente autonomía</div>
-<div class=""pros-item"">Excelente relación calidad/precio</div>
-<div class=""pros-item"">Materiales excelentes y duraderos</div>
-<div class=""pros-item"">Comodidad de los neumáticos anti pinchazos que absorben las vibraciones</div>
-<div class=""pros-item"">Triple sistema de frenado</div>
+<div class="row">
+<div class="col">
+<div class="pros-header">Pros</div>
+<div class="pros-item">Excelente autonomía</div>
+<div class="pros-item">Excelente relación calidad/precio</div>
+<div class="pros-item">Materiales excelentes y duraderos</div>
+<div class="pros-item">Comodidad de los neumáticos anti pinchazos que absorben las vibraciones</div>
+<div class="pros-item">Triple sistema de frenado</div>
 
 </div>
-<div class=""col"">
-<div class=""cons-header"">Contras</div>
-<div class=""cons-item"">Peso aumentado a 15 Kg. </div>
-<div class=""cons-item"">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
-<div class=""cons-item"">No tiene amortiguadores.</div>
+<div class="col">
+<div class="cons-header">Contras</div>
+<div class="cons-item">Peso aumentado a 15 Kg. </div>
+<div class="cons-item">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
+<div class="cons-item">No tiene amortiguadores.</div>
 </div>
 </div>
 
