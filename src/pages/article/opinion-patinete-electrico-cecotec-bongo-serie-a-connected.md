@@ -7,7 +7,12 @@ slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 date: 2021-05-06T17:05:57.566Z
 tags:
   - tag: patinetes-electricos
+  - tag: patinete-cecotec
 articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
+relatedArticles:
+  - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: guia-ultima-del-patinete-electrico
 ---
 <!--
 
