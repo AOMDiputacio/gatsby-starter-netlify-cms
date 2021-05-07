@@ -50,6 +50,8 @@ Sin duda, **este scooter Smartgyro está dirigido al mercado de los adultos que 
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de favoritismo!
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+
 ## Video de análisis completo del Smartgyro Xtreme Speedway V2.0
 
 <div class=”iframe-container”>
@@ -57,6 +59,8 @@ Sin duda, **este scooter Smartgyro está dirigido al mercado de los adultos que 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FWjNLoaNIao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
 
 ## Ficha técnica: potencia de sobra
 
@@ -174,7 +178,8 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+</td>
 </td>
 </tr>
 </table>
@@ -184,7 +189,6 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 ## Pros y contras
 
 <div class="row">
-
 <div class="col">
 <div class="pros-header">Pros</div>
 <div class="pros-item">Impresionante potencia de motor y gran autonomía</div>
@@ -194,15 +198,14 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 <div class="pros-item">Luz delantera de gran intensidad y buena iluminación trasera y lateral</div>
 <div class="pros-item">Manubrio ancho de altura ajustable en tres posiciones</div>
 <div class="pros-item">Excelente amortiguación delantera y trasera con doble muelle y pistón de gas</div>
-</div>
 
+</div>
 <div class="col">
 <div class="cons-header">Contras</div>
 <div class="cons-item">Batería requiere hasta 7 horas para recargarse</div>
 <div class="cons-item">Peso de 22 kgs y un sistema de plegado incómodo lo hace difícil de guardar o llevarlo alzado en un tren, autobús o en el supermercado.</div>
 <div class="cons-item">Carece de conectividad con dispositivo móvil y aplicación</div>
 </div>
-
 </div>
 
 ## Un precio razonable por un scooter eléctrico pesado con prestaciones de alto nivel
@@ -214,6 +217,8 @@ Pero sus impresionantes cualidades técnicas y el hecho de ofrecer 3 meses de se
 Pero unas malas lenguas dicen que lo han visto por menos de 400 Euros en Amazon, de forma esporádica, eso sí… Te aconsejamos por lo tanto mantener el ojo abierto.
 
 * [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
 
 ## Gran autonomía a pesar de su peso y potencia
 
@@ -330,6 +335,8 @@ Y algo que resaltan es que **su precio ha bajado y es muy competitivo en compara
 
 La única queja que prevalece es el peso, que lo hace poco conveniente a la hora de conmutar al transporte púbico o si no tienes ascensor en casa.
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+
 ## Ideal para adultos que necesiten llegar lejos
 
 Este es un patinete adecuado para quienes necesitan **ir diariamente lejos de casa sin sucumbir al tráfico y la dureza del camino**
@@ -337,6 +344,8 @@ Este es un patinete adecuado para quienes necesitan **ir diariamente lejos de ca
 Si necesitas moverte lejos de casa y tu camino incluye áreas planas, cuestas y suelo irregular que harían una pesadilla usar cualquier patinete ligero, **el Smartgyro Xtreme Speedway V2.0 es el monopatín eléctrico que buscabas.**
 
 No solo es muy bonito e **imponente a la vista en comparación con cualquier monopatín** que se cruce en tu camino. También es un equipo de movilidad personal potente y que te llevará lejos cuando lo necesites.
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -348,6 +357,16 @@ No solo es muy bonito e **imponente a la vista en comparación con cualquier mon
 >
 > **Si añadimos que este scooter se ha visto en Amazon por menos de 400 Euros** (ocasionalmente), entonces no dudes en comprarlo a condición de que ni su peso ni su tamaño sean un problema para ti. ¡No te arrepentirás!
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+
 * [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
+
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
-* [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s2-pro)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+
+* [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
