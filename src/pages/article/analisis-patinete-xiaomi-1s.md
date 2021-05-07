@@ -195,6 +195,9 @@ Regulador de velocidad</td>
 <div class= "cons-item ">Limitado a usuarios con peso máximo de 100 kilogramos</div>
 <div class= "cons-item ">No posee batería de carga rápida (requiere hasta 6 horas)</div>
 </div>
+</div>
+
+
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
