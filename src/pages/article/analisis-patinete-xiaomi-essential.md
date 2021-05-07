@@ -23,7 +23,7 @@ analisis-patinete-xiaomi-essential
 
 \*\*Keywords:\*\* patinete eléctrico xiaomi, patinetes xiaomi, patinetes electricos xiaomi, monopatin xiaomi, patinete xiaomi m365, patinete xiaomi barato
 
-\*\*Metadescripción\*\*: Te hablamos del patinete eléctrico Xiaomi Mi Scooter Essential, el modelo económico que busca dominar el mercado de la movilidad eléctrica urbana básica.
+\*\*Metadescripción\*\*: Te hablamos del <span style="text-decoration:underline;">patinete eléctrico Xiaomi Mi Scooter Essential</span>, el modelo económico que busca dominar el mercado de la movilidad eléctrica urbana básica.
 
 \*\*Clearscope (del 1S):\*\* https://www.clearscope.io/aom/reports/a2a75444a774c0da/optimize
 
@@ -57,8 +57,15 @@ Pero veamos sus características y por qué este producto es una excelente opci�
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+
 * [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
+
 * [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
 ## Video de análisis completo del Xiaomi Essential
 
@@ -67,6 +74,8 @@ Pero veamos sus características y por qué este producto es una excelente opci�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NbipeMhpupI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
 
 ## Ficha técnica
 
@@ -187,7 +196,8 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+</td>
 </td>
 </tr>
 </table>
@@ -206,7 +216,6 @@ Regulador de velocidad</td>
 <div class="pros-item">Excelente freno manual de disco trasero</div>
 <div class="pros-item">Pantalla LCD y sistema de autodiagnóstico integrado en esta categoría de patinetes</div>
 </div>
-
 <div class="col">
 <div class="cons-header">Contras</div>
 <div class="cons-item">Batería limitada que afecta la autonomía</div>
@@ -224,6 +233,8 @@ Tomando en cuenta sus características, el patinete eléctrico Xiaomi Mi Essenti
 Para la fecha de redacción de este artículo, se podía adquirir en Amazon.es el modelo en versión básica, solo en color negro (modelo black) y sin accesorios, por unos 287 euros en Amazon España.
 
 * [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
 
 ## Una autonomía limitada pero suficiente para la mayoría de los trayectos
 
@@ -364,6 +375,8 @@ A esto se suma el hecho de llevar neumáticos inflables, que a pesar de requerir
 
 Entre las pocas quejas, destacaron las referidas a defectos de fábrica en el acelerador.
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+
 ## Conclusión: El patinete eléctrico ideal de quienes buscan un precio asequible sin importar la autonomía
 
 Con un precio promedio de 287 euros, este scooter cuenta con capacidades más que suficientes para quienes buscan un patinete básico, de buen precio y sobro todo, bien construido.
@@ -371,6 +384,8 @@ Con un precio promedio de 287 euros, este scooter cuenta con capacidades más qu
 Esto habla muy bien de la capacidad de Xiaomi para interpretar y llevar a la realidad un producto que cumple con las expectativas de sus clientes.
 
 Recordemos que el patinete eléctrico Xiaomi Mi Essential es una versión nueva y mejorada del Xiaomi M365 de 2017, pero con una autonomía reducida. Es la mejor opción para un público joven que busca siempre el mejor precio, pero que tampoco quieren quedar fuera de la comodidad y la diversión que ofrecen los scooters eléctricos.
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -384,4 +399,8 @@ Recordemos que el patinete eléctrico Xiaomi Mi Essential es una versión nueva 
 >
 > Si consideramos que la conectividad es la principal diferencia entre estos dos modelos, ¿entonces podemos preguntarnos si esta justifica semejante diferencia de precio?
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+
 * [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
