@@ -3,7 +3,7 @@ dataKey: articles
 title: "Análisis del patinete Hiboy S2: La respuesta al Xiaomi M365"
 description: Te hablamos del patinete eléctrico Hiboy S2, la respuesta de esta
   fabricante al más popular patinete del mercado, el Xiaomi Mi M365
-slug: opinion-patinete-electrico-hiboy-s2
+slug: opinion-patinete-electrico-hiboy-s-2
 date: 2021-05-07T14:57:59.707Z
 tags:
   - tag: patinetes-electricos
@@ -13,7 +13,7 @@ articleImage: /img/patinete-electrico-hiboy-s2-perfil-app.jpg
 <!--
 
 **Slug:**
-opinion-patinete-electrico-hiboy-s2
+opinion-patinete-electrico-hiboy-s-2
 
 **Keywords:** Hiboy S2, Hiboy, patinete eléctrico, patín eléctrico, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
@@ -46,11 +46,13 @@ De hecho, ambos modelos se parecen en muchas de sus características técnicas y
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de favoritismo!
 
-
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
 + [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
 
-+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s2-pro)
++ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
 
 ## Video de análisis completo del Hiboy S2
 
@@ -59,6 +61,8 @@ De hecho, ambos modelos se parecen en muchas de sus características técnicas y
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O8l8PiZoNFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
 ## Ficha técnica: precio medio, potencia y amortiguadores
 
@@ -169,9 +173,9 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
+</td>
 </tr>
-
 </table>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
@@ -193,6 +197,7 @@ Regulador de velocidad</td>
 <div class= "cons-item ">Requiere mucho tiempo para recargar batería</div>
 <div class= "cons-item ">No posee tratamiento anticorrosión  en el chasis</div>
 <div class= "cons-item ">Neumáticos sólidos y delgados afectan mucho la amortiguación en suelo irregular</div>
+</div>
 </div>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
@@ -331,8 +336,7 @@ Entre las valoraciones positivas, destacan las relacionadas con su agilidad y po
 
 También destaca la **opinión dividida entre quienes agradecen que cuente con un buen sistema de amortiguación y los que lamentan la elección de ruedas sólidas**, menos tolerantes con la irregularidad de las vías.
 
- 
-
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
 ## El patinete ideal para quienes desean un medio de transporte sólido y ligero para cada día
 
@@ -342,8 +346,7 @@ En general está diseñado para **aguantar el uso regular por mucho tiempo**. In
 
 En definitiva, esta es una excelente apuesta del fabricante chino para competir o al menos mellar el liderazgo de los patinetes Xiaomi Mijia.
 
- 
-
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -356,6 +359,13 @@ En definitiva, esta es una excelente apuesta del fabricante chino para competir 
 >
 >Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, **ambos nos resultan más atractivos que el Xiaomi 1S**, pues **tienen la misma autonomía y poseen un motor de 350 W (contra 250 W para el Xiaomi 1S) suspensiones asi como ruedas rígidas sin mantenimiento**, por un muy pequeño sobrecoste de 10 Euros para el S2 y de 20 Euros para el MAX 2.
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
+
 + [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
-+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s2-pro)
+  
++ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
+
+
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
