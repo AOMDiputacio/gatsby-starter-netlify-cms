@@ -197,6 +197,7 @@ Regulador de velocidad</td>
 <div class="cons-item">Mantenimiento de neumáticos (hinchar 2 o 3 veces por semana)</div>
 <div class="cons-item">A las ruedas les faltan amortiguadores.</div>
 </div>
+</div>
 
 ## Un precio muy razonable considerando las especificaciones
 
