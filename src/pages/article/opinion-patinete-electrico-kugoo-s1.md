@@ -206,7 +206,10 @@ Destaca el hecho de ser **uno de los patinetes más económicos que se pueden co
 <div class="cons-item">Neumáticos sólidos y de pequeño diámetro afectan mucho la amortiguación en suelo irregular</div>
 <div class="cons-item">Guardabarros trasero no tiene refuerzo antigolpes</div>
 </div>
-.
+</div>
+
+
+
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
