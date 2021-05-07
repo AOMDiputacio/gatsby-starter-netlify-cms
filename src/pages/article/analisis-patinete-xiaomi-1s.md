@@ -24,17 +24,13 @@ analisis-patinete-xiaomi-1s
 # Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365
 # Xiaomi 1S
 
-
-
-
-![Un patinete eléctrico equilibrado y confortable para cada día](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg "Un patinete eléctrico equilibrado y confortable para cada día")
 -->
 
-
+![Un patinete eléctrico equilibrado y confortable para cada día](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg "Un patinete eléctrico equilibrado y confortable para cada día")
 
 ## El patinete eléctrico Xiaomi 1S, el digno sucesor del pionero Xiaomi 365
 
-+ [ ¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 En 2017 la gigante china Xiaomi lanzó su **famoso modelo de patinete eléctrico M365**, que fue sin duda el mejor patinete eléctrico durante mucho tiempo y que marcó un hito en ventas en el sector de la movilidad eléctrica urbana. En octubre de 2020 Xiaomi respondió al clamor del mercado y **lanzó a su digno sucesor, el patinete Xiaomi Mi Electric Scooter 1S**.
 
@@ -46,11 +42,17 @@ El 1S salió a la venta en octubre de 2020 **junto a su versión económica Mi E
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+
 + [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
+
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 
 ## Video de análisis completo del Xiaomi Mijia 1S
 
@@ -59,6 +61,8 @@ El 1S salió a la venta en octubre de 2020 **junto a su versión económica Mi E
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kvSVAtx4LaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
 
 ## Ficha técnica: un patinete ligero y práctico para moverse por la ciudad
 
@@ -171,7 +175,8 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+</td>
 </tr>
 </table>
 
@@ -197,8 +202,6 @@ Regulador de velocidad</td>
 </div>
 </div>
 
-
-
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Un precio justo para quienes buscan un patinete ligero con buena autonomía
@@ -210,6 +213,8 @@ Pero es posible comprarlo a través del sistema de pago por cuotas en 90 días �
 Si consideramos que este patinete es liviano y cuenta con el mismo motor del Essential, pero con más autonomía, podemos afirmar que **tiene un precio justo**. Además está en un rango accesible para el público joven que quiere iniciarse en el mundo de la movilidad eléctrica.
 
 [¿Qué modelo de patinete se adapta mejor a tus necesidades al mejor precio? La respuesta definitiva en un gráfico, sea cual sea tu necesidad](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
 
 ## El Xiaomi Mi 1S mantiene la misma batería de 280 Wh de su antecesor M365
 
@@ -349,6 +354,8 @@ En cuanto a lo negativo, algunos usuarios se quejan de problemas en el sistema d
 
 Aunque es algo más costoso que el Essential, el más económico de la última serie de Xiami, el 1S sigue considerándose **el patinete eléctrico Xiaomi que ofrece el mejor compromiso autonomía precio.**
 
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+
 ## Conclusión: El patinete ideal para quienes buscan una combinación de precio accesible y buenas prestaciones
 
 Su precio promedio de 347 euros y las características técnicas ofrecidas convierten al patinete eléctrico Xiaomi 1S en la **mejor opción para los que buscan un equipo básico pero bien construido, con suficiente autonomía y larga vida útil.**
@@ -356,6 +363,8 @@ Su precio promedio de 347 euros y las características técnicas ofrecidas convi
 En este caso, la principal ventaja sobre el Essential, con el que comparte diseño y motor, se encuentra en su batería de mayor capacidad.
 
 No en vano es considerado **el sucesor ideal del famoso patinete Xiaomi M365** que conquistó el corazón de tantos jóvenes tras su lanzamiento en 2017.
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -373,8 +382,14 @@ No en vano es considerado **el sucesor ideal del famoso patinete Xiaomi M365** q
 > 
 > Finalmente, vale la pena mencionar que el **Kugoo S1** es 40 Euros más barato que el Xiaomi por la misma autonomía y un motor 100 W más potente. Una opción válida por quiénes no necesitan la aplicación móvil.
 
-+ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s2)
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+
++ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
 + [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
 
 + [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
