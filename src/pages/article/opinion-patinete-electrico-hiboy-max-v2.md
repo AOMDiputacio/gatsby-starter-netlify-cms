@@ -28,8 +28,6 @@ opinion-patinete-electrico-hiboy-max-v2
 
 -->
 
-
-
 ## EL patinete perfecto para el uso diario sin preocupaciones
 
 **Hiboy mejora con este modelo las prestaciones, calidad y durabilidad de la primera versión de la serie MAX**
@@ -46,7 +44,9 @@ Recordemos que **Hiboy espera competir con gigantes como Xiaomi y Cecotec**. Y p
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
-+ [También hemos analizado el modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s2)
++ [También hemos analizado el modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
 ## Video de análisis completo del Hiboy MAX V2
 
@@ -200,8 +200,6 @@ Regulador de velocidad</td>
 <div class="cons-item">Uso de neumáticos duros genera mucha vibración al andar por suelo irregular</div>
 </div>
 </div>
-
-
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
@@ -375,6 +373,11 @@ En definitiva, Hiboy ha sabido encontrar una **excelente relación calidad preci
 
 >En este caso, tenemos **suspensiones y ruedas sin mantenimiento** por unos 10 euros más en el caso del Hiboy S2 y 20 euros en el caso del Hiboy MAX 2.
 
-+ [EL modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s2)
++ [EL modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+
