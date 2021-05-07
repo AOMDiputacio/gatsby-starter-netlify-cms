@@ -5,6 +5,7 @@ slug: base-de -datos-de-todos-patinetes-electricos-analizados
 date: 2021-04-28T15:33:05.088Z
 tags:
   - tag: patinetes-electricos
+  - tag: guias
 articleImage: /img/chica-patinete-electrico.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
