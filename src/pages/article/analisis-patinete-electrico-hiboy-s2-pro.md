@@ -3,7 +3,7 @@ dataKey: articles
 title: "Opinión: el patinete Hiboy S2 Pro - una referencia"
 description: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más
   potente que ha traído a Europa este fabricante chino
-slug: analisis-patinete-electrico-hiboy-s2-pro
+slug: analisis-patinete-electrico-hiboy-s-2-pro
 date: 2021-05-07T10:12:47.613Z
 tags:
   - tag: patinetes-electricos
