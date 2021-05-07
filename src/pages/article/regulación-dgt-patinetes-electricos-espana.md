@@ -7,6 +7,7 @@ slug: regulación-dgt-patinetes-electricos-espana
 date: 2021-05-06T16:51:59.321Z
 tags:
   - tag: patinetes-electricos
+  - tag: guias
 articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
