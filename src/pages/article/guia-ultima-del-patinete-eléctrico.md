@@ -8,6 +8,7 @@ slug: guia-ultima-del-patinete-electrico
 date: 2021-04-16T15:21:18.940Z
 tags:
   - tag: patinetes-electricos
+  - tag: guias
 articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 relatedArticles:
   - article: futuro-de-la-movilidad-urbana
