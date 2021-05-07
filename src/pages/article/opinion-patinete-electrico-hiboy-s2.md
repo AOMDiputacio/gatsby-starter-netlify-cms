@@ -7,6 +7,7 @@ slug: opinion-patinete-electrico-hiboy-s-2
 date: 2021-05-04T17:11:33.338Z
 tags:
   - tag: patinetes-electricos
+  - tag: patinete-hiboy
 articleImage: /img/patinete-electrico-hiboy-s2-perfil-app.jpg
 ---
 <!--
