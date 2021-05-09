@@ -48,7 +48,7 @@ De hecho, ambos modelos se parecen en muchas de sus características técnicas y
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
-+ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
++ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 
 + [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
@@ -361,7 +361,7 @@ En definitiva, esta es una excelente apuesta del fabricante chino para competir 
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
-+ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
++ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
   
 + [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
