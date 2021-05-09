@@ -36,7 +36,7 @@ Te traemos nuestra guía de consejos para quienes buscan comprar un patinete el�
 
 -->
 
-## Todo lo que necesitas saber antes de comprar un patinete eléctrico y... ¡La demonstración gráfica de cuál es el mejor patinete eléctrico para ti!
+## Todo lo que necesitas saber antes de comprar un patinete eléctrico y... ¡La demostración gráfica de cuál es el mejor patinete eléctrico para ti!
 
 **Si quieres comprar un patinete eléctrico o simplemente te preguntas si este medio de locomoción te podría interesar, ¡estás en el lugar correcto! Esta guía contiene todo lo que necesitas saber a la hora de comprar tu patín, incluyendo los aspectos técnicos y legales. También hemos diseñado un método de análisis numérico original que te permitirá determinar de forma imparcial cuál de todos los patinetes eléctricos es la mejor opción adaptada a tus necesidades**
 
@@ -330,11 +330,11 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
-* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
 
@@ -391,7 +391,7 @@ Las marcas analizadas en esta guía del patinete eléctrico que utilizan neumát
 Sin embargo, en un patinete ligero de menos de 15 kilogramos, **la amortiguación a base de muelles de acero no es suficiente para eliminar estas vibraciones**.
 
 * **Todos los patinetes ligeros Hiboy usan amortiguadores traseros** (el modelo MAX V2 lo tiene tanto adelante como atrás).
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
@@ -402,7 +402,7 @@ Sin embargo, en un patinete ligero de menos de 15 kilogramos, **la amortiguació
 
 * Por su parte, **Segway usa suspensiones delantera y trasera** en los modelos ES2 y ES4, mientras que en el ES1 solo la encontramos en la rueda delantera.
 * El popular modelo **Kugoo S1 cuenta por su parte con una suspensión delantera** y trasera y **el Megawheels S1 tiene sólo amortiguación delantera**.
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
@@ -498,19 +498,19 @@ Estos patinetes se encuentran por debajo de la línea promedio por lo que su pre
 
 1. **Kugoo S1:** Con su motor de 350 W de potencia, una batería de 270 Wh y suspensiones delanteras y traseras, este patinete tiene un precio de 310 euros en Amazon. Está equipado de neumáticos sólidos que no requieren mantenimiento. Todos los ajustes que permite este patinete se controlan gracias a 5 botones incorporados a su gran pantalla multicolor LCD, sin necesidad de explorar la aplicación móvil. Además de ser 25 euros más barato que el precio promedio, este patinete completo, potente y robusto nos hace cuestionar la necesidad de requerir conectividad con una aplicación móvil cuando una buena pantalla tradicional nos resulta más funcional. Por todo ello, consideramos que este patinete es el ideal para los usuarios que no necesiten recorrer más de 30 kilómetros diarios, autonomía comparable a la del Xiaomi 1S o a la del mítico M365.
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
 1- **Megawheels S1:** Diseñado para niños y adultos, tiene una autonomía de unos 12 kilómetros y una velocidad máxima de 10 kilómetros por hora. Esto lo hace parecer casi un juguete, pero su motor de 250 W y su estructura reforzada le permiten llevar a un pasajero de hasta 100 kilogramos de peso. Además, su precio de 200 euros lo hacen muy atractivo para quienes desean iniciarse en el mundo de la movilidad personal eléctrica y solo necesitan hacer desplazamientos esporádicos y cortos.
 
-* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
 
 2- **Cecotec Bongo Serie A:** Con un motor de 350 W y una batería de 230 Wh es un excelente patinete eléctrico capaz de recorrer entre 18 a 25 kilómetros por carga. Posee todas las características del modelo Connected, pero con un precio 30 euros más bajo. No cuenta con capacidad de conexión a la aplicación móvil Cecotec, para ajustar sus variables de funcionamiento. Aunque es atractivo, por solo 10 euros más el **Kugoo S1** te ofrecerá más autonomía, unos neumáticos sin mantenimiento y una amplia pantalla con funciones muy configurables.
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
@@ -529,7 +529,7 @@ Estos patinetes se encuentran por debajo de la línea promedio por lo que su pre
 3- **Hiboy S2 Lite:** Muy similar en prestaciones al Megawheels S1, este patinete eléctrico está provisto de una batería de 180 Wh y su autonomía es de unos 12 kilómetros, pero puede ir más rápido. También usa ruedas sólidas y un motor de bajo mantenimiento, pero no posee conectividad a aplicación móvil y tampoco cuenta con suspensión delantera.
 Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
-* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
 
@@ -553,12 +553,12 @@ Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
 2- **Xiaomi 1S:** Goza del prestigio de ser el descendiente directo del mítico M365, que sigue siendo un punto de referencia en el mundo de los. Pero su liderazgo enfrenta fuerte oposición. Por ejemplo, Hiboy S2 ofrece mejor batería y mayor autonomía, además de contar con suspensión delantera y trasera y neumáticos sólidos sin mantenimiento. Además, por solo 10 euros más de precio, el Hiboy equipa un motor de 350 W, muy superior al motor de 100 W del Xiaomi 1S.
 
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-* [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
+* [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
@@ -574,7 +574,7 @@ Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
 1- **Hiboy S2 y MAX V2:** Ambos patinetes tienen prestaciones similares. El MAX V2 tiene suspensiones delanteras y traseras. El S2 tiene suspensiones traseras solamente, pero es 10 euros más barato. Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, ambos nos resultan más atractivos que el Xiaomi 1S cuya autonomía es similar, pero que tiene un motor 100 W menos potente. En este caso, tenemos suspensiones y ruedas sin mantenimiento por unos 10 euros más en el caso del Hiboy S2 y 20 euros en el caso del Hiboy MAX 2.
 
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
@@ -634,19 +634,19 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 
 2- **Autonomía media (27 km):** Hiboy S2 y MAX V2 **Hiboy S2 y MAX V2**
 
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
 3- **Autonomía media (27 km) sin conectividad y motor de 350 W:** Kugoo S1
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
 4- **Patinete básico: 23 km de autonomía, sin conectividad y motor de 250 W:** Megawheels S1
 
-* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
