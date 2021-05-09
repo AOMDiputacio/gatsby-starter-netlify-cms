@@ -15,19 +15,19 @@ relatedArticles:
 ---
 <!--
 
-\\\*\\\*Slug:\\\*\\\*
+\*\*Slug:\*\*
 analisis-patinete-electrico-hiboy-s-2-pro
 
-\\\*\\\*Keywords:\\\*\\\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
+\*\*Keywords:\*\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-\\\*\\\*Metadescripción\\\*\\\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
+\*\*Metadescripción\*\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
 
-\\\*\\\*Clearscope: \\\[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\\\*\\\*
+\*\*Clearscope: \[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\*\*
 
 # Opinión: el patinete Hiboy S2 Pro - una referencia
 # Hiboy S2 Pro
 
-!\\\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
+!\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
 
@@ -59,7 +59,7 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 
 ## Video de análisis completo del Hiboy S2 pro
 
