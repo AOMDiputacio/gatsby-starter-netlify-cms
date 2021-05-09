@@ -59,7 +59,7 @@ Pero veamos sus características y por qué este producto es una excelente opci�
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
 
-* [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
+* [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
@@ -401,6 +401,6 @@ Recordemos que el patinete eléctrico Xiaomi Mi Essential es una versión nueva 
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
 
-* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+* [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
