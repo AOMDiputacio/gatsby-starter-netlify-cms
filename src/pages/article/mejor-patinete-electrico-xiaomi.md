@@ -90,7 +90,7 @@ Además, se unió con otras marcas para producir los modelos Segway Ninebot S y 
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
@@ -276,7 +276,7 @@ Regulador de velocidad</td>
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 </td>
 <td>
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 </td>
 <td>
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
@@ -340,7 +340,7 @@ Completa el equipamiento de este patinete una **luz trasera** que actúa como lu
 
 El patinete eléctrico Xiaomi Mi S1 **se puede comprar en Amazon España por un precio de 349 euros **o a través del sistema de cuotas “Paga en 4”. En este caso el precio se eleva a 357 euros.
 
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
@@ -366,7 +366,7 @@ El patinete eléctrico Xiaomi Mi S1 **se puede comprar en Amazon España por un 
 </div>
 </div>
 
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
@@ -534,7 +534,7 @@ Esto lo hace atractivo no solo para usuarios jóvenes, sino también adultos de 
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
@@ -590,7 +590,7 @@ En todo caso, **su precio de apenas 200 euros lo pone muy cerca del modelo de Xi
 
 ![Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar")
 
-+ [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
++ [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
 
@@ -627,7 +627,7 @@ En todo caso, **nuestra recomendación es que antes de comprar tu primer patinet
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 
-+ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
++ [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
   
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
