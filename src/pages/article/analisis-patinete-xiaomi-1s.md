@@ -24,9 +24,9 @@ analisis-patinete-xiaomi-1s
 # Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365
 # Xiaomi 1S
 
--->
-
 ![Un patinete eléctrico equilibrado y confortable para cada día](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633350/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Lifestyle_iijoln.jpg "Un patinete eléctrico equilibrado y confortable para cada día")
+
+-->
 
 ## El patinete eléctrico Xiaomi 1S, el digno sucesor del pionero Xiaomi 365
 
@@ -388,8 +388,8 @@ No en vano es considerado **el sucesor ideal del famoso patinete Xiaomi M365** q
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-+ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
++ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 
-+ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
++ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
