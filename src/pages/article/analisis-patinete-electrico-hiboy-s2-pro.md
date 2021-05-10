@@ -13,21 +13,68 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro",
+    "name": "Opinión: el patinete Hiboy S2 Pro - una referencia",
+    "headline": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia, resistencia y una batería que alcanza los 1000 ciclos de carga",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia, resistencia y una batería que alcanza los 1000 ciclos de carga,
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
-\\*\\*Slug:\\*\\*
+\*\*Slug:\*\*
 analisis-patinete-electrico-hiboy-s-2-pro
 
-\\*\\*Keywords:\\*\\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
+\*\*Keywords:\*\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-\\*\\*Metadescripción\\*\\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
+\*\*Metadescripción\*\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
 
-\\*\\*Clearscope: \\[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\\*\\*
+\*\*Clearscope: \[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\*\*
 
 # Opinión: el patinete Hiboy S2 Pro - una referencia
 # Hiboy S2 Pro
 
-!\\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
+!\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
 
@@ -65,7 +112,7 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQXR9BWfR90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" Loading="Lazy" src="https://www.youtube.com/embed/jQXR9BWfR90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
