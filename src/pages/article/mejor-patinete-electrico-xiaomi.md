@@ -10,7 +10,7 @@ tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
   - tag: guias
-articleImage: /img/patinete-electrico-xiaomi-pro2-lifestyle.jpg
+articleImage: /img/opinion-xiaomi-pro-2.jpg
 ---
 <!--
 
