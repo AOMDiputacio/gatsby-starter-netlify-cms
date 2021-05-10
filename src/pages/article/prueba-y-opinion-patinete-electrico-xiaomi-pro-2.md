@@ -1,8 +1,8 @@
 ---
 dataKey: articles
 title: "Opinión: El patinete Xiaomi Pro 2"
-description: El patinete eléctrico Xiaomi Pro 2, como el Xiaomi 365 con más
-  autonomía a un precio atractivo
+description: El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la
+  calidad Xiaomi por un precio relativamente razonable
 slug: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
 date: 2021-04-27T18:05:31.184Z
 tags:
@@ -13,6 +13,57 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/",
+    "name": "Opinión: El patinete Xiaomi Pro 2",
+    "headline": "El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la calidad Xiaomi por un precio relativamente razonable",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "A diferencia del modelo Bongo Serie A Advance Connected MAX de Cecotec, el Xiaomi Pro 2 cuenta con un motor de 300 W solamente frente a los 350 del Bongo. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros.
+
+Por otra parte, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos tubeless de Cecotec. Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar. A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
+
+Por 35 Euros más, el modelo Hiboy S2 Pro tiene un motor de 350 W, es decir 50 W más potente, una autonomía apenas menor de 5 km, pero cuenta con ruedas macizas y suspensiones traseras doble por un patinete duradero sin mantenimiento.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
 **Slug:**
@@ -36,7 +87,7 @@ patinete xiaomi m365 pro 2
 
 **Metadescripción:**
 
-Te hablamos del patinete eléctrico Xiaomi Mi Pro 2, el scooter más potente lanzado por el fabricante chino hasta el momento
+El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la calidad Xiaomi por un precio relativamente razonable
 
 **Clearscope:** [https://www.clearscope.io/aom/reports/ff1d5e925f284834/optimize](https://www.clearscope.io/aom/reports/ff1d5e925f284834/optimize)
 
