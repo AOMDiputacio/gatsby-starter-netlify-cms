@@ -3,7 +3,7 @@ dataKey: articles
 title: Prueba del Patinete eléctrico Hiboy MAX V2
 description: Conoce el patinete eléctrico Hiboy MAX V2, un scooter de precio
   económico y confiable para uso diario
-slug: opinion-patinete-electrico-hiboy-max-v2
+slug: opinion-patinete-electrico-hiboy-max-v-2
 date: 2021-05-04T17:15:38.222Z
 tags:
   - tag: patinetes-electricos
