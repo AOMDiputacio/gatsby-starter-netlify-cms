@@ -25,7 +25,7 @@ articleImage: /img/bongo-serie-a-cecotec.jpg
  {
     "@context": "https://schema.org",
     "@type": "Article",
-    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro/",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-a",
     "name": "Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec",
     "headline": "El más barato de los patinetes eléctricos de Cécotec sigue siendo una excelente opción",
     "datePublished": " 02-04-2021",
