@@ -10,6 +10,55 @@ tags:
   - tag: patinete-hiboy
 articleImage: /img/hiboy-max-v-2.jpg
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2/",
+    "name": "Prueba del Patinete eléctrico Hiboy MAX V2",
+    "headline": "Amortiguadores, ruedas rígidas, batería con larga longevitad… ¿que hace que el MAX V2 sea tan especial?",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Hiboy S2 y MAX V2: Ambos patinetes tienen prestaciones similares. El MAX V2 tiene suspensiones delanteras y traseras. El S2 tiene suspensiones traseras solamente, pero es 10 euros más barato.
+
+Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, ambos nos resultan más atractivos que el duradero Xiaomi Mi Electric Scooter 1S cuya autonomía es similar, pero que tiene un motor 100 W menos potente.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/8b4bbfacb7ec6118095c73dabd023af0/0f3a1/hiboy-max-v-2.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/8b4bbfacb7ec6118095c73dabd023af0/0f3a1/hiboy-max-v-2.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/8b4bbfacb7ec6118095c73dabd023af0/0f3a1/hiboy-max-v-2.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
 **Slug:**
