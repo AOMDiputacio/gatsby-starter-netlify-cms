@@ -3,7 +3,7 @@ dataKey: articles
 title: Prueba del patinete eléctrico KUGOO S1
 description: Conoce al nuevo patinete eléctrico KUGOO S1, un monopatín de bajo
   costo que te llevará por la ciudad sin complicarte la vida
-slug: opinion-patinete-electrico-kugoo-s1
+slug: opinion-patinete-electrico-kugoo-s-1
 date: 2021-05-06T16:43:41.037Z
 tags:
   - tag: patinetes-electricos
