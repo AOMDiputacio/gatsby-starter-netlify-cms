@@ -13,6 +13,65 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
+    "name": "¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?",
+    "headline": "Te decimos todo acerca de la regulación vigente acerca de los patinetes eléctricos en España",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Los agentes de la autoridad podrán sancionar las faltas tipificadas en la norma y su correspondiente multa básica son:
+
+Conducir un patinete eléctrico bajo la influencia del alcohol, con una tasa de alcoholemia superior a 0,25 miligramos/L de aire espirado, o 0,5 g /L de sangre. Conlleva inmovilización inmediata del vehículo y multa de 500 a 1.000 euros.
+Conducir un patinete eléctrico bajo la influencia de sustancias estupefacientes o psicotrópicas. Se aplica inmovilización del vehículo y multa de 1.000 euros.
+Negativa del conductor a realizar pruebas de alcohol o drogas. Se imputará delito según el criterio de la autoridad que actúe en cada caso.
+Hablar por teléfono móvil al conducir el patinete, sin usar un manos libres Bluetooth. Se aplicará multa de 200 euros.
+Usar auriculares al conducir. Conlleva multa de 200 euros.
+Conducir por carriles de bus, taxi y autopistas. Hasta 200 euros de multa.
+Conducir por aceras y zonas peatonales (donde no se permita expresamente). Infractor recibirá multa de 200 euros.
+Atravesar un paso de peatones conduciendo el patinete. Hasta 200 euros de multa.
+No respetar un semáforo en rojo o señal de ceder el paso. Hasta 200 euros de multa.
+Llevar dos personas a bordo. Multa de 100 euros.
+No usar casco (donde sea obligatorio hacerlo). Multa de 200 euros.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
+    "thumbnailUrl": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 \*\*Slug:\*\*
 regulación-dgt-patinetes-electricos-espana
