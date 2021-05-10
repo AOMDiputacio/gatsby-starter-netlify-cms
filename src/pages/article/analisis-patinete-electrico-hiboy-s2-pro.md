@@ -46,7 +46,7 @@ relatedArticles:
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
+        "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg"
     },
     "author": {
         "@type": "Person",
