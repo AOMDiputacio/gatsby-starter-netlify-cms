@@ -1,6 +1,8 @@
 ---
 dataKey: articles
 title: "Tabla de resumen: los patinetes eléctricos más vendidos en España"
+description: Esta base de datos contiene todas las características técnicas de
+  los patinetes más vendidos en España
 slug: base-de -datos-de-todos-patinetes-electricos-analizados
 date: 2021-04-28T15:33:05.088Z
 tags:
@@ -10,6 +12,66 @@ articleImage: /img/chica-patinete-electrico.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados/",
+    "name": "Tabla de resumen: los patinetes eléctricos más vendidos en España",
+    "headline": "Esta base de datos contiene todas las características técnicas de los patinetes más vendidos en España",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Esta base de datos contiene todas las características técnicas que hemos podido encontrar en la web acerca de todos los patinetes eléctricos que hemos analizado y que corresponden esencialmente a los modelos los más vendidos en España",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/5ddf290cd53510c9c126c68132acace4/0f3a1/chica-patinete-electrico.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/5ddf290cd53510c9c126c68132acace4/0f3a1/chica-patinete-electrico.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/5ddf290cd53510c9c126c68132acace4/0f3a1/chica-patinete-electrico.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Esta base de datos contiene **todas las características técnicas que hemos podido encontrar en la web** acerca de todos los patinetes eléctricos que hemos analizado y que corresponden esencialmente a **los modelos los más vendidos en España**.
 
 ## Tabla resumen completa:
