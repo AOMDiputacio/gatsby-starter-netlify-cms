@@ -10,6 +10,53 @@ tags:
   - tag: patinete-hiboy
 articleImage: /img/hiboy-s2.jpg
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2/",
+    "name": "Análisis del patinete Hiboy S2: La respuesta al Xiaomi M365",
+    "headline": "Amortiguadores, ruedas rígidas, batería con larga longevitad… El más típico de los Hiboy",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Los Hiboy S2 y el MAX V2 tienen prestaciones y características similares. El MAX V2 cuenta con suspensiones delanteras y traseras, mientras el S2 solo dispone de suspensiones traseras dobles. Este último también es más barato de 10 Euros ; poca cosa…",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/2b872f49885130837fe1e0c09901a401/0f3a1/hiboy-s2.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/2b872f49885130837fe1e0c09901a401/0f3a1/hiboy-s2.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/2b872f49885130837fe1e0c09901a401/0f3a1/hiboy-s2.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
 **Slug:**
@@ -17,7 +64,7 @@ opinion-patinete-electrico-hiboy-s-2
 
 **Keywords:** Hiboy S2, Hiboy, patinete eléctrico, patín eléctrico, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-**Metadescripción**: Te hablamos del <span style="text-decoration:underline;">patinete eléctrico Hiboy S2</span>, la respuesta de esta fabricante al más popular patinete del mercado, el Xiaomi Mi M365
+**Metadescripción**: Amortiguadores, ruedas rígidas, batería con larga longevitad… El más típico de los Hiboy
 
 **Clearscope: **ttps://[www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)
 
