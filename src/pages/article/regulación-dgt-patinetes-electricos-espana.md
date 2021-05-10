@@ -8,7 +8,7 @@ date: 2021-05-06T16:51:59.321Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
+articleImage: /img/regulacion-de-transito.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
