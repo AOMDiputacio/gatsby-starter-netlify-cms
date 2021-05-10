@@ -9,7 +9,7 @@ date: 2021-05-04T19:15:35.429Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: /img/patinete-electrico-xiaomi-essential-lifestyle3.jpg
+articleImage: /img/mi-essential.jpg
 relatedArticles:
   - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
