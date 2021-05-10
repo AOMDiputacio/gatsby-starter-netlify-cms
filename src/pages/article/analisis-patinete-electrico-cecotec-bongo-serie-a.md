@@ -43,7 +43,7 @@ articleImage: /img/bongo-serie-a-cecotec.jpg
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/baf5c6cee05f995684da358a7a46212f/0f3a1/bongo-serie-a-cecotec.jpg",
+        "url": "https://guiadelconsumidor.es/static/baf5c6cee05f995684da358a7a46212f/0f3a1/bongo-serie-a-cecotec.jpg"
     },
     "author": {
         "@type": "Person",
