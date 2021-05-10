@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: "Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365"
-slug: analisis-patinete-xiaomi-1s
+slug: analisis-patinete-xiaomi-1-s
 date: 2021-04-28T20:07:42.839Z
 tags:
   - tag: patinetes-electricos
