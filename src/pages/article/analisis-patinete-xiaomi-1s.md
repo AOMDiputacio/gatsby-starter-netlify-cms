@@ -1,6 +1,8 @@
 ---
 dataKey: articles
 title: "Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365"
+description: El Xiaomi 1S es una versión modernizada del Xiaomi 365, en el que
+  se han corregido fallas y debilidades
 slug: analisis-patinete-xiaomi-1-s
 date: 2021-04-28T20:07:42.839Z
 tags:
@@ -12,6 +14,61 @@ relatedArticles:
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: guia-ultima-del-patinete-electrico
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-1-s/",
+    "name": "Análisis del patinete eléctrico Xiaomi 1S: el heredero del mítico MI 365",
+    "headline": "El Xiaomi 1S es una versión modernizada del Xiaomi 365, en el que se han corregido fallas y debilidades",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Aunque este descendiente directo del mítico Mi 365 sigue siendo un punto de referencia en el mundo de los patinetes eléctricos, su liderazgo está siendo atacado por numerosos fabricantes.
+
+El Hiboy S2 por ejemplo tiene una batería (y una autonomía) comparable además de suspensiones delanteras y traseras, neumáticos sólidos sin mantenimiento y un acabado correcto sin ser sobresaliente.
+
+EL S2 también tiene un motor de 350 W que supera de 100 W el del Xiaomi 1S, por un precio más elevado de 10 Euros a penas.
+
+Si aceptamos que con 1000 ciclos de cargas y descargas la batería del S2 duplica la esperanza de vida del Xiaomi, entonces puede tener mucho sentido considerar esta opción.
+
+Finalmente, vale la pena mencionar que el Kugoo S1 es 40 Euros más barato que el Xiaomi por la misma autonomía y un motor 100 W más potente. Una opción válida por quiénes no necesitan la aplicación móvil.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/d8df0ee37e1ecff074605786458854be/0f3a1/xiaomi-1s.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/d8df0ee37e1ecff074605786458854be/0f3a1/xiaomi-1s.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/d8df0ee37e1ecff074605786458854be/0f3a1/xiaomi-1s.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
 **Slug**:
