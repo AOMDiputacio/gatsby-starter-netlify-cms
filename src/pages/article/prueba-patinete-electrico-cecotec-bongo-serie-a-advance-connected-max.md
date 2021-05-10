@@ -1,8 +1,9 @@
 ---
 dataKey: articles
 title: "Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX"
-description: Conoce el nuevo patinete Bongo Advance Connected MAX, la versión
-  superior de la serie A de esta fabricante española
+description: >
+  El más avanzada de los Bongo Serie A de Cecotec es uno de los mejores
+  patinetes eléctricos ligeros
 slug: prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 date: 2021-05-06T17:04:08.321Z
 tags:
@@ -13,22 +14,73 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/",
+    "name": "Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX",
+    "headline": "El más avanzada de los Bongo Serie A de Cecotec es uno de los mejores patinetes eléctricos ligeros",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "460 Wh de capacidad por 45 kilómetros de autonomía (contar 25 en utilización real) y un motor de 350 W; según nuestro modelo de pricing nos confirma que por 450 Euros, este destacado patinete eléctrico de Cecotec tiene el mejor precio posible por semejantes prestaciones.
+
+Si bien no cuentan con suspensiones como el Hiboy S2 Pro, sus neumáticos antireventón sin cámara de aire absorberán las vibraciones más molestas a condición de pensar en verificar regularmente su presión.
+
+Esta excelente relación calidad precio así como unas prestaciones destacadas convierten este patinete en nuestro favorito entre todos, al mismo nivel que el Xiaomi Pro 2.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
-\\*\\*Slug:\\*\\*
+\*\*Slug:\*\*
 prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 
-\\*\\*Keyword:\\*\\* patinete eléctrico Cecotec, patinetes Cecotec, monopatín eléctrico Cecotec, patinete Bongo Serie A
+\*\*Keyword:\*\* patinete eléctrico Cecotec, patinetes Cecotec, monopatín eléctrico Cecotec, patinete Bongo Serie A
 
-\\*\\*Metadescripción:\\*\\* Conoce el nuevo patinete Bongo Advance Connected MAX, la versión superior de la serie A de esta fabricante española
+\*\*Metadescripción:\*\* Conoce el nuevo patinete Bongo Advance Connected MAX, la versión superior de la serie A de esta fabricante española
 
-\\*\\*Link Clearscope: \\*\\*\\[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
+\*\*Link Clearscope: \*\*\[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
 
 
 # Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX
 # Cecotec Bongo Serie A Advance Connected MAX
 
-!\\[Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945864/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Paseo3_j0ow8v.jpg "Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad")
+!\[Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945864/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Paseo3_j0ow8v.jpg "Prueba y opinión - Hemos probado el patinete eléctrico que te permite explorar a fondo la ciudad")
 
 -->
 
@@ -76,7 +128,7 @@ Lo reconoceremos fácilmente porque este modelo actualmente **solo viene en colo
 
 ## Ficha técnica: una excelente autonomía y una batería extraíble e intercambiable
 
-<table class=""product-table"">
+<table class="product-table">
 <tr>
 <td>
 </td>
@@ -128,7 +180,7 @@ Lo reconoceremos fácilmente porque este modelo actualmente **solo viene en colo
 </tr>
 <tr>
 <td>Tamaño de las ruedas (en pulgadas)</td>
-<td>8,5""</td>
+<td>8,5"</td>
 </tr>
 <tr>
 <td>Tipo de rueda</td>
