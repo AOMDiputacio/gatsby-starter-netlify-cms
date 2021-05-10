@@ -129,53 +129,56 @@ El patinete eléctrico **Xiaomi 1S es excelente para movilizarse en entornos urb
 
 Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 
+
+
 <table class="product-table">
 <tr>
 <td>
 </td>
 <td>
 <img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619633344/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil-Peque_wtxlju.jpg" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+<table class="product-table">
 </td>
 </tr>
 <tr>
 <td>Modelo</td>
-<td>Hiboy MAX V2</td>
+<td>XIAOMI Mi 1S</td>
 </tr>
 <tr>
 <td>Precio min</td>
-<td>370</td>
-</tr>
-<tr>
-<td>Peso (en Kg)</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Dimensiones desplegada (en cm)</td>
-<td>113 / 42 / 120</td>
-</tr>
-<tr>
-<td>Dimensiones plegada (en cm)</td>
-<td>113 / 42 / 48</td>
-</tr>
-<tr>
-<td>Batería: capacidad en mAh</td>
-<td>7500</td>
-</tr>
-<tr>
-<td>Batería: capacidad en Wh</td>
-<td>270</td>
-</tr>
-<tr>
-<td>Potencia nominal (en W)</td>
 <td>350</td>
 </tr>
 <tr>
+<td>Peso (en Kg)</td>
+<td>12.7</td>
+</tr>
+<tr>
+<td>Dimensiones desplegada (en cm)</td>
+<td>108 / 43 / 114</td>
+</tr>
+<tr>
+<td>Dimensiones plegada (en cm)</td>
+<td>108 / 43 / 49</td>
+</tr>
+<tr>
+<td>Batería: capacidad en mAh</td>
+<td>7650</td>
+</tr>
+<tr>
+<td>Batería: capacidad en Wh</td>
+<td>275</td>
+</tr>
+<tr>
+<td>Potencia nominal (en W)</td>
+<td>250</td>
+</tr>
+<tr>
 <td>Tiempo de carga (en h)</td>
-<td>4 a 6</td>
+<td>5.5</td>
 </tr>
 <tr>
 <td>Carga máxima</td>
-<td>135</td>
+<td>100</td>
 </tr>
 <tr>
 <td>Tamaño de las ruedas (en pulgadas)</td>
@@ -183,11 +186,11 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 </tr>
 <tr>
 <td>Tipo de rueda</td>
-<td>Sólidas</td>
+<td>Cámara de aire</td>
 </tr>
 <tr>
 <td>Autonomía (en km) estimada por el fabricante</td>
-<td>27</td>
+<td>30</td>
 </tr>
 <tr>
 <td>Velocidad máxima (en km/h)</td>
@@ -195,20 +198,20 @@ Podemos apreciar mejor sus cualidades como patinete urbano en su ficha técnica.
 </tr>
 <tr>
 <td>Modos</td>
-<td>18 km/h y 25 km/h
+<td>Paetonal (5 km/h) /Estándar (15 km/h) / Sport (25 km/h)
 Regulador de velocidad</td>
 </tr>
 <tr>
 <td>Cuestas (en grados)</td>
-<td>15</td>
+<td>14</td>
 </tr>
 <tr>
 <td>Sistema de frenado</td>
-<td>Frenado eléctrico NO regenerativo y freno de disco</td>
+<td>Freno de disco + Freno regenerativo</td>
 </tr>
 <tr>
 <td>Suspensiones</td>
-<td>Delantera y trasera doble</td>
+<td>No</td>
 </tr>
 <tr>
 <td>Pantalla LCD</td>
@@ -216,11 +219,11 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td>Aplicación</td>
-<td>Hiboy MAX APP</td>
+<td>Sí</td>
 </tr>
 <tr>
 <td>Alumbrado</td>
-<td>Faro delantero, bandas luminosas laterales, luz trasera</td>
+<td>Luz delantera y trasera</td>
 </tr>
 <tr>
 <td>Extras</td>
@@ -228,11 +231,15 @@ Regulador de velocidad</td>
 </tr>
 <tr>
 <td>Grado de resistencia al agua</td>
-<td>IPX4 (puede soportar una leve salpicadura de agua)</td>
+<td>IP 54 (No resiste a la lluvia)</td>
 </tr>
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 </td>
 </tr>
 </table>
