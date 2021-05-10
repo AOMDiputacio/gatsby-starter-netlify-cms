@@ -1,8 +1,7 @@
 ---
 dataKey: articles
 title: Análisis del patinete Cecotec Bongo Serie A Connected
-description: Te hablamos del patinete eléctrico Cecotec Bongo Advance Connected,
-  la apuesta española a las propuestas llegadas de China
+description: El rival directo del Xiaomi Mi 365 y de su succesor el Xiaomi S1
 slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 date: 2021-05-06T17:05:57.566Z
 tags:
@@ -14,28 +13,79 @@ relatedArticles:
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: guia-ultima-del-patinete-electrico
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected/",
+    "name": "Análisis del patinete Cecotec Bongo Serie A Connected",
+    "headline": "El rival directo del Xiaomi Mi 365 y de su succesor el Xiaomi S1",
+    "datePublished": " 02-04-2021",
+    "dateModified": " 02-04-2021",
+    "description": "Con un motor de 350 W y una batería de 230 Wh, el Bongo Serie A es una excelente alternativa al modelo Connected y también es capaz de recorrer 25 km (contar 18 aprox a 25 km/h).
+
+Posee todas las características del Cecotec Bongo Serie A, pero es 30 Euros más barato y no cuenta con la conectividad que le permitiría sincronizarse con la aplicación móvil Cecotec para ajustar sus variables de funcionamiento. Pues somos muchos a no usar nunca la aplicación movil.
+
+Sin embargo, por 10 Euros más el Kugoo S1 tendrá una autonomía muy superior, unos neumáticos sin mantenimiento y su amplia pantalla permitirá realizar numerosas personalizaciones. Sin embargo este último patinete eléctrico carece de la conexión a un aparato móvil.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
 <!--
 
-\*\*Slug:\*\*
+**Slug:**
 opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 
-\*\*Keywords\*\*: Cecotec bongo serie A Advance Connected, patinete eléctrico Cecotec, patinete eléctrico,
+**Keywords**: Cecotec bongo serie A Advance Connected, patinete eléctrico Cecotec, patinete eléctrico,
 
-\*\*Metadescripción:\*\* Te hablamos del patinete eléctrico Cecotec Bongo Advance Connected, la apuesta española a las propuestas llegadas de China
+**Metadescripción:** Te hablamos del patinete eléctrico Cecotec Bongo Advance Connected, la apuesta española a las propuestas llegadas de China
 
-\*\*Link Clearscope (Advance Connected MAX): \*\*\[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
+**Link Clearscope (Advance Connected MAX): **[https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize](https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize)
 
 
 # Análisis del patinete Cecotec Bongo Serie A Connected
 # Cecotec Bongo Serie A Connected
 
-!\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
+![Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
 
 -->
 
 ## La respuesta española a los modelos chinos, basada en calidad, diseño, conectividad y un precio atractivo
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 Los patinetes eléctricos son protagonistas activos en el cambio en la movilidad urbana en España y un modelo que ha contribuido a esto es el **patinete Bongo Advance Connected de la marca Cecotec**.
 
@@ -51,12 +101,13 @@ Y así como Xiaomi ha lanzado versiones mejoradas de su Mi365, también lo ha he
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
-* [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
++ [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
 
-* [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
@@ -190,7 +241,7 @@ Regulador de velocidad</td>
 </tr>
 </table>
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Pros y contras
 
@@ -220,7 +271,7 @@ Su mejor precio es de 330 euros en el momento de la redacción. **Apenas 30 euro
 
 De hecho, **se trata de un modelo idéntico al más costoso Advance Connected MAX**, cuya batería de mayor capacidad le da también más autonomía, pero que cuesta 100 euros por encima de este excelente modelo de Cecotec.
 
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ## Autonomía decente y batería desmontable e intercambiable
 
@@ -236,7 +287,7 @@ Además, la batería intercambiable permite obtener una autonomía ilimitada mie
 
 Finalmente, a la hora de recargar, **solo se requieren unas 4 a 5 horas para lograr una carga completa**.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Un motor sobresaliente capaz de responder cuando se necesite
 
@@ -249,7 +300,8 @@ Para aprovechar las virtudes de su motor, el Cecotec Bongo Advance Connected ofr
 * **Modo Eco:** La velocidad máxima está limitada 18 km/h
 * **Modo Confort:** La velocidad máxima es de 22 km/h y es el modo ideal para equilibrar autonomía y potencia.
 * **Modo Sport:** Permite ir a un máximo de 25 km/h y subir cuestas de hasta 15 grados.
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Excelente sistema de plegado y fácil de transportar
 
@@ -263,7 +315,7 @@ También contribuye a esta reducción de tamaño el **sistema mazinger de manill
 
 El **chasis de este patinete Cecotec es de aluminio resistente** y encontramos también partes de acero y plástico de buena calidad. El **reposapiés está forrado en material antideslizante** para mayor seguridad del usuario.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Uno de los mejores diseños del mercado
 
@@ -293,6 +345,7 @@ El monopatín **Cecotec Bongo Advance Connected cuenta con conexión bluetooth a
 
 Esto incluye funciones especiales como el bloqueo de las ruedas, nivel de fuerza del frenado, la velocidad de crucero y un **modo de arranque con impulso para reducir empujones bruscos del acelerador**.
 
+
 ## Luz suficiente para hacerse ver, pero no para ir por calles oscuras
 
 Un modesto faro delantero y una luz trasera nos permiten ser vistos por otros conductores. Pero no es suficiente para ir de noche por calles totalmente oscuras
@@ -301,7 +354,7 @@ El Cecotec Bongo Advance Connnected está diseñado para un uso diurno y **eso s
 
 En todo caso, siempre **recomendamos adquirir una luz exterior más potente** si se desea ir de noche por calles sin iluminación.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Triple sistema de freno que garantiza una conducción segura a cualquier velocidad
 
@@ -317,7 +370,8 @@ El fabricante asegura que se puede detener en solo 4,5 metros mientras marcha a 
 
 Esta frenada eficaz también se explica por la siempre excelente adherencia de sus **ruedas tubeless (es decir sin cámara) hinchables de 8,5 pulgadas**, que cuentan con un **sistema antipinchazos**.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
 
 ## Compradores en Amazon destacan la calidad
 
@@ -343,22 +397,24 @@ Cecotec se anotó un éxito con el Bongo Advance Connected y como veremos luego,
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-* [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
+
 > Con un motor de 350 W y una batería de 230 Wh, **el Bongo Serie A es una excelente alternativa al modelo Connected** y también es capaz de recorrer 25 km (contar 18 aprox a 25 km/h). 
->
+> 
 > Posee todas las características del Cecotec Bongo Serie A, pero es **30 Euros más barato** y no cuenta con la conectividad que le permitiría sincronizarse con la aplicación móvil Cecotec para ajustar sus variables de funcionamiento. Pues somos muchos a no usar nunca la aplicación movil.
 >
 > Sin embargo, **por 10 Euros más el Kugoo S1 tendrá una autonomía muy superior, unos neumáticos sin mantenimiento y su amplia pantalla permitirá realizar numerosas personalizaciones**. Sin embargo este último patinete eléctrico carece de la conexión a un aparato móvil.
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
++ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
-* [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
++ [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
