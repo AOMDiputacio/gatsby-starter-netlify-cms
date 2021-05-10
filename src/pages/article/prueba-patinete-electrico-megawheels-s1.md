@@ -3,7 +3,7 @@ dataKey: articles
 title: "Opinión: el M Megawheels S1: El favorito entre los patinetes pequeños"
 description: Te explicamos en detalle cómo es el patinete eléctrico Megawheels
   S1, un equipo para adolescentes muy interesante
-slug: prueba-patinete-electrico-megawheels-s1
+slug: prueba-patinete-electrico-megawheels-s-1
 date: 2021-05-06T16:49:19.682Z
 tags:
   - tag: patinetes-electricos
