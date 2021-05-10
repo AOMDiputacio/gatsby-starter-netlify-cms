@@ -8,7 +8,7 @@ date: 2021-05-06T17:04:08.321Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
-articleImage: /img/cecotec-bongo-serie-a-advance-max-paseo3.jpg
+articleImage: /img/cecotec-advance-connected-max.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
