@@ -401,7 +401,7 @@ Entre las negativas, resalta la elección de **ruedas tan pequeñas y de tipo s�
 
 ### Kugoo S1
 
-<a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""link-1"">Ver mejor precio</a>
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 </div>
 </div>
 
