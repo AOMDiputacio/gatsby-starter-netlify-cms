@@ -134,7 +134,7 @@ Lo reconoceremos fácilmente porque este modelo actualmente **solo viene en colo
 </td>
 <td>
 
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png" alt= "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec">
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png" width="100" alt= "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec">
 
 </td>
 </tr>
