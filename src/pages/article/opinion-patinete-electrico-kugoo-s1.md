@@ -393,6 +393,22 @@ Entre las negativas, resalta la elección de **ruedas tan pequeñas y de tipo s�
 
 ## Conclusión: Este modelo no tiene rival entre los patinetes con similar rango de autonomía (30 - 17 km)
 
+<div class="row">
+<div class="col">
+<h3 class="rate">10/10</h3>
+</div>
+<div class="col">
+
+### Kugoo S1
+
+<a class=""buy-button"" rel=""nofollow noreferrer noopener"" target=""_blank"" data-href=""link-1"">Ver mejor precio</a>
+</div>
+</div>
+
+
+
+
+
 A la hora de decidir qué scooter eléctrico comprar no se puede dejar a un lado la opción que nos trae la fabricante Kugoo.
 
 Sin duda es **un patinete potente, seguro y con grandes prestaciones que sorprenden ante su precio inmejorable**. Lo mejor es que **casi no requiere mantenimiento y está fabricado para durar mucho tiempo**.
