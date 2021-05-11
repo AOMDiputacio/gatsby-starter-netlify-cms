@@ -71,21 +71,77 @@ Esta base de datos contiene **todas las características técnicas que hemos pod
 <img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg" width="100" alt= "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar">
 
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg" width="100" alt= "Análisis y prueba - Hemos probado un patinete completo a un precio mini - Guía">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945409/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Recuperacion-Energia_qmr8fj.jpg" width="100" alt= "Análisis y opinión - El freno motor de este patinete Xiaomi permite recargar la batería durante la frenada">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633347/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil_lvfk0g.jpg" width="100" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png" width="100" alt= "Prueba y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945945/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Perfil_aougwb.png" width="100" alt= "Análisis y prueba - Nuestra opinión sobre este patinete eléctrico Cecotec que hemos analizado a fondo">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946026/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Perspective-Grande_rpqm54.png" width="100" alt= "Análisis y prueba - Hemos probado por tí el Bongo Serie A Connected de Cecotec para darte nuestra opinión imparcial">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png" width="100" alt= "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec">
+
+</td>
+<td>
+
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945756/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Perspective_pl4fwb.jpg" width="100" alt= "Análisis y opinión - El excelente patinete eléctrico Hiboy con doble amortización delantera y trasera">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg" width="100" alt= "Análisis y opinión - Un excelente patinete eléctrico plegable y conectado de Hiboy">
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg" width="100" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
+
+</td>
+<td>
+
+
+</td>
+<td>
+
+
+</td>
+<td>
+
+
+</td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-perspectiva_wpur3s.jpg" width="100" alt= "Prueba y opinión - EL más refinado">
+
+</td>
 </tr>
 <tr>
 <td>Modelo</td>
