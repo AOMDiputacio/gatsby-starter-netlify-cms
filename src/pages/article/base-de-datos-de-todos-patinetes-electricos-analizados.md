@@ -59,19 +59,6 @@ relatedArticles:
 }
 </script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Esta base de datos contiene **todas las características técnicas que hemos podido encontrar en la web** acerca de todos los patinetes eléctricos que hemos analizado y que corresponden esencialmente a **los modelos los más vendidos en España**.
 
 ## Tabla resumen completa:
@@ -80,22 +67,35 @@ Esta base de datos contiene **todas las características técnicas que hemos pod
 <tr>
 <td>
 </td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg" width="100" alt= "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg" width="100" alt= "Análisis y prueba - Hemos probado un patinete completo a un precio mini - Guía">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945409/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Recuperacion-Energia_qmr8fj.jpg" width="100" alt= "Análisis y opinión - El freno motor de este patinete Xiaomi permite recargar la batería durante la frenada">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633347/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil_lvfk0g.jpg" width="100" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png" width="100" alt= "Prueba y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945945/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Perfil_aougwb.png" width="100" alt= "Análisis y prueba - Nuestra opinión sobre este patinete eléctrico Cecotec que hemos analizado a fondo">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946026/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Perspective-Grande_rpqm54.png" width="100" alt= "Análisis y prueba - Hemos probado por tí el Bongo Serie A Connected de Cecotec para darte nuestra opinión imparcial">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png" width="100" alt= "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec">
+</td>
+<td></td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945756/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Perspective_pl4fwb.jpg" width="100" alt= "Análisis y opinión - El excelente patinete eléctrico Hiboy con doble amortización delantera y trasera">
+
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg" width="100" alt= "Análisis y opinión - Un excelente patinete eléctrico plegable y conectado de Hiboy">
+</td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg" width="100" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
+</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-perspectiva_wpur3s.jpg" width="100" alt= "Prueba y opinión - EL más refinado">
+</td>
 </tr>
 <tr>
 <td>Modelo</td>
@@ -550,42 +550,64 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 </tr>
 <tr>
 <td></td>
+<td> [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
+</td>
+<td> [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
+</td>
+<td> [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
+</td>
+<td> [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1s)
+</td>
+<td> [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
+</td>
+<td> [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
+</td>
+<td> [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
+</td>
+<td> [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
+</td>
+<td></td>
+<td>+ [Todo sobre el  Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v2)
+</td>
+<td>+ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
+</td>
+<td>+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td> [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
+</td>
 </tr>
 <tr>
 <td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a></td>
+<td></td>
+<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+</td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
+</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+</td>
 </td>
 </tr>
-</table>\
+</table>
 Fuente: busqueda internet
