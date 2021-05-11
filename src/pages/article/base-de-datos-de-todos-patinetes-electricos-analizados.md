@@ -66,7 +66,11 @@ Esta base de datos contiene **todas las características técnicas que hemos pod
 <table class="product-table">
 <tr>
 <td></td>
-<td></td>
+<td>
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg" width="100" alt= "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar">
+
+</td>
 <td></td>
 <td></td>
 <td></td>
