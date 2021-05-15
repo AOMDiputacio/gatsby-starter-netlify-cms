@@ -101,7 +101,7 @@ Recordemos que **Hiboy espera competir con gigantes como Xiaomi y Cecotec**. Y p
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9MvQrpg06gE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9MvQrpg06gE" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
@@ -124,7 +124,9 @@ Pero la buena calidad de sus materiales y la combinación de poder de su motor y
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945754/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Perspective-Peque_ybhvhz.jpg" alt= "Análisis y opinión - El excelente patinete eléctrico Hiboy con doble amortización delantera y trasera">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945756/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Perspective_pl4fwb.jpg" width="100" alt= "Análisis y opinión - El excelente patinete eléctrico Hiboy con doble amortización delantera y trasera">
+
 </td>
 </tr>
 <tr>
@@ -409,6 +411,18 @@ El Hiboy MAX V2 **es una buena opción a la hora de decidir qué patinete eléct
 Su **construcción sólida**, característica de la marca, reduce los dolores de cabeza en los usuarios que se inician en el mundo de los scooters eléctricos con este modelo.
 
 En definitiva, Hiboy ha sabido encontrar una **excelente relación calidad precio** para reunir en este monopatín un conjunto de características que no decepcionarán a sus usuarios.
+
+<div class="row">
+<div class="col">
+<h3 class="rate">8/10</h3>
+</div>
+<div class="col">
+
+### Hiboy MAX V2
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-max-v2">Ver mejor precio</a>
+</div>
+</div>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
