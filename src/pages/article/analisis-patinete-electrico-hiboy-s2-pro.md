@@ -110,26 +110,25 @@ Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de v
 
 <!--
 
-**Slug:**
+\*\*Slug:\*\*
 analisis-patinete-electrico-hiboy-s-2-pro
 
-**Keywords:** Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
+\*\*Keywords:\*\* Hiboy S2 Pro, Hiboy, patinete eléctrico, patín eléctrico Hiboy, comprar patinete eléctrico, monopatín eléctrico, mejores patinetes eléctricos, qué patinete eléctrico comprar
 
-**Metadescripción**: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
+\*\*Metadescripción\*\*: Te hablamos del patinete eléctrico Hiboy S2 Pro, el scooter más potente que ha traído a Europa este fabricante chino
 
-**Clearscope: [https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)**
+\*\*Clearscope: \[https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize](https://www.clearscope.io/aom/reports/ee48890dee5decf7/optimize)\*\*
 
 # Opinión: el patinete Hiboy S2 Pro - una referencia
 # Hiboy S2 Pro
 
-![Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
+!\[Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
 
-
 ## Patinete eléctrico Hiboy S2 Pro: Autonomía, potencia y resistencia
 
-+ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 **Hiboy responde a sus rivales con un equipo potente y de largo alcance**
 
@@ -151,11 +150,11 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
-+ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
+* [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-+ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
+* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 
 ## Video de análisis completo del Hiboy S2 pro
 
@@ -180,7 +179,9 @@ Estas características **hacen al Hiboy S2 Pro la opción ideal para quienes bus
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva-Peque_tuyrzm.jpg" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg" width="100" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
+
 </td>
 </tr>
 <tr>
@@ -285,7 +286,7 @@ Regulador de velocidad</td>
 </tr>
 </table>
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Pros y contras
 
@@ -309,7 +310,7 @@ Regulador de velocidad</td>
 </div>
 </div>
 
-## Solo un poco más caro que sus equivalentes de Xiaomi y Cecotec 
+## Solo un poco más caro que sus equivalentes de Xiaomi y Cecotec
 
 Al momento de redactar este artículo, **el precio del Hiboy S2 Pro en Europa es de 470 euros**, cercano a los modelos caros de Cecotec y Xiaomi en este mismo segmento de patinetes ligeros.
 
@@ -319,7 +320,7 @@ En este sentido, el **Hiboy S2 Pro puede satisfacer al usuario más exigente gra
 
 Como dijimos antes, este modelo es el más potente entre los tres scooters que conforman la serie “S2” de Hiboy, que se completa con las versiones S2 y S2 Lite.
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ## Excelente autonomía de 40 kilómetros por carga, y... ¡Una promesa de 1000 ciclos de carga!
 
@@ -331,7 +332,7 @@ Gracias a una **mejor batería de litio de 410 Wh de capacidad**, este monopatí
 
 El uso de celdas de ion de litio otorga una gran durabilidad y confiabilidad a este acumulador. Según el fabricante, **tras 1.000 ciclos de carga/descarga apenas decae un 30% su poder de almacenamiento de energía**.
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Siempre el famoso motor de 350 W del S2
 
@@ -345,12 +346,11 @@ Los dos modos de conducción del S2 Pro destacan por ser veloces. **El modo eco 
 
 Para cumplir con las normas de seguridad de la Unión Europea los fabricantes chinos de patinetes eléctricos **limitan su velocidad máxima a 25 km/h** a través del firmware del sistema de control del motor.
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
-## Muy fácil de plegar y llevar a pesar de un peso de 16,5 kg. 
+## Muy fácil de plegar y llevar a pesar de un peso de 16,5 kg.
 
 ![Prueba y opinión - Un patinete eléctrico facilmente plegable y transportable según hemos podido comprobar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945622/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Plegado_lbesme.png "Prueba y opinión - Un patinete eléctrico facilmente plegable y transportable según hemos podido comprobar")
-
 
 Los diseñadores de Hiboy hacen un uso inteligente de materiales como las aleaciones de aluminio, el acero y el plástico para llevar este patinete eléctrico plegable a un **peso de solo 16,5 kilogramos**.
 
@@ -362,7 +362,7 @@ El diseño plegable del Hiboy S2 Pro utiliza un **sistema de plegado hacia atrá
 
 De esta forma, **es muy fácil levantar el patinete por el manillar, a modo de asa**, y llevarlo a donde queramos o simplemente ponerlo en un armario hasta su próximo uso.
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Mismo diseño sobrio y atractivo del S2, pero con neumáticos más grandes
 
@@ -384,7 +384,6 @@ Su plataforma central está recubierta con goma antideslizante y cuenta con un t
 
 ![Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945621/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Pantalla-Manillar_byugtb.png "Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada")
 
-
 El Hiboy S2 Pro cuenta con una **pantalla LCD en el centro del manillar** igual a la que viene de serie en el modelo S2. Es bastante luminosa y se puede leer fácilmente incluso en un día con mucho sol.
 
 Esta pantalla suministra de forma rápida y clara información sobre la velocidad, la carga de la batería, la potencia del motor disponible y el modo de conducción. 
@@ -397,15 +396,14 @@ El Hiboy S2 Pro puede conectarse vía bluetooth a un teléfono móvil con sistem
 
 A través de esta aplicación, los usuarios pueden configurar desde sus móviles funciones como:
 
-+ Nivel de ajuste del freno delantero eléctrico (bajo, medio o fuerte)
-+ Ajustar la velocidad de crucero
-+ Bloquear o desbloquear el monopatín por seguridad
-+ Escoger el modo de conducción
+* Nivel de ajuste del freno delantero eléctrico (bajo, medio o fuerte)
+* Ajustar la velocidad de crucero
+* Bloquear o desbloquear el monopatín por seguridad
+* Escoger el modo de conducción
 
 ## Una iluminación delantera que permite ser visto pero una luz de frenado poco visible
 
 ![Análisis y opinión - Un alumbrado que permite ser visto de noche pero que no para alumbrar la calle](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945619/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Luces_oitsvb.png "Análisis y opinión - Un alumbrado que permite ser visto de noche pero que no para alumbrar la calle")
-
 
 Los patinetes eléctricos S2 Pro de Hiboy poseen **una luces delanteras LED ubicadas en la parte más alta del manillar, que apuntan en 45 grados hacia el suelo**.
 
@@ -415,7 +413,7 @@ Puede usarse como faro nocturno para iluminar el camino o como luz estroboscópi
 
 **No se recomienda adquirir el sillín** que se puede adaptar a este modelo, ya que esto **lo convertiría legalmente en un ciclomotor** que requiere de una matrícula, un carne de conducir, un seguro y muchas cosas más.
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Excelente sistema de doble freno que permite regenerar la batería al detenerse o ir cuesta abajo
 
@@ -429,7 +427,7 @@ Sus **neumáticos sólidos son de goma maciza**, montados sobre marcos de alumin
 
 ![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## El amortiguador trasero y unas ruedas más grandes mejoran el confort
 
@@ -441,7 +439,7 @@ Y si en el S2 hubo críticas por el exceso de vibración que transmitían las ru
 
 Este vehículo ligero destaca por su **capacidad para brindar una excelente experiencia de conducción y de comodidad sin problemas a un pasajero de hasta 1,90 metros de estatura y 118 kilogramos de peso.**
 
-+ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Los compradores de Amazon destacan su velocidad y buena autonomía
 
@@ -461,31 +459,42 @@ No solo tiene una **construcción sólida**, sino que también está hecho para 
 
 En definitiva, esta es una excelente apuesta del fabricante Hiboy para conquistar a quienes necesitan **movilidad, autonomía y que están dispuestos a pagar un poquito más para obtener una excelente relación calidad precio**.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Hiboy S2 Pro
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+
+</div>
+</div>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_701/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
 > Al momento de la redacción es 20 Euros más caro que el Cecotec Bongo Serie A Advance Connected MAX y 25 más que el Xiaomi Mi Electric Scooter PRO 2; también tiene una suspensión trasera doble y unas ruedas sólidas pero unos 5 km menos de autonomía. 
 >
 > En este rango de precio y de autonomía porque estas diferencias iban a ser tan relevantes? 
-Si consideramos sus amortiguadores y su construcción robusta con ruedas macizas y baterías de larga vida, **el Hiboy S2 Pro sigue siento una alternativa interesante al Xiaomi mijia Pro 2 y al Cecotec Bongo Serie A Advance Connected MAX**.
+> Si consideramos sus amortiguadores y su construcción robusta con ruedas macizas y baterías de larga vida, **el Hiboy S2 Pro sigue siento una alternativa interesante al Xiaomi mijia Pro 2 y al Cecotec Bongo Serie A Advance Connected MAX**.
 >
->Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de vida de 1000 ciclos de carga y descarga para perder hasta 30% de su capacidad.
+> Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de vida de 1000 ciclos de carga y descarga para perder hasta 30% de su capacidad.
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
-+ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
-  
+* [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
+
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
-+ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
+* [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
-+ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
+* [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
