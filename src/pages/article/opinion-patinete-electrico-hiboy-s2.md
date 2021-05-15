@@ -105,7 +105,7 @@ De hecho, ambos modelos se parecen en muchas de sus características técnicas y
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O8l8PiZoNFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O8l8PiZoNFM" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
@@ -122,7 +122,9 @@ Sin embargo, su batería de menor capacidad solo permite una **autonomía máxim
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945688/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App-Peque_gmsi5m.jpg" alt= "Análisis y opinión - Un excelente patinete eléctrico plegable y conectado de Hiboy">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg" width="100" alt= "Análisis y opinión - Un excelente patinete eléctrico plegable y conectado de Hiboy">
+
 </td>
 </tr>
 <tr>
@@ -393,7 +395,17 @@ En general está diseñado para **aguantar el uso regular por mucho tiempo**. In
 
 En definitiva, esta es una excelente apuesta del fabricante chino para competir o al menos mellar el liderazgo de los patinetes Xiaomi Mijia.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
+<div class="row">
+<div class="col">
+<h3 class="rate">8/10</h3>
+</div>
+<div class="col">
+
+### Hiboy S2
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
+</div>
+</div>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
