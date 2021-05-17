@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: "Opinión: El patinete Xiaomi Pro 2"
+cardTitle: "Opinión: El patinete Xiaomi Pro 2"
 description: El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la
   calidad Xiaomi por un precio relativamente razonable
 slug: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
@@ -8,7 +9,7 @@ date: 2021-04-27T18:05:31.184Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-xiaomi
-articleImage: /img/opinion-xiaomi-pro-2.jpg
+image: /img/opinion-xiaomi-pro-2.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
@@ -116,18 +117,18 @@ Con este patin, Xiaomi busca mantener el liderazgo entre los patinetes eléctric
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de favoritismo!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 + [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
+ @data-link="amzn-xiaomi-1s"
 
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
+ @data-link="amzn-xiaomi-essential"
 
 ## Video de análisis completo del Xiaomi Mijia Pro 2
 
@@ -137,7 +138,7 @@ Con este patin, Xiaomi busca mantener el liderazgo entre los patinetes eléctric
 
 </div>
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 
 ## Ficha técnica: Buenas características técnicas respecto al Mi Pro 1 de 2019
@@ -256,7 +257,7 @@ Regulador de velocidad</td>
 <tr>
 <td></td>
 <td> 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+@data-link="amzn-xiaomi-pro-2"
 </td>
 </td>
 </tr>
@@ -297,7 +298,7 @@ Esto lo hace más caro que muchas de las versiones de su competidor [Cecotec Bon
 
 + [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
   
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 ## Una autonomía de hasta 45 km (o 27 km) que tarda 8,5 horas en cargarse
 
@@ -432,7 +433,7 @@ Por supuesto, es unánime el reconocimiento al **funcionamiento silencioso del m
 
 En cuanto a lo negativo, algunos usuarios se quejan de la **falta de amortiguación** y de que **no se ha corregido totalmente el juego de la bisagra del manillar** que va apareciendo con el uso.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 ## Conclusión: un precio moderado por un patinete con muy buen desempeño y gran autonomía
 
@@ -444,7 +445,7 @@ La ventaja del Pro 2 es su **mayor potencia y ergonomía,** que atrae a **usuari
 
 Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar a la competencia durante 2021, en medio de un mercado afectado por la pandemia y con un creciente interés en la movilidad autosustentable y el respeto al medio ambiente.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -458,16 +459,16 @@ Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar
 >
 > Por 35 Euros más, el modelo **Hiboy S2 Pro** tiene un motor de 350 W, es decir 50 W más potente, una autonomía apenas menor de 5 km, pero cuenta con **ruedas macizas y suspensiones traseras doble por un patinete duradero sin mantenimiento**.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+ @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
 
 + [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
+ @data-link="amzn-hiboy-s2-pro"
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+ @data-link="amzn-smartgyro-xtreme-speedway-v2"

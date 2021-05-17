@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: Prueba del Patinete eléctrico Hiboy MAX V2
+cardTitle: Prueba del Patinete eléctrico Hiboy MAX V2
 description: Conoce el patinete eléctrico Hiboy MAX V2, un scooter de precio
   económico y confiable para uso diario
 slug: opinion-patinete-electrico-hiboy-max-v-2
@@ -8,7 +9,7 @@ date: 2021-05-04T17:15:38.222Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-hiboy
-articleImage: /img/hiboy-max-v-2.jpg
+image: /img/hiboy-max-v-2.jpg
 ---
 </script>
 <script type="application/ld+json">
@@ -95,7 +96,7 @@ Recordemos que **Hiboy espera competir con gigantes como Xiaomi y Cecotec**. Y p
 
 + [También hemos analizado el modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+ @data-link="amzn-hiboy-s2"
 
 ## Video de análisis completo del Hiboy MAX V2
 
@@ -420,7 +421,7 @@ En definitiva, Hiboy ha sabido encontrar una **excelente relación calidad preci
 
 ### Hiboy MAX V2
 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-max-v2">Ver mejor precio</a>
+@data-link="amzn-hiboy-max-v2"
 </div>
 </div>
 
@@ -438,9 +439,9 @@ En definitiva, Hiboy ha sabido encontrar una **excelente relación calidad preci
 
 + [EL modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+ @data-link="amzn-hiboy-s2"
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+ @data-link="amzn-smartgyro-xtreme-speedway-v2"
 

@@ -29,6 +29,18 @@ For migration, you have to move your old content to the new project.
 
 > For all affiliate links you have to add `buttonText` field with its value
 
+## Move Images
+
+| Form old project | To new project |
+| ---------------- | -------------- |
+| `static/img/*`   | `static/img/`  |
+
+## Move index.md
+
+| Form old project     | To new project |
+| -------------------- | -------------- |
+| `src/pages/index.md` | `src/pages/`   |
+
 ## Move Others
 
 | Form old project | To new project |

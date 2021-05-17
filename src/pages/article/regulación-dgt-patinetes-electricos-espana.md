@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: ¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?
+cardTitle: ¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?
 description: Te hablamos de la normativa vigente para el uso de patinetes
   eléctricos en España y de qué puedes y no puedes hacer con ellos.
 slug: regulación-dgt-patinetes-electricos-espana
@@ -8,7 +9,7 @@ date: 2021-05-06T16:51:59.321Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: /img/regulacion-de-transito.jpg
+image: /img/regulacion-de-transito.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados

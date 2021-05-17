@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: Política de privacidad
+cardTitle: Política de privacidad
 slug: politica-privacidad
 date: 2021-05-08T21:13:02.470Z
 tags:

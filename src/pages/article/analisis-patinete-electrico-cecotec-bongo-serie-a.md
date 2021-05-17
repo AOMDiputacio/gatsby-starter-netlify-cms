@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
+cardTitle: Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
 description: Te hablamos del Cecotec Bongo Serie A, el mejor patinete eléctrico
   de Cecotec si lo que buscas un un patinete eléctrico barato
 slug: analisis-patinete-electrico-cecotec-bongo-serie-A
@@ -8,7 +9,7 @@ date: 2021-05-06T17:08:03.432Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
-articleImage: /img/bongo-serie-a-cecotec.jpg
+image: /img/bongo-serie-a-cecotec.jpg
 ---
 </script>
 <script type="application/ld+json">
@@ -94,15 +95,15 @@ En cuanto a su posicionamiento, **se trata de un claro competidor del Xiaomi Ess
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+@data-link="amzn-cecotec-bongo-serie-a"
 
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
+@data-link="amzn-cecotec-bongo-serie-a-connected"
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+@data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
 
 ## Video de análisis completo del Cecotec Bongo Serie A
 
@@ -112,7 +113,7 @@ En cuanto a su posicionamiento, **se trata de un claro competidor del Xiaomi Ess
 
 </div>
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+@data-link="amzn-cecotec-bongo-serie-a"
 
 ## Excelentes especificaciones técnicas, y algunos fallos de calidad durante la fase de lanzamiento
 
@@ -222,7 +223,8 @@ Regulador de velocidad</td>
 
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+<td>
+@data-link="amzn-cecotec-bongo-serie-a"
 </td>
 </td>
 </tr>
@@ -371,7 +373,7 @@ Las **especificaciones técnicas de este patinete europeo son excelentes** y le 
 
 Si tenemos en cuenta que los pocos fallos que afectaron a algunas de las primeras creaciones (capacidad y vida útil de la batería y neumáticos que se desinflan) perjudicaron la reputación de este patinete en Amazon, pero que al parecer no son más que un mal recuerdo, ya que han modificado y mejorado este producto europeo, ensamblado en la magnífica Comunidad Valenciana en España, lo tiene todo, y compite sin sonrojarse con sus rivales chinos.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+@data-link="amzn-cecotec-bongo-serie-a"
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -383,10 +385,10 @@ Si tenemos en cuenta que los pocos fallos que afectaron a algunas de las primera
 >
 > Sin embargo, **por 10 Euros más el Kugoo S1 tendrá una autonomía superior**, unos neumáticos sin mantenimiento y a pesar de no tener conexión con aparatos inteligentes, **su amplia pantalla permitirá realizar numerosas personalizaciones**.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+@data-link="amzn-cecotec-bongo-serie-a"
 
 * [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
+@data-link="amzn-kugoo-s1"
 
 Esperamos que nuestro análisis del patinete Cecotec Bongo Serie A haya sido de utilidad. Si quieres hacernos algún comentario o sugerencia estaremos para atenderte.

@@ -171,9 +171,11 @@ exports.createSchemaCustomization = ({ actions }) => {
       dataKey: String
       id: String
       title: String
+      cardTitle: String
       description: String
       date: Date @dateformat
       link: String
+      buttonText: String
       relatedArticleTitle: String
       slug: String
       mainTitle: String

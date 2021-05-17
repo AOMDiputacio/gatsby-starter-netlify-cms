@@ -1,13 +1,14 @@
 ---
 dataKey: articles
 title: Análisis del patinete Cecotec Bongo Serie A Connected
+cardTitle: Análisis del patinete Cecotec Bongo Serie A Connected
 description: El rival directo del Xiaomi Mi 365 y de su succesor el Xiaomi S1
 slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 date: 2021-05-06T17:05:57.566Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
-articleImage: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
+image: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
 relatedArticles:
   - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
@@ -99,17 +100,17 @@ Y así como Xiaomi ha lanzado versiones mejoradas de su Mi365, también lo ha he
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existe) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 + [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
+ @data-link="amzn-cecotec-bongo-serie-a"
 
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+ @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
 
 ## Video de análisis completo del Cecotec Bongo Serie A Connected
 
@@ -119,7 +120,7 @@ Y así como Xiaomi ha lanzado versiones mejoradas de su Mi365, también lo ha he
 
 </div>
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 ## Conectividad y autonomía respetable para un uso ajustado a las necesidades
 
@@ -235,7 +236,7 @@ Regulador de velocidad</td>
 
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+<td> @data-link="amzn-cecotec-bongo-serie-a-connected"
 </td>
 </td>
 </tr>
@@ -379,7 +380,7 @@ Los **compradores de Amazon han destacado su buen diseño y la alta calidad de l
 
 También hay opiniones divididas entre quienes desean mayor autonomía y quienes consideran que **su potencia justifica el precio** que deben pagar.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 ## Un patinete ideal para el usuario ocasional que no quiere complicaciones
 
@@ -387,13 +388,13 @@ Este es un **patinete urbano adecuado para quienes buscan un medio de transporte
 
 Cecotec se anotó un éxito con el Bongo Advance Connected y como veremos luego, mejoró sus cualidades con el modelo MAX, que completa la Serie A.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 **Por sus cualidades técnicas y excelente relación calidad precio, este monopatín es una buena opción de compra** en 2021.
 
 ¡Y el hecho de ser fabricado en España es un plus a la hora de requerir algún repuesto, cambio por garantía o mantenimiento!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -409,12 +410,12 @@ Cecotec se anotó un éxito con el Bongo Advance Connected y como veremos luego,
 >
 > Sin embargo, **por 10 Euros más el Kugoo S1 tendrá una autonomía muy superior, unos neumáticos sin mantenimiento y su amplia pantalla permitirá realizar numerosas personalizaciones**. Sin embargo este último patinete eléctrico carece de la conexión a un aparato móvil.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
 
 + [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
+ @data-link="amzn-kugoo-s1"
 
 + [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
+ @data-link="amzn-cecotec-bongo-serie-a"

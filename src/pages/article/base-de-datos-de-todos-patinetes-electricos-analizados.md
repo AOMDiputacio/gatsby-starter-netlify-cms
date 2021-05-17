@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: "Tabla de resumen: los patinetes eléctricos más vendidos en España"
+cardTitle: "Tabla de resumen: los patinetes eléctricos más vendidos en España"
 description: Esta base de datos contiene todas las características técnicas de
   los patinetes más vendidos en España
 slug: base-de -datos-de-todos-patinetes-electricos-analizados
@@ -8,7 +9,7 @@ date: 2021-04-28T15:33:05.088Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: /img/chica-patinete-electrico.jpg
+image: /img/chica-patinete-electrico.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
@@ -615,31 +616,31 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 </tr>
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+<td> @data-link="amzn-megawheels-s1"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
+<td> @data-link="amzn-kugoo-s1"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+<td> @data-link="amzn-xiaomi-essential"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+<td> @data-link="amzn-xiaomi-1s"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+<td> @data-link="amzn-hiboy-s2-pro"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+<td> @data-link="amzn-cecotec-bongo-serie-a"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
+<td> @data-link="amzn-cecotec-bongo-serie-a-connected"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio</a></td>
+<td> @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"</td>
 <td></td>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
+<td> @data-link="amzn-hiboy-s2"
 </td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+<td> @data-link="amzn-hiboy-s2-pro"
 </td>
 <td></td>
 <td></td>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+<td> @data-link="amzn-smartgyro-xtreme-speedway-v2"
 </td>
 </td>
 </tr>

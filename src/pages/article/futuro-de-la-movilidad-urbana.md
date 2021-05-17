@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
+cardTitle: ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
 description: El medio ambiente y tu salud lo piden. Pero… ¿Cómo seleccionar tu
   Vehículo de Movilidad Sostenible Personal?
 slug: futuro-de-la-movilidad-urbana
@@ -8,7 +9,7 @@ date: 2021-05-06T16:31:57.855Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-articleImage: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
+image: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
@@ -202,15 +203,15 @@ Además de las antes mencionadas, un patinete eléctrico o monopatín:
 
 + [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
+ @data-link="amzn-cecotec-bongo-serie-a"
   
 + [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
+ @data-link="amzn-cecotec-bongo-serie-a-connected"
  
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+ @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'guiadelconsumidor',
-    description: 'Probamos y te damos nuestra opinión sobre los mejores productos del mercado',
-    siteUrl: 'https://guiadelconsumidor.es/',
+    title: `guiadelconsumidor`,
+    description: `Probamos y te damos nuestra opinión sobre los mejores productos del mercado`,
+    siteUrl: `https://guiadelconsumidor.es/`,
   },
   flags: {
     DEV_SSR: false,

@@ -1,11 +1,12 @@
 ---
 dataKey: articles
 title: Aviso Legal
+cardTitle: Aviso Legal
 slug: aviso-legal
 date: 2021-04-20T18:02:26.470Z
 tags:
   - tag: pagina
-articleImage: /img/estudios-comparativos.jpg
+image: /img/estudios-comparativos.jpg
 ---
 ## Datos del titular
 

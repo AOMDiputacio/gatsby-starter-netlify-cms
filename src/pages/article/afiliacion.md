@@ -1,11 +1,12 @@
 ---
 dataKey: articles
 title: Información sobre afiliación
+cardTitle: Información sobre afiliación
 slug: afiliacion
 date: 2021-05-08T21:03:20.664Z
 tags:
   - tag: pagina
-articleImage: /img/estudios-comparativos.jpg
+image: /img/estudios-comparativos.jpg
 ---
 Este sitio web participa en el programa de afiliados de Amazon.es y genera ingresos por las compras realizadas por los usuarios mediante los enlaces de afiliado que se pueden encontrar en él.
 

@@ -1,6 +1,7 @@
 ---
 dataKey: articles
 title: "Opinión: el patinete Hiboy S2 Pro - una referencia"
+cardTitle: "Opinión: el patinete Hiboy S2 Pro - una referencia"
 description: "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía,
   potencia y una batería que durará mucho"
 slug: analisis-patinete-electrico-hiboy-s-2-pro
@@ -8,7 +9,7 @@ date: 2021-05-07T10:12:47.613Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-hiboy
-articleImage: /img/hiboy-s2-pro.jpg
+image: /img/hiboy-s2-pro.jpg
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
@@ -148,11 +149,11 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+ @data-link="amzn-hiboy-s2-pro"
 
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+ @data-link="amzn-hiboy-s2"
 
 * [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 
@@ -164,7 +165,7 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
 </div>
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+ @data-link="amzn-hiboy-s2-pro"
 
 ## Ficha técnica: Un vehículo de alta calidad, ligero pero potente
 
@@ -280,7 +281,7 @@ Regulador de velocidad</td>
 
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+<td> @data-link="amzn-hiboy-s2-pro"
 </td>
 </td>
 </tr>
@@ -449,7 +450,7 @@ Todos los compradores destacan el hecho de poder ir rápidamente y llegar más l
 
 Otras opiniones se relacionan con los **neumáticos, más grandes y cómodos, que mejoran la calidad de conducción en distancias largas y suelo irregular**.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+ @data-link="amzn-hiboy-s2-pro"
 
 ## El patinete ideal para quienes necesitan ir más lejos sin dolores de cabeza
 
@@ -467,7 +468,7 @@ En definitiva, esta es una excelente apuesta del fabricante Hiboy para conquista
 
 ### Hiboy S2 Pro
 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+@data-link="amzn-hiboy-s2-pro"
 
 </div>
 </div>
@@ -485,16 +486,16 @@ En definitiva, esta es una excelente apuesta del fabricante Hiboy para conquista
 >
 > Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de vida de 1000 ciclos de carga y descarga para perder hasta 30% de su capacidad.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+ @data-link="amzn-hiboy-s2-pro"
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
+@data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
 
 * [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
+ @data-link="amzn-xiaomi-pro-2"
 
 * [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+ @data-link="amzn-smartgyro-xtreme-speedway-v2"

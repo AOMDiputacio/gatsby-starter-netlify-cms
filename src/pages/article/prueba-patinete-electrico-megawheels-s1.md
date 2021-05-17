@@ -1,13 +1,14 @@
 ---
 dataKey: articles
 title: "Opinión: el M Megawheels S1: El favorito entre los patinetes pequeños"
+cardTitle: "Opinión: el M Megawheels S1: El favorito entre los patinetes pequeños"
 description: Te explicamos en detalle cómo es el patinete eléctrico Megawheels
   S1, un equipo para adolescentes muy interesante
 slug: prueba-patinete-electrico-megawheels-s-1
 date: 2021-05-06T16:49:19.682Z
 tags:
   - tag: patinetes-electricos
-articleImage: /img/megawheels-s1-e-scooter-1.jpg
+image: /img/megawheels-s1-e-scooter-1.jpg
 ---
 </script>
 <script type="application/ld+json">
@@ -100,7 +101,7 @@ En cambio, **está dirigido principalmente a adolescentes que solo quieren ir de
 
 > No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de favoritismo!
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+ @data-link="amzn-megawheels-s1"
 
 ## Video de análisis completo del M Megawheels S1
 
@@ -110,7 +111,7 @@ En cambio, **está dirigido principalmente a adolescentes que solo quieren ir de
 
 </div>
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
+ @data-link="amzn-megawheels-s1"
 
 ## Ficha técnica: ligero y con la potencia y autonomía justas para desplazamientos cortos y sin prisa 
 
@@ -227,7 +228,7 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 </tr>
 <tr>
 <td></td>
-<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
+<td> @data-link="amzn-megawheels-s1"
 </td>
 </td>
 </tr>
@@ -261,7 +262,7 @@ El Megawheels S1 fue lanzado al mercado europeo a un **precio de 200 euros**, lo
 
 + [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+ @data-link="amzn-megawheels-s1"
 
 ## 15 km. de autonomía (contar 7 km.) pero una carga muy rápida
 
@@ -376,7 +377,7 @@ El scooter eléctrico Megawheels S1 ha sido visto como el **regalo ideal para ch
 
 Aunque se reconoce que **no es el más veloz ni el de mayor autonomía** entre los patinetes disponibles a la venta, los compradores resaltan su **buena construcción y solidez**.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+ @data-link="amzn-megawheels-s1"
 
 ## Conclusión: Un equipo barato que no decepciona ideal como primer patinete eléctrico
 
@@ -386,7 +387,7 @@ Se trata de un producto que cumple lo que promete y que puede ser útil para ni�
 
 Por ahora podemos decir que ocupa su propio nicho de mercado y no tiene rival a la hora de considerar qué scooter eléctrico de bajo precio se puede comprar.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+ @data-link="amzn-megawheels-s1"
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -402,4 +403,4 @@ Por ahora podemos decir que ocupa su propio nicho de mercado y no tiene rival a 
 >
 >Pensamos que se trata del mejor de su categoría.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
+ @data-link="amzn-megawheels-s1"
