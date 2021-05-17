@@ -1,63 +1,54 @@
 ---
 templateKey: index-page
-title: Probamos y comparamos para ti.
-description: Pruebas, análisis y descuentos para patinetes y bicicletas eléctricos.
-subtitle: >-
-  <p style="text-align: center;">
-
-  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, 
-
-
-  **estás en el lugar adecuado.** 
-
-
-  Este mes inauguramos nuestra selección de soluciones de movilidad urbana sostenibles que están revolucionando nuestro futuro sin que nos demos cuenta.
-
-
-  </p>
-tagline: Encuentra al mejor precio el medio de transporte que más se adapta a
-  tus necesidades
+title: Dormez mieux, vivez heureux.
+description: This is page description (SEO)
+subtitle: Vous cherchez des **conseils d'experts, fiables** et impartiaux pour
+  répondre à vos questions sur le sommeil ? Vous êtes au bon
+  [endroit](https://example.com).
+tagline: Comparez des dizaines de marques pour trouver votre meilleur
 featureTags:
-  - tag: patinete-xiaomi
-  - tag: patinete-cecotec
-  - tag: patinete-hiboy
-  - tag: patinete-kugoo
+  - tag: tag-1
+  - tag: tag-2
+  - tag: tag-3
+  - tag: tag-4
 section2:
-  image: /img/chica-patinete-electrico.jpg
-  tagline: UN BUEN LUGAR PARA EMPEZAR
-  title: Encuentra tu patinete urbano ideal
-  description: Por patinetes urbano entendemos estos patinetes eléctricos de menos
-    de 15 Kg. más compatibles con los peatones, ecológicos y fáciles de
-    transporter. Son una solución sostenible de transporte.
-  buttonText: ENCONTRAR MI PATINETE
-  buttonLink: /patinetes-electricos/guia-ultima-del-patinete-electrico
+  image: /img/matelas2.png
+  tagline: UN BON ENDROIT POUR COMMENCER
+  title: Trouvez votre matelas idéal
+  description: Vous commencez votre recherche ? Utilisez notre simulateur pour
+    trouver un matelas parfaitement adapté à vos besoins – en moins d'une
+    minute.
+  buttonText: JE TROUVE MON MATELAS
+  buttonLink: /tags
 featureArticles:
   articles:
-    - article: guia-ultima-del-patinete-electrico
-    - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
-  buttonText: VER MÁS SOBRE
+    - article: demo-article-1
+    - article: demo-article-2
+  buttonText: VOIR LES MARQUES
 section3:
   contentList:
-    - title: Asesoramiento de expertos
-      description: "Pruebas, comparaciones, guías de compra: con nuestro equipo de
-        probadores independientes, le asesoramos y ayudamos a encontrar los
-        mejores productos del mercado de forma gratuita."
-    - title: Herramientas eficientes
-      description: Las reseñas y simuladores te ayudarán a elegir los medios de
-        transporte urbano que se adapten a tus necesidades y pasar las mejores
-        noches.
-    - title: Seguimiento personalizado
-      description: Tienes una pregunta ? Deja tu comentario en nuestro blog y nuestro
-        equipo te brindará la respuesta que necesitas.
-  tagline: QUE TE OFRECEMOS
-  title: Independiente y 100% gratis
-  image: /img/patinete-xiaomi.jpg
+    - title: Des conseils d'experts
+      description:
+        "Tests, comparatifs, guides d'achats : avec son équipe de testeurs
+        indépendants, Sleeps.fr est à votre service pour vous conseiller et vous
+        aider à trouver gratuitement les meilleurs produits de literie du
+        marché."
+    - title: Des outils efficaces
+      description:
+        Des comparatifs et des simulateurs vous aideront à choisir une
+        literie adaptée à vos besoins et passer les meilleures nuits.
+    - title: Un suivi personnalisé
+      description: Vous avez une question ? Contactez directement notre équipe
+        d'experts en sommeil basée en France et à votre disposition par email.
+  tagline: VOS AVANTAGES
+  title: Indépendant et 100% gratuit
+  image: /img/sommeil-mini.png
 section4:
   categoryList:
-    - tag: bicicletas-electricas
-    - tag: guias
-    - tag: patinete-cecotec
-    - tag: patinete-hiboy
-  tagline: HEMOS PROBADO PARA TI
-  title: Descubre nuestros mejores productos por categorías.
+    - tag: tag-1
+    - tag: tag-2
+    - tag: tag-3
+    - tag: tag-4
+  tagline: NOUS AVONS TESTÉ POUR VOUS
+  title: Découvrez nos meilleurs choix matelas par catégorie.
 ---

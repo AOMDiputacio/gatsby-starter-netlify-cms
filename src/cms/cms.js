@@ -1,10 +1,11 @@
 import CMS from 'netlify-cms-app'
 
+import ArticlePreview from './previews/ArticlePreview'
+
 CMS.registerEditorComponent({
   id: 'affililateButton',
   label: 'Affililate Button',
   fields: [
-    { name: 'text', label: 'Text', widget: 'string' },
     {
       name: 'link',
       label: 'Link',
@@ -15,20 +16,45 @@ CMS.registerEditorComponent({
       display_fields: ['id', 'link'],
     },
   ],
-  pattern: /^<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="([^"]+)">([^<]+)<\/a>$/,
+  pattern: /^@data-link="([^"]+)"$/,
   fromBlock: function (match) {
     return {
       link: match[1],
-      text: match[2],
     }
   },
   toBlock: function (obj) {
-    return (
-      '<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="' +
-      obj.link +
-      '">' +
-      obj.text +
-      '</a>'
-    )
+    return '@data-link="' + obj.link + '"'
+  },
+  toPreview: function (obj) {
+    return obj.link === 'undefined'
+      ? ''
+      : '<a class="buy-button" href="#">' + obj.link + '</a>'
   },
 })
+
+CMS.registerEditorComponent({
+  id: 'tableOfContent',
+  label: 'Table of content',
+  fields: [
+    {
+      name: 'title',
+      label: 'Title',
+      widget: 'string',
+      default: 'Table of content',
+    },
+  ],
+  pattern: /^#### ([^\n]+)\n```toc\n```$/,
+  fromBlock: function (match) {
+    return {
+      title: match[1],
+    }
+  },
+  toBlock: function (obj) {
+    return '#### ' + obj.title + '\n```toc\n```'
+  },
+  toPreview: function (obj) {
+    return '[[' + obj.title + ']]'
+  },
+})
+
+CMS.registerPreviewTemplate('article', ArticlePreview)

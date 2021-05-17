@@ -1,86 +1,63 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Img from 'gatsby-image'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
 import Layout from '../components/Layout'
 import ArticleItems from '../components/ArticleItems'
+import PageProgress from '../components/PageProgress'
+import useArticlePageData from '../staticQuerys/useArticlePageData'
+import useTags from '../staticQuerys/useTags'
+import useArticles from '../staticQuerys/useArticles'
+import useAffiliateLinks from '../staticQuerys/useAffiliateLinks'
 import { findByArray, joinTagArticle } from '../helper/helper'
 
-export default function ArticlePage({
-  data: { article, tags, articles, affiliateLinks, pageData },
-}) {
-  const { frontmatter: articleData } = article
+export default function ArticlePage({ data }) {
+  const pageData = useArticlePageData()
+  const tags = useTags()
+  const articles = useArticles()
+  const affiliateLinks = useAffiliateLinks()
 
+  const { html, frontmatter } = data.markdownRemark
   let relatedArticles = []
 
-  if (articleData.relatedArticles) {
+  if (frontmatter.relatedArticles) {
     relatedArticles = findByArray({
-      arr1: articles.edges,
-      arr2: articleData.relatedArticles,
+      arr1: articles,
+      arr2: frontmatter.relatedArticles,
       cb1: (item) => item.node.frontmatter.slug,
       cb2: (item) => item.article,
     })
   }
 
-  const joinedRelatedArticles = joinTagArticle(tags.edges, relatedArticles)
+  const joinedRelatedArticles = joinTagArticle(tags, relatedArticles)
 
-  const html = article.html
-    .replace(/<data-chart[\s\n]+value="([^"]+)"[\s\n]*\/>/g, (_, value) => {
-      const totalLength = 301.10565185546875
-      return `
-<div class="chart">
-  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <circle
-      cx="50"
-      cy="50"
-      r="48"
-      stroke-dasharray="${totalLength}"
-      stroke-dashoffset="${totalLength - (value / 100) * totalLength}"
-    />
-  </svg>
-  <span>
-    ${value}%
-  </span>
-</div>
-    `
-    })
-    .replace(/data-href="([^"]+)"/g, (match, id) => {
-      const affiliate = affiliateLinks.edges.find(
-        (edge) => edge.node.frontmatter.id === id
-      )
-      if (affiliate) {
-        return `href="${affiliate.node.frontmatter.link}"`
-      } else {
-        return match
-      }
-    })
+  const replacedHtml = tweakHtml(html, affiliateLinks)
+
+  const image = getImage(frontmatter.image)
 
   return (
-    <Layout
-      title={articleData.title}
-      description={pageData.frontmatter.description}
-    >
-      <section className="container article-page">
-        <h1 className="article-page__title">{articleData.title}</h1>
-        {articleData.articleImage && (
-          <Img
+    <Layout title={frontmatter.title} description={frontmatter.description}>
+      <PageProgress />
+      <section className="article-container article-page">
+        <h1 className="article-page__title">{frontmatter.title}</h1>
+        {image && (
+          <GatsbyImage
             className="article-page__image"
-            fluid={articleData.articleImage.childImageSharp.fluid}
+            alt={frontmatter.imageAlt ?? frontmatter.title}
+            image={image}
           />
         )}
         <div
           className="markdown-content"
           dangerouslySetInnerHTML={{
-            __html: html,
+            __html: replacedHtml,
           }}
         />
         {joinedRelatedArticles.length > 0 && (
           <>
-            <h1 className="cool-title__wrapper">
-              <span className="cool-title">
-                {pageData.frontmatter.relatedArticleTitle}
-              </span>
-            </h1>
+            <h3 className="cool-title__wrapper">
+              <span className="cool-title">{pageData.relatedArticleTitle}</span>
+            </h3>
             <ArticleItems items={joinedRelatedArticles} />
           </>
         )}
@@ -90,77 +67,76 @@ export default function ArticlePage({
 }
 
 export const pageQuery = graphql`
-  query ArticleByID($id: String!) {
-    article: markdownRemark(id: { eq: $id }) {
+  query ARTICLE_BY_ID($id: String!) {
+    markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         title
-        articleImage {
+        description
+        image {
           childImageSharp {
-            fluid(maxWidth: 500) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(
+              aspectRatio: 1.5
+              layout: FULL_WIDTH
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
+        imageAlt
         relatedArticles {
           article
         }
       }
     }
-    tags: allMarkdownRemark(
-      filter: { frontmatter: { dataKey: { eq: "tags" } } }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            id
-            name
-          }
-        }
-      }
-    }
-    articles: allMarkdownRemark(
-      filter: { frontmatter: { dataKey: { eq: "articles" } } }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            slug
-            tags {
-              tag
-            }
-            articleImage {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    affiliateLinks: allMarkdownRemark(
-      filter: { frontmatter: { dataKey: { eq: "affiliateLinks" } } }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            id
-            link
-          }
-        }
-      }
-    }
-    pageData: markdownRemark(frontmatter: { dataKey: { eq: "articlePage" } }) {
-      frontmatter {
-        description
-        relatedArticleTitle
-      }
-    }
   }
 `
+
+function tweakHtml(html, affiliateLinks) {
+  const affiliateLinksMap = {}
+
+  affiliateLinks.forEach((edge) => {
+    affiliateLinksMap[edge?.node?.frontmatter?.id] = edge
+  })
+
+  return (
+    html
+      // chart
+      .replace(/@data-chart="([^"]+)"/g, (_, value) => {
+        const totalLength = 301.10565185546875
+        return `
+<div class="chart">
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle
+    cx="50"
+    cy="50"
+    r="48"
+    stroke-dasharray="${totalLength}"
+    stroke-dashoffset="${totalLength - (value / 100) * totalLength}"
+  />
+</svg>
+<span>
+  ${value}%
+</span>
+</div>
+  `
+      })
+
+      // responsive table
+      .replace(/<table/g, '<div class="responsive-table"><table')
+      .replace(/<\/table>/g, '</table></div>')
+
+      // affiliateLinks
+      .replace(/@data-link="([^"]+)"/g, (match, id) => {
+        const affiliate = affiliateLinksMap[id]
+
+        if (affiliate) {
+          const link = affiliate?.node?.frontmatter?.link
+          const buttonText = affiliate?.node?.frontmatter?.buttonText
+          return `<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" href="${link}">${buttonText}</a>`
+        } else {
+          return match
+        }
+      })
+  )
+}

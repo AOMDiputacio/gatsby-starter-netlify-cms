@@ -3,6 +3,7 @@
 <details>
 <summary><b>WARNINGS</b></summary>
 
+> * You must set `siteUrl` on `gatsby.config.js` it's mendetory for `gatsby-plugin-sitemap` and `gatsby-plugin-robots-txt` to work
 > * Make sure to use at least one `line-break` to separate `html` and `markdown` whenever you are using them together
 > * Do not `indent` html
 > * You have to switch to `markdown` mode when you copy and paste from this documentation 
@@ -18,12 +19,13 @@
 ---
 dataKey: articles
 title: Article 1
-description: Article description
+cardTitle: Article 1 card title
+description: Article 1 SEO description
 slug: article-1
 date: 2021-01-01T00:00:00.000Z
 tags:
   - tag: tag-1
-articleImage: /img/example.png
+image: /img/example.png
 relatedArticles:
   - article: article-2
 ---
@@ -40,6 +42,7 @@ relatedArticles:
 ---
 dataKey: affiliateLinks
 id: link-1
+buttonText: Button Text
 link: https://example.com
 ---
 ```
@@ -54,6 +57,7 @@ dataKey: tags
 id: tag-1
 name: tagname
 image: /img/example.png
+description: This is SEO description
 ---
 ```
 
@@ -146,7 +150,8 @@ image: /img/example.png
 ```html
 <div class="row">
 <div class="text-center col">
-<data-chart value="50" />
+
+@data-chart="50"
 
 ### Free
 
@@ -174,7 +179,8 @@ This is content
 ```html
 <div class="text-center row">
 <div class="col">
-<data-chart value="25" />
+
+@data-chart="25"
 
 ### Good
 
@@ -184,7 +190,8 @@ Feature 2
 
 </div>
 <div class="col">
-<data-chart value="50" />
+
+@data-chart="50"
 
 ### Better
 
@@ -194,7 +201,8 @@ Feature 2
 
 </div>
 <div class="col">
-<data-chart value="75" />
+
+@data-chart="75"
 
 ### Best
 
@@ -235,10 +243,12 @@ Feature 2
 <div class="row">
 <div class="text-center col">
 
-![Picture](/img/picture.png)
+![Example](/img/example.png)
 
 <div class="v-space">
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="link-1">Buy Now</a>
+
+@data-link="link-1"
+
 </div>
 </div>
 <div class="col">
@@ -264,7 +274,8 @@ This is content
 
 ### This is the note
 
-<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="link-1">Buy Now</a>
+@data-link="link-1"
+
 </div>
 </div>
 ```
@@ -274,11 +285,11 @@ This is content
 ## Product table
 
 ```html
-<table class="product-table">
+<table>
 <tr>
 <td colspan="2">
 
-![Picture](/img/picture.png)
+![Example](/img/example.png)
 
 </td>
 </tr>
@@ -298,3 +309,42 @@ This is content
 ```
 
 ![Product 2](./docs/producttable.jpg)
+
+## Table with Green & Blue cell varients
+
+There are `3` types of classes with green & blue varients
+
+1. `green-cell` & `blue-cell`
+2. `green-box` & `blue-box`
+3. `green-box-cell` & `blue-box-cell`
+
+```html
+<table>
+<tr>
+<td>Modal</td>
+<td class="green-box-cell">
+<div class="green-box">Top</div>
+Model 1
+</td>
+<td>Model 2</td>
+<td class="blue-box-cell">
+<div class="blue-box">Best</div>
+Model 3
+</td>
+</tr>
+<tr>
+<td>Speed</td>
+<td class="green-cell">Speed 1</td>
+<td>Speed 2</td>
+<td class="blue-cell">Speed 3</td>
+</tr>
+<tr>
+<td>Power</td>
+<td class="green-cell">Power 1</td>
+<td>Power 2</td>
+<td class="blue-cell">Power 3</td>
+</tr>
+</table>
+```
+
+![Green & Blue table cell](./docs/green-blue-table.jpg)

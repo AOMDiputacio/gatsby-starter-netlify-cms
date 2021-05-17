@@ -1,15 +1,14 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 
 export default function Cover({ image, title }) {
+  image = getImage(image)
   return (
     <div className="cover__wrapper">
-      <Img
-        className="cover__image"
-        fluid={image.childImageSharp.fluid}
-        alt="Cover image"
-      />
       <h1 className="cover__title">{title}</h1>
+      {image && (
+        <GatsbyImage className="cover__image" alt="Cover image" image={image} />
+      )}
     </div>
   )
 }

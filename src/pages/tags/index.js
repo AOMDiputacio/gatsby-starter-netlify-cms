@@ -1,99 +1,31 @@
 import React from 'react'
-import { graphql } from 'gatsby'
 
 import Layout from '../../components/Layout'
 import Cover from '../../components/Cover'
 import CategoryItems from '../../components/CategoryItems'
 import ArticleItems from '../../components/ArticleItems'
+import useTagsPageData from '../../staticQuerys/useTagsPageData'
+import useTags from '../../staticQuerys/useTags'
+import useArticles from '../../staticQuerys/useArticles'
 import { joinTagArticle } from '../../helper/helper'
 
-export default function TagsPage({ data: { tags, articles, pageData } }) {
-  const joinedArticles = joinTagArticle(tags.edges, articles.edges)
+export default function TagsPage() {
+  const pageData = useTagsPageData()
+  const tags = useTags()
+  const articles = useArticles()
+  const joinedArticles = joinTagArticle(tags, articles)
 
   return (
-    <Layout title="Category" description={pageData.frontmatter.description}>
+    <Layout title="Category" description={pageData.description}>
       <section className="container category">
-        <Cover
-          title={pageData.frontmatter.mainTitle}
-          image={pageData.frontmatter.coverImage}
-        />
-        <h2 className="cover__subtitle">
-          {pageData.frontmatter.secondaryTitle}
-        </h2>
-        <CategoryItems items={tags.edges} />
-        <h1 className="cool-title__wrapper">
-          <span className="cool-title">
-            {pageData.frontmatter.recentArticleTitle}
-          </span>
-        </h1>
-        <ArticleItems items={joinedArticles} />
+        <Cover title={pageData.mainTitle} image={pageData.coverImage} />
+        <h2 className="cover__subtitle">{pageData.secondaryTitle}</h2>
+        <CategoryItems items={tags} />
+        <h3 className="cool-title__wrapper">
+          <span className="cool-title">{pageData.recentArticleTitle}</span>
+        </h3>
+        <ArticleItems items={joinedArticles.slice(0, 3)} />
       </section>
     </Layout>
   )
 }
-
-export const tagPageQuery = graphql`
-  query TagsQuery {
-    tags: allMarkdownRemark(
-      filter: { frontmatter: { dataKey: { eq: "tags" } } }
-    ) {
-      edges {
-        node {
-          frontmatter {
-            id
-            name
-            image {
-              childImageSharp {
-                fixed(width: 150, height: 150) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    articles: allMarkdownRemark(
-      limit: 6
-      sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { dataKey: { eq: "articles" } } }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            slug
-            tags {
-              tag
-            }
-            articleImage {
-              childImageSharp {
-                fluid(maxWidth: 500) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    pageData: markdownRemark(frontmatter: { dataKey: { eq: "tagsPage" } }) {
-      frontmatter {
-        description
-        coverImage {
-          childImageSharp {
-            fluid(maxWidth: 1000, maxHeight: 400) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        mainTitle
-        secondaryTitle
-        recentArticleTitle
-      }
-    }
-  }
-`

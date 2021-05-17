@@ -1,2 +1,5 @@
-README.md
-readme.md
+.cache
+package.json
+package-lock.json
+public
+*.md

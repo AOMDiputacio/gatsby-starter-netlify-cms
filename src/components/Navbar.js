@@ -1,62 +1,36 @@
 import React from 'react'
-import { Link, useStaticQuery, graphql } from 'gatsby'
-import Img from 'gatsby-image'
+import { Link } from 'gatsby'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { kebabCase, capitalize } from 'lodash'
 
+import useNavbar from '../staticQuerys/useNavbar'
+import useTags from '../staticQuerys/useTags'
 import { MenuIcon } from './Icons'
 import { mapTags, resolveLink } from '../helper/helper'
 
 export default function Navbar() {
   const [open, setOpen] = React.useState(false)
 
-  const data = useStaticQuery(graphql`
-    query NavbarQuery {
-      componentData: markdownRemark(
-        frontmatter: { dataKey: { eq: "navbar" } }
-      ) {
-        frontmatter {
-          logo {
-            childImageSharp {
-              fixed(width: 100) {
-                ...GatsbyImageSharpFixed
-              }
-            }
-          }
-          menuitems {
-            item
-          }
-        }
-      }
-      tags: allMarkdownRemark(
-        filter: { frontmatter: { dataKey: { eq: "tags" } } }
-      ) {
-        edges {
-          node {
-            frontmatter {
-              id
-              name
-            }
-          }
-        }
-      }
-    }
-  `)
+  let { logo, menuitems } = useNavbar()
+  const tags = useTags()
 
-  const { logo, menuitems } = data.componentData.frontmatter
-
-  const tagsMap = mapTags(data.tags.edges)
+  const tagsMap = mapTags(tags)
 
   const joinedMenuitems = menuitems
     .map(({ item }) => tagsMap[item])
     .filter((item) => Boolean(item))
 
+  logo = getImage(logo)
+
   return (
     <nav className="navbar" role="navigation" aria-label="main-navigation">
       <div className="container navbar__container">
         <div className="navbar__brand">
-          <Link to="/" title="Logo">
-            <Img fixed={logo.childImageSharp.fixed} />
-          </Link>
+          {logo && (
+            <Link to="/" title="Logo">
+              <GatsbyImage image={logo} alt="Logo" />
+            </Link>
+          )}
           <button className="navbar__button" onClick={() => setOpen(!open)}>
             <MenuIcon />
           </button>

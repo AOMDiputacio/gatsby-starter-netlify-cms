@@ -27,10 +27,4 @@ column3:
       link: /pagina/afiliacion
     - link: /pagina/politica-privacidad
       title: Política de Privacidad
-column4:
-  title: Newsletter Guía del consumidor
-  description: Recibe cada mes ofertas exclusivas y nuevas pruebas en tu buzón de
-    correo electrónico.
-  buttonText: ¡Me registro !
-  placeholderText: Su email
 ---

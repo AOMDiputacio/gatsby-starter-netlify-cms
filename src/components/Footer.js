@@ -1,94 +1,27 @@
 import React from 'react'
-import { graphql, Link, useStaticQuery } from 'gatsby'
+import { Link } from 'gatsby'
 
+import SocialIcon from '../components/SocialIcon'
 import { FacebookIcon, YoutubeIcon, PinterestIcon, LinkedinIcon } from './Icons'
+import useFooterQuery from '../staticQuerys/useFooterQuery'
 import { resolveLink } from '../helper/helper'
 
 export default function Footer() {
-  const data = useStaticQuery(graphql`
-    query FooterQuery {
-      markdownRemark(frontmatter: { dataKey: { eq: "footer" } }) {
-        frontmatter {
-          column1 {
-            title
-            description
-            socialLinks {
-              facebook
-              youtube
-              pinterest
-              linkedin
-            }
-          }
-          column2 {
-            title
-            links {
-              title
-              link
-            }
-          }
-          column3 {
-            title
-            links {
-              title
-              link
-            }
-          }
-          column4 {
-            title
-            description
-            buttonText
-            placeholderText
-          }
-        }
-      }
-    }
-  `)
-
-  const { column1, column2, column3, column4 } = data.markdownRemark.frontmatter
+  const { column1, column2, column3 } = useFooterQuery()
 
   return (
     <footer className="footer">
       <div className="container footer__container">
         <div className="footer__section footer__section--social">
-          <h3 className="footer__title">{column1.title}</h3>
-          <p>{column1.description}</p>
-          <div className="footer__social-icons">
-            {column1.socialLinks.facebook && (
-              <a
-                href={column1.socialLinks.facebook}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <FacebookIcon />
-              </a>
-            )}
-            {column1.socialLinks.youtube && (
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href={column1.socialLinks.youtube}
-              >
-                <YoutubeIcon />
-              </a>
-            )}
-            {column1.socialLinks.pinterest && (
-              <a
-                href={column1.socialLinks.pinterest}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <PinterestIcon />
-              </a>
-            )}
-            {column1.socialLinks.linkedin && (
-              <a
-                href={column1.socialLinks.linkedin}
-                target="_blank"
-                rel="noreferrer"
-              >
-                <LinkedinIcon />
-              </a>
-            )}
+          <div className="footer__section--social-wrapper">
+            <h3 className="footer__title">{column1.title}</h3>
+            <p>{column1.description}</p>
+            <div className="footer__social-icons">
+              <SocialIcon link={column1.socialLinks.facebook} icon={<FacebookIcon />} />
+              <SocialIcon link={column1.socialLinks.youtube} icon={<YoutubeIcon />} />
+              <SocialIcon link={column1.socialLinks.pinterest} icon={<PinterestIcon />} />
+              <SocialIcon link={column1.socialLinks.linkedin} icon={<LinkedinIcon />} />
+            </div>
           </div>
         </div>
         <div className="footer__section">
@@ -111,20 +44,8 @@ export default function Footer() {
             ))}
           </div>
         </div>
-        <div className="footer__section footer__section--newsletter">
-          <h3 className="footer__title">{column4.title}</h3>
-          <p>{column4.description}</p>
-          <form
-            className="footer__newsletter"
-            name="subscription"
-            method="POST"
-            data-netlify="true"
-          >
-            <input type="email" placeholder={column4.placeholderText} />
-            <button>{column4.buttonText}</button>
-          </form>
-        </div>
       </div>
     </footer>
   )
 }
+

@@ -27,9 +27,15 @@ collections:
       - label: Id (Should Be Unique & Don't change it)
         name: id
         widget: string
+        required: true
+      - label: Button Text
+        name: buttonText
+        widget: string
+        required: true
       - label: Link
         name: link
         widget: string
+        required: true
   - label: Tags
     name: tags
     folder: src/data/tags
@@ -48,16 +54,21 @@ collections:
       - label: Name
         name: name
         widget: string
+      - label: Description - SEO
+        name: description
+        widget: text
+        required: false
       - label: Image
         name: image
         widget: image
+      - label: Image Alt
+        name: imageAlt
+        widget: string
   - label: Articles
     name: article
     folder: src/pages/article
     create: true
     slug: '{{fields.slug}}'
-    editor:
-      preview: false
     fields:
       - label: Data Key
         name: dataKey
@@ -65,6 +76,9 @@ collections:
         default: articles
       - label: Title
         name: title
+        widget: string
+      - label: Card Title
+        name: cardTitle
         widget: string
       - label: Description - SEO
         name: description
@@ -88,10 +102,13 @@ collections:
             value_field: id
             search_fields: [name]
             display_fields: [name]
-      - label: Article Image
-        name: articleImage
+      - label: Image
+        name: image
         widget: image
         required: false
+      - label: Image Alt
+        name: imageAlt
+        widget: string
       - label: Body
         name: body
         widget: markdown
@@ -208,22 +225,6 @@ collections:
                     name: title
                   - label: Link
                     name: link
-          - label: Column 4
-            name: column4
-            widget: object
-            fields:
-              - label: Title
-                name: title
-                widget: string
-              - label: Description
-                name: description
-                widget: text
-              - label: Button Text
-                name: buttonText
-                widget: string
-              - label: Placeholder Text
-                name: placeholderText
-                widget: string
   - label: Pages
     name: pages
     editor:
