@@ -35,7 +35,7 @@ relatedArticles:
     "@type": "Article",
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/guia-ultima-del-patinete-electrico/",
     "name": "Elige tu patinete eléctrico con tan solo un grafico - Guía definitiva de compra",
-    "headline": "Utilizamos una herramienta estadistica para comparar los patinetes y sus precios respectivos. Te sorprenderá!",
+    "headline": "utilizamos una herramienta estadistica para comparar los patinetes y sus precios respectivos. Te sorprenderá!",
     "datePublished": " 02-04-2021",
     "dateModified": " 02-04-2021",
     "description": "Si quieres comprar un patinete eléctrico o simplemente te preguntas si este medio de locomoción te podría interesar, ¡estás en el lugar correcto! Esta guía contiene todo lo que necesitas saber a la hora de comprar tu patín, incluyendo los aspectos técnicos y legales. También hemos diseñado un método de análisis numérico original que te permitirá determinar de forma imparcial cuál de todos los patinetes eléctricos es la mejor opción adaptada a tus necesidades.",
@@ -300,7 +300,9 @@ Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
 Tomando en cuenta las características de cada modelo analizado y su precio, te mostramos nuestra selección de patinetes eléctricos en función de su autonomía y rendimiento:
 
-**1- Alta autonomía (45 km) al mejor precio:** Cecotec Bongo Serie A Advance Connected MAX y Xiaomi Pro 2
+\###1- Alta autonomía (45 km) al mejor precio:
+
+\####- Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
@@ -312,12 +314,14 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 <div class="col">
 
-### Cecotec Bongo Serie A Advance Connected MAX
+##### Cecotec Bongo Serie A Advance Connected MAX
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio</a>
 
 </div>
 </div>
+
+\####- El patinete Xiaomi Pro 2
 
 * [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
@@ -329,20 +333,35 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 <div class="col">
 
-### Xiaomi Pro 2
+##### Xiaomi Pro 2
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
 
 </div>
 </div>
 
-**2- Alta autonomía (40 km) con suspensiones y neumáticos sólidos de bajo mantenimiento:** Hiboy S2 Pro
+\###2- Alta autonomía (40 km) con suspensiones y neumáticos sólidos de bajo mantenimiento:
 
-* [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
+\####- El Hiboy S2 Pro
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
+* [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
-**3- Autonomía media (27 km):** Hiboy S2 y MAX V2 **Hiboy S2 y MAX V2**
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+##### Hiboy S2 Pro
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+
+</div>
+</div>
+
+\###3- Autonomía media (27 km):
+
+\####- Hiboy S2 y MAX V2
 
 * [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
@@ -355,14 +374,16 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 <div class="col">
 
-### Hiboy S2
+##### Hiboy S2
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
 </div>
 </div>
 
-**4- Autonomía media (27 km) sin conectividad y motor de 350 W:** Kugoo S1
+\###4- Autonomía media (27 km) sin conectividad y motor de 350 W:
+
+\####- Kugoo S1
 
 * [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
@@ -374,14 +395,16 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 <div class="col">
 
-### Kugoo S1
+##### Kugoo S1
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 
 </div>
 </div>
 
-**5- Patinete básico: 23 km de autonomía, sin conectividad y motor de 250 W:** Megawheels S1
+\###5- Patinete básico: 23 km de autonomía, sin conectividad y motor de 250 W:
+
+\####- Megawheels S1
 
 * [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
@@ -393,7 +416,7 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 <div class="col">
 
-### Megawheels S1
+##### Megawheels S1
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
 
@@ -466,37 +489,19 @@ Dado que las baterías son caras, muchos usuarios preferirán cambiar el patinet
 
 **Hiboy pretende que sus baterías duran dos veces más que las de los otros modelos:**
 
+##### Hiboy S2
+
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
-
-<div class="row">
-<div class="col">
-<h3 class="rate">8/10</h3>
-</div>
-<div class="col">
-
-### Hiboy S2
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
-</div>
-</div>
+##### Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">9/10</h3>
-</div>
-<div class="col">
-
-### Hiboy S2 Pro
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
-</div>
-</div>
-
-#### La capacidad de la batería, factor que afecta la autonomía del patinete
+##### La capacidad de la batería, factor que afecta la autonomía del patinete
 
 Antes de comprar un patinete eléctrico debes ver la capacidad de su batería. Generalmente se expresa en Wh (vatios-hora) o mAh (miliamperios-hora) como vemos en el caso de las baterías de teléfonos móviles y otros dispositivos eléctricos.
 
@@ -510,7 +515,7 @@ A la larga, con una **mayor capacidad**, habrás recorrido más kilómetros entr
 
 * Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
-#### No basta con la cantidad, también importa la calidad
+##### No basta con la cantidad, también importa la calidad
 
 ![Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945692/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Regenerative-Bateria_u2dqjo.jpg "Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería")
 
@@ -526,7 +531,7 @@ La mejor forma de saber si la batería de un modelo de patinete es de buena cali
 
 De hecho, **en Amazon encontrarás muchas opiniones de usuarios de patinetes, que en su mayor parte hablan de la confiabilidad de las baterías**. Esto te podrá dar una idea de qué tan bueno o malo es el acumulador del modelo que piensas comprar.
 
-#### ¿Cuánto pesa la batería? Y ¿es extraíble?
+##### ¿Cuánto pesa la batería? Y ¿es extraíble?
 
 ![Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946025/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Cambio-Bater%C3%ADa_r7fuz8.jpg "Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes")
 
@@ -546,50 +551,23 @@ Como punto final, ten en cuenta también que una batería de repuesto también i
 
 **Cecotec es la unica marca que propone una batería extraible en toda su serie Bongo:**
 
+##### Cecotec Bongo Serie A
+
 * [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
-
-<div class="row">
-<div class="col">
-<h3 class="rate">6/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 
-</div>
-</div>
+##### Cecotec Bongo Serie A Connected
 
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">6/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A Connected
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
 
-</div>
-</div>
+##### Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">9/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A Advance Connected MAX
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio</a>
-
-</div>
-</div>
 
 ### El motor ¿cuánta potencia necesito realmente?
 
@@ -665,98 +643,67 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 ![Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945622/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Regenerative_twu0xr.jpg "Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías")
 
+##### Cecotec Bongo Serie A
+
 * [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
-
-<div class="row">
-<div class="col">
-<h3 class="rate">6/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 
-</div>
-</div>
+##### Cecotec Bongo Serie A Connected
 
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">6/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A Connected
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio</a>
 
-</div>
-</div>
+##### Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">9/10</h3>
-</div>
-<div class="col">
-
-### Cecotec Bongo Serie A Advance Connected MAX
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio</a>
 
-</div>
-</div>
+##### Patinetes Xiaomi Mijia
 
 * [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
+
+##### Hiboy S2
+
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
-
-<div class="row">
-<div class="col">
-<h3 class="rate">8/10</h3>
-</div>
-<div class="col">
-
-### Hiboy S2
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio</a>
 
-</div>
-</div>
+##### Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
-<div class="row">
-<div class="col">
-<h3 class="rate">9/10</h3>
-</div>
-<div class="col">
-
-### Hiboy S2 Pro
-
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
-
-</div>
-</div>
 
 * **Freno de disco:** Es el **método de freno más eficiente y costoso**. Consiste en un mecanismo de pinzas activadas por un cable desde el manillar, que aprietan un disco colocado en el eje de la rueda trasera, deteniendo su giro. Marcas como **Cecotec, Hiboy y Xiaomi utilizan frenos de disco trasero con control electrónico antibloqueo**, que evita que la rueda pierda agarre con el suelo durante la frenada.
 
 ![Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945754/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Freno-Disco_lkvsp0.jpg "Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes")
 
+##### Cecotec Bongo Serie A Connected
+
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
+
+##### Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
+##### Todos los patinetes Xiaomi en un artículo completo
+
 * [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
+
+##### El modelo Hiboy S2
+
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+
+##### El Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
@@ -766,21 +713,31 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 ![Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945535/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Luz-Trasera_spwlzf.jpg "Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional")
 
+##### Cecotec Bongo Serie A
+
 * [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
+
+##### Cecotec Bongo Serie A Connected
 
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
 
+##### Cecotec Bongo Serie A Advance Connected MAX
+
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
+##### El patinete eléctrico Kugoo S1 es uno de nuestros favoritos
+
 * [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
+
+##### El Megawheels S1
 
 * [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
@@ -816,13 +773,19 @@ En contraste, los neumáticos hinchables son vulnerables a pinchazos y requieren
 
 **Xiaomi ha elegido neumáticos hinchables con cámara de aire, mientras que Cetotec prefiere los modelos “tubeless” (sin cámara de aire). El problema de los tubeless es que requieren ser hinchados con mayor frecuencia. El resto de las marcas usa neumáticos sólidos sin mantenimiento, combinándolos a menudo con sistemas de amortización**
 
+##### Cecotec Bongo Serie A
+
 * [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
 
+##### Cecotec Bongo Serie A Connected
+
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
+
+##### Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
@@ -839,10 +802,14 @@ Las marcas analizadas en esta guía del patinete eléctrico que utilizan neumát
 Sin embargo, en un patinete ligero de menos de 15 kilogramos, **la amortiguación a base de muelles de acero no es suficiente para eliminar estas vibraciones**.
 
 * **Todos los patinetes ligeros Hiboy usan amortiguadores traseros** (el modelo MAX V2 lo tiene tanto adelante como atrás).
-* [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
+
+##### El modelo Hiboy S2
+
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
+
+##### El Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
@@ -850,6 +817,9 @@ Sin embargo, en un patinete ligero de menos de 15 kilogramos, **la amortiguació
 
 * Por su parte, **Segway usa suspensiones delantera y trasera** en los modelos ES2 y ES4, mientras que en el ES1 solo la encontramos en la rueda delantera.
 * El popular modelo **Kugoo S1 cuenta por su parte con una suspensión delantera** y trasera y **el Megawheels S1 tiene sólo amortiguación delantera**.
+
+##### El patinete eléctrico Kugoo S1
+
 * [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
