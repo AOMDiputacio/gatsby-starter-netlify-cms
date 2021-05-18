@@ -9,7 +9,9 @@ date: 2021-05-06T16:31:57.855Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-image: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
+image: https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg
+imageAlt: El patinete eléctrico es uno de los medios de transporte sostenible
+  que está contribuyendo a revolucionar la movilidad urbana
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
