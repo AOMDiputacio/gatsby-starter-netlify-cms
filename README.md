@@ -151,7 +151,7 @@ description: This is SEO description
 <div class="row">
 <div class="text-center col">
 
-@data-chart="50"
+@data-chart-value="50"@data-chart-label="50%"
 
 ### Free
 
@@ -180,7 +180,7 @@ This is content
 <div class="text-center row">
 <div class="col">
 
-@data-chart="25"
+@data-chart-value="25"@data-chart-label="25%"
 
 ### Good
 
@@ -191,7 +191,7 @@ Feature 2
 </div>
 <div class="col">
 
-@data-chart="50"
+@data-chart-value="50"@data-chart-label="50%"
 
 ### Better
 
@@ -202,7 +202,7 @@ Feature 2
 </div>
 <div class="col">
 
-@data-chart="75"
+@data-chart-value="75"@data-chart-label="75%"
 
 ### Best
 

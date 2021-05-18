@@ -133,7 +133,10 @@ function tweakHtml(html, affiliateLinks) {
         if (affiliate) {
           const link = affiliate?.node?.frontmatter?.link
           const buttonText = affiliate?.node?.frontmatter?.buttonText
-          return `<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" href="${link}">${buttonText}</a>`
+          return `
+<div class="buy-button__wrapper">
+  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" href="${link}">${buttonText}</a>
+</div>`
         } else {
           return match
         }

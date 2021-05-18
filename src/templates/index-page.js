@@ -87,7 +87,7 @@ export default function IndexPage() {
         </div>
         <div className="cta__right">
           <strong className="cta__subtitle">{pageData.section2.tagline}</strong>
-          <h1 className="cta__title">{pageData.section2.title}</h1>
+          <h2 className="cta__title">{pageData.section2.title}</h2>
           <p className="cta__desc">{pageData.section2.description}</p>
           <Link
             to={resolveLink(pageData.section2.buttonLink)}

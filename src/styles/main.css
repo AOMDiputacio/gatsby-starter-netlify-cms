@@ -849,6 +849,10 @@ img {
 }
 
 /* buy-button */
+.buy-button__wrapper {
+  text-align: center;
+  margin: 1rem 0;
+}
 .buy-button {
   display: inline-block;
   border-radius: 0.5rem;

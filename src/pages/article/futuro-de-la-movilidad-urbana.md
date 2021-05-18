@@ -10,8 +10,6 @@ tags:
   - tag: patinetes-electricos
   - tag: guias
 image: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
-imageAlt: El patinete eléctrico es uno de los medios de transporte sostenible
-  que está contribuyendo a revolucionar la movilidad urbana
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
 ---
