@@ -102,7 +102,7 @@ function tweakHtml(html, affiliateLinks) {
   return (
     html
       // chart
-      .replace(/@data-chart="([^"]+)"/g, (_, value) => {
+      .replace(/@data-chart-value="([^"]+)"@data-chart-label="([^"]+)"/g, (_, value, label) => {
         const totalLength = 301.10565185546875
         return `
 <div class="chart">
@@ -116,7 +116,7 @@ function tweakHtml(html, affiliateLinks) {
   />
 </svg>
 <span>
-  ${value}%
+  ${label}
 </span>
 </div>
   `
