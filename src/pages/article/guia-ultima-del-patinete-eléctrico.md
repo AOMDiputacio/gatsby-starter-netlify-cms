@@ -296,17 +296,17 @@ Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
 **Te presentamos nuestra selección de patinetes según el tipo de uso que se les puede dar:**
 
-![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
+![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
 Tomando en cuenta las características de cada modelo analizado y su precio, te mostramos nuestra selección de patinetes eléctricos en función de su autonomía y rendimiento:
 
-\###1- Alta autonomía (45 km) al mejor precio:
+### 1- Alta autonomía (45 km) al mejor precio:
 
-\####- Cecotec Bongo Serie A Advance Connected MAX
+#### \- Cecotec Bongo Serie A Advance Connected MAX
 
 * [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-![Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec")
+![Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec")
 
 <div class="row">
 <div class="col">
@@ -321,11 +321,11 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 </div>
 
-\####- El patinete Xiaomi Pro 2
+#### \- El patinete Xiaomi Pro 2
 
 * [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
-![Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
+![Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
 
 <div class="row">
 <div class="col">
@@ -340,9 +340,9 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 </div>
 
-\###2- Alta autonomía (40 km) con suspensiones y neumáticos sólidos de bajo mantenimiento:
+### 2- Alta autonomía (40 km) con suspensiones y neumáticos sólidos de bajo mantenimiento:
 
-\####- El Hiboy S2 Pro
+#### \- El Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
@@ -359,14 +359,14 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 </div>
 
-\###3- Autonomía media (27 km):
+### 3- Autonomía media (27 km):
 
-\####- Hiboy S2 y MAX V2
+#### \- Hiboy S2 y MAX V2
 
 * [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
-![Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg "Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar")
+![Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Perfil-App_wle1nr.jpg "Análisis y prueba - Un excelente patinete Hiboy con una aplicación adaptada y fácil de usar")
 
 <div class="row">
 <div class="col">
@@ -381,13 +381,13 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 </div>
 
-\###4- Autonomía media (27 km) sin conectividad y motor de 350 W:
+### 4- Autonomía media (27 km) sin conectividad y motor de 350 W:
 
-\####- Kugoo S1
+#### \- Kugoo S1
 
 * [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
-![Análisis y prueba - Bueno, Bonito y Barato, así es el Kugoo S1](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg "Análisis y prueba - Bueno, Bonito y Barato, así es el Kugoo S1")
+![Análisis y prueba - Bueno, Bonito y Barato, así es el Kugoo S1](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg "Análisis y prueba - Bueno, Bonito y Barato, así es el Kugoo S1")
 
 <div class="row">
 <div class="col">
@@ -402,13 +402,13 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 </div>
 </div>
 
-\###5- Patinete básico: 23 km de autonomía, sin conectividad y motor de 250 W:
+### 5- Patinete básico: 23 km de autonomía, sin conectividad y motor de 250 W:
 
-\####- Megawheels S1
+#### \- Megawheels S1
 
 * [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
-![Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar")
+![Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar")
 
 <div class="row">
 <div class="col">
