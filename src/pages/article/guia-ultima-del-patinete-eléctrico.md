@@ -126,7 +126,7 @@ Los **12 modelos de patinete más vendidos en España** que hemos analizado repr
 
 **Elegir el patinete que te conviene dependerá últimamente del balance entre sus cualidades y las necesidades de uso que tienes.** Sin embargo, nuestra metodología brindará racionalidad numérica a tu elección.
 
-> Advertencia: solamente hemos considerado los patinetes ligeros de menos de 15 o 16 kg. ya que la normativa vigente (la ley DGT 2019 se trata en otro capítulo de este artículo) limite la velocidad de los patinetes a 25 km/h para no ser considerados como motocicletas con las obligaciones legales que esto conlleva. Comprar un patinete demasiado potente (y pesado) es por lo tanto inútil... Aunque existan excepciones ;-)
+> Advertencia: solo hemos considerado los patinetes ligeros de menos de 15 o 16 kg. ya que la normativa vigente (detallada en otro capítulo de este artículo) limita la velocidad de los patinetes a 25 km/h para no ser considerados como motocicletas con las obligaciones legales que ello conlleva. Comprar un patinete demasiado potente (y pesado) es por lo tanto inútil... Aunque existan excepciones ;-)
 
 Ya que no resulta fácil comparar las características técnicas de los diferentes patinetes eléctricos de forma racional e imparcial, entonces hemos elegido su precio de venta como elemento fundamental de comparación; esto nos permitirá valorar los elementos más cualitativos en una segunda fase.
 
