@@ -4,7 +4,7 @@ title: Elige tu patinete eléctrico con tan solo un grafico - Guía definitiva d
 cardTitle: La guía última del patinete eléctrico
 description: Te traemos nuestra guía de consejos para quienes buscan comprar un
   patinete eléctrico y no saben cómo elegir; aquí podrás elegir el patinete que
-  mejor te conviene con tan solo un gráfico
+  mejor te conviene con tan solo un gráfico.
 slug: guia-ultima-del-patinete-electrico
 date: 2021-05-18T13:12:56.798Z
 tags:
