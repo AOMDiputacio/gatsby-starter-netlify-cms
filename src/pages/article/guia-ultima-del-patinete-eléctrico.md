@@ -67,24 +67,30 @@ relatedArticles:
 
 <!--
 
-\*\*Slug:\*\*
+\\*\\*Slug:\\*\\*
 
 guia-ultima-del-patinete-electrico
 
-\*\*Palabras clave:\*\*
+\\*\\*Palabras clave:\\*\\*
 
 patinete electrico, mejor patinete electrico, comparativa patinetes electricos, patin electrico, comprar patinete electrico, patinetes electricos, patines electricos, mejores patinetes electricos, que patinete electrico comprar, monopatin electrico, cual es el mejor patinete electrico, el mejor patinete electrico
 
-\*\*Metadescripción:\*\*
+\\*\\*Metadescripción:\\*\\*
 
 Te traemos nuestra guía de consejos para quienes buscan comprar un patinete eléctrico y no saben cómo elegir
 
 # Elige tu patinete eléctrico con tan solo un grafico - Guía completa de compra
 # La guía última del patinete eléctrico
 
-!\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
+!\\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
 
 -->
+
+#### Tabla de contenido
+```toc
+```
+
+
 
 ## Elegir entre todos los patinetes más vendidos en España con tan solo un  gráfico
 
