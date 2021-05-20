@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: Análisis del patinete Cecotec Bongo Serie A Connected
-cardTitle: Análisis del patinete Cecotec Bongo Serie A Connected
+cardTitle: Cecotec Bongo Serie A Connected
 description: El rival directo del Xiaomi Mi 365 y de su succesor el Xiaomi S1
 slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 date: 2021-05-06T17:05:57.566Z
@@ -9,8 +9,9 @@ tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
 image: /img/patinete-electrico-cecotec-a-connected-lifestyle.jpg
+imageAlt: Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad
 relatedArticles:
-  - article: prueba-y-opinion-patinete-electrico-xiaomi-pro-2
+  - article: futuro-de-la-movilidad-urbana
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: guia-ultima-del-patinete-electrico
 ---
