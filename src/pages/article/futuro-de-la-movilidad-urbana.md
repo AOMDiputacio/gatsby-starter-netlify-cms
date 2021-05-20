@@ -84,12 +84,15 @@ ciudad sostenible definicion
 **Clearscope: **[https://www.clearscope.io/aom/reports/fb03afe61dd64956/optimize](https://www.clearscope.io/aom/reports/fb03afe61dd64956/optimize)
 
 # ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
-
 # El Futuro de la Movilidad Urbana
 
 ![Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
+
+#### Tabla de contenidos
+```toc
+```
 
 ## Una revolución eléctrica del transporte que llegó para quedarse
 
@@ -207,15 +210,15 @@ Además de las antes mencionadas, un patinete eléctrico o monopatín:
 
 + [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
 
- @data-link="amzn-cecotec-bongo-serie-a"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
   
 + [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
- @data-link="amzn-cecotec-bongo-serie-a-connected"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
  
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
