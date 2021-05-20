@@ -898,7 +898,7 @@ Sin embargo, en un patinete ligero de menos de 15 kilogramos, **la amortiguació
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
-## V. Normativa española sobre los patinetes eléctricos
+## VI. Normativa española sobre los patinetes eléctricos
 
 > La Dirección General de Tránsito ha establecido los criterios para el uso de patinetes eléctricos en España. Mucho de su contenido se inspira de las regulaciones europeas; en particular la velocidad debe ser limitada a 25 km/h
 
