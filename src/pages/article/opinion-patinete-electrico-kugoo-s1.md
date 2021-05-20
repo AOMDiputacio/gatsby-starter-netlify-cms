@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: Prueba del patinete eléctrico KUGOO S1
-cardTitle: Prueba del patinete eléctrico KUGOO S1
+cardTitle: Kugoo S1
 description: Conoce al nuevo patinete eléctrico KUGOO S1, un monopatín de bajo
   costo que te llevará por la ciudad sin complicarte la vida
 slug: opinion-patinete-electrico-kugoo-s-1
@@ -10,6 +10,13 @@ tags:
   - tag: patinetes-electricos
   - tag: patinete-kugoo
 image: /img/kugoo-s-1.jpg
+imageAlt: Análisis y prueba - Bueno, Bonito y Barato, así es el Kugoo S1; uno de
+  los mejores patinetes eléctricos que hemos probado por su relación calidad
+  precio
+relatedArticles:
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: guia-ultima-del-patinete-electrico
+  - article: futuro-de-la-movilidad-urbana
 ---
 </script>
 <script type="application/ld+json">
@@ -78,6 +85,10 @@ opinion-patinete-electrico-kugoo-s1
 
 -->
 
+#### Tabla de contenidos
+```toc
+```
+
 ## Patinete KUGOO S1: El mejor monopatín low-cost para ir por la ciudad sin gastar mucho
 
 + [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
@@ -92,19 +103,21 @@ El KUGOO S1 es un **modelo ligero y con potencia moderada, pero con unas prestac
 
 Vamos a detallar las características que hacen que muchos escojan este equipo a la hora de comprar un patinete eléctrico.
 
-> No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
+> EL KUGOO S1 es nuestro modelo favoritos en su categoría cuando se compara con sus rivales más directos. 
+>
+> Te explicamos porqué en el [capitulo de comparación](#mejores-alternativas-a-este-patinete-según-nuestro-modelo-de-regresión) de este artículo.
 
- @data-link="amzn-kugoo-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 
 ## Video de análisis completo del Kugoo S1
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rnLENE6VPF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rnLENE6VPF8" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
- @data-link="amzn-kugoo-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 
 ## Ficha técnica: un precio muy competitivo por la calidad
 
@@ -126,7 +139,9 @@ Destaca el hecho de ser **uno de los patinetes más económicos que se pueden co
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945471/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil-Peque_l1jqqh.jpg" alt= "Análisis y prueba - Hemos probado un patinete completo a un precio mini - Guía">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Perfil_fitfag.jpg" width="100" alt= "Análisis y prueba - Hemos probado un patinete completo a un precio mini - Guía">
+
 </td>
 </tr>
 <tr>
@@ -224,7 +239,7 @@ Destaca el hecho de ser **uno de los patinetes más económicos que se pueden co
 
 <tr>
 <td></td>
-<td> @data-link="amzn-kugoo-s1"
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 </td>
 </td>
 </tr>
@@ -380,20 +395,6 @@ Este patín cuenta con amortiguadores simples en ambos ruedas, que tienen gran f
 
 Resalta su **manillar ajustable en altura**, que permite conducir el patinete con seguridad y comodidad a personas de distinta altura corporal.
 
-<div class="row">
-<div class="col">
-<h3 class="rate">10/10</h3>
-</div>
-<div class="col">
-
-### Kugoo S1
-
-@data-link="amzn-kugoo-s1"
-</div>
-</div>
-
-
-
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## La durabilidad del patinete y su potencia es lo que más destaca entre los compradores de Amazon
@@ -404,24 +405,25 @@ Destacan mucho las opiniones favorables por su **velocidad y sorprendente autono
 
 Entre las negativas, resalta la elección de **ruedas tan pequeñas y de tipo sólido, no aptas para muchas calles españolas**.
 
- @data-link="amzn-kugoo-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
 
 ## Conclusión: Este modelo no tiene rival entre los patinetes con similar rango de autonomía (30 - 17 km)
-
-
-
-
-
 
 A la hora de decidir qué scooter eléctrico comprar no se puede dejar a un lado la opción que nos trae la fabricante Kugoo.
 
 Sin duda es **un patinete potente, seguro y con grandes prestaciones que sorprenden ante su precio inmejorable**. Lo mejor es que **casi no requiere mantenimiento y está fabricado para durar mucho tiempo**.
 
+<div class="row">
+<div class="col">
+<h3 class="rate">10/10</h3>
+</div>
+<div class="col">
 
+### Kugoo S1
 
-
-
- @data-link="amzn-kugoo-s1"
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
+</div>
+</div>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
@@ -435,4 +437,4 @@ Sin duda es **un patinete potente, seguro y con grandes prestaciones que sorpren
 >
 > Gracias a estas características, convierten a este patinete en **nuestro favorito para los usuarios que se puedan contentar con su autonomía de 30 km** (contar 17 al uso por prudencia), comparable a la del patinete Xiaomi 1S o a la del mítico Xiaomi Electric Scooter Mi365 por un precio mini.
 
- @data-link="amzn-kugoo-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
