@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: ¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?
-cardTitle: ¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?
+cardTitle: Regulación para los patinetes eléctricos en España
 description: Te hablamos de la normativa vigente para el uso de patinetes
   eléctricos en España y de qué puedes y no puedes hacer con ellos.
 slug: regulación-dgt-patinetes-electricos-espana
@@ -10,9 +10,11 @@ tags:
   - tag: patinetes-electricos
   - tag: guias
 image: /img/regulacion-de-transito.jpg
+imageAlt: Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: mejor-patinete-electrico-xiaomi
 ---
 </script>
 <script type="application/ld+json">
@@ -74,10 +76,10 @@ No usar casco (donde sea obligatorio hacerlo). Multa de 200 euros.",
 </script>
 
 <!--
-\*\*Slug:\*\*
+**Slug:**
 regulación-dgt-patinetes-electricos-espana
 
-\*\*Palabras clave:\*\*
+**Palabras clave:**
 
 normativa patinete electrico
 normativa patinetes electricos
@@ -93,7 +95,7 @@ dgt patinetes
 normativa patinetes electricos
 dgt 2019 españa
 
-\*\*Metadescripción:\*\*
+**Metadescripción:**
 
 Te hablamos de la normativa vigente para el uso de patinetes eléctricos en España y qué puedes y no puedes hacer con ellos.
 
@@ -101,9 +103,13 @@ Te hablamos de la normativa vigente para el uso de patinetes eléctricos en Espa
 # Regulación para los patinetes eléctricos en España
 
 
-!\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
+![Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
 
 -->
+
+#### Tabla de contenidos
+```toc
+```
 
 La **tendencia mundial hacia el uso de vehículos no contaminantes**, así como la **realidad impuesta por la pandemia**, ha llevado a un enorme **crecimiento en la compra y uso de patinetes eléctricos**, un tipo de vehículo que en muchos casos compite con las bicicletas y otras formas de movilidad.
 
@@ -113,9 +119,11 @@ En todo caso, **son normas necesarias para asegurar la seguridad vial**. Quedaro
 
 Y estamos hablando de patines eléctricos ligeros, pues al igual que pasa con las bicicletas eléctricas podemos encontrar modelos con mayor velocidad y autonomía, que llegan a parecerse más a motocicletas. Pero la nueva normativa deja claro que es ahora una mala idea adquirir patinetes demasiado potentes, **ya que se considerarían como ciclomotores cuando superen los 25 km/h o tengan sillín, lo que obliga a matricularlos, adquirir un seguro obligatorio** y cumplir otros requisitos para poder usarlos en las calles.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## ¿Un patinete es legalmente un vehículo?
 
@@ -127,9 +135,12 @@ La última regulación formal nacional sobre el uso de patinetes eléctricos se 
 
 Aunque existan **reglamentaciones particulares sobre el uso de patinetes eléctricos en ciudades como Barcelona, Madrid y Valencia**, en el resto del país se aplican las regulaciones estipuladas en el Real Decreto de la DGT.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
+
 
 ## ¿Qué dice la normativa 2021 sobre el uso de patinetes eléctricos?
 
@@ -145,9 +156,12 @@ Hasta el momento **la normativa para patinetes eléctricos no obliga a matricula
 * Se define al monopatín eléctrico como un “vehículo de movilidad personal” por lo que se prohíbe llevar a más de una persona al mismo tiempo.
 * Al igual que con otros vehículos eléctricos, se debe portar la ficha técnica del patinete que demuestre que sus especificaciones se ajustan a las normas de la Unión Europea.
 * Se establece la obligación del propietario de tramitar el Certificado de Circulación para su patinete. Aunque no ha sido implementada, será un hecho a partir de enero de 2023.
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
+
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Regulaciones adicionales impuestas por las comunidades
 
@@ -167,9 +181,11 @@ En localidades como **Alicante y Benidorm ya se había aprobado desde finales de
 
 En todo caso, **la DGT ha hecho un exhorto a los usuarios de estos vehículos ligeros a contar con esta póliza** como una forma de protegerse a ellos mismos y a terceros contra las consecuencias económicas derivadas de un accidente.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## ¿Por qué multan a los conductores de patinetes eléctricos?
 
@@ -195,9 +211,11 @@ Los agentes de la autoridad podrán sancionar las faltas tipificadas en la norma
 
 También es importante señalar que **si el infractor es un menor de edad, se responsabilizará de la infracción (y del pago de la multa) a sus padres o tutores legales**.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## ¿Cómo debo compartir el uso de las vías con bicicletas y peatones?
 
@@ -211,9 +229,11 @@ Además, **la velocidad máxima de circulación deberá ser igual o menor a 25 k
 
 Esto explica por qué muchos modelos fabricados en el extranjero vienen capados de fábrica para no exceder este límite, aunque sus características técnicas puedan proporcionar velocidades mucho más elevadas en muchos casos.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Pero ¿qué es un carril bici o una ciclocalle?
 
@@ -223,9 +243,11 @@ Esto explica por qué muchos modelos fabricados en el extranjero vienen capados 
 
 Por su parte, la acera bici es una vía para uso ciclista que se ubica físicamente sobre la acera. Finalmente, tenemos las sendas o vías para uso mixto de peatones y bicicletas, que suele atravesar jardines, parques o áreas abiertas.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Tipos de patinetes según la DGT
 
@@ -245,9 +267,11 @@ Además, **los patinetes tipo A podrán circular por un carril bici sobre acera 
 
 Otra consideración importante es que si un patinete es clasificado **como categoría B o C según sus especificaciones técnicas, será obligatorio el uso de casco homologado en varias comunidades autónomas, como es el caso de Valencia**.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Reglas sobre el aparcamiento de los patinetes eléctricos
 
@@ -259,9 +283,11 @@ Está **totalmente prohibido estacionar en las aceras marcadas para uso exclusiv
 
 Tampoco se permite asegurar el patinete con cadenas o candados antirrobo a los bancos de parques, árboles, vallas, semáforos o postes de iluminación urbana.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Regulaciones de la DGT sobre la iluminación
 
@@ -277,9 +303,11 @@ Las luces deben activarse en el horario y zonas estipuladas para el tráfico veh
 
 **No tener un sistema de luces (y en el futuro no usar prendas reflectantes) acarrea una multa por poner en riesgo la seguridad propia y la de terceros.**
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## ¿Puedo modificar mi patinete sin perder la legalidad?
 
@@ -297,9 +325,11 @@ Esto obligaría a homologarlo y registrarlo como vehículo ciclomotor y pagar lo
 
 Sin embargo, se puede instalar este asiento sin incurrir en una ilegalidad si el mismo no supera los 54 centímetros de altura, medidos desde el suelo hasta el tope superior del sillín.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## Otras consideraciones legales en el uso de patinetes en España
 
@@ -315,9 +345,11 @@ Esta indemnización puede ser por lesiones sufridas, daños materiales que invol
 
 **Quienes cuenten con un seguro que cubra su monopatín tendrán la ventaja de recibir el apoyo de su empresa aseguradora**. En el caso de los que no lo tienen y que por ahora son la mayoría, lo importante es avisar a las autoridades, ubicar testigos del accidente y buscar los oficios de un abogado.
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
 
 ## La prudencia como base para cumplir la ley
 
@@ -331,6 +363,8 @@ El uso de las luces es recomendable tanto de noche como de día, para advertir t
 
 Finalmente, ya quedó claro que falta muy poco para que la DGT imponga una edad mínima, el uso de casco, de elementos reflectantes y otros elementos de protección, para poder circular en patinete en todo el territorio nacional
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
-* [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades?](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
+
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
