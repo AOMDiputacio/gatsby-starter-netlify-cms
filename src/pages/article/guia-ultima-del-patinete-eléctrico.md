@@ -497,13 +497,13 @@ La normativa vigente en España no obliga a los usuarios de patinetes ni a lleva
 Sin entrar en el tema de las multas relacionadas con el manejo de patinetes bajo la influencia del alcohol o de estupefacientes, las multas más comunes se relacionan con el uso de teléfono o de auriculares mientras se conduce (200 Euros). También se multan con 200 Euros los patinetes que circulan en las vías de bus o de taxi, o en las aceras o zonas peatonales donde no se autorice expresamente el uso de monopatines. Finalmente, los usuarios de scooters deben respetar los semáforos y las señalizaciones y no deben atravesar un paso de peatones conduciendo (200 Euros de multa). Llevar dos personas a bordo puede ser multado (100 Euros) y en algunas comunidades (valencia) el uso de casco es obligatorio ( 200 Euros). 
 Se recomienda consultar las normativas autonómicas o locales antes de circular en patinete en un sitio desconocido.
 
-## IV. Porque es importante comprar un patinete ligero (menos de 15 o 16 Kg) tras la ley de la DGT del 2019
+## IV. Porque es importante comprar un patinete ligero
 
 ![Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg "Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado")
 
 * [Todo acerca de la Normativa española sobre los patinetes eléctricos](/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana)
 
-> Hemos elaborado esta guía de compra con la mira puesta en la oferta de patinetes eléctricos ligeros, es decir, aquellos de menos de 15 kilogramos de peso
+> Hemos elaborado esta guía de compra con la mira puesta en la oferta de patinetes eléctricos ligeros, es decir, aquellos de menos de 15 o 16 kilogramos de peso
 
 Puede ser que te llame la atención comprar el patinete más veloz y potente disponible, como lo harías con una bicicleta eléctrica. Y de hecho hay modelos que destacan por sus excelentes capacidades técnicas.
 
