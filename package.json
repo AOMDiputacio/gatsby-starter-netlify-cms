@@ -1,7 +1,7 @@
 {
-  "name": "gatsby3-netlifycms",
+  "name": "guiadelconsumidor",
   "private": true,
-  "description": "Gatsby 3 with Netlify CMS",
+  "description": "guia del consumidor",
   "version": "1.0.0",
   "author": "Mamun",
   "dependencies": {
