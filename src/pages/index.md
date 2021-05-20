@@ -5,13 +5,7 @@ description: Pruebas, análisis y descuentos para patinetes y bicicletas eléctr
 subtitle: >-
   <p style="text-align: center;">
 
-  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, 
-
-
-  **estás en el lugar adecuado.** 
-
-
-  Este mes inauguramos nuestra selección de soluciones de movilidad urbana sostenibles que están revolucionando nuestro futuro sin que nos demos cuenta.
+  Si tu también necesitas consejos de expertos independientes para comprar el mejor producto para ti, **estás en el lugar adecuado.** 
 
 
   </p>
