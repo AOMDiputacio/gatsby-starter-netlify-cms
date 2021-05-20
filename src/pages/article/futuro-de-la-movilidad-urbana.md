@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
-cardTitle: ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
+cardTitle: El Futuro de la Movilidad Urbana
 description: El medio ambiente y tu salud lo piden. Pero… ¿Cómo seleccionar tu
   Vehículo de Movilidad Sostenible Personal?
 slug: futuro-de-la-movilidad-urbana
@@ -10,8 +10,12 @@ tags:
   - tag: patinetes-electricos
   - tag: guias
 image: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
+imageAlt: Prueba y opinión - Un patinete confortable para manejar en todos tipos
+  de terreno
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: mejor-patinete-electrico-xiaomi
 ---
 </script>
 <script type="application/ld+json">
