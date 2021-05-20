@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
-cardTitle: Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
+cardTitle: Cecotec Bongo Serie A
 description: Te hablamos del Cecotec Bongo Serie A, el mejor patinete eléctrico
   de Cecotec si lo que buscas un un patinete eléctrico barato
 slug: analisis-patinete-electrico-cecotec-bongo-serie-A
@@ -10,6 +10,12 @@ tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
 image: /img/bongo-serie-a-cecotec.jpg
+imageAlt: Análisis y prueba - El patinete Cecotec ideal para paseos cortos y
+  como primer patinete
+relatedArticles:
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: futuro-de-la-movilidad-urbana
+  - article: guia-ultima-del-patinete-electrico
 ---
 </script>
 <script type="application/ld+json">
@@ -59,27 +65,30 @@ image: /img/bongo-serie-a-cecotec.jpg
 </script>
 
 <!--
-\*\*Slug:\*\*
+**Slug:**
 
 analisis-patinete-electrico-cecotec-bongo-serie-A
 
-\*\*Palabras clave:\*\*
+**Palabras clave:**
 
 N/A tráfico orgánico nulo
 
-\*\*Clearscope (MAX):\*\* https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize
-
+**Clearscope (MAX):** https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize
 
 # Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
 # Cecotec Bongo Serie A
 
-!\[Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
+![Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
 
 -->
 
+#### Tabla de contenidos
+```toc
+```
+
 ## Bongo Serie A de Cecotec, el patinete eléctrico “plug and play” hecho en Valencia que tiene todo lo que necesitas
 
-* [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 Tanto el COVID-19 como la transición verde **cambiarán para siempre la movilidad urbana**. Este cambio llegó para quedarse, y los automóviles pesados, peligrosos, voluminosos y contaminantes pronto darán paso a medios de transporte más seguros y sostenibles. **Devolveremos por fin las calles a los peatones y utilizaremos los medios de transporte poco invasivos como las bicicletas y patinetes ligeros**.
 
@@ -93,38 +102,42 @@ En este artículo detallaremos todas las características del **patinete eléctr
 
 En cuanto a su posicionamiento, **se trata de un claro competidor del Xiaomi Essential**, **la versión más ligera del mítico Xiaomi Mi electric scooter 365.**
 
-> No te pierdas en el último capítulo nuestra selección de modelos alternativos que son mejores (si es que existen) que este modelo. ¡Te los hemos identificado gracias a nuestro método numérico a prueba de parcialidad!
+> Si te estás planteando comprar este patinete, puede que te interese más el [Kugoo S1](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1).
+>
+> Te explicamos porqué en el [capitulo de comparación](#mejores-alternativas-a-este-patinete-según-nuestro-modelo-de-regresión) de este artículo.
 
-@data-link="amzn-cecotec-bongo-serie-a"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 
-* [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
++ [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
-@data-link="amzn-cecotec-bongo-serie-a-connected"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
 
-* [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-@data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
 ## Video de análisis completo del Cecotec Bongo Serie A
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QYEiZot72AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYEiZot72AU" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
-@data-link="amzn-cecotec-bongo-serie-a"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 
 ## Excelentes especificaciones técnicas, y algunos fallos de calidad durante la fase de lanzamiento
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 <table class="product-table">
 <tr>
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945946/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Perfil-Peque_mnosl3.png" alt= "Análisis y prueba - Nuestra opinión sobre este patinete eléctrico Cecotec que hemos analizado a fondo">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945945/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Perfil_aougwb.png" width="100" alt= "Análisis y prueba - Nuestra opinión sobre este patinete eléctrico Cecotec que hemos analizado a fondo">
+
 </td>
 </tr>
 <tr>
@@ -223,8 +236,7 @@ Regulador de velocidad</td>
 
 <tr>
 <td></td>
-<td>
-@data-link="amzn-cecotec-bongo-serie-a"
+<td> <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 </td>
 </td>
 </tr>
@@ -255,7 +267,7 @@ Regulador de velocidad</td>
 
 En el momento de la redacción **el mejor precio de este patinete en Amazon España es de poco menos de 300 Euros en Amazon** para el modelo black (negro). Es decir entre los más baratos del mercado (Encontrarás más acerca del tema del precio en la sección Benchmark, al final del artículo).
 
-* [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ## Una batería que encendió las críticas en Amazon durante las fases tempranas del lanzamiento del producto
 
@@ -277,9 +289,9 @@ Para ser justos, **es preciso destacar que nuestro patinete de prueba alcanzó l
 
 En cuanto a la intercambiabilidad de las baterías hay que tener en mente que este accesorio es el más costoso de todos, **no hemos encontrado ningún recambio de batería Cecotec por menos de 150 Euros**, así que quienes planeaban invertir en esta solución deberán considerar este aspecto a la hora de establecer su presupuesto.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
-## Una potencia máxima de 700 W y un precio razonable
+## Una potencia máxima de 700 W y un precio razonable 
 
 ![Análisis y prueba - Nuestra guía de compra del más barato de los patinetes eléctricos Cecotec](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945945/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Perfil_aougwb.png "Análisis y prueba - Nuestra guía de compra del más barato de los patinetes eléctricos Cecotec")
 
@@ -292,7 +304,8 @@ El patinete tiene **3 modos de conducción para adaptarse a todo tipo de conducc
 * **Eco** para un funcionamiento seguro que ahorra batería
 * **Confort** ideal para obtener el mejor rendimiento con un consumo óptimo de batería
 * **Sport**, para alcanzar la máxima potencia y una velocidad máxima limitada a 25 km/h
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Un marco de aluminio plegable, resistente y unos manillares amovibles
 
@@ -302,13 +315,14 @@ Además de permitir que el patinete se pliegue sobre la rueda delantera como tod
 
 Considerando las dimensiones de este patinete una vez plegado, ¡Los problemas del almacenamiento en lugares improvisados pronto serán tan solo un mal recuerdo!
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Un diseño limpio, fluido, robusto y elegante
 
 ![Análisis y prueba - Un patinete plegable fácil de plegar y transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945947/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Transportable_rklmn8.jpg "Análisis y prueba - Un patinete plegable fácil de plegar y transportar")
 
 Como reconocido fabricante de dispositivos electrónicos, el grupo español **es un maestro en el arte de cuidar el diseño de sus productos**. Los patinetes Cecotec no son una excepción a esta regla y ofrecen un diseño fluido, robusto y elegante digno de las más prestigiosas marcas chinas.
+
 
 ## Un ordenador de abordo y una pantalla LED muy correctos, sin superlativos
 
@@ -318,6 +332,7 @@ Como todos los patinetes eléctricos de la serie Cecotec, el Bongo A cuenta con 
 
 ¡Esto será de gran utilidad para reemplazar la batería antes de que se agote!
 
+
 ## Sin aplicación en esta versión más básica
 
 Esta versión del Bongo Serie A no se puede conectar con el Smartphone, sin embargo **la marca también ha creado la versión Conectada** cuya principal diferencia es incluir la app que permite ajusta otras funciones como la potencia del frenado, los modos de conducción, el ajuste de la velocidad y otras opciones de seguridad como bloqueo del patinete para evitar robos.
@@ -326,11 +341,12 @@ Esta versión del Bongo Serie A no se puede conectar con el Smartphone, sin emba
 
 Nuestra opinión es que esta función del Bongo Serie A Conectada será un mejor patinete eléctrico principalmente para los entusiastas de tecnología...
 
+
 ## Equipo estándar de buena calidad
 
 Faros delanteros, luces traseras, timbre... **Este patinete ofrece un equipamiento de serie de calidad estándar.**
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Tres sistemas de frenado y unos neumáticos que requieren hincharse con frecuencia
 
@@ -353,7 +369,7 @@ Los valores de presión recomendados son los siguientes;
 
 Aunque se sabe que **estos neumáticos son menos sensibles a los pinchazos**, te recomendamos que tengas además de una bomba de aire el gel antipinchazos por si llegaras a necesitarlo.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Una falta de amortiguación que afecta la calidad de conducción a pesar de los neumáticos “tubeless” anti pinchazos
 
@@ -361,7 +377,7 @@ Si somos partidarios del minimalismo, debemos admitir que los amortiguadores tra
 
 Sin embargo, también **es innegable que si los neumáticos hinchables requieren más mantenimiento, también proporcionan una cierta comodidad de conducción**.
 
-* Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
++ Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
 ## Cecotec Serie A: Un producto sin adornos por un excelente precio
 
@@ -373,22 +389,32 @@ Las **especificaciones técnicas de este patinete europeo son excelentes** y le 
 
 Si tenemos en cuenta que los pocos fallos que afectaron a algunas de las primeras creaciones (capacidad y vida útil de la batería y neumáticos que se desinflan) perjudicaron la reputación de este patinete en Amazon, pero que al parecer no son más que un mal recuerdo, ya que han modificado y mejorado este producto europeo, ensamblado en la magnífica Comunidad Valenciana en España, lo tiene todo, y compite sin sonrojarse con sus rivales chinos.
 
-@data-link="amzn-cecotec-bongo-serie-a"
+<div class="row">
+<div class="col">
+<h3 class="rate">6/10</h3>
+</div>
+<div class="col">
+
+### Cecotec Bongo Serie A
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
+</div>
+</div>
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-* [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
 > Con un motor de 350 W y una batería de 230 Wh, **se trata de otro excelente patinete eléctrico capaz de recorrer 25 km** (contar 15 aprox. en condiciones reales según nuestra experiencia). Posee **todas las características del Cecotec Bongo Serie A connected, pero es 30 Euros más barato** y no cuenta con la conectividad que le permitiría sincronizarse con la aplicación móvil Cecotec para ajustar sus variables de funcionamiento.
 >
-> Sin embargo, **por 10 Euros más el Kugoo S1 tendrá una autonomía superior**, unos neumáticos sin mantenimiento y a pesar de no tener conexión con aparatos inteligentes, **su amplia pantalla permitirá realizar numerosas personalizaciones**.
+>Sin embargo, **por 10 Euros más el Kugoo S1 tendrá una autonomía superior**, unos neumáticos sin mantenimiento y a pesar de no tener conexión con aparatos inteligentes, **su amplia pantalla permitirá realizar numerosas personalizaciones**.
 
-@data-link="amzn-cecotec-bongo-serie-a"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio</a>
 
-* [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
++ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1)
 
-@data-link="amzn-kugoo-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
 Esperamos que nuestro análisis del patinete Cecotec Bongo Serie A haya sido de utilidad. Si quieres hacernos algún comentario o sugerencia estaremos para atenderte.
