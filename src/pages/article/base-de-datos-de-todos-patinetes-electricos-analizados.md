@@ -10,8 +10,12 @@ tags:
   - tag: patinetes-electricos
   - tag: guias
 image: /img/chica-patinete-electrico.jpg
+imageAlt: Todas las caracteristicas de todos lo mejores patinetes eléctricos más
+  vendidos en España agrupadas en una sola tabla resumen
 relatedArticles:
+  - article: futuro-de-la-movilidad-urbana
   - article: guia-ultima-del-patinete-electrico
+  - article: mejor-patinete-electrico-xiaomi
 ---
 </script>
 <script type="application/ld+json">
