@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: ¿Cuál es el mejor patinete eléctrico de Xiaomi como sucesor del mítico Mi365?
-cardTitle: ¿Cuál es el mejor patinete eléctrico de Xiaomi como sucesor del mítico Mi365?
+cardTitle: El mejor patinete eléctrico de Xiaomi
 description: Te hablamos de los patinetes eléctricos Xiaomi y las
   características que destacan en cada uno de los modelos que esta empresa vende
   en Europa
@@ -12,6 +12,12 @@ tags:
   - tag: patinete-xiaomi
   - tag: guias
 image: /img/opinion-xiaomi-pro-2.jpg
+imageAlt: Análisis y prueba - El patinete Xiaomi de largo alcance que hemos
+  probado para tí
+relatedArticles:
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: futuro-de-la-movilidad-urbana
+  - article: guia-ultima-del-patinete-electrico
 ---
 </script>
 <script type="application/ld+json">
@@ -90,6 +96,10 @@ Clearscope: [https://www.clearscope.io/aom/reports/b9bbca9cd4923194](https://www
 
 -->
 
+#### Tabla de contenidos
+```toc
+```
+
 + [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
 
@@ -142,21 +152,21 @@ Además, se unió con otras marcas para producir los modelos Segway Ninebot S y 
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
- @data-link="amzn-xiaomi-pro-2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
- @data-link="amzn-xiaomi-1s"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
- @data-link="amzn-xiaomi-essential"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
  
 ### Video: los dos Xiaomi más destacados, el S1 Vs. el Pro 2
 
 <div class=”iframe-container”>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C5QtILX8nsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C5QtILX8nsc" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
@@ -167,13 +177,19 @@ Además, se unió con otras marcas para producir los modelos Segway Ninebot S y 
 <td>
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945408/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Recuperacion-Energia-Peque_q66u5p.jpg" alt= "Análisis y opinión - El freno motor de este patinete Xiaomi permite recargar la batería durante la frenada">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945409/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Recuperacion-Energia_qmr8fj.jpg" width="100" alt= "Análisis y opinión - El freno motor de este patinete Xiaomi permite recargar la batería durante la frenada">
+
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619633344/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil-Peque_wtxlju.jpg" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633347/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil_lvfk0g.jpg" width="100" alt= "Prueba y opinión - El patinete eléctrico Xiaomi 1S">
+
 </td>
 <td>
-<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_50/v1619945335/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-800-Peque_c9qts3.png" alt= "Prueba y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí">
+
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png" width="100" alt= "Prueba y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí">
+
 </td>
 </tr>
 <tr>
@@ -340,13 +356,13 @@ Regulador de velocidad</td>
 <td>
 </td>
 <td>
- @data-link="amzn-xiaomi-essential"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 </td>
 <td>
- @data-link="amzn-xiaomi-1s"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 </td>
 <td>
- @data-link="amzn-xiaomi-pro-2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 </td>
 </td>
 </tr>
@@ -360,7 +376,17 @@ Regulador de velocidad</td>
 > 
 ![Análisis y prueba - El Xiaomi 1S, el digno succesor del M365](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619633347/Patinetes-electricos/Patinete-Xiaomi-1S/Patinete-electrico-Xiaomi-1S-Perfil_lvfk0g.jpg "Análisis y prueba - El Xiaomi 1S, el digno succesor del M365")
 
- @data-link="amzn-xiaomi-1s"
+<div class="row">
+<div class="col">
+<h3 class="rate">8/10</h3>
+</div>
+<div class="col">
+
+### Xiaomi 1S
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio</a>
+</div>
+</div>
 
 Este patín Xiaomi fue lanzado en octubre de 2020 como **LA versión mejorada del famoso Mi M365**, que hasta la fecha ha sido el modelo con más ventas de esta casa asiática.
 
@@ -396,7 +422,7 @@ El patinete eléctrico Xiaomi Mi S1 **se puede comprar en Amazon España por un 
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
- @data-link="amzn-xiaomi-1s"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
@@ -430,6 +456,17 @@ El patinete eléctrico Xiaomi Mi S1 **se puede comprar en Amazon España por un 
 
 ![Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png "Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí")
 
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Xiaomi Pro 2
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
+</div>
+</div>
 
 También llamado xiaomi m365 pro 2 es la **versión pro de la marca y la más potente de los tres modelos lanzados en octubre de 2020** por Xiaomi y a la vez una versión mejorada del Pro lanzado en 2019.
 
@@ -457,11 +494,11 @@ Se echa en falta algún tipo de amortiguación, pero el uso de ruedas con cámar
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
- @data-link="amzn-xiaomi-pro-2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
- @data-link="amzn-smartgyro-xtreme-speedway-v2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
@@ -494,6 +531,18 @@ Se echa en falta algún tipo de amortiguación, pero el uso de ruedas con cámar
 
 ![Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945411/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-TRansporte-plegado_aycuyi.jpg "Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar")
 
+<div class="row">
+<div class="col">
+<h3 class="rate">7/10</h3>
+</div>
+<div class="col">
+
+### Xiaomi Essential
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio</a>
+</div>
+</div>
+
 Xiaomi no ha descuidado el **segmento de patinetes eléctricos baratos**, donde existe una gran demanda de parte de jóvenes y adultos que no quieren gastar mucho dinero en un monopatín que usarán para un **paseo ocasional o traslados cortos**.
 
 Por esta razón, incluyó el Xiaomi Mi Electric Scooter Essential entre los tres modelos lanzados en octubre de 2020. Recordemos que los otros patinetes fueron los modelos Pro 2 y el S1.
@@ -522,7 +571,7 @@ Vemos que se parece mucho al modelo S1 en características y equipamiento. Pero 
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
- @data-link="amzn-xiaomi-essential"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 
 + Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
 
@@ -586,11 +635,11 @@ Esto lo hace atractivo no solo para usuarios jóvenes, sino también adultos de 
 
 + [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
- @data-link="amzn-hiboy-s2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
 
- @data-link="amzn-xiaomi-1s"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
 ## Cecotec reta al poderoso Xiaomi Pro 2
 
@@ -614,11 +663,11 @@ Algo que destaca es que ambos patinetes resultan muy similares a la hora de la e
 
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
- @data-link="amzn-cecotec-bongo-serie-a-advance-connected-max"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
- @data-link="amzn-xiaomi-pro-2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
 ## ¿Patinetes para adolescentes y adultos? Megawheels encara al Xiaomi Essential
 
@@ -646,12 +695,12 @@ En todo caso, **su precio de apenas 200 euros lo pone muy cerca del modelo de Xi
 
 + [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
- @data-link="amzn-megawheels-s1"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
 
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
- @data-link="amzn-xiaomi-essential"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 
 ## Conclusión
 
@@ -679,12 +728,12 @@ En todo caso, **nuestra recomendación es que antes de comprar tu primer patinet
 
 + [El modelo Xiaomi Mi Essential](/patinetes-electricos/analisis-patinete-xiaomi-essential)
 
- @data-link="amzn-xiaomi-essential"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-essential">Ver mejor precio del Xiaomi Essential</a>
 
 + [El mítico patinete Xiaomi 1S](/patinetes-electricos/analisis-patinete-xiaomi-1-s)
   
- @data-link="amzn-xiaomi-1s"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-1s">Ver mejor precio del Xiaomi 1S</a>
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
- @data-link="amzn-xiaomi-pro-2"
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
