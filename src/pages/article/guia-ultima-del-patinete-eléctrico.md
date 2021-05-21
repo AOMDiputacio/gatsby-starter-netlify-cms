@@ -305,18 +305,18 @@ Su mayor defecto es que cuesta 60 euros más que el Megawheels S1.
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
-1- **Hiboy S2 y MAX V2:** Ambos patinetes tienen prestaciones similares. El MAX V2 tiene suspensiones delanteras y traseras. El S2 tiene suspensiones traseras solamente, pero es 10 euros más barato. Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, ambos nos resultan más atractivos que el Xiaomi 1S cuya autonomía es similar, pero que tiene un motor 100 W menos potente. En este caso, tenemos suspensiones y ruedas sin mantenimiento por unos 10 euros más en el caso del Hiboy S2 y 20 euros en el caso del Hiboy MAX 2.
+1- **Hiboy S2 Pro:** Es 20 euros más caro que el Cecotec Advance Connected MAX y 25 más que el Xiaomi Mi PRO 2. Aunque también tiene una suspensión trasera doble y unas ruedas sólidas sin mantenimiento, su autonomía es 5 kilómetros menor. En todo caso, en este rango de precio y autonomía las diferencias no deberían dejar al Hiboy S2 Pro fuera del interés del comprador que busca un equipo bueno y barato.
+
+* [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+
+ <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
+
+2- **Hiboy S2 y MAX V2:** Ambos patinetes tienen prestaciones similares. El MAX V2 tiene suspensiones delanteras y traseras. El S2 tiene suspensiones traseras solamente, pero es 10 euros más barato. Si bien es difícil determinar cuál de estos dos Hiboy es mejor que el otro, ambos nos resultan más atractivos que el Xiaomi 1S cuya autonomía es similar, pero que tiene un motor 100 W menos potente. En este caso, tenemos suspensiones y ruedas sin mantenimiento por unos 10 euros más en el caso del Hiboy S2 y 20 euros en el caso del Hiboy MAX 2.
 
 * [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
 * [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
-
-2- **Hiboy S2 Pro:** Es 20 euros más caro que el Cecotec Advance Connected MAX y 25 más que el Xiaomi Mi PRO 2. Aunque también tiene una suspensión trasera doble y unas ruedas sólidas sin mantenimiento, su autonomía es 5 kilómetros menor. En todo caso, en este rango de precio y autonomía las diferencias no deberían dejar al Hiboy S2 Pro fuera del interés del comprador que busca un equipo bueno y barato.
-
-* [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
-
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
 
 ### 4. Patinetes con alta autonomía
 
@@ -395,6 +395,8 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 #### \- El Hiboy S2 Pro
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
+
+![Prueba y opinión - El diseño del Hiboy S2 pro así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
 
 <div class="row">
 <div class="col">
