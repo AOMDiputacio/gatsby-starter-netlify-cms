@@ -404,6 +404,8 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 
 ##### Hiboy S2 Pro
 
+![Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
+
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
 </div>
