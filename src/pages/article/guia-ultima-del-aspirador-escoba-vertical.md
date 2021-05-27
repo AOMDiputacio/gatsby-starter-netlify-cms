@@ -65,7 +65,7 @@ Para ayudarte a escoger el modelo de aspirador escoba sin cables que más se ada
 
 
 
-### Aspirador escoba sin cable SAMBA Vertical
+### 1- Aspirador escoba sin cable SAMBA Vertical
 
 
 
@@ -107,96 +107,57 @@ Su depósito tiene capacidad de 0,8 litros, uno de los más grandes que hemos vi
 
 El polvo acumulado en el depósito se desecha fácilmente, pues basta presionar un botón para liberarlo y vaciarlo.
 
-
-
 Y para eliminar ácaros, alérgenos y polvo fino del aire que retorna al ambiente, la escoba eléctrica SAMBA utiliza un sistema de filtros HEPA, con una eficiencia del 99,9%.
 
-
-
-1. #### Opiniones en Amazon sobre la aspiradora SAMBA Vertical
-
-
+#### Opiniones en Amazon sobre la aspiradora SAMBA Vertical
 
 Cuando se habla de un equipo de bajo costo se suele sospechar que es de mala calidad, pero en este caso las opiniones de los compradores en Amazon son en su gran mayoría positivas.
 
-
-
 En general, consideran que por unos 60 euros han comprado un equipo que hace lo mismo o más que muchos modelos con precios entre los 150 y 180 euros.
-
- 
 
 Consideran muy equilibrada la potencia y autonomía de batería, así como destacan que su cabezal tenga luz LED y que el equipo posea un kit de accesorios para limpiar muebles, pisos y techos.
 
+#### ¤Pros y contras del aspirador escoba sin cable SAMBA Vertical
 
-
-2. #### ¤Pros y contras del aspirador escoba sin cable SAMBA Vertical
-
-
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-
-
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Insuperable relación calidad/precio</div>
+<div class="pros-item">Su función 2 en 1 permite realizar la limpieza de hogares y coches fácilmente</div>
+<div class="pros-item">Buena duración de la batería y potencia de succión elevada para un motor de solo 150W</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Una potencia de succión mejorable</div>
+</div>
+</div>
 
 En conclusión, si no quieres gastar mucho dinero en un aspirador escoba que te ayude a mantener tu casa limpia, entonces el SAMBA Vertical es la mejor opción para tí.
 
-
-
 Su relación calidad precio es simplemente imposible de vencer y las únicas opciones similares cuestan hasta 3 veces más que este equipo.
-
-
 
 Además, se trata de un modelo fácil de instalar y operar, que casi no necesita instrucciones para comenzar a usarlo desde que lo sacas de su caja.
 
-
-
-1. ### Aspirador Bissell CrossWave Cordless, potencia y facilidad a la hora de limpiar pisos y alfombras
-
-
+### 2- Aspirador Bissell CrossWave Cordless, potencia y facilidad a la hora de limpiar pisos y alfombras
 
 La aspiradora escoba Bissell CrossWave Cordless es un equipo todo-en-uno pensado para quienes necesitan hacer una limpieza completa y profunda que incluya aspirar, lavar y secar pisos duros y alfombras, de forma eficiente y rápida.
 
-
-
 Este es un producto de la marca estadounidense Bissel, que tiene una larga trayectoria produciendo equipos de alta calidad para la limpieza del hogar.
-
-
 
 En este caso nos encontramos con una aspiradora que tiene una potencia de succión de 100 aW, más que suficiente para aspirar todo tipo de suciedad, sea esta sólida o líquida.
 
-
-
 Por lo tanto es perfecta para las casas donde hay animales y/o niños, en los que hay que limpiar pelos, zumos derramados, papillas y todo tipo de sólidos y semilíquidos.
-
-
 
 Esta aspiradora escoba multifuncional no utiliza bolsa ni depósito seco para recoger la suciedad. En su lugar, cuenta con un depósito de agua limpia (con detergente) de 820 mililitros y otro para recoger el agua sucia de 620 mililitros.
 
-
-
 El fabricante incluye entre los accesorios una botella con una solución jabonosa especial, que también se puede comprar aparte por unos 15 euros. En todo caso esta solución puede reemplazarse por algún detergente ligero que prefiera el usuario.
-
-
 
 Además, está diseñada para limpiar y lavar todo tipo de suelo, desde madera, baldosas, pisos sintéticos o linóleo hasta moquetas y alfombras.
 
-
-
 Solo basta con pulsar el botón Rug (alfombra) o Hard Floor (suelo duro) en el asa para ajustar la potencia y funcionamiento del cabezal de limpieza.
-
-
 
 En este cabezal  encontramos un cepillo giratorio que permite limpiar polvo seco o sustancias semilíquidas pegadas en las alfombras. También tiene un inyector que expulsa agua limpia para hacer el lavado de la superficie, el cual se activa pulsando un botón en el asa.
 
-
-
 La escoba eléctrica Bissel CrosWave Cordless pesa en vacío 5,7 kilogramos, lo que la ubica en el rango semipesado. Este peso aumenta a los 8,2 kilogramos cuando se llenan sus depósitos de agua.
-
-
 
 Posee una potencia de succión de 100 aW, similar a otros modelos costosos de gama media. Gracias a su batería de 36V tiene una autonomía de 25 a 28 minutos, suficiente para aspirar, fregar y secar el área de tu casa que necesites, en una sola pasada.
 
