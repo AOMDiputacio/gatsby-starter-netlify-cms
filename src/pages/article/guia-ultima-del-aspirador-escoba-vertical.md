@@ -268,44 +268,24 @@ En cuanto a las críticas, muchos usuarios **lamentan la ausencia de servicio t�
     
 #### Pros y contras del aspirador Ultimate ErgoWet
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Potencia excepcional de 580W y nivel de succión de 26 kPa le dan poder para limpiar cualquier tipo de sucio
-   </td>
-   <td>Materiales plásticos poco resistentes al uso, especialmente a nivel del brazo articulado
-   </td>
-  </tr>
-  <tr>
-   <td>Función Smart Auto optimiza la duración de la batería
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Autonomía de 90 minutos, suficiente para limpiar una casa grande
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Pantalla digital completa que puede mostrar consejos de uso
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente variedad de accesorios, incluyendo el depósito de fregado WaterTank y el tubo articulado para limpiar debajo de los muebles y zonas altas
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+"<div class=""row"">
+<div class=""col"">
+<div class=""pros-header"">Nos gustó</div>
+<div class=""pros-item"">Potencia excepcional de 580W y nivel de succión de 26 kPa le dan poder para limpiar cualquier tipo de sucio</div>
+<div class=""pros-item"">Función Smart Auto optimiza la duración de la batería</div>
+<div class=""pros-item"">Autonomía de 90 minutos, suficiente para limpiar una casa grande</div>
+<div class=""pros-item"">Pantalla digital completa que puede mostrar consejos de uso</div>
+<div class=""pros-item"">Excelente variedad de accesorios, incluyendo el depósito de fregado WaterTank y el tubo articulado para limpiar debajo de los muebles y zonas altas</div>
+</div><div class=""col"">
+<div class=""cons-header"">Se puede mejorar</div>
+<div class=""cons-item"">Materiales plásticos poco resistentes al uso, especialmente a nivel del brazo articulado</div>
+<div class=""cons-item""></div>
+<div class=""cons-item""></div>
+<div class=""cons-item""></div>
+<div class=""cons-item""></div>
+</div>
+</div>"
+
 
 
 En conclusión, este es uno de los mejores aspiradoras escoba del mercado en términos de relación precio potencia y con un **precio mucho más bajo que su equivalente de otras marcas** conocidas.
@@ -534,44 +514,25 @@ Otros usuarios agradecen el hecho de que el **depósito es fácilmente limpiable
 
 
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente potencia y capacidad de succión
-   </td>
-   <td>En modo máximo la batería solo dura 15 minutos
-   </td>
-  </tr>
-  <tr>
-   <td>Batería extraíble, que permite usar una segunda unidad cuando sea necesario
-   </td>
-   <td>Ruedas del cepillo motorizado se atascan fácilmente con los pelos de animales y sucio
-   </td>
-  </tr>
-  <tr>
-   <td>Bajo peso y facilidad para transportarla y almacenarla gracias a su base de carga colgante
-   </td>
-   <td>Materiales plásticos parecen poco resistentes a rayones y golpes
-   </td>
-  </tr>
-  <tr>
-   <td>Se puede convertir en pocos pasos en un aspirador de mano
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente variedad de cepillos y cabezal motorizado para limpiar tapicerías
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item"">Excelente potencia y capacidad de succión</div>
+<div class="pros-item">Batería extraíble, que permite usar una segunda unidad cuando sea necesario</div>
+<div class="pros-item">Bajo peso y facilidad para transportarla y almacenarla gracias a su base de carga colgante</div>
+<div class="pros-item">Se puede convertir en pocos pasos en un aspirador de mano</div>
+<div class="pros-item">Excelente variedad de cepillos y cabezal motorizado para limpiar tapicerías</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">En modo máximo la batería solo dura 15 minutos</div>
+<div class="cons-item">Ruedas del cepillo motorizado se atascan fácilmente con los pelos de animales y sucio</div>
+<div class="cons-item">Materiales plásticos parecen poco resistentes a rayones y golpes</div>
+</div>
+</div>
+
+
+
 
 
 En conclusión, la **aspiradora escoba sin cable JASHEN V18 cumple lo que promete** y sus funciones inteligentes facilitan mucho la limpieza de cualquier vivienda, sobre todo si hay mascotas.
