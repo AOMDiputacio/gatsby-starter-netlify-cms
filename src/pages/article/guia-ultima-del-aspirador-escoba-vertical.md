@@ -550,7 +550,7 @@ El **aspirador escoba sin cable Tauros Ideal Avant es un versátil equipo 3 en 1
 
 Esto lo hace ideal para quienes necesitan un **equipo liviano capaz de cumplir todas las tareas de limpieza del hogar** y eliminar para siempre las escobas y cepillos manuales.
 
-Su peso de 4,06 kilogramos lo coloca entre los más pesados de los modelos de aspiradoras escobas sin cable del mercado, pero esto lo compensa con su capacidad para realizar todo tipo de limpiezas gracias a su motor de XXXXW y su autonomía de 45 minutos.
+Su peso de 4,06 kilogramos lo coloca entre los más pesados de los modelos de aspiradoras escobas sin cable del mercado, pero esto lo compensa con su capacidad para realizar todo tipo de limpiezas gracias a su motor de 350W y su autonomía de 45 minutos.
 
 Esta **escoba eléctrica Taurus** viene con un accesorio 2 en 1 que funciona como cepillo para tapicería y muebles y lanza para ranuras (cuando se usa como aspirador de mano).
 
@@ -585,32 +585,23 @@ En cuanto a las críticas, algunos usuarios señalan que **su cabezal multiuso n
  
 #### Pros y contras de la aspiradora eléctrica inalámbrica Taurus Ideal Avant
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Equipo tipo 3 en 1, que se convierte fácilmente en aspirador de mano o de techo
-   </td>
-   <td>Peso de 4,06 kilogramos la hace relativamente pesada
-   </td>
-  </tr>
-  <tr>
-   <td>Cabezal con zapata que permite intercambiar cepillos para pelos de mascotas o limpieza general
-   </td>
-   <td>Le falta algo de fuerza para aspirar piedrecillas o polvo grueso, o limpiar alfombras de fibra densa
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente precio en relación con sus características
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Equipo tipo 3 en 1, que se convierte fácilmente en aspirador de mano o de techo</div>
+<div class="pros-item">Cabezal con zapata que permite intercambiar cepillos para pelos de mascotas o limpieza general</div>
+<div class="pros-item">Excelente precio en relación con sus características</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Peso de 4,06 kilogramos la hace relativamente pesada</div>
+<div class="cons-item">Le falta algo de fuerza para aspirar piedrecillas o polvo grueso, o limpiar alfombras de fibra densa</div>
+</div>
+</div>
+
+
+
 
 
 Con un **precio de 129 euros en Amazon España es una de las mejores compras que puedes hacer**, sobre todo si tienes una casa o apartamento pequeño y necesitas hacer una limpieza ligera todos los días.
@@ -663,32 +654,20 @@ También hay quienes consideran insuficiente la capacidad del depósito de polvo
 
 
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente autonomía y potencia
-   </td>
-   <td>Batería requiere 5 horas para recargarse
-   </td>
-  </tr>
-  <tr>
-   <td>Insuperable calidad de materiales y diseño muy cómodo y elegante
-   </td>
-   <td>Forma y posición del depósito impiden “acostar” la aspiradora para limpiar bajo muebles y camas
-   </td>
-  </tr>
-  <tr>
-   <td>Cabezal mecanizado de buena calidad, capaz de girar 90 grados para limpiar esquinas
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Excelente autonomía y potencia</div>
+<div class="pros-item">Insuperable calidad de materiales y diseño muy cómodo y elegante</div>
+<div class="pros-item">Cabezal mecanizado de buena calidad, capaz de girar 90 grados para limpiar esquinas</div>
+<div class="pros-item"></div>
+<div class="pros-item"></div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Batería requiere 5 horas para recargarse</div>
+<div class="cons-item">Forma y posición del depósito impiden “acostar” la aspiradora para limpiar bajo muebles y camas</div>
+</div>
+</div>
 
 
 
@@ -742,38 +721,22 @@ En todo caso, consideran que **su precio de 277 euros es justo para un equipo qu
 
 
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Cabezal posee iluminación LED para trabajar cómodamente en rincones oscuros
-   </td>
-   <td>No posee pantalla para avisar del nivel de carga de batería o modo de funcionamiento
-   </td>
-  </tr>
-  <tr>
-   <td>Equipo versátil que puede funcionar como escoba eléctrica, aspirador de mano y aspirador de techos
-   </td>
-   <td>Su autonomía es moderada y se reduce mucho cuando se usa en modo turbo
-   </td>
-  </tr>
-  <tr>
-   <td>Peso por debajo de los 3 kilogramos, que facilita mucho su uso
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Su función turbo permite limpiar pelos de mascotas en una sola pasada
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Cabezal posee iluminación LED para trabajar cómodamente en rincones oscuros</div>
+<div class="pros-item">Equipo versátil que puede funcionar como escoba eléctrica, aspirador de mano y aspirador de techos</div>
+<div class="pros-item">Peso por debajo de los 3 kilogramos, que facilita mucho su uso</div>
+<div class="pros-item">Su función turbo permite limpiar pelos de mascotas en una sola pasada</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">No posee pantalla para avisar del nivel de carga de batería o modo de funcionamiento</div>
+<div class="cons-item">Su autonomía es moderada y se reduce mucho cuando se usa en modo turbo</div>
+</div>
+</div>
+
+
+
 
 
 En conclusión el **aspirador escoba sin cable Rowenta RH9021 Air Force 360 es un equipo ideal para hacer limpiezas rápidas** pero completas de pisos y muebles en hogares donde hay mascotas.
@@ -823,42 +786,23 @@ En cuanto a las criticas, algunos usuarios señalan que solo trae un cepillo ext
  
 #### Pros y contras
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente autonomía de 45 minutos cuando se usa en modo de baja potencia, lo que permite limpiar un área de 110 metros cuadrados
-   </td>
-   <td>Para limpiar pelo de mascotas o mucho polvo hay que usarlo en alta potencia, lo que limita la autonomía a unos 25 minutos
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente diseño y bonito color, con una longitud perfecta para personas de 1,70 metros de altura
-   </td>
-   <td>Al tener el motor y depósito en la parte baja, se hace difícil introducir el aspirador bajo las camas o muebles
-   </td>
-  </tr>
-  <tr>
-   <td>Depósito y filtro muy fáciles de limpiar
-   </td>
-   <td>Se echa de menos un depósito de mayor capacidad que los 0,5 litros que ofrece este aspirador
-   </td>
-  </tr>
-  <tr>
-   <td>Ocupa poco espacio y se puede guardar en posición vertical
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Bajo peso tanto en modo armado al completo como separado en modo aspirador de mano
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Excelente autonomía de 45 minutos cuando se usa en modo de baja potencia, lo que permite limpiar un área de 110 metros cuadrados</div>
+<div class="pros-item">Excelente diseño y bonito color, con una longitud perfecta para personas de 1,70 metros de altura</div>
+<div class="pros-item">Depósito y filtro muy fáciles de limpiar</div>
+<div class="pros-item">Ocupa poco espacio y se puede guardar en posición vertical</div>
+<div class="pros-item">Bajo peso tanto en modo armado al completo como separado en modo aspirador de mano</div>
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Para limpiar pelo de mascotas o mucho polvo hay que usarlo en alta potencia, lo que limita la autonomía a unos 25 minutos</div>
+<div class="cons-item">Al tener el motor y depósito en la parte baja, se hace difícil introducir el aspirador bajo las camas o muebles</div>
+<div class="cons-item">Se echa de menos un depósito de mayor capacidad que los 0,5 litros que ofrece este aspirador</div>
+</div>
+</div>
+
+
+
 
