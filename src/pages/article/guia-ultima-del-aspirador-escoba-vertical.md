@@ -42,16 +42,24 @@ Para ayudarte a escoger el modelo de aspirador escoba sin cables que más se ada
 
 ### Los 3 mejores aspiradores escoba del 2021
 
-
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-
-
+<table>
+<tr>
+<td>Modelo</td>
+<td>Categoría</td>
+<td>Precio*</td>
+<tr>
+<td>SAMBA vertical</td>
+<td>Ligero, low cost, pero completo, con filtro HEPA y de esponja, por una relación calidad precio inmejorable</td>
+<td>64</td>
+<tr>
+<td>Cecotec Conga Rockstar 900 Ultimate ErgoWet</td>
+<td>El aspirador escoba ligero, potente, y silencioso que lo tiene todo a un precio atractivo</td>
+<td>169</td>
+<tr>
+<td>Bissell CrossWave Cordless</td>
+<td>Un aspirador para lavar toda la casa; el único equipado con un filtro de agua a un precio asequible</td>
+<td>338</td>
+</table>
 
 \* precios en Mayo del 2021
 
