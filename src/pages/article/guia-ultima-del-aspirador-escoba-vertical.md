@@ -613,3 +613,287 @@ En cuanto a las criticas, algunos usuarios señalan que solo trae un cepillo ext
 <div class="cons-item">Se echa de menos un depósito de mayor capacidad que los 0,5 litros que ofrece este aspirador</div>
 </div>
 </div>
+
+## Todos los modelos: tabla resumen
+
+<table>
+<tr>
+<td>Modelo</td>
+<td class="green-box-cell">
+<div class="green-box">Mejor precio</div>
+SAMBA vertical
+</td>
+<td class="blue-box-cell">
+<div class="blue-box">Relación calidad precio</div>
+Cecotec Aspirador Conga Rockstar 900 Ultimate ErgoWet
+</td>
+<td class="green-box-cell">
+<div class="green-box">Nuestro favorito</div>
+Bissell CrossWave Cordless
+</td>
+<td>JASHEN 350W Motor Digital Brushless</td>
+<td>Rowenta RH9021 Air Force 360</td>
+<td>AEG CX7-2-45AN</td>
+<td>Bosch BBH32551 Flexxo Serie</td>
+<td>Taurus Ideal Avant Aspirador escoba</td>
+</tr><tr>
+<td>Dimensiones (en cm)</td>
+<td class="green-box-cell">
+65,6 x 24,6 x 17 cm
+</td>
+<td class="blue-box-cell">
+37 x 21,5 x 28 cm
+</td>
+<td class="green-box-cell">
+118 x 33 x 35 cm
+</td>
+<td></td>
+<td>74 x 15 x 34.5 cm</td>
+<td>26,5 x 14,5 x 114,5 cm</td>
+<td>26,5 x 18 x 115 cm
+</td>
+<td>23 cm x 110 cm x 26 cm</td>
+</tr><tr>
+<td>Tecnología</td>
+<td class="green-box-cell">
+
+</td>
+<td class="blue-box-cell">
+ciclónica
+</td>
+<td class="green-box-cell">
+
+</td>
+<td>ciclónica</td>
+<td>ciclónica</td>
+<td>ciclónica</td>
+<td></td>
+<td></td>
+</tr><tr>
+<td>Poder (en W)</td>
+<td class="green-box-cell">
+150W
+</td>
+<td class="blue-box-cell">
+600 W
+</td>
+<td class="green-box-cell">
+250 W
+</td>
+<td>350W</td>
+<td>350 W</td>
+<td>350W</td>
+<td>160W</td>
+<td>350 W</td>
+</tr><tr>
+<td>Potencia Máxima de succión (en Kpa)</td>
+<td class="green-box-cell">
+8,5 kPa
+</td>
+<td class="blue-box-cell">
+26 KPA
+</td>
+<td class="green-box-cell">
+20 kPa
+</td>
+<td>22 Kpa</td>
+<td>20 y 24 kPa</td>
+<td>25 kPa</td>
+<td>20 kPa</td>
+<td>25 kPa</td>
+</tr><tr>
+<td>Modos</td>
+<td class="green-box-cell">
+Ecológico y Turbo
+</td>
+<td class="blue-box-cell">
+Eco, Medio, Turbo y Auto
+</td>
+<td class="green-box-cell">
+Para piso sólido y para alfonbras
+</td>
+<td>3 niveles (Min / Auto / Max)</td>
+<td>Minimo y Turbo</td>
+<td>Mínimo y Turbo</td>
+<td>Mínimo y Turbo</td>
+<td>Ecológico y Máximo</td>
+</tr><tr>
+<td>Capacidad de la taza de polvo (en litros)</td>
+<td class="green-box-cell">
+0,8
+</td>
+<td class="blue-box-cell">
+0.6
+</td>
+<td class="green-box-cell">
+1.44
+</td>
+<td>0,5</td>
+<td>0.65</td>
+<td>0.5</td>
+<td>0,4</td>
+<td>0,65</td>
+</tr><tr>
+<td>Nivel de sonido de trabajo (en dB)</td>
+<td class="green-box-cell">
+68 dB
+</td>
+<td class="blue-box-cell">
+83 dB
+</td>
+<td class="green-box-cell">
+80 dB
+</td>
+<td>70-72</td>
+<td>85 dB
+</td>
+<td>79 dB</td>
+<td>77 dB</td>
+<td>74 dB</td>
+</tr><tr>
+<td>Capacidad de la batería (en mAh)</td>
+<td class="green-box-cell">
+2200 mAh
+</td>
+<td class="blue-box-cell">
+3.000 mAh
+</td>
+<td class="green-box-cell">
+2500 mAh
+</td>
+<td>2500mAh</td>
+<td>2500mAh</td>
+<td>2100 mAh</td>
+<td>2200mAh</td>
+<td>2200 m Ah</td>
+</tr><tr>
+<td>Duración de la batería en modo mínima potencia (en minutos)</td>
+<td class="green-box-cell">
+40
+</td>
+<td class="blue-box-cell">
+90
+</td>
+<td class="green-box-cell">
+25
+</td>
+<td>40</td>
+<td>30</td>
+<td>45</td>
+<td>55</td>
+<td>45</td>
+</tr><tr>
+<td>Tiempo de carga (en horas)</td>
+<td class="green-box-cell">
+3
+</td>
+<td class="blue-box-cell">
+2
+</td>
+<td class="green-box-cell">
+4
+</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>4</td>
+</tr><tr>
+<td>Sistema de filtración</td>
+<td class="green-box-cell">
+Filtro HEPA y filtro de esponja lavable
+</td>
+<td class="blue-box-cell">
+el filtro de entrada captura la suciedad y el filtro de salida retiene los alérgenos en su interior
+</td>
+<td class="green-box-cell">
+Filtro del sistema de aspirado y filtro para recipiente de agua
+</td>
+<td>4 etapas completamente sellado con sensor de filtro incorporado.</td>
+<td>Filtro en la base de polvo, Filtración Espuma lavable</td>
+<td>un doble filtro que no cumple la norma HEPA pero sí recoge partículas de hasta 0,3 micras Lavable</td>
+<td>Constituido por una malla de acero inoxidable, un filtro HEPA, una malla de nylon y una espuma, el poderoso sistema de filtración</td>
+<td>Filtros HEPA EN LA ENTRADA filtros lavables y de fácil mantenimiento.</td>
+</tr><tr>
+<td>Filtro HEPA</td>
+<td class="green-box-cell">
+Si
+</td>
+<td class="blue-box-cell">
+Incluido
+</td>
+<td class="green-box-cell">
+No
+</td>
+<td>incluido</td>
+<td>No señala</td>
+<td>No</td>
+<td>Si</td>
+<td>Si</td>
+</tr><tr>
+<td>Convertible de aspiradora de mano</td>
+<td class="green-box-cell">
+Si
+</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td class="green-box-cell">
+No
+</td>
+<td>Sí</td>
+<td>Si</td>
+<td>Si</td>
+<td>Si</td>
+<td>Si</td>
+</tr><tr>
+<td>Adecuado para pelo de mascotas</td>
+<td class="green-box-cell">
+Si
+</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Sí</td>
+<td>si</td>
+<td>Si</td>
+<td>Si</td>
+<td>Si</td>
+</tr><tr>
+<td>Peso (en kg)</td>
+<td class="green-box-cell">
+1,8 kg
+</td>
+<td class="blue-box-cell">
+1.8
+</td>
+<td class="green-box-cell">
+4,9 Kg
+</td>
+<td>2,5 kg incluyendo varilla y cabezal de piso motorizado.</td>
+<td>2.5 kg</td>
+<td>3,4 Kg</td>
+<td>2,83 kg</td>
+<td>4,06 kg</td>
+</tr><tr>
+<td>Precio</td>
+<td class="green-box-cell">
+60
+</td>
+<td class="blue-box-cell">
+169
+</td>
+<td class="green-box-cell">
+338
+</td>
+<td>220</td>
+<td>285</td>
+<td>171</td>
+<td>164,69</td>
+<td>120</td>
+</tr>
+</table>
+
