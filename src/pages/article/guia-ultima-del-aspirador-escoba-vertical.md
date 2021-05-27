@@ -129,20 +129,16 @@ Consideran muy equilibrada la potencia y autonomía de batería, así como desta
 
 
 <div class="row">
+
 <div class="col">
 <div class="pros-header">Nos gustó</div>
 <div class="pros-item">Insuperable relación calidad/precio</div>
 <div class="pros-item">Su función 2 en 1 permite realizar la limpieza de hogares y coches fácilmente</div>
 <div class="pros-item">Buena duración de la batería y potencia de succión elevada para un motor de solo 150W</div>
-<div class="pros-item"></div>
-<div class="pros-item"></div>
-</div><div class=""col">
+</div>
+<div class="col">
 <div class="cons-header">Se puede mejorar</div>
 <div class="cons-item">Una potencia de succión mejorable</div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
 </div>
 </div>
 
@@ -203,32 +199,19 @@ También hay quienes critican el peso, pero otros señalan que a pesar de esto *
  
 #### Pros y contras del aspirador Bissell CrosWave Cordless
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Ideal para hogares con niños y mascotas pues limpia tanto sólidos como líquidos derramados.
-   </td>
-   <td>Es un equipo pesado en comparación con otras aspiradoras verticales
-   </td>
-  </tr>
-  <tr>
-   <td>Su gran poder de succión facilita limpiar alfombras y pisos de todo tipo
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Base de carga permite limpiar la aspiradora y accesorios, facilitando el mantenimiento
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Ideal para hogares con niños y mascotas pues limpia tanto sólidos como líquidos derramados.</div>
+<div class="pros-item">Su gran poder de succión facilita limpiar alfombras y pisos de todo tipo</div>
+<div class="pros-item">Base de carga permite limpiar la aspiradora y accesorios, facilitando el mantenimiento</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Es un equipo pesado en comparación con otras aspiradoras verticales</div>
+</div>
+</div>
 
 
 
