@@ -255,16 +255,16 @@ Regulador de velocidad</td>
 
 <div class="row">
 <div class="col">
-<div class="pros-header">Pros</div>
+<div class="pros-header">Nos gustó</div>
 <div class="pros-item">Excelente autonomía</div>
-<div class="pros-item">Excelente relación calidad/precio</div>
+<div class="pros-item">Excelente relación calidad precio</div>
 <div class="pros-item">Materiales excelentes y duraderos</div>
 <div class="pros-item">Comodidad de los neumáticos anti pinchazos que absorben las vibraciones</div>
 <div class="pros-item">Triple sistema de frenado</div>
 
 </div>
 <div class="col">
-<div class="cons-header">Contras</div>
+<div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Peso aumentado a 15 Kg. </div>
 <div class="cons-item">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
 <div class="cons-item">No tiene amortiguadores.</div>
