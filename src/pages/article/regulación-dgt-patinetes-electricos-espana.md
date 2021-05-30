@@ -13,7 +13,7 @@ image: /img/regulacion-de-transito.jpg
 imageAlt: Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
-  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: mejor-patinete-electrico-xiaomi
 ---
 </script>
@@ -368,3 +368,4 @@ Finalmente, ya quedó claro que falta muy poco para que la DGT imponga una edad 
 + [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
 + [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
