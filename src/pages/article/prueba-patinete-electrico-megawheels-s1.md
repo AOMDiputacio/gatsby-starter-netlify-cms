@@ -252,7 +252,7 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 
 <div class="row">
 <div class="col">
-<div class="pros-header">Pros</div>
+<div class="pros-header">Nos gustó</div>
 <div class="pros-item">Acelera muy rápido a pesar de su pequeño tamaño</div>
 <div class="pros-item">Batería se carga en poco tiempo</div>
 <div class="pros-item">Rueda sólidas de alta duración</div>
@@ -260,7 +260,7 @@ altura ajustable: 80/ 94/100/ 105cm.</td>
 </div>
 
 <div class="col">
-<div class="cons-header">Contras</div>
+<div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Velocidad máxima muy baja  en comparación con otros modelos</div>
 <div class="cons-item">Batería  pequeña limita mucho su autonomía</div>
 <div class="cons-item">No posee pantalla de control</div>
