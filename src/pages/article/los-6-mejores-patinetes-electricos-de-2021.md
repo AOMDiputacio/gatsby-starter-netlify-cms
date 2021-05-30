@@ -9,6 +9,9 @@ description: Ante la cantidad de patinetes eléctricos que han inundado el
   son los mejores patinetes eléctricos del mercado.
 slug: Los-6-mejores-patinetes-electricos-de-2021
 date: 2021-05-30T09:54:13.615Z
+tags:
+  - tag: guias
+  - tag: patinetes-electricos
 image: /img/logo.png
 imageAlt: Barato, duradero y minimalista, el Kugoo S1 es uno de nuestros
   patinetes eléctricos favoritos
