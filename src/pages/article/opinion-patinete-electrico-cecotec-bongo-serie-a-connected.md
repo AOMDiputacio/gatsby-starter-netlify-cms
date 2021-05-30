@@ -4,7 +4,7 @@ title: Análisis del patinete Cecotec Bongo Serie A Connected
 cardTitle: Cecotec Bongo Serie A Connected
 description: El rival directo del Xiaomi Mi 365 y de su succesor el Xiaomi S1
 slug: opinion-patinete-electrico-cecotec-bongo-serie-a-connected
-date: 2021-05-06T17:05:57.566Z
+date: 2021-05-30T14:41:58.348Z
 tags:
   - tag: patinetes-electricos
   - tag: patinete-cecotec
