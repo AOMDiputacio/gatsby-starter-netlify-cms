@@ -311,20 +311,39 @@ Las **principales quejas se relacionan con su peso de 22 kilogramos**, que lo ha
 </div>
 </div>
 
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### SMARTGYRO Xtreme SpeedWay V2.0
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
+</div>
+</div>
+
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
 ## **5- KUGOO S1**
+
+![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
 
 El **patinete eléctrico KUGOOo S1 es perfecto para quienes buscan un equipo sencillo pero potente** y con buena autonomía.
 
 Con un precio promedio de 270 euros, se trata de un **patinete hecho para desplazamientos cortos**, sin refinamientos tecnológicos, pero **capaz de llevarte cómodamente a todas partes gracias a su doble suspensión delantera y trasera**.
 
+![Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945475/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plegado2_b70aa3.jpg "Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía")
+
 Además, su **motor de 350W de potencia puede responder a cualquier tipo de exigencias** y sus ruedas rígidas están hechas para aferrarse al camino en cualquier condición.
+
+![Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plataforma-pies_nlwuwt.jpg "Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento")
 
 El **patinete KUGOO S1** es de los pocos que equipa luces led **delanteras con suficiente potencia para alumbrar el camino de noche**.
 
 Y aunque no cuenta con conectividad a dispositivos móviles, **posee en cambio una amplia pantalla que permite configurar fácilmente todas las funciones** de este patín.
 
+![Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-Pantalla_t721lb.jpg "Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación")
 ### **Opiniones en Amazon sobre el KUGOO S1**
 
 Los **compradores del KUGOO S1 en Amazon España** aprecian mucho la **cantidad de características que ofrece por un precio mucho menor** que el de modelos superiores de la competencia.
@@ -351,17 +370,35 @@ Otros consideran que **sus pequeñas ruedas duras no son adecuadas para calles a
 </div>
 </div>
 
+<div class="row">
+<div class="col">
+<h3 class="rate">10/10</h3>
+</div>
+<div class="col">
+
+### Kugoo S1
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio</a>
+</div>
+</div>
+
 + [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
 
 ## **6- M Megawheels S1**
+
+![Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar")
 
 Este es el **patinete eléctrico más económico que hemos probado**, con un precio de unos 270 euros, pero también **el que tiene menos autonomía pues solo da unos 7 a 15 kilómetros** con una carga de la batería completa.
 
 Concebido originalmente como un **juguete para los más chicos**, ha tenido **buenas ventas en el mercado español como medio de transporte de entrada** para quienes desean incursionar en la movilidad personal eléctrica.
 
+![Análisis y opinión - Un manillar sencillo y funcional](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945532/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Manillar-Detalle_jtsxrs.jpg "Análisis y opinión - Un manillar sencillo y funcional")
+
 **No posee ningún tipo de tecnología**, ni siquiera tiene un faro delantero ni pantalla de control y **apenas puede alcanzar una velocidad de 10 kilómetros por hora**.
 
-Pero ofrece lo que muchos buscan, un patinete resistente y de buena calidad que los lleve cerca de casa y que **además puede divertir mucho a los más chico**s.
+Pero ofrece lo que muchos buscan, un patinete resistente y de buena calidad que los lleve cerca de casa y que **además puede divertir mucho a los más jóvenes**.
+
+![Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945535/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Luz-Trasera_spwlzf.jpg "Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional")
 
 ### **Opiniones de los compradores del Megawheels S1 en Amazon España**
 
@@ -386,6 +423,18 @@ Su **buena construcción, rapidez y bajo precio compensa** de sobra el hecho de 
 <div class="cons-item">Batería  pequeña limita mucho su autonomía</div>
 <div class="cons-item">No posee pantalla de control</div>
 <div class="cons-item">Carece de luz frontal para conducir de noche</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Megawheels S1
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio</a>
 </div>
 </div>
 
