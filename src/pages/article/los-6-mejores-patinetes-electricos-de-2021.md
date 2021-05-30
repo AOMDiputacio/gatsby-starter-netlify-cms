@@ -60,11 +60,11 @@ Esto se puede apreciar en este gráfico:
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
-Asimismo, un patinete cuyo precio se encuentre por encima de la línea promedia se considerará caro, mientras se considerará relativamente barato si su precio se encuentra por debajo.
+Asimismo, **un patinete cuyo precio se encuentre por encima de la línea promedia se considerará caro, mientras se considerará relativamente barato si su precio se encuentra por debajo**.
 
-Pero la realidad es un poquito más compleja; puede que el precio un poco más caro de un patinete se vea compensado por características o prestaciones que lo diferencian de los demás; en cuyo caso, el sobrecoste se justifica.
+Pero la realidad es un poquito más compleja; **puede que el precio un poco más caro de un patinete se vea compensado por características o prestaciones que lo diferencian de los demás**; en cuyo caso, el sobrecoste se justifica.
 
-Por lo contrario, si debemos considerar que un patinete es barato, cabe asegurarse que sus prestaciones son decentes. En el caso contrario, no estarías haciendo un buen negocio; simplemente estarías comprando un patinete malo por un precio bajo.
+Por lo contrario, **si debemos considerar que un patinete es barato, cabe asegurarse que sus prestaciones son decentes**. En el caso contrario, no estarías haciendo un buen negocio; simplemente estarías comprando un patinete malo por un precio bajo.
 
 Nuestra selección de scooters eléctricos se basa en la explotación de esta metodología.
 
