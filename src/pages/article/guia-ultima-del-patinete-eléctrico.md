@@ -129,7 +129,7 @@ Te traemos nuestra guía de consejos para quienes buscan comprar un patinete el�
 # Elige tu patinete eléctrico con tan solo un grafico - Guía completa de compra
 # La guía última del patinete eléctrico
 
-!\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
+!\[Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946032/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Lifestyle_epvaqf.jpg "Prueba y opinión - El patinete eléctrico ideal para disfutar de la ciudad")
 
 -->
 
@@ -401,7 +401,7 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 
 * [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
-![Prueba y opinión - El diseño del Hiboy S2 pro así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
+![Prueba y opinión - El diseño del Hiboy S2 pro así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
 
 <div class="row">
 <div class="col">
@@ -411,7 +411,7 @@ Tomando en cuenta las características de cada modelo analizado y su precio, te 
 
 ##### Hiboy S2 Pro
 
-![Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
+![Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg "Prueba y opinión - El diseño del Hiboy S2 así como su construcción han sido cuidados")
 
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
@@ -508,7 +508,7 @@ Se recomienda consultar las normativas autonómicas o locales antes de circular 
 
 ## IV. Porque es importante comprar un patinete ligero
 
-![Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg "Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado")
+![Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg "Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado")
 
 * [Todo acerca de la Normativa española sobre los patinetes eléctricos](/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana)
 
@@ -558,7 +558,7 @@ De la combinación de estos elementos dependerá tanto el precio del patinete co
 
 > La batería representa hasta un 50% del costo de fabricación de un patinete eléctrico, pero al parecer, este elemento es determinante a la hora de definir el precio de venta
 
-![Análisis y opinión - Un motor trasero y una batería compacta](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945531/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Bateria-Motor_lcgwwc.jpg "Análisis y opinión - Un motor trasero y una batería compacta")
+![Análisis y opinión - Un motor trasero y una batería compacta](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945531/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Bateria-Motor_lcgwwc.jpg "Análisis y opinión - Un motor trasero y una batería compacta")
 
 La batería **es el elemento más costoso en la fabricación de un patinete eléctrico** y por lo tanto, hay que considerar cuánto tiempo de vida ofrece y qué tan caro es comprar un reemplazo cuando llegue al final de su vida útil.
 
@@ -600,7 +600,7 @@ A la larga, con una **mayor capacidad**, habrás recorrido más kilómetros entr
 
 ##### No basta con la cantidad, también importa la calidad
 
-![Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945692/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Regenerative-Bateria_u2dqjo.jpg "Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería")
+![Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945692/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Regenerative-Bateria_u2dqjo.jpg "Análisis y opinión - Un sistema regenerativo que utiliza la energía de la frenada para recargar la batería")
 
 Este es un aspecto un tanto abstracto y que es difícil de cuantificar de antemano. Más allá del tiempo de carga, que puede variar entre 4 y 8 horas según el modelo, como calidad de la batería nos referimos a qué tan confiable es la misma a la hora de suministrar una carga de energía constante al motor del monopatín eléctrico.
 
@@ -616,7 +616,7 @@ De hecho, **en Amazon encontrarás muchas opiniones de usuarios de patinetes, qu
 
 ##### ¿Cuánto pesa la batería? Y ¿es extraíble?
 
-![Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946025/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Cambio-Bater%C3%ADa_r7fuz8.jpg "Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes")
+![Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946025/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Cambio-Bater%C3%ADa_r7fuz8.jpg "Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes")
 
 Dos parámetros que también debes considerar al escoger un modelo de patinete eléctrico son **el peso de la batería y si esta se puede desmontar**.
 
@@ -656,7 +656,7 @@ Como punto final, ten en cuenta también que una batería de repuesto también i
 
 > Los motores disponibles pueden llegar a los 350 W de potencia. Pero para el uso urbano promedio un motor de 250 W es más que suficiente.
 
-![Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945757/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Motor_ponxt0.jpg "Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado")
+![Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945757/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Motor_ponxt0.jpg "Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado")
 
 Los motores eléctricos que equipan los modelos más recientes han mejorado tras años de investigación y pruebas de campo. Los motores sin escobillas que equipan actualmente todos los patinetes **tienen un rendimiento y durabilidad excelentes mientras que su costo de fabricación se ha mantenido relativamente bajo**.
 
@@ -676,7 +676,7 @@ En conclusión, un motor eléctrico de 250 W de potencia es más que suficiente 
 
 ### El cuadro, ¿Qué tan robusto y ligero es?
 
-![Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945411/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-TRansporte-plegado_aycuyi.jpg "Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar")
+![Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945411/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-TRansporte-plegado_aycuyi.jpg "Prueba y opinión - El patinete Xiaomi Essential es plegable, ligero y fácil de transportar")
 
 > Los patinetes ligeros de mejor calidad soportan más peso gracias al uso de aluminio de calidad aeronáutica en sus cuadros
 
@@ -694,7 +694,7 @@ En este punto, fíjate bien en el sistema de plegado de su manubrio. Es deseable
 
 ### Iluminación y complementos
 
-![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
+![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
 
 **Ser visible de noche es crucial para evitar accidentes. Un scooter eléctrico ligero debe tener buena iluminación activa y pasiva; es una prioridad si quieres salir al anochecer, y también un requisito legal.**
 
@@ -724,7 +724,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 * **Freno eléctrico:** El motor delantero actúa como un freno al invertir la polaridad de la corriente que recibe. Marcas como Cecotec, Hiboy y Xiaomi permiten incluso seleccionar la potencia del frenado eléctrico. Cecotec, Hiboy y Xiaomi utilizan una variedad de freno delantero que **permite reconvertir hasta un 30% de la energía del frenado en electricidad para recargar las baterías**.
 
-![Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945622/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Regenerative_twu0xr.jpg "Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías")
+![Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945622/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Regenerative_twu0xr.jpg "Prueba y opinión - Un sistema de frenado regenerativo que aprovecha la energía de la frenada para recargar las baterías")
 
 ##### Cecotec Bongo Serie A
 
@@ -762,7 +762,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 * **Freno de disco:** Es el **método de freno más eficiente y costoso**. Consiste en un mecanismo de pinzas activadas por un cable desde el manillar, que aprietan un disco colocado en el eje de la rueda trasera, deteniendo su giro. Marcas como **Cecotec, Hiboy y Xiaomi utilizan frenos de disco trasero con control electrónico antibloqueo**, que evita que la rueda pierda agarre con el suelo durante la frenada.
 
-![Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945754/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Freno-Disco_lkvsp0.jpg "Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes")
+![Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945754/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Freno-Disco_lkvsp0.jpg "Prueba y opinión - Un excelente freno de disco antibloqueo y unas ruedas macizas antideslizantes")
 
 ##### Cecotec Bongo Serie A Connected
 
@@ -794,7 +794,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 * **Freno de pedal:** Heredado de los antiguos patinetes, consiste en un sistema que permite pisar con el pie el guardabarros trasero y hacer que este roce la rueda para provocar un frenado por fricción. El modelo Cetotec es el único que incorpora este sistema a todos sus patinetes, mientras que Hiboy y Xiaomi lo han sustituido por un freno de disco. El M Megawheel S1 y el Kugoo S1 también cuentan con este sistema de frenado.
 
-![Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945535/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Luz-Trasera_spwlzf.jpg "Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional")
+![Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945535/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Luz-Trasera_spwlzf.jpg "Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional")
 
 ##### Cecotec Bongo Serie A
 
@@ -832,7 +832,7 @@ Los patinetes ligeros utilizan por lo general al menos uno de estos tres sistema
 
 > Por supuesto, un buen patinete debe ofrecer un viaje cómodo, sin vibraciones ni ruidos molestos
 
-![Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
+![Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
 
 Un patinete eléctrico ligero de calidad debe aislar al conductor de las vibraciones generadas al circular por calzadas deterioradas o irregulares.
 
@@ -842,7 +842,7 @@ Además, es importante analizar el grado de adherencia de los neumáticos, sobre
 
 ### Los neumáticos ¿hinchables o rígidos?
 
-![Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945942/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Neumatico-Tubeless_gjgywy.jpg "Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones")
+![Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945942/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Neumatico-Tubeless_gjgywy.jpg "Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones")
 
 Algunos modelos de patinete eléctrico usan neumáticos sólidos, fabricados con goma de alta resistencia.
 
@@ -878,7 +878,7 @@ En contraste, los neumáticos hinchables son vulnerables a pinchazos y requieren
 
 ### El sistema de amortiguación
 
-![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
+![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
 
 Las marcas analizadas en esta guía del patinete eléctrico que utilizan neumáticos sólidos intentan solucionar el problema de las vibraciones con el uso de suspensión delanteras, traseras o ambas.
 
