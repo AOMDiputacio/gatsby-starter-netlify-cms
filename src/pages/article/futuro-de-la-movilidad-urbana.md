@@ -14,7 +14,7 @@ imageAlt: Prueba y opinión - Un patinete confortable para manejar en todos tipo
   de terreno
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
-  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: mejor-patinete-electrico-xiaomi
 ---
 </script>
