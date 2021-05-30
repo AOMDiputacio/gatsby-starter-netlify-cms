@@ -300,7 +300,7 @@ Regulador de velocidad</td>
 
 <div class= "row ">
 <div class= "col ">
-<div class= "pros-header ">Pros</div>
+<div class= "pros-header ">Nos gustó</div>
 <div class= "pros-item ">Buena velocidad y aceleración para su tamaño</div>
 <div class= "pros-item ">Mayor autonomía</div>
 <div class= "pros-item ">Freno doble muy eficiente</div>
@@ -311,7 +311,7 @@ Regulador de velocidad</td>
 </div>
 
 <div class= "col ">
-<div class= "cons-header ">Contras</div>
+<div class= "cons-header ">Se debe mejorar</div>
 <div class= "cons-item ">Carece de suficiente protección contra el agua</div>
 <div class= "cons-item ">Requiere mucho tiempo para recargar su batería</div>
 <div class= "cons-item ">Ruedas sólidas aumentan vibración al pasar por empedrados y suelo irregular</div>
