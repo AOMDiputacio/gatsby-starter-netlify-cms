@@ -17,7 +17,7 @@ imageAlt: Análisis y prueba - Un excelente patinete Hiboy con una aplicación
   adaptada y fácil de usar
 relatedArticles:
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
-  - article: futuro-de-la-movilidad-urbana
+  - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: guia-ultima-del-patinete-electrico
 ---
 </script>
@@ -92,6 +92,10 @@ opinion-patinete-electrico-hiboy-s-2
 ## La propuesta de Hiboy para retar al mítico M365 de Xiaomi
 
 + [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+
+
 
 En 2017 la empresa china Xiaomi lanzó al mercado su patinete eléctrico M365, que marcó un hito en el mercado de la movilidad urbana. Pero en poco tiempo apareció en el mercado mundial un scooter dispuesto a retar su liderato, el Hiboy S2.
 
@@ -442,3 +446,5 @@ En definitiva, esta es una excelente apuesta del fabricante chino para competir 
 
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
