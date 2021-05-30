@@ -76,17 +76,23 @@ Se trata tanto de productos hechos por empresas chinas como españolas, lo que r
 
 ## **1- Hiboy S2 Pro**
 
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
+
 Este modelo de la fabricante china **Hiboy tiene un precio ligeramente más elevado que los de la competencia**, pero sus prestaciones lo justifican.
 
 En primer lugar, cuenta con una **batería de 410 Wh que combinado con su potente motor de 350W le da una autonomía de 25 kilómetros** en modo de alta potencia y hasta 40 kilómetros en un modo eco.
 
-Además destaca la **durabilidad de la batería que puede soportar más de 1000 ciclos de carg**a y descarga sin perder más de 30% de su capacidad original. .
+Además destaca la **durabilidad de la batería que puede soportar más de 1000 ciclos de carga** y descarga sin perder más de 30% de su capacidad original.
 
 Cuenta con grandes **neumáticos rígidos de goma dura de 10 pulgadas y doble suspensión trasera**, ajustable para absorber las vibraciones al conducir por pisos irregulares. Sus cualidades se notan más cuando el usuario sobrepasa los 70 kilogramos de peso.
+
+![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
 
 Complementan las **características del Hiboy S2 Pro** un conjunto de extras como luces, una completa pantalla LCD y la **conectividad con teléfonos inteligentes.** Además, la calidad de su construcción es excepcional.
 
 ### **Opiniones de los compradores del Hiboy S2 Pro en Amazon España**
+
+![Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945621/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Pantalla-Manillar_byugtb.png "Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada")
 
 Este modelo ha sido bien recibido por los compradores, que resaltan su **mayor autonomía y velocidad en comparación con el modelo S2 básico** y su gran rival, el Xiaomi mi electric scooter Mi M365.
 
@@ -115,19 +121,37 @@ También recibe opiniones positivas por sus neumáticos más grandes y amortigua
 </div>
 </div>
 
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Hiboy S2 Pro
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
+</div>
+</div>
+
 + [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
 ## **2- Cecotec Bongo Serie A Advance Connected MAX**
 
+![Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec](https://res.cloudinary.com/aom/image/upload/c_scale,w_400/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec")
+
 El **Cecotec Bongo Serie A Advance Connected MAX es otro modelo que ha tenido gran éxito** en 2020 y 2021, gracias a sus **características técnicas, que lo ponen al nivel del Xiaomi Pro 2**, y a un precio muy competitivo en comparación con otros modelos de su mismo nicho.
 
 Su gran **batería intercambiable de Li-ion de 460 Wh le da a este patinete eléctrico Cecotec una autonomía en la vida real de 23 kilómetros**, que aumenta hasta los 40 kilómetros si conduces en condiciones ideales de piso plano, sin cuestas y a velocidad baja.
+
+![Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945861/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Pantalla_j34sbc.jpg "Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche")
 
 Esta **batería destaca por ser removible y soportar más de 500 ciclos de carga sin perder capacidad.** Llevar una segunda batería a mano permite duplicar la autonomía del patinete, aunque se debe considerar el hecho de que no es precisamente barata.
 
 Sus **neumáticos hinchables sin cámara de aire (tubeless)** absorben muy bien las vibraciones del camino, aunque requieren ser hinchados con cierta frecuencia.
 
 Por último, **destaca la buena construcción de su estructura plegable (sin ser sobresaliente)** y la calidad de los accesorios y extras, que incluyen pantalla LCD, luces y **aplicación para controlarlo desde un dispositivo móvil**.
+
+![Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945870/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Plegable_fjzvd4.jpg "Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable")
 
 Más ligero y barato que los tipos de patinetes de la serie z y considerando la velocidad máxima de 25 km/h impuesta a todos los modelo en Europa, este modelo es la mejor opción para quien quiere realizar trayectos largo por la ciudad.
 
@@ -153,14 +177,30 @@ Por el contrario, la necesidad de **revisar con frecuencia la presión de los ne
 </div>
 <div class="col">
 <div class="cons-header">Se debe mejorar</div>
-<div class="cons-item">Peso aumentado a 15 Kg. </div>
+<div class="cons-item">Peso aumentado a 15 Kg</div>
 <div class="cons-item">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
-<div class="cons-item">No tiene amortiguadores.</div>
+<div class="cons-item">No tiene amortiguadores</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Cecotec Bongo Serie A Advance Connected MAX
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio</a>
+
 </div>
 </div>
 
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
+
 ## **3- Xiaomi Mi Scooter Pro 2**
+
+![Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png "Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí")
 
 **Este modelo es una evolución del mítico Mi 365**, en el que se ha conservado y mejorado la durabilidad, facilidad de uso y diseño.
 
@@ -168,10 +208,13 @@ El **Xiaomi Mi Pro 2 tiene un precio justo debajo del promedio del mercad**o, qu
 
 Su **batería de 460 Wh de capacidad le da una autonomía en la vida real de hasta 23 kilómetros**, que aumenta a 45 kilómetros en condiciones óptimas de conducción.
 
+![Prueba y opinión - La excelente pantalla común de todos los patinetes Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945338/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Pantalla_qqtxew.jpg "Prueba y opinión - La excelente pantalla común de todos los patinetes Xiaomi")
+
 Además, está fabricado con materiales resistentes y cuenta con un diseño mejorado en comparación al Mi 365, incluyendo el **uso de neumáticos hinchables “tubeless”** que suavizan las vibraciones al andar en suelo irregular.
 
 Posee luz delantera y trasera, pantalla LCD y **conectividad con aplicación en dispositivo móvil**, lo que lo hace un equipo muy completo para andar por la ciudad.
 
+![Prueba y opinión - Más visible y seguro de noche gracias a los reflectores de este patinete Xiaomi Essential](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945343/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Reflectores_sgzxrt.jpg "Prueba y opinión - Más visible y seguro de noche gracias a los reflectores de este patinete Xiaomi Essential")
 ### **Opiniones del Xiaomi Mi Pro 2 en Amazon España**
 
 Los compradores del **Xiaomi Mi Pro 2 en Amazon España** han destacado la **potencia de su motor y una autonomía que le permite ir con confianza lejos de casa**.
@@ -201,6 +244,18 @@ Sin embargo, critican la **falta de amortiguación** y que la bisagra del manill
 <div class="cons-item">Requiere mucho tiempo para recargar batería</div>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
 <div class="cons-item">Mayor peso que otros modelos similares</div>
+</div>
+</div>
+
+<div class="row">
+<div class="col">
+<h3 class="rate">9/10</h3>
+</div>
+<div class="col">
+
+### Xiaomi Pro 2
+
+<a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio</a>
 </div>
 </div>
 
