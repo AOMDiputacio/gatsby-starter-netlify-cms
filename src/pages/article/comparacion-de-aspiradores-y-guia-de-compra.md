@@ -1,6 +1,6 @@
 ---
 dataKey: articles
-title: Todo lo que debes saber para escoger una nueva aspiradora - La guía definitiva
+title: Todo lo que debes saber para escoger tu nueva aspiradora - La guía definitiva
 cardTitle: Guia de compra de aspiradora
 description: Las aspiradoras son desde hace mucho tiempo uno de los
   electrdomésticos los más populares; la oferta es por lo tanto también
