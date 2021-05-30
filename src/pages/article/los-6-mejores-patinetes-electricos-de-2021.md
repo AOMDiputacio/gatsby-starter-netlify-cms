@@ -92,7 +92,6 @@ Este modelo ha sido bien recibido por los compradores, que resaltan su **mayor a
 
 También recibe opiniones positivas por sus neumáticos más grandes y amortiguación doble, que mejoran la experiencia al conducir largas distancias o por suelo irregular.
 
-+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
 ### Pros y contras
 
@@ -116,6 +115,7 @@ También recibe opiniones positivas por sus neumáticos más grandes y amortigua
 </div>
 </div>
 
++ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
 ## **2- Cecotec Bongo Serie A Advance Connected MAX**
 
@@ -137,9 +137,29 @@ La **autonomía y potencia del Bongo Advanced Connected MAX serie A** son las ca
 
 Por el contrario, la necesidad de **revisar con frecuencia la presión de los neumáticos hinchables sin cámara** es lo que más quejas genera en el público.
 
+
+
+### Pros y contras
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Excelente autonomía</div>
+<div class="pros-item">Excelente relación calidad precio</div>
+<div class="pros-item">Materiales excelentes y duraderos</div>
+<div class="pros-item">Comodidad de los neumáticos anti pinchazos que absorben las vibraciones</div>
+<div class="pros-item">Triple sistema de frenado</div>
+
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Peso aumentado a 15 Kg. </div>
+<div class="cons-item">Mantenimiento de los neumáticos (recomendamos revisar la presión 2 veces por semana o antes de su uso)</div>
+<div class="cons-item">No tiene amortiguadores.</div>
+</div>
+</div>
+
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
-
-
 ## **3- Xiaomi Mi Scooter Pro 2**
 
 **Este modelo es una evolución del mítico Mi 365**, en el que se ha conservado y mejorado la durabilidad, facilidad de uso y diseño.
@@ -160,8 +180,31 @@ Además **aprecian que en su caja venga una rueda de repuesto con su cámara hin
 
 Sin embargo, critican la **falta de amortiguación** y que la bisagra del manillar pierda firmeza con el uso, en un tiempo relativamente corto.
 
-+ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
+### Pros y contras
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Excelente autonomía</div>
+<div class="pros-item">Motor capaz de subir pendientes de 20º</div>
+<div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
+<div class="pros-item">Neumáticos con cámara de aire que absorben las vibraciones</div>
+<div class="pros-item">Freno motor con recuperación de energía de frenado</div>
+<div class="pros-item">Excelente freno manual de disco trasero</div>
+<div class="pros-item">Ideal para personas altas</div>
+
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">No posee amortiguación</div>
+<div class="cons-item">Requiere mucho tiempo para recargar batería</div>
+<div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
+<div class="cons-item">Mayor peso que otros modelos similares</div>
+</div>
+</div>
+
++ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
 ## **4-  Smartgyro Xtreme SpeedWay V2.0**
 
@@ -183,8 +226,31 @@ La **potencia, autonomía, atractivo diseño y excelente construcción son las c
 
 Las **principales quejas se relacionan con su peso de 22 kilogramos**, que lo hace complicado de llevar al momento de conmutar al transporte público o si debes subir escaleras con él.
 
-+ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
+### Pros y contras
 
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Impresionante potencia de motor y gran autonomía</div>
+<div class="pros-item">Neumáticos hinchables de gran tamaño que absorben muy bien las vibraciones del camino</div>
+<div class="pros-item">Pantalla muy completa y fácil de leer</div>
+<div class="pros-item">Excelente amplitud de reposapiés, forrado con material anti resbalante</div>
+<div class="pros-item">Luz delantera de gran intensidad y buena iluminación trasera y lateral</div>
+<div class="pros-item">Manubrio ancho de altura ajustable en tres posiciones</div>
+<div class="pros-item">Excelente amortiguación delantera y trasera con doble muelle y pistón de gas</div>
+
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Batería requiere hasta 7 horas para recargarse</div>
+<div class="cons-item">Peso de 22 kgs y un sistema de plegado incómodo lo hace difícil de guardar o llevarlo alzado en un tren, autobús o en el supermercado.</div>
+<div class="cons-item">Carece de conectividad con dispositivo móvil y aplicación</div>
+</div>
+</div>
+
++ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
 ## **5- KUGOO S1**
 
@@ -206,6 +272,24 @@ La buena calidad de sus materiales, así como la **sorprendente autonomía y pot
 
 Otros consideran que **sus pequeñas ruedas duras no son adecuadas para calles adoquinadas** como muchas que encontraremos en España.
 
+### Pros y contras
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Excelente velocidad y aceleración para su tamaño</div>
+<div class="pros-item">Carga de batería requiere poco tiempo</div>
+<div class="pros-item">Mantiene velocidad máxima hasta llegar a un 20% de carga restante de batería</div>
+<div class="pros-item">Amortiguación doble delantera y trasera muy efectiva</div>
+<div class="pros-item">Pantalla LCD amplia que permite configurar todas las opciones del patín</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Neumáticos sólidos y de pequeño diámetro afectan mucho la amortiguación en suelo irregular</div>
+<div class="cons-item">Guardabarros trasero no tiene refuerzo antigolpes</div>
+</div>
+</div>
+
 + [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
 
 ## **6- M Megawheels S1**
@@ -223,6 +307,26 @@ Pero ofrece lo que muchos buscan, un patinete resistente y de buena calidad que 
 Este **patinete eléctrico Megawheels ha sido visto como el regalo ideal para chicos** o adolescentes, pero también es buscado por adultos que desean **iniciarse en el tema de la movilidad eléctrica personal**.
 
 Su **buena construcción, rapidez y bajo precio compensa** de sobra el hecho de que no es un patinete veloz ni tiene una autonomía que permita alejarse mucho de casa.
+
+## Pros y contras
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Acelera muy rápido a pesar de su pequeño tamaño</div>
+<div class="pros-item">Batería se carga en poco tiempo</div>
+<div class="pros-item">Rueda sólidas de alta duración</div>
+<div class="pros-item">Manubrio de altura ajustable para niños y adultos</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Velocidad máxima muy baja  en comparación con otros modelos</div>
+<div class="cons-item">Batería  pequeña limita mucho su autonomía</div>
+<div class="cons-item">No posee pantalla de control</div>
+<div class="cons-item">Carece de luz frontal para conducir de noche</div>
+</div>
+</div>
 
 + [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
 
