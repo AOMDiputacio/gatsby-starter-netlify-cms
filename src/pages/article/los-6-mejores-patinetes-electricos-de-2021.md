@@ -12,9 +12,9 @@ date: 2021-05-30T09:54:13.615Z
 tags:
   - tag: guias
   - tag: patinetes-electricos
-image: /img/logo.png
-imageAlt: Barato, duradero y minimalista, el Kugoo S1 es uno de nuestros
-  patinetes eléctricos favoritos
+image: /img/guia-ultima-del-patinete.jpg
+imageAlt: Una honesta selección de los patinetes los más populares para que no
+  tengas que pensar demasiado
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
