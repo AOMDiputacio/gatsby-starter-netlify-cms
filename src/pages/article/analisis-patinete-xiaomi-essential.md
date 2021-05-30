@@ -13,7 +13,7 @@ tags:
 image: /img/mi-essential.jpg
 imageAlt: Prueba y opinión - Un precio pequeño por un patinete ligero
 relatedArticles:
-  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: guia-ultima-del-patinete-electrico
   - article: mejor-patinete-electrico-xiaomi
 ---
@@ -91,6 +91,9 @@ analisis-patinete-xiaomi-essential
 ## La versión liviana y bajo costo del S1 y del mítico Xiaomi M365
 
 * [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+
 
 A finales de 2020 la gigante china Xiaomi lanzó al mercado un nuevo modelo de scooter de gama económica con el que aspira superar a toda la competencia, el patinete eléctrico Mi Scooter Essential.
 
@@ -468,3 +471,5 @@ Recordemos que el patinete eléctrico Xiaomi Mi Essential es una versión nueva 
 * [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-megawheels-s1">Ver mejor precio del Megawheels S1</a>
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
