@@ -56,7 +56,7 @@ Desde entonces, numerosos fabricantes de equipos eléctricos de movilidad urbana
 
 Esto se puede apreciar en este gráfico:
 
-![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
+![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
 Asimismo, un patinete cuyo precio se encuentre por encima de la línea promedia se considerará caro, mientras se considerará relativamente barato si su precio se encuentra por debajo.
 
@@ -86,13 +86,13 @@ Además destaca la **durabilidad de la batería que puede soportar más de 1000 
 
 Cuenta con grandes **neumáticos rígidos de goma dura de 10 pulgadas y doble suspensión trasera**, ajustable para absorber las vibraciones al conducir por pisos irregulares. Sus cualidades se notan más cuando el usuario sobrepasa los 70 kilogramos de peso.
 
-![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
+![Análisis y prueba - Un sistema de doble amortiguación trasera](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Amortiguador_qymupv.png "Análisis y prueba - Un sistema de doble amortiguación trasera")
 
 Complementan las **características del Hiboy S2 Pro** un conjunto de extras como luces, una completa pantalla LCD y la **conectividad con teléfonos inteligentes.** Además, la calidad de su construcción es excepcional.
 
 ### **Opiniones de los compradores del Hiboy S2 Pro en Amazon España**
 
-![Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945621/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Pantalla-Manillar_byugtb.png "Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada")
+![Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945621/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Pantalla-Manillar_byugtb.png "Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada")
 
 Este modelo ha sido bien recibido por los compradores, que resaltan su **mayor autonomía y velocidad en comparación con el modelo S2 básico** y su gran rival, el Xiaomi mi electric scooter Mi M365.
 
@@ -143,7 +143,7 @@ El **Cecotec Bongo Serie A Advance Connected MAX es otro modelo que ha tenido gr
 
 Su gran **batería intercambiable de Li-ion de 460 Wh le da a este patinete eléctrico Cecotec una autonomía en la vida real de 23 kilómetros**, que aumenta hasta los 40 kilómetros si conduces en condiciones ideales de piso plano, sin cuestas y a velocidad baja.
 
-![Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945861/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Pantalla_j34sbc.jpg "Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche")
+![Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945861/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Pantalla_j34sbc.jpg "Prueba y opinión - Una pantalla completa y facíl de leeer de día como de noche")
 
 Esta **batería destaca por ser removible y soportar más de 500 ciclos de carga sin perder capacidad.** Llevar una segunda batería a mano permite duplicar la autonomía del patinete, aunque se debe considerar el hecho de que no es precisamente barata.
 
@@ -151,7 +151,7 @@ Sus **neumáticos hinchables sin cámara de aire (tubeless)** absorben muy bien 
 
 Por último, **destaca la buena construcción de su estructura plegable (sin ser sobresaliente)** y la calidad de los accesorios y extras, que incluyen pantalla LCD, luces y **aplicación para controlarlo desde un dispositivo móvil**.
 
-![Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945870/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Plegable_fjzvd4.jpg "Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable")
+![Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945870/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Plegable_fjzvd4.jpg "Prueba y opinión - Un patinete eléctrico más pesado que el promedio pero facilmente plegable y transportable")
 
 Más ligero y barato que los tipos de patinetes de la serie z y considerando la velocidad máxima de 25 km/h impuesta a todos los modelo en Europa, este modelo es la mejor opción para quien quiere realizar trayectos largo por la ciudad.
 
@@ -327,17 +327,17 @@ Las **principales quejas se relacionan con su peso de 22 kilogramos**, que lo ha
 
 ## **5- KUGOO S1**
 
-![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
+![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
 
 El **patinete eléctrico KUGOOo S1 es perfecto para quienes buscan un equipo sencillo pero potente** y con buena autonomía.
 
 Con un precio promedio de 270 euros, se trata de un **patinete hecho para desplazamientos cortos**, sin refinamientos tecnológicos, pero **capaz de llevarte cómodamente a todas partes gracias a su doble suspensión delantera y trasera**.
 
-![Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945475/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plegado2_b70aa3.jpg "Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía")
+![Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945475/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plegado2_b70aa3.jpg "Análisis y prueba - Un patinete eléctrico ligero y fácil de transportar a pesar de su alta autonomía")
 
 Además, su **motor de 350W de potencia puede responder a cualquier tipo de exigencias** y sus ruedas rígidas están hechas para aferrarse al camino en cualquier condición.
 
-![Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plataforma-pies_nlwuwt.jpg "Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento")
+![Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945472/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Plataforma-pies_nlwuwt.jpg "Análisis y prueba - Un patinete confortable con amortiguación delantera y trasera y neumáticos rígidos sin mantenimiento")
 
 El **patinete KUGOO S1** es de los pocos que equipa luces led **delanteras con suficiente potencia para alumbrar el camino de noche**.
 
@@ -403,6 +403,8 @@ Pero ofrece lo que muchos buscan, un patinete resistente y de buena calidad que 
 ### **Opiniones de los compradores del Megawheels S1 en Amazon España**
 
 Este **patinete eléctrico Megawheels ha sido visto como el regalo ideal para chicos** o adolescentes, pero también es buscado por adultos que desean **iniciarse en el tema de la movilidad eléctrica personal**.
+
+![Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Ride-Familia_vpcije.jpg "Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos")
 
 Su **buena construcción, rapidez y bajo precio compensa** de sobra el hecho de que no es un patinete veloz ni tiene una autonomía que permita alejarse mucho de casa.
 
