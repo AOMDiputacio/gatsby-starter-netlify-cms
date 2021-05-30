@@ -3,7 +3,8 @@ dataKey: articles
 title: "Opinión: el patinete Hiboy S2 Pro - una referencia"
 cardTitle: Hiboy S2 Pro
 description: "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía,
-  potencia y una batería que durará mucho"
+  potencia y una batería que durará mucho; es otro de los mejores patinetes
+  eléctricos del momento."
 slug: analisis-patinete-electrico-hiboy-s-2-pro
 date: 2021-05-07T10:12:47.613Z
 tags:
@@ -15,7 +16,7 @@ imageAlt: Prueba y opinión - Un patinete confortable para manejar en todos tipo
 relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
-  - article: futuro-de-la-movilidad-urbana
+  - article: Los-6-mejores-patinetes-electricos-de-2021
 ---
 </script>
 <script type="application/ld+json">
@@ -137,6 +138,10 @@ analisis-patinete-electrico-hiboy-s-2-pro
 ## Patinete eléctrico Hiboy S2 Pro: Autonomía, potencia y resistencia
 
 + [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+
+
 
 **Hiboy responde a sus rivales con un equipo potente y de largo alcance**
 
@@ -508,3 +513,5 @@ Si consideramos sus amortiguadores y su construcción robusta con ruedas macizas
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
