@@ -15,6 +15,10 @@ tags:
 image: /img/logo.png
 imageAlt: Barato, duradero y minimalista, el Kugoo S1 es uno de nuestros
   patinetes eléctricos favoritos
+relatedArticles:
+  - article: guia-ultima-del-patinete-electrico
+  - article: base-de -datos-de-todos-patinetes-electricos-analizados
+  - article: futuro-de-la-movilidad-urbana
 ---
 <!--
 
