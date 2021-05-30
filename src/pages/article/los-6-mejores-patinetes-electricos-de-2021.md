@@ -336,24 +336,16 @@ Si te has decidido a **comprar tu primer patinete eléctrico** hay varias caract
 
 Sin duda, el **precio es el primer factor, pero no el único, por el cual debes guiarte para elegir tu nuevo patinete eléctrico**. Otros factores de peso son:
 
-```
+
 1. Capacidad de la batería
-
 2. Potencia del motor
-
 3. Tamaño y peso del patinete
-
 4. Diseño y ergonomía
-
 5. Pantalla o sistema de control
-
 6. Conectividad con dispositivos móviles
-```
-
 7. Luces, reflectores y extras
-
-   8. Calidad de manejo
-   9. Opiniones de compradores en Amazon
+8. Calidad de manejo
+9. Opiniones de compradores en Amazon
 
 Todas **estas características influyen en el precio final del patinete y en la calidad de la experiencia** que tendrás al usarlo.
 
