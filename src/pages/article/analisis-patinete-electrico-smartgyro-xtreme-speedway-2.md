@@ -252,7 +252,7 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 
 <div class="row">
 <div class="col">
-<div class="pros-header">Pros</div>
+<div class="pros-header">Nos gustó</div>
 <div class="pros-item">Impresionante potencia de motor y gran autonomía</div>
 <div class="pros-item">Neumáticos hinchables de gran tamaño que absorben muy bien las vibraciones del camino</div>
 <div class="pros-item">Pantalla muy completa y fácil de leer</div>
@@ -263,7 +263,7 @@ Por lo tanto, el patinete eléctrico Smartgyro Xtreme Speedway V2.0 es **perfect
 
 </div>
 <div class="col">
-<div class="cons-header">Contras</div>
+<div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Batería requiere hasta 7 horas para recargarse</div>
 <div class="cons-item">Peso de 22 kgs y un sistema de plegado incómodo lo hace difícil de guardar o llevarlo alzado en un tren, autobús o en el supermercado.</div>
 <div class="cons-item">Carece de conectividad con dispositivo móvil y aplicación</div>
