@@ -2,8 +2,9 @@
 dataKey: articles
 title: Elige tu patinete eléctrico con tan solo un grafico - Guía completa de compra
 cardTitle: La guía última del patinete eléctrico
-description: Te traemos nuestra guía de consejos para quienes buscan comprar un
-  patinete eléctrico y no saben cómo elegir
+description: Comparamos exhaustivamente todos los patinetes eléctricos más
+  populares en España y determinamos cuales valen la pena y porqué; te
+  explicamos además con precisión como lo hacemos!
 slug: guia-ultima-del-patinete-electrico
 date: 2021-04-16T15:21:18.940Z
 tags:
@@ -16,7 +17,7 @@ imageAlt: "Pasamos a la lupa todos los mejores patinetes elécricos más vendido
   Hiboy S2 Lite, Hiboy S2, Hiboy S2 Pro, Hiboy MAX V2, Kugoo S1, MEGAWHEELS S1
   Adulto y niño, Xiaomi Mi Essential, Xiaomi Mi 1S, Xiaomi Mi PRO 2"
 relatedArticles:
-  - article: futuro-de-la-movilidad-urbana
+  - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: mejor-patinete-electrico-xiaomi
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
 ---
@@ -142,6 +143,8 @@ Te traemos nuestra guía de consejos para quienes buscan comprar un patinete el�
 
 * [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+
 Tanto el COVID-19 como la transición verde **han cambiado para siempre la forma en que entendemos y vivimos la movilidad urbana**. Comprar un patinete eléctrico es ahora tan normal como alguna vez lo fue adquirir un vehículo. ¡Solo que este medio de transporte es uno de los más baratos que existe!
 
 De hecho, los automóviles pesados, peligrosos, voluminosos y contaminantes pronto darán paso a **medios de transporte más seguros y sostenibles**. **Las calles volverán a ser de los peatones** y veremos una masificación de los medios de **transporte poco invasivos como los patinetes y las bicicletas eléctricas ligeros**.
@@ -211,6 +214,8 @@ Además, quedó a la vista que los precios de venta de más de la mitad de los p
 Una forma esquemática de explicar esto sería decir que un patinete sin batería cuesta hipotéticamente unos 138 euros y que su precio aumentará unos 76 euros por cada 100 Wh de capacidad adicional que tenga su batería.
 
 * Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
 
 ### ¿Cómo se agruparon los modelos para este análisis?
 
@@ -941,3 +946,5 @@ Además de la norma de la DGT, **algunos gobiernos autónomos y ayuntamientos es
 **Solo podrán circular a una velocidad máxima de 5 kilómetros por hora (paso de persona) por las calles residenciales o aceras que estén señalizadas para el caso**
 
 **Los patinetes ligeros pueden utilizar los carriles bici, ciclovías y otras vías destinadas a las bicicletas, pero la regulación de uso dependerá en muchos casos de los ayuntamientos respectivos**
+
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
