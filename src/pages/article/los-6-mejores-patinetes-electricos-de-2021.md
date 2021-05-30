@@ -263,15 +263,21 @@ Sin embargo, critican la **falta de amortiguación** y que la bisagra del manill
 
 ## **4-  Smartgyro Xtreme SpeedWay V2.0**
 
+<img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-perspectiva_wpur3s.jpg" alt= "Prueba y opinión - EL más refinado">
+
 Con sus 22 kilogramos, **este scooter eléctrico Smartgyro es el más pesado de esta selección**, pero también el que proporciona prestaciones de gama alta gracias a su **motor de 500W capaz de ofrecer picos de potencia de hasta 700W.**
 
 Además, gracias a la **combinación única de amortiguadores hidráulicos y ruedas hinchables** este patinete fabricado por la empresa española Smartgyro anda con suavidad por todo tipo de superficies.
 
 Y a pesar de su peso, **tiene una autonomía de 25 a 45 kilómetros, según del modo de conducción** aplicado.
 
-Aunque no posee conectividad con aplicación móvil, s**u pantalla de control es una de las más completas** y mejor elaboradas de la gama.
+Aunque no posee conectividad con aplicación móvil, **su pantalla de control es una de las más completas** y mejor elaboradas de la gama.
+
+![Prueba y opinión - Este patinete eléctrico cuenta con una pantalla extremadamente completa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1620291911/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-pantalla_lfo3er.jpg "Prueba y opinión - Este patinete eléctrico cuenta con una pantalla extremadamente completa")
 
 Resalta también su excelente calidad de construcción y un **diseño futurista muy bien logrado y claramente diferente al del resto de patinetes** con los que compite, que en general se asemejan al original Xiaomi Mi 365.
+
+![Prueba y opinión - Una base maciza y pesada pero con mucha tecnología](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-base_dxwzo4.jpg "Prueba y opinión - Una base maciza y pesada pero con mucha tecnología")
 
 **Todo esto justifica su precio de 550 euros** que lo hace competitivo con equipos menos potentes y no tan bien diseñados como este.
 
