@@ -48,6 +48,8 @@ De hecho, se considera que la masificación del uso de los VMP (incluyendo los p
 
 Antes de seguir, recordemos que el **boom de los patinetes eléctricos en Europa comenzó con el lanzamiento del modelo Xiaomi 365** en el año 2017.
 
+![Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946033/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Ride2_gmpokh.jpg "Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad")
+
 Desde entonces, numerosos fabricantes de equipos eléctricos de movilidad urbana personal han lanzado modelos que tratan de superar, o al menos igualar, el éxito de este monopatín que tanta alegría trajo a adultos y jóvenes en el mundo.
 
 ## **Una metodología rigurosa basada en la relación calidad precio**
@@ -463,6 +465,8 @@ Todas **estas características influyen en el precio final del patinete y en la 
 
 ## **La batería, la fuente de vida de tu patinete**
 
+![Análisis y opinión - Un motor trasero y una batería compacta](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945531/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Bateria-Motor_lcgwwc.jpg "Análisis y opinión - Un motor trasero y una batería compacta")
+
 La **batería puede representar la mitad del costo de fabricación de un patinete eléctrico.** Pero para el consumidor final este elemento puede convertirse en uno de los más costosos a mediano y largo plazo.
 
 Hay dos cosas a tomar en cuenta sobre las baterías: **tienen un tiempo de vida limitado** y su **capacidad de carga máxima varía mucho de un modelo a otro**.
@@ -476,6 +480,9 @@ Si eres de los que piensas usar el patinete con mucha frecuencia, deberás carga
 Por lo tanto, antes de comprar un patinete **debes tener en cuenta la durabilidad de su batería y el costo de reemplazarla**.
 
 ### **La capacidad de la batería, el dato que pocos toman en cuenta**
+
+![Análisis y prueba - La batería Xiaomi con más capacidad y 500 ciclos de carga](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945343/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Bateria_joz3el.jpg "Análisis y prueba - La batería Xiaomi con más capacidad y 500 ciclos de carga")
+
 
 La capacidad de la batería es la **cantidad de energía que puede almacenar al cargarse** y entregar luego de forma constante al motor eléctrico.
 
@@ -501,6 +508,9 @@ En este caso, es conveniente que revises la opinión de otros compradores en Ama
 
 ### **El peso de la batería y la posibilidad de extraerla**
 
+![Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946025/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Cambio-Bater%C3%ADa_r7fuz8.jpg "Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes")
+
+
 Las **baterías pueden sumarle 1,5 a 2 kilogramos de peso al patinet**e. Esto significa que **el peso de la batería** afectará la comodidad que tengamos al llevar el patinete plegado al abordar un transporte público, nuestro coche o subir escaleras.
 
 Por otra parte, una **característica conveniente en los patinetes es que usen baterías removibles**. Su ventaja es que **puedes comprar una segunda batería y cambiarla en el camino cuando la primera se agot**e, duplicando la autonomía de tu patinete.
@@ -508,6 +518,8 @@ Por otra parte, una **característica conveniente en los patinetes es que usen b
 **Poseer dos baterías también permite duplicar la vida útil de cada una**, pues se reduce a la mitad la cantidad de veces que las deberás recargar. En todo caso, recuerda que no son baratas, pues una unidad de 270 Wh puede costar unos 150 euros en España.
 
 ## **La potencia del motor ¿cuánto es suficiente?**
+
+![Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945757/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Motor_ponxt0.jpg "Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado")
 
 La **mayoría de modelos de patinetes eléctricos ligeros usan motores de 350W** de potencia nominal, pero **en la vida real un motor de 250W es más que suficiente** para hacer recorridos urbanos a una velocidad moderada.
 
@@ -517,13 +529,18 @@ Entonces ¿la potencia no importa? Pues en realidad si. Pero no para correr sino
 
 Un **motor potente responde mejor a la exigencia de llevar un usuario de mayor peso corporal** o al tener que acelerar rápidamente al conducir entre tráfico pesado.
 
+![Análisis y prueba - Un potente motor de 350 W para subir cualquier cuesta con facilidad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945873/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Subida_zardhc.jpg "Análisis y prueba - Un potente motor de 350 W para subir cualquier cuesta con facilidad")
+
 Es importante revisar cuáles son los **modos de conducción que ofrecen los diferentes modelos**. Estos modos son combinaciones de potencia, velocidad y autonomía que se pueden seleccionar para enfrentar distintas condiciones en el camino.
 
 Otro aspecto a considerar es la tecnología del motor. Los **motores sin escobillas o “brushless” son los más recomendados porque no requieren casi mantenimiento** y son muy duraderos.
 
 ## **Tamaño, peso y robustez del cuadro**
 
-Los **mejores fabricantes de patinetes eléctricos utilizan aluminio aeronáutico en sus cuadro**s, para hacerlos más resistentes y a la vez más livianos.
+
+![Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg "Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado")
+
+Los **mejores fabricantes de patinetes eléctricos utilizan aluminio aeronáutico en sus cuadros**, para hacerlos más resistentes y a la vez más livianos.
 
 Todos los modelos que hemos revisado poseen un cuadro o chasis fabricado con aluminio, combinado con piezas de acero inoxidable o elementos plásticos.
 
@@ -535,9 +552,13 @@ Recuerda que usar un patinete muy cerca de su capacidad máxima puede llevar a q
 
 Otra cosa que debes revisar **cuál es el sistema de plegado que utiliza el patinete eléctrico de tu interés,** pues de ello dependerá la facilidad con la que puedas guardarlo en casa o transportarlo alzado a mano.
 
+
+
 Los **mejores modelos se pliegan en 3 segundos** pulsando un botón para doblar su manubrio hacia atrás y dejarlo fijo con un mecanismo de enganche.
 
 ## **Pantalla, conectividad y luces: comodidad y seguridad en todo momento**
+
+![Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-Pantalla_t721lb.jpg "Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación")
 
 Como cualquier otro vehículo que circule por las vías, un **patinete eléctrico debe ser visible para los peatones y conductores**.
 
@@ -545,11 +566,15 @@ Para ello, debe tener una adecuada **iluminación activa y pasiva**, algo muy im
 
 De hecho, la **ley española exige tener algún tipo de iluminación** para poder circular por las calles. Revisa la potencia del faro delantero y la presencia (o ausencia) de reflectores laterales, luz de freno y otros medios luminosos.
 
+![Análisis y prueba - Un alumbrado que permite ser visto de noche pero que no para alumbrar la calle](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Luces_wkcvg9.jpg "Análisis y prueba - Un alumbrado que permite ser visto de noche pero que no para alumbrar la calle")
+
 Te advertimos que la **gama de patinetes ligeros no suelen tener luces muy potentes**, sino apenas suficientes para **hacerse notar en un ambiente urbano ya iluminado**.
 
 De los seis modelos que mencionamos en esa guía, el Megawheels carece de faro delantero mientras que el **KUGOO S1 es el único que ostenta una luz delantera adecuada para transitar de noche** por calles oscuras.
 
 ### **Pantalla y conectividad: Ten control sobre las funciones del patinete**
+
+![Análisis y prueba - Una aplicación Hiboy completa e intuitiva](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Regenerative-App_dzeyf2.jpg "Análisis y prueba - Una aplicación Hiboy completa e intuitiva")
 
 En un mundo cada vez más conectado, los patinetes no podían ser la excepción. Los modelos actuales **se pueden enlazar por vía bluetooth con un dispositivo móvil** en el que instalaremos una aplicación especial.
 
@@ -565,7 +590,9 @@ Los patinetes eléctricos pueden recorrer largas distancias y por ello hay que c
 
 La **mayoría de modelos analizados usan ruedas de 8,5 pulgadas** pero estas pueden ser tanto rígidas como de cámara hinchable.
 
-Los n**eumáticos hinchables ofrecen más comodidad al andar por piso irregular**, sobre todo en los modelos que no tienen amortiguación. En este rango se ofrecen neumáticos sin cámara o “tubeless” que son menos propensos a los pinchazos pero requieren ser inflados con más frecuencias que los que usan cámara.
+Los **neumáticos hinchables ofrecen más comodidad al andar por piso irregular**, sobre todo en los modelos que no tienen amortiguación. En este rango se ofrecen neumáticos sin cámara o “tubeless” que son menos propensos a los pinchazos pero requieren ser inflados con más frecuencias que los que usan cámara.
+
+![Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945942/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Neumatico-Tubeless_gjgywy.jpg "Análisis y prueba - Los neumaticos tubeless antipinchazos sin Cámara de aire de Cecotec que absorben las vibraciones")
 
 Por su parte los **neumáticos de goma dura no requieren mantenimiento** pero a cambio dejan sentir más vibraciones al pasar por suelo irregular.
 
@@ -573,13 +600,17 @@ Para compensar esto, los patinetes con ruedas de goma dura suelen venir con amor
 
 En cuanto a la frenada, la tendencia es usar **sistemas que combinan un sistema de frenado trasero y otro eléctrico.** El primero se ubica en la rueda trasera y el otro en la delantera, donde está el motor.
 
-- - -
 
 En los modelos más caros el sistema de **frenos de motor o eléctrico actúa como un dinamo que recarga parcialmente la batería** cuando se activa.
+
+![Análisis y prueba - El sistema de frenado con recuperación de energía Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945343/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Recuperacion-energia_p3ycp5.jpg "Análisis y prueba - El sistema de frenado con recuperación de energía Xiaomi")
 
 Marcas como **Cecotec, Hiboy y Xiaomi cuentan con freno eléctrico delantero de potencia ajustable**, que convierte un 30% de la energía de frenado en electricidad para recargar la batería.
 
 Estas mismas marcas también instalan **frenos de disco traseros con tecnología antibloqueo**, que evita que la rueda pierda agarre con el piso al frenar con fuerza.
+
+![Prueba y opinión - El freno de disco trasero antibloqueo de este patinete eléctrico permite una frenada gradual y potente](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945407/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Freno-trasero_bnqpqu.jpg "Prueba y opinión - El freno de disco trasero antibloqueo de este patinete eléctrico permite una frenada gradual y potente")
+
 
 En algunos modelos más sencillos encontrarás un “freno de pedal” ubicado en el guardabarros trasero. Al pisar este guardabarros, el mismo hace fricción sobre la rueda y frena su giro.
 
@@ -599,7 +630,7 @@ Además, los patinetes se deben usar “de pie”, por lo que **no se les puede 
 
 La norma señala que cualquier scooter que pueda desarrollar una velocidad mayor a 25 kilómetros por hora o al que se le coloque un sillín **será considerado como un ciclomotor**.
 
-En este caso, **su dueño deberá pagar derechos de matriculación, seguro y otras exigencia**s reservadas a los vehículos de mayor tamaño.
+En este caso, **su dueño deberá pagar derechos de matriculación, seguro y otras exigencias** reservadas a los vehículos de mayor tamaño.
 
 ### **Clasificación de los patinetes eléctricos en España**
 
