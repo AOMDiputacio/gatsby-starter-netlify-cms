@@ -281,7 +281,7 @@ Regulador de velocidad</td>
 
 <div class="row">
 <div class="col">
-<div class="pros-header">Pros</div>
+<div class="pros-header">Nos gustó</div>
 <div class="pros-item">Excelente autonomía</div>
 <div class="pros-item">Motor capaz de subir pendientes de 20º</div>
 <div class="pros-item">Cuadro ligero de alta resistencia a base de aluminio de aviación</div>
@@ -292,7 +292,7 @@ Regulador de velocidad</td>
 
 </div>
 <div class="col">
-<div class="cons-header">Contras</div>
+<div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">No posee amortiguación</div>
 <div class="cons-item">Requiere mucho tiempo para recargar batería</div>
 <div class="cons-item">Precio más alto que las otras opciones de Xiaomi</div>
