@@ -86,7 +86,7 @@ ciudad sostenible definicion
 # ¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano
 # El Futuro de la Movilidad Urbana
 
-![Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
+![Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945624/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Ride_zpjtxa.jpg "Prueba y opinión - Un patinete confortable para manejar en todos tipos de terreno")
 
 -->
 
@@ -182,7 +182,7 @@ Como verás, tu salud y el planeta, son los grandes beneficiados de caminar y ut
 
 
 
-![Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946033/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Ride2_gmpokh.jpg "Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad")
+![Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946033/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Ride2_gmpokh.jpg "Análisis y opinión - Hemos probado por tí este patinete asequible que te permite desplazarte rápidamente por toda la ciudad")
 
 Este tipo de vehículos eléctricos popularizado sobre todo por la marca asiática Xiaomi y su famoso Mi365 se caracteriza por su **facilidad para plegarlo y llevarlo a cualquier lado, así como por su facultad para llevarte a ti, sin tener que soportar los atascos y la multitud en los transportes públicos**. Este tipo de VMP te puede transportar sobre distancias de hasta 30 km con una batería que recargas en 5 horas. 
 
@@ -190,7 +190,7 @@ Este tipo de vehículos eléctricos popularizado sobre todo por la marca asiáti
 
 #### ¿Cuáles son las ventajas de utilizar Patinetes eléctricos?
 
-![Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Ride-Familia_vpcije.jpg "Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos")
+![Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Ride-Familia_vpcije.jpg "Análisis y opinión - Un patinete eléctrico polivalente adaptado a los niños, los adolescentes e incluso los adultos")
 
 Además de las antes mencionadas, un patinete eléctrico o monopatín:
 
@@ -207,7 +207,7 @@ Además de las antes mencionadas, un patinete eléctrico o monopatín:
   
 * Hay algunos que soportan pequeñas lloviznas, pero **no puedes exponerlo a las fuertes lluvias**.
 
-![Prueba y opinión - Un precio pequeño por un patinete ligero](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945408/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Lifestyle3_wwxg99.jpg "Prueba y opinión - Un precio pequeño por un patinete ligero")
+![Prueba y opinión - Un precio pequeño por un patinete ligero](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945408/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Lifestyle3_wwxg99.jpg "Prueba y opinión - Un precio pequeño por un patinete ligero")
 
 + [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
 
