@@ -52,7 +52,7 @@ Antes de seguir, recordemos que el **boom de los patinetes eléctricos en Europa
 
 Desde entonces, numerosos fabricantes de equipos eléctricos de movilidad urbana personal han lanzado modelos que tratan de superar, o al menos igualar, el éxito de este monopatín que tanta alegría trajo a adultos y jóvenes en el mundo.
 
-## **Una metodología rigurosa basada en la relación calidad precio**
+## Una metodología rigurosa basada en la relación calidad precio
 
  Hemos descubierto que existe entre los patinetes más vendidos en España una relación bastante fuerte entre el precio de un patinete y la capacidad de su batería.
 
@@ -68,7 +68,7 @@ Por lo contrario, si debemos considerar que un patinete es barato, cabe asegurar
 
 Nuestra selección de scooters eléctricos se basa en la explotación de esta metodología.
 
-## **Conoce los 6 mejores patinetes del año 2021**
+## Conoce los 6 mejores patinetes del año 2021
 
 Si estás buscando tu primer patinete, seguro te confundirá la gran variedad de modelos disponibles hoy en día.
 
@@ -76,7 +76,7 @@ Hemos seleccionado los **seis patinetes eléctricos más vendidos en España en 
 
 Se trata tanto de productos hechos por empresas chinas como españolas, lo que refleja la férrea competencia que existe hoy en día en nuestro mercado.
 
-## **1- Hiboy S2 Pro**
+## 1- Hiboy S2 Pro
 
 <img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945618/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Perspectiva_qxnxsr.jpg" alt= "Análisis y opinión - Un patinete eléctrico bien pensado y de buena confección">
 
@@ -92,7 +92,7 @@ Cuenta con grandes **neumáticos rígidos de goma dura de 10 pulgadas y doble su
 
 Complementan las **características del Hiboy S2 Pro** un conjunto de extras como luces, una completa pantalla LCD y la **conectividad con teléfonos inteligentes.** Además, la calidad de su construcción es excepcional.
 
-### **Opiniones de los compradores del Hiboy S2 Pro en Amazon España**
+### Opiniones de los compradores del Hiboy S2 Pro en Amazon España
 
 ![Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945621/Patinetes-electricos/Patinete-Hiboy-S2-Pro/Patinete-Electrico-Hiboy-S2-Pro-Pantalla-Manillar_byugtb.png "Análisis y prueba - Un manillar ergonomico y una pantalla legible, completa y bien diseñada")
 
@@ -137,7 +137,7 @@ También recibe opiniones positivas por sus neumáticos más grandes y amortigua
 
 + [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
 
-## **2- Cecotec Bongo Serie A Advance Connected MAX**
+## 2- Cecotec Bongo Serie A Advance Connected MAX
 
 ![Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec](https://res.cloudinary.com/aom/image/upload/c_scale,w_400/v1619945858/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A-Advance-Connected-MAX/Patinete-electrico-Cecotec-Bongo-Serie-A-Advance-Max-Perspectiva_xfxlyc.png "Prueba y opinión - Hemos probado por tí el excelente Advance Connected MAX de Cecotec")
 
@@ -157,7 +157,7 @@ Por último, **destaca la buena construcción de su estructura plegable (sin ser
 
 Más ligero y barato que los tipos de patinetes de la serie z y considerando la velocidad máxima de 25 km/h impuesta a todos los modelo en Europa, este modelo es la mejor opción para quien quiere realizar trayectos largo por la ciudad.
 
-### **Opiniones en Amazon sobre el Bongo Advanced Connecter MAX serie A**
+### Opiniones en Amazon sobre el Bongo Advanced Connecter MAX serie A
 
 La **autonomía y potencia del Bongo Advanced Connected MAX serie A** son las características que más elogian los compradores en Amazon España.
 
@@ -200,7 +200,7 @@ Por el contrario, la necesidad de **revisar con frecuencia la presión de los ne
 
 + [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
 
-## **3- Xiaomi Mi Scooter Pro 2**
+## 3- Xiaomi Mi Scooter Pro 2
 
 ![Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945341/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2_ezkca4.png "Análisis y opinión - Nuestra opinión honesta sobre este patinete Xiaomi que hemos analizado para tí")
 
@@ -217,7 +217,7 @@ Además, está fabricado con materiales resistentes y cuenta con un diseño mejo
 Posee luz delantera y trasera, pantalla LCD y **conectividad con aplicación en dispositivo móvil**, lo que lo hace un equipo muy completo para andar por la ciudad.
 
 ![Prueba y opinión - Más visible y seguro de noche gracias a los reflectores de este patinete Xiaomi Essential](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945343/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Reflectores_sgzxrt.jpg "Prueba y opinión - Más visible y seguro de noche gracias a los reflectores de este patinete Xiaomi Essential")
-### **Opiniones del Xiaomi Mi Pro 2 en Amazon España**
+### Opiniones del Xiaomi Mi Pro 2 en Amazon España
 
 Los compradores del **Xiaomi Mi Pro 2 en Amazon España** han destacado la **potencia de su motor y una autonomía que le permite ir con confianza lejos de casa**.
 
@@ -263,7 +263,7 @@ Sin embargo, critican la **falta de amortiguación** y que la bisagra del manill
 
 + [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
 
-## **4-  Smartgyro Xtreme SpeedWay V2.0**
+## 4-  Smartgyro Xtreme SpeedWay V2.0
 
 <img src="https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1620291912/Patinetes-electricos/Patinete-Smartgyro-Speedway-V2/patinete-electrico-smartgyro-speedway-v2-perspectiva_wpur3s.jpg" alt= "Prueba y opinión - EL más refinado">
 
@@ -283,7 +283,7 @@ Resalta también su excelente calidad de construcción y un **diseño futurista 
 
 **Todo esto justifica su precio de 550 euros** que lo hace competitivo con equipos menos potentes y no tan bien diseñados como este.
 
-### **Opiniones sobre el Smargyro Xtreme Speedway V2.0 en Amazon España**
+### Opiniones sobre el Smargyro Xtreme Speedway V2.0 en Amazon España
 
 La **potencia, autonomía, atractivo diseño y excelente construcción son las cualidades más reconocidas** por los compradores de este patinete eléctrico Smartgyro en Amazon España.
 
@@ -327,7 +327,7 @@ Las **principales quejas se relacionan con su peso de 22 kilogramos**, que lo ha
 
 + [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
 
-## **5- KUGOO S1**
+## 5- KUGOO S1
 
 ![Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-delantero_hojoek.jpg "Análisis y opinión - El unico faro en esta categoría de patinetes eléctricos capaz de alumbrar la calle de noche")
 
@@ -346,7 +346,8 @@ El **patinete KUGOO S1** es de los pocos que equipa luces led **delanteras con s
 Y aunque no cuenta con conectividad a dispositivos móviles, **posee en cambio una amplia pantalla que permite configurar fácilmente todas las funciones** de este patín.
 
 ![Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-Pantalla_t721lb.jpg "Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación")
-### **Opiniones en Amazon sobre el KUGOO S1**
+
+### Opiniones en Amazon sobre el KUGOO S1
 
 Los **compradores del KUGOO S1 en Amazon España** aprecian mucho la **cantidad de características que ofrece por un precio mucho menor** que el de modelos superiores de la competencia.
 
@@ -386,7 +387,7 @@ Otros consideran que **sus pequeñas ruedas duras no son adecuadas para calles a
 
 + [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
 
-## **6- M Megawheels S1**
+## 6- M Megawheels S1
 
 ![Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945537/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Plagable2_jboen1.jpg "Análisis y prueba - Un modelo muy ligero, plegable y el más fácil de transportar")
 
@@ -402,7 +403,7 @@ Pero ofrece lo que muchos buscan, un patinete resistente y de buena calidad que 
 
 ![Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945535/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Luz-Trasera_spwlzf.jpg "Análisis y opinión - Una luz trasera de frenada; para ser visto de noche requiere de un faro externo adicional")
 
-### **Opiniones de los compradores del Megawheels S1 en Amazon España**
+### Opiniones de los compradores del Megawheels S1 en Amazon España
 
 Este **patinete eléctrico Megawheels ha sido visto como el regalo ideal para chicos** o adolescentes, pero también es buscado por adultos que desean **iniciarse en el tema de la movilidad eléctrica personal**.
 
@@ -444,7 +445,7 @@ Su **buena construcción, rapidez y bajo precio compensa** de sobra el hecho de 
 
 + [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
 
-## **¿Piensas comprar un patinete eléctrico? ¡Sigue nuestra guía de compra!**
+## ¿Piensas comprar un patinete eléctrico? ¡Sigue nuestra guía de compra!
 
 Si te has decidido a **comprar tu primer patinete eléctrico** hay varias características técnicas en las que debes fijarte para elegir el que mejor se adapte a lo que deseas y sobre todo, a lo que realmente necesitas.
 
@@ -463,7 +464,7 @@ Sin duda, el **precio es el primer factor, pero no el único, por el cual debes 
 
 Todas **estas características influyen en el precio final del patinete y en la calidad de la experiencia** que tendrás al usarlo.
 
-## **La batería, la fuente de vida de tu patinete**
+## La batería, la fuente de vida de tu patinete
 
 ![Análisis y opinión - Un motor trasero y una batería compacta](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945531/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Bateria-Motor_lcgwwc.jpg "Análisis y opinión - Un motor trasero y una batería compacta")
 
@@ -479,7 +480,7 @@ Si eres de los que piensas usar el patinete con mucha frecuencia, deberás carga
 
 Por lo tanto, antes de comprar un patinete **debes tener en cuenta la durabilidad de su batería y el costo de reemplazarla**.
 
-### **La capacidad de la batería, el dato que pocos toman en cuenta**
+### La capacidad de la batería, el dato que pocos toman en cuenta
 
 ![Análisis y prueba - La batería Xiaomi con más capacidad y 500 ciclos de carga](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945343/Patinetes-electricos/Patinete-Xiaomi-Pro2/Patinete-electrico-Xiaomi-Pro2-Bateria_joz3el.jpg "Análisis y prueba - La batería Xiaomi con más capacidad y 500 ciclos de carga")
 
@@ -496,7 +497,7 @@ Finalmente, recuerda que los fabricantes ofrecen cifras algo optimistas sobre la
 
 Por ello, te aconsejamos **elegir modelos cuya autonomía teórica sea al menos el doble que la distancia que esperas recorrer** cada vez que salgas a la calle.
 
-### **Tiempo de carga y pico de potencia de las baterías**
+### Tiempo de carga y pico de potencia de las baterías
 
 Otro aspecto que debes considerar es el **tiempo de carga que necesita la batería**. Este puede variar entre 4 a 8 horas según su capacidad y tecnología de carga.
 
@@ -506,7 +507,7 @@ Recuerda que los motores pueden dar más potencia que la nominal por un corto ti
 
 En este caso, es conveniente que revises la opinión de otros compradores en Amazon y portales de ventas, para ver cuál ha sido su experiencia con el acumulador de sus patinetes eléctricos.
 
-### **El peso de la batería y la posibilidad de extraerla**
+### El peso de la batería y la posibilidad de extraerla
 
 ![Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619946025/Patinetes-electricos/Patinete-Cecotec-Bongo-A-Connected/Patinete-Electrico-Cecotec-A-Connected-Cambio-Bater%C3%ADa_r7fuz8.jpg "Análisis y opinión - La bateríaextraible otorga una autonomía casi illimitada a este patinete, a condición de tener las baterías suficientes")
 
@@ -517,7 +518,7 @@ Por otra parte, una **característica conveniente en los patinetes es que usen b
 
 **Poseer dos baterías también permite duplicar la vida útil de cada una**, pues se reduce a la mitad la cantidad de veces que las deberás recargar. En todo caso, recuerda que no son baratas, pues una unidad de 270 Wh puede costar unos 150 euros en España.
 
-## **La potencia del motor ¿cuánto es suficiente?**
+## La potencia del motor ¿cuánto es suficiente?
 
 ![Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945757/Patinetes-electricos/Patinete-Hiboy-MAX-V2/Patinete-Electrico-Hiboy-MAX-V2-Motor_ponxt0.jpg "Prueba y opinión - El mismo excelente motor de 350 W del Hiboy S2 que hemos probado")
 
@@ -535,7 +536,7 @@ Es importante revisar cuáles son los **modos de conducción que ofrecen los dif
 
 Otro aspecto a considerar es la tecnología del motor. Los **motores sin escobillas o “brushless” son los más recomendados porque no requieren casi mantenimiento** y son muy duraderos.
 
-## **Tamaño, peso y robustez del cuadro**
+## Tamaño, peso y robustez del cuadro
 
 
 ![Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945536/Patinetes-electricos/Patinete-Megawheels-S1/Patinete-Electrico-Megawheels-S1-Adolescente-transportable_agvxdr.jpg "Análisis y opinión - El patinete eléctrico más fácil de transportar que hemos probado")
@@ -556,7 +557,7 @@ Otra cosa que debes revisar **cuál es el sistema de plegado que utiliza el pati
 
 Los **mejores modelos se pliegan en 3 segundos** pulsando un botón para doblar su manubrio hacia atrás y dejarlo fijo con un mecanismo de enganche.
 
-## **Pantalla, conectividad y luces: comodidad y seguridad en todo momento**
+## Pantalla, conectividad y luces: comodidad y seguridad en todo momento
 
 ![Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945469/Patinetes-electricos/Patinete-Kugoo-S1/Patinete-Electrico-Kugoo-S1-Faro-Pantalla_t721lb.jpg "Análisis y opinión - Una pantalla completa, coloreada y bien pensada que sustituye la aplicación")
 
@@ -572,7 +573,7 @@ Te advertimos que la **gama de patinetes ligeros no suelen tener luces muy poten
 
 De los seis modelos que mencionamos en esa guía, el Megawheels carece de faro delantero mientras que el **KUGOO S1 es el único que ostenta una luz delantera adecuada para transitar de noche** por calles oscuras.
 
-### **Pantalla y conectividad: Ten control sobre las funciones del patinete**
+### Pantalla y conectividad: Ten control sobre las funciones del patinete
 
 ![Análisis y prueba - Una aplicación Hiboy completa e intuitiva](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945691/Patinetes-electricos/Patinete-Hiboy-S2/Patinete-Electrico-Hiboy-S2-Regenerative-App_dzeyf2.jpg "Análisis y prueba - Una aplicación Hiboy completa e intuitiva")
 
@@ -584,7 +585,7 @@ También permite descargar actualizaciones del firmware del patinete que mejoran
 
 Aunque no es una función indispensable para ir del punto A al punto B, muchos usuarios consideran importante este tipo de características para tener un  mejor control sobre el funcionamiento de su querido monopatín
 
-## **Calidad del manejo y seguridad al conducir**
+## Calidad del manejo y seguridad al conducir
 
 Los patinetes eléctricos pueden recorrer largas distancias y por ello hay que considerar qué tanta comodidad al andar nos ofrecen.
 
@@ -616,7 +617,7 @@ En algunos modelos más sencillos encontrarás un “freno de pedal” ubicado e
 
 **Cecotec usa freno de pedal en todos sus patinetes**, y también lo usan el Megawheel S1 y el Kugoo S1.
 
-## **Normativa para el uso de patinetes eléctricos en España**
+## Normativa para el uso de patinetes eléctricos en España
 
 Por último, queremos recordarte cuál es la n**ormativa que regula el uso de los patinetes eléctricos en España**.
 
@@ -632,7 +633,7 @@ La norma señala que cualquier scooter que pueda desarrollar una velocidad mayor
 
 En este caso, **su dueño deberá pagar derechos de matriculación, seguro y otras exigencias** reservadas a los vehículos de mayor tamaño.
 
-### **Clasificación de los patinetes eléctricos en España**
+### Clasificación de los patinetes eléctricos en España
 
 Antes de adquirir un patín eléctrico debes entender cómo se clasifican estos equipos ante la ley española.
 
@@ -650,7 +651,7 @@ Además cuentan con silla para el conductor y elementos que los asemejan a un ci
 
 Es de destacar que muchos **fabricantes chinos limitan la velocidad de sus patinetes para venderlos como “tipo B”** en Europa.
 
-### **¿Por dónde pueden circular los patinetes ligeros en España?**
+### ¿Por dónde pueden circular los patinetes ligeros en España?
 
 Los **patinetes eléctricos ligeros deben usar las ciclovías y carriles bici**, excepto donde haya leyes locales que autoricen su circulación por áreas peatonales y aceras.
 
