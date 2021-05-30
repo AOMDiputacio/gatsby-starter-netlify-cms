@@ -249,7 +249,7 @@ Destaca el hecho de ser **uno de los patinetes más económicos que se pueden co
 
 <div class="row">
 <div class="col">
-<div class="pros-header">Pros</div>
+<div class="pros-header">Nos gustó</div>
 <div class="pros-item">Excelente velocidad y aceleración para su tamaño</div>
 <div class="pros-item">Carga de batería requiere poco tiempo</div>
 <div class="pros-item">Mantiene velocidad máxima hasta llegar a un 20% de carga restante de batería</div>
@@ -257,7 +257,7 @@ Destaca el hecho de ser **uno de los patinetes más económicos que se pueden co
 <div class="pros-item">Pantalla LCD amplia que permite configurar todas las opciones del patín</div>
 </div>
 <div class="col">
-<div class="cons-header">Contras</div>
+<div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Neumáticos sólidos y de pequeño diámetro afectan mucho la amortiguación en suelo irregular</div>
 <div class="cons-item">Guardabarros trasero no tiene refuerzo antigolpes</div>
 </div>
