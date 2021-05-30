@@ -11,6 +11,7 @@ slug: Comparacion-de-aspiradores-y-guia-de-compra
 date: 2021-05-30T16:03:51.261Z
 tags:
   - tag: guias
+  - tag: aspiradoras
 image: /img/logo.png
 imageAlt: Con esta guía aprovecharás los modelos disponibles solo por internet y
   dejarás de elegir tu aspiradora al azar
