@@ -17,6 +17,8 @@ relatedArticles:
   - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: guia-ultima-del-patinete-electrico
 ---
+
+
 </script>
 <script type="application/ld+json">
     {
@@ -24,7 +26,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -35,34 +37,74 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-a",
     "name": "Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec",
     "headline": "El más barato de los patinetes eléctricos de Cécotec sigue siendo una excelente opción",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-04",
+    "dateModified": "2021-04-15",
     "description": "Con un motor de 350 W y una batería de 230 Wh, se trata de otro excelente patinete eléctrico capaz de recorrer 25 km (contar 15 aprox. en condiciones reales según nuestra experiencia). Posee todas las características del Cecotec Bongo Serie A connected, pero es 30 Euros más barato y no cuenta con la conectividad que le permitiría sincronizarse con la aplicación móvil Cecotec para ajustar sus variables de funcionamiento.",
     "publisher": {
         "@type": "Organization",
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/baf5c6cee05f995684da358a7a46212f/0f3a1/bongo-serie-a-cecotec.jpg"
+        "url": "https://guiadelconsumidor.es/img/bongo-serie-a-cecotec.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/baf5c6cee05f995684da358a7a46212f/0f3a1/bongo-serie-a-cecotec.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/baf5c6cee05f995684da358a7a46212f/0f3a1/bongo-serie-a-cecotec.jpg",
+    "url": "https://guiadelconsumidor.es/img/bongo-serie-a-cecotec.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/bongo-serie-a-cecotec.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Cecotec Bongo Serie A, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec",
+      "image": [
+        "https://guiadelconsumidor.es/img/bongo-serie-a-cecotec.jpg",
+        "https://guiadelconsumidor.es/img/bongo-serie-a-cecotec.jpg"
+       ],
+      "description": "El más barato de los patinetes eléctricos de Cécotec sigue siendo una excelente opción",
+      "brand": {
+        "@type": "Brand",
+        "name": "Cecotec"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "reviewCount": "110"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-a",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
 
 <!--
 **Slug:**
