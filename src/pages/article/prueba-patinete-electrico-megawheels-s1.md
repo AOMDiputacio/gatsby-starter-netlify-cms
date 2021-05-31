@@ -29,7 +29,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -40,8 +40,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1/",
     "name": "Opinión: el M Megawheels S1: El favorito entre los patinetes pequeños",
     "headline": "Un patinete robusto y ligero en prestaciones… pero también en precio!",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-05",
+    "dateModified": "2021-04-15",
     "description": "Una autonomía de menos de 15 km, por un motor de 250W a penas que propulsan este patinete a unos 10 km/h… Muchos consideran este patinete como un juguete. Yo pienso regalarselo a mi sobrino para poderlo usar de vez en cuando en mis propios desplazamientos.
 
 Pues a pesar de su precio derisorio de 200 Euros, este patinete puede soportar una carga de hasta 100 kilos y tanto su motor como sus neumáticos sólidos garantizan una gran longevidad sin mantenimiento.
@@ -54,26 +54,82 @@ Pensamos que se trata del mejor de su categoría.",
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/e5c0f35e16649670bf8ce6d2af56b3d7/0f3a1/megawheels-s1-e-scooter-1.jpg"
+        "url": "https://guiadelconsumidor.es/img/megawheels-s1-e-scooter-1.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/e5c0f35e16649670bf8ce6d2af56b3d7/0f3a1/megawheels-s1-e-scooter-1.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/e5c0f35e16649670bf8ce6d2af56b3d7/0f3a1/megawheels-s1-e-scooter-1.jpg",
+    "url": "https://guiadelconsumidor.es/img/megawheels-s1-e-scooter-1.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/megawheels-s1-e-scooter-1.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Megawheels S1, M Megawheels S1, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Opinión: el M Megawheels S1: El favorito entre los patinetes pequeños",
+      "image": [
+        "https://guiadelconsumidor.es/img/megawheels-s1-e-scooter-1.jpg",
+        "https://guiadelconsumidor.es/img/megawheels-s1-e-scooter-1.jpg"
+       ],
+      "description": "Un patinete robusto y ligero en prestaciones… pero también en precio!",
+      "brand": {
+        "@type": "Brand",
+        "name": "Megawheels"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "49"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
