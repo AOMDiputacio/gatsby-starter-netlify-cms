@@ -18,6 +18,9 @@ relatedArticles:
   - article: Los-6-mejores-patinetes-electricos-de-2021
   - article: mejor-patinete-electrico-xiaomi
 ---
+
+
+
 </script>
 <script type="application/ld+json">
     {
@@ -25,7 +28,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -36,8 +39,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/",
     "name": "Opinión: El patinete Xiaomi Pro 2",
     "headline": "El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la calidad Xiaomi por un precio relativamente razonable",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-09",
+    "dateModified": "2021-04-15",
     "description": "A diferencia del modelo Bongo Serie A Advance Connected MAX de Cecotec, el Xiaomi Pro 2 cuenta con un motor de 300 W solamente frente a los 350 del Bongo. Para ser honestos, la percepción de diferencia de potencia es casi imperceptible entre los dos patinetes al igual que la diferencia de precio de 5 Euros.
 
 Por otra parte, los neumáticos con cámara de aire de Xiaomi requieren menos mantenimiento que los neumáticos tubeless de Cecotec. Por último, Xiaomi siempre disfrutará de una imagen de calidad difícil de superar. A nuestro juicio, estos dos patinetes son muy similares en prestaciones y en precio.
@@ -48,26 +51,68 @@ Por 35 Euros más, el modelo Hiboy S2 Pro tiene un motor de 350 W, es decir 50 W
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg"
+        "url": "https://guiadelconsumidor.es/img/opinion-xiaomi-pro-2.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/efedec5c7c356a6f100787a88d94c917/0f3a1/opinion-xiaomi-pro-2.jpg",
+    "url": "https://guiadelconsumidor.es/img/opinion-xiaomi-pro-2.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/opinion-xiaomi-pro-2.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Xiaomi Pro 2, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Opinión: El patinete Xiaomi Pro 2",
+      "image": [
+        "https://guiadelconsumidor.es/img/opinion-xiaomi-pro-2.jpg",
+        "https://guiadelconsumidor.es/img/opinion-xiaomi-pro-2.jpg"
+       ],
+      "description": "El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la calidad Xiaomi por un precio relativamente razonable",
+      "brand": {
+        "@type": "Brand",
+        "name": "Xiaomi"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "65"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
 
 <!--
 
