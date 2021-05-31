@@ -28,7 +28,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -39,8 +39,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1/",
     "name": "Prueba del patinete eléctrico KUGOO S1",
     "headline": "Buena autonomía por un patinete potente a un precio inmejorable por la calidad",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-02",
+    "dateModified": "2021-04-18",
     "description": "Con su motor de 350 W de potencia, una batería de 270 Wh y suspensiones delanteras y traseras, este patinete tiene un precio de 270 Euros solamente en Amazon. Sus neumáticos sólidos ni requieren mantenimiento, ni se pinchan ni se desgastan. Todos los ajustes que permite este patinete se controlan gracias a 5 botones incorporados a su gran pantalla multicolor LCD gran tamaño que nos proporcionará en un vistazo los parámetros de navegación más importantes sin necesidad de explorar la aplicación móvil.
 
 Gracias a estas características, convierten a este patinete en nuestro favorito para los usuarios que se puedan contentar con su autonomía de 30 km (contar 17 al uso por prudencia), comparable a la del patinete Xiaomi 1S o a la del mítico Xiaomi Electric Scooter Mi365 por un precio mini.",
@@ -49,26 +49,68 @@ Gracias a estas características, convierten a este patinete en nuestro favorito
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/a61f544e2e52c00b1a62bb5e0d0c0528/0f3a1/kugoo-s-1.jpg"
+        "url": "https://guiadelconsumidor.es/img/kugoo-s-1.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/a61f544e2e52c00b1a62bb5e0d0c0528/0f3a1/kugoo-s-1.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/a61f544e2e52c00b1a62bb5e0d0c0528/0f3a1/kugoo-s-1.jpg",
+    "url": "https://guiadelconsumidor.es/img/kugoo-s-1.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/kugoo-s-1.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "KUGOO S1, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Prueba del patinete eléctrico KUGOO S1",
+      "image": [
+        "https://guiadelconsumidor.es/img/kugoo-s-1.jpg",
+        "https://guiadelconsumidor.es/img/kugoo-s-1.jpg"
+       ],
+      "description": "Buena autonomía por un patinete potente a un precio inmejorable por la calidad",
+      "brand": {
+        "@type": "Brand",
+        "name": "Kugoo"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "56"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
 
 <!--
 **Slug:**
