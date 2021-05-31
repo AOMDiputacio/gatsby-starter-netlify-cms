@@ -25,7 +25,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -36,8 +36,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/",
     "name": "Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX",
     "headline": "El más avanzada de los Bongo Serie A de Cecotec es uno de los mejores patinetes eléctricos ligeros",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-03",
+    "dateModified": "2021-04-15",
     "description": "460 Wh de capacidad por 45 kilómetros de autonomía (contar 25 en utilización real) y un motor de 350 W; según nuestro modelo de pricing nos confirma que por 450 Euros, este destacado patinete eléctrico de Cecotec tiene el mejor precio posible por semejantes prestaciones.
 
 Si bien no cuentan con suspensiones como el Hiboy S2 Pro, sus neumáticos antireventón sin cámara de aire absorberán las vibraciones más molestas a condición de pensar en verificar regularmente su presión.
@@ -48,26 +48,69 @@ Esta excelente relación calidad precio así como unas prestaciones destacadas c
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg"
+        "url": "https://guiadelconsumidor.es/img/cecotec-advance-connected-max.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/f488e307da04cf6f53f1341ac2f5dab0/0f3a1/cecotec-advance-connected-max.jpg",
+    "url": "https://guiadelconsumidor.es/img/cecotec-advance-connected-max.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/cecotec-advance-connected-max.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Cecotec Bongo Serie A Advance Connected MAX, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Opinión: patinete electrico Cecotec Bongo Serie A Advance Connected MAX",
+      "image": [
+        "https://guiadelconsumidor.es/img/cecotec-advance-connected-max.jpg",
+        "https://guiadelconsumidor.es/img/cecotec-advance-connected-max.jpg"
+       ],
+      "description": "El más avanzada de los Bongo Serie A de Cecotec es uno de los mejores patinetes eléctricos ligeros",
+      "brand": {
+        "@type": "Brand",
+        "name": "Cecotec"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "115"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
+
 
 <!--
 
