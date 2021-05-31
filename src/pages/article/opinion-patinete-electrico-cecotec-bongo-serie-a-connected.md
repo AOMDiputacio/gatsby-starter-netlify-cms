@@ -22,7 +22,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -33,8 +33,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected/",
     "name": "Análisis del patinete Cecotec Bongo Serie A Connected",
     "headline": "El rival directo del Xiaomi Mi 365 y de su succesor el mi 365",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-20",
+    "dateModified": "2021-04-25",
     "description": "Con un motor de 350 W y una batería de 230 Wh, el Bongo Serie A es una excelente alternativa al modelo Connected y también es capaz de recorrer 25 km (contar 18 aprox a 25 km/h).
 
 Posee todas las características del Cecotec Bongo Serie A, pero es 30 Euros más barato y no cuenta con la conectividad que le permitiría sincronizarse con la aplicación móvil Cecotec para ajustar sus variables de funcionamiento. Pues somos muchos a no usar nunca la aplicación movil.
@@ -45,26 +45,68 @@ Sin embargo, por 10 Euros más el Kugoo S1 tendrá una autonomía muy superior, 
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg"
+        "url": "https://guiadelconsumidor.es/img/patinete-electrico-cecotec-a-connected-lifestyle.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/a23d672d5dfd59b25aa682a4e8016c32/0f3a1/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
+    "url": "https://guiadelconsumidor.es/img/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Cecotec Bongo Serie A Connected, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Análisis del patinete Cecotec Bongo Serie A Connected",
+      "image": [
+        "https://guiadelconsumidor.es/img/patinete-electrico-cecotec-a-connected-lifestyle.jpg",
+        "https://guiadelconsumidor.es/img/patinete-electrico-cecotec-a-connected-lifestyle.jpg"
+       ],
+      "description": "El rival directo del Xiaomi Mi 365 y de su succesor el mi 365",
+      "brand": {
+        "@type": "Brand",
+        "name": "Cecotec"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "reviewCount": "95"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
 
 <!--
 
