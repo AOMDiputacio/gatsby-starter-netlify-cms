@@ -24,7 +24,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -35,8 +35,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/futuro-de-la-movilidad-urbana/",
     "name": "¿Bicicleta, patinete o Motocicleta? Encuentra tu medio de transporte urbano",
     "headline": "El medio ambiente y tu salud lo piden. Pero… ¿Cómo seleccionar tu Vehículo de Movilidad Sostenible Personal?",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-12",
+    "dateModified": "2021-04-25",
     "description": "Todos los medios de transporte ligeros  tienen características que los hacen atractivos, así como aquellas que nos invitan a repensarlo. Sin embargo, los bajos precios y la posibilidad de desplazarse a diario de forma práctica, han marcado el auge de los patinetes y bicicletas eléctricas.
 ",
     "publisher": {
@@ -44,26 +44,31 @@ relatedArticles:
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/28f28f6490a576aab3aaf1b0c130a510/0f3a1/patinete-electrico-hiboy-s2-pro-ride.jpg"
+        "url": "https://guiadelconsumidor.es/img/patinete-electrico-hiboy-s2-pro-ride.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/28f28f6490a576aab3aaf1b0c130a510/0f3a1/patinete-electrico-hiboy-s2-pro-ride.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/28f28f6490a576aab3aaf1b0c130a510/0f3a1/patinete-electrico-hiboy-s2-pro-ride.jpg",
+    "url": "https://guiadelconsumidor.es/img/patinete-electrico-hiboy-s2-pro-ride.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/patinete-electrico-hiboy-s2-pro-ride.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Movilidad urbana, medio de locomoción, Xiaomi, patinete eléctrico, patinetes eléctricos, monopatín, VMP, vehiculo de movilidad personal"
 }
 </script>
+
+
+
+
+
 
 <!--
 **Slug:**
