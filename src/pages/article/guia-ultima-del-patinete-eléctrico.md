@@ -28,7 +28,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -37,80 +37,37 @@ relatedArticles:
     "@context": "https://schema.org",
     "@type": "Article",
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/guia-ultima-del-patinete-electrico/",
-    "name": "Elige tu patinete eléctrico con tan solo un grafico - Guía definitiva de compra",
-    "headline": "utilizamos una herramienta estadistica para comparar los patinetes y sus precios respectivos. Te sorprenderá!",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "name": "Elige tu patinete eléctrico con tan solo un grafico - Guía completa de compra",
+    "headline": "Elige tu patinete eléctrico con tan solo un grafico - Guía completa de compra",
+    "datePublished": "2021-04-05",
+    "dateModified": "2021-04-18",
     "description": "Si quieres comprar un patinete eléctrico o simplemente te preguntas si este medio de locomoción te podría interesar, ¡estás en el lugar correcto! Esta guía contiene todo lo que necesitas saber a la hora de comprar tu patín, incluyendo los aspectos técnicos y legales. También hemos diseñado un método de análisis numérico original que te permitirá determinar de forma imparcial cuál de todos los patinetes eléctricos es la mejor opción adaptada a tus necesidades.",
     "publisher": {
         "@type": "Organization",
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/a7afa9834a4e51cda21ded0fa1718916/0f3a1/guia-ultima-del-patinete.jpg"
+        "url": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/a7afa9834a4e51cda21ded0fa1718916/0f3a1/guia-ultima-del-patinete.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/a7afa9834a4e51cda21ded0fa1718916/0f3a1/guia-ultima-del-patinete.jpg",
+    "url": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Guia patinete eléctrico, guia de compra, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "¿Cómo asegurarme que mi patinete eléctrico será considerado como un VMP poco reglamentado y no como una motocicleta?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Tanto la legislación europea como las reglamentaciones de la Dirección General de Tránsito obliga a fabricantes e importadores a limitar la velocidad máxima alcanzable por sus patinetes eléctricos a 25 km/k en España y en toda Europa. Los monopatines que no respeten esta limitación o que estén equipados con un sillín serán considerados como motocicletas y deberán ser matriculados, contar con un seguro y cumplir una multitud de requisitos para poder circular en la vía pública."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Cuál es el factor que más influye sobre el valor de compra de un monopatín nuevo?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Está demostrado que en los patinetes más vendidos, la capacidad de la batería explica un 85% de la variación del precio de un patinete. Aparte de la comodidad de no tener que cargar la batería tan a menudo, una batería más grande significa a menudo una mayor vida útil del patinete ya que por un número dado de ciclos de carga y descarga (este número varía entre 500 y 1000 ciclos según los fabricantes por una pérdida de 30% de autonomía), el patinete con mayor autonomía habrá recorrido más distancia."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Por dónde puedo circular con mi patinete eléctrico?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "La regulación española obliga a los patinetes eléctricos a circular en las ciclorutas o en los carriles bici y solo podrán usar las calles residenciales y las aceras oportunamente señalizadas si limitan su velocidad a 5 km/h. Por norma general no pueden circular ni por las calzadas ni por las aceras.
-En todos casos conviene consultar las normativas autonómicas o urbanas que pueden modificar fuertemente esta normativa general."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Existen accesorios obligatorios que tengo que llevar conmigo en patinete eléctrico?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "La normativa vigente en España no obliga a los usuarios de patinetes ni a llevar casco ni a contratar un seguro. Cabe mencionar sin embargo que llevar un casco homologado ya es un requisito legal en algunas comunidades autónomas como la de Valencia y que no debería pasar mucho tiempo antes que sea obligatorio contratar también una póliza de seguro."
-        }
-      }, {
-        "@type": "Question",
-        "name": "¿Por qué me pueden multar?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text":"Sin entrar en el tema de las multas relacionadas con el manejo de patinetes bajo la influencia del alcohol o de estupefacientes, las multas más comunes se relacionan con el uso de teléfono o de auriculares mientras se conduce (200 Euros). También se multan con 200 Euros los patinetes que circulan en las vías de bus o de taxi, o en las aceras o zonas peatonales donde no se autorice expresamente el uso de monopatines. Finalmente, los usuarios de scooters deben respetar los semáforos y las señalizaciones y no deben atravesar un paso de peatones conduciendo (200 Euros de multa). Llevar dos personas a bordo puede ser multado (100 Euros) y en algunas comunidades (valencia) el uso de casco es obligatorio ( 200 Euros). 
-Se recomienda consultar las normativas autonómicas o locales antes de circular en patinete en un sitio desconocido."}
-        }]
-    }
-    </script>
 
 <!--
 
