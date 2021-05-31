@@ -25,7 +25,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -36,8 +36,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro",
     "name": "Opinión: el patinete Hiboy S2 Pro - una referencia",
     "headline": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia y una batería que durará mucho",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-02",
+    "dateModified": "2021-04-25",
     "description": "Si consideramos sus amortiguadores y su construcción robusta con ruedas macizas y baterías de larga vida, el Hiboy S2 Pro sigue siento una alternativa interesante al Xiaomi mijia Pro 2 y al Cecotec Bongo Serie A Advance Connected MAX.
 Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de vida de 1000 ciclos de carga y descarga para perder hasta 30% de su capacidad.",
     "publisher": {
@@ -45,73 +45,82 @@ Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de v
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg"
+        "url": "https://guiadelconsumidor.es/img/hiboy-s2-pro.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
+    "url": "https://guiadelconsumidor.es/img/hiboy-s2-pro.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/hiboy-s2-pro.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy, Hiboy S2 Pro"
 }
 </script>
-
-</script>
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "www.guiadelconsumidor.es",
-        "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Opinión: el patinete Hiboy S2 Pro - una referencia",
+      "image": [
+        "https://guiadelconsumidor.es/img/hiboy-s2-pro.jpg",
+        "https://guiadelconsumidor.es/img/hiboy-s2-pro.jpg"
+       ],
+      "description": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia y una batería que durará mucho",
+      "brand": {
+        "@type": "Brand",
+        "name": "Hiboy"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "75"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
     }
-</script>
+    </script>
 
- <script type="application/ld+json">
- {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro",
-    "name": "Opinión: el patinete Hiboy S2 Pro - una referencia",
-    "headline": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia, resistencia y una batería que alcanza los 1000 ciclos de carga",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
-    "description": "Descripción del patinete eléctrico Hiboy S2 Pro: Autonomía, potencia, resistencia y una batería que alcanza los 1000 ciclos de carga",
-    "publisher": {
-        "@type": "Organization",
-        "name": "Guiadelconsumidor.es",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
-            "width": "100",
-            "height": "52"
-        }
-    },
-    "image": {
-        "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg"
-    },
-    "author": {
-        "@type": "Person",
-        "name": "Arthemis"
-    },
-    "url": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/71e5cf475fe5af6f82bbe41412c487b0/0f3a1/hiboy-s2-pro.jpg",
-    "articleSection": "/patinetes-electricos/",
-    "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
-}
-</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
