@@ -24,7 +24,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -35,34 +35,73 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/",
     "name": "Mi Essential, el patinete bajo costo de Xiaomi",
     "headline": "Este patinete eléctrico es la versión liviana y económica del mítico patinete eléctrico M365 lanzado en 2017",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-06",
+    "dateModified": "2021-04-18",
     "description": "Esta potencia de motor es la misma que el modelo M Megawheel S1 con el que este modelo comparte también una autonomía de solamente 20 km (contar 13 en situación real) por un precio 88 Euros más barato…",
     "publisher": {
         "@type": "Organization",
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/"
+        "url": "https://guiadelconsumidor.es/img/mi-essential.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/",
-    "thumbnailUrl": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/",
+    "url": "https://guiadelconsumidor.es/img/mi-essential.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/mi-essential.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Xiaomi Mi Essential, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Mi Essential, el patinete bajo costo de Xiaomi",
+      "image": [
+        "https://guiadelconsumidor.es/img/mi-essential.jpg",
+        "https://guiadelconsumidor.es/img/mi-essential.jpg"
+       ],
+      "description": "Este patinete eléctrico es la versión liviana y económica del mítico patinete eléctrico M365 lanzado en 2017",
+      "brand": {
+        "@type": "Brand",
+        "name": "Xiaomi"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.5",
+        "reviewCount": "25"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
 
 <!--
 
