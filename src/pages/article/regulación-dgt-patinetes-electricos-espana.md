@@ -23,7 +23,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -34,8 +34,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
     "name": "¿Cuál es la regulación de tránsito para los patinetes eléctricos en España?",
     "headline": "Te decimos todo acerca de la regulación vigente acerca de los patinetes eléctricos en España",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-07",
+    "dateModified": "2021-04-18",
     "description": "Los agentes de la autoridad podrán sancionar las faltas tipificadas en la norma y su correspondiente multa básica son:
 
 Conducir un patinete eléctrico bajo la influencia del alcohol, con una tasa de alcoholemia superior a 0,25 miligramos/L de aire espirado, o 0,5 g /L de sangre. Conlleva inmovilización inmediata del vehículo y multa de 500 a 1.000 euros.
@@ -54,26 +54,31 @@ No usar casco (donde sea obligatorio hacerlo). Multa de 200 euros.",
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/"
+        "url": "https://guiadelconsumidor.es/img/regulacion-de-transito.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
-    "thumbnailUrl": "https://guiadelconsumidor.es/patinetes-electricos/regulacion-dgt-patinetes-electricos-espana/",
+    "url": "https://guiadelconsumidor.es/img/regulacion-de-transito.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/regulacion-de-transito.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "regulación transito, transito patinetes, ley de regulación de ransito,DGT, Dirección general de transito, mejor patinete eléctrico, mejores patinetes eléctricos"
 }
 </script>
+
+
+
+
+
 
 <!--
 **Slug:**
