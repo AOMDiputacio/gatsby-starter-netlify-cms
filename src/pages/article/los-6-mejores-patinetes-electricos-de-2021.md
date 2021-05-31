@@ -20,6 +20,56 @@ relatedArticles:
   - article: base-de -datos-de-todos-patinetes-electricos-analizados
   - article: futuro-de-la-movilidad-urbana
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/guias/los-6-mejores-patinetes-electricos-de-2021",
+    "name": "Los 6 mejores patinetes eléctricos de 2021- comparativa y Guía de Compra",
+    "headline": "Hemos seleccionado los 6 mejores patinetes de acuerdo con tus necesidades y rpesupuesto",
+    "datePublished": "2021-05-01",
+    "dateModified": "2021-05-25",
+    "description": "Si quieres elegir tu primer patinete eléctrico o si simplemente lo quieres cambiar y no sabes cual elegir, hemos analizado cientos de patinetes e identificado por cada presupuesto el patinete ideal de acuerdo con tus necesidades.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/guia-ultima-del-patinete.jpg",
+    "articleSection": "/patinetes-electricos/",
+    "creator": "Arthemis",
+    "keywords": "Xiaomi Mi Essential, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+}
+</script>
+
+
+
+
 <!--
 
 \*\*Keyword: patinetes eléctricos, mejores patinetes eléctricos, guia de compra patinetes\*\*
