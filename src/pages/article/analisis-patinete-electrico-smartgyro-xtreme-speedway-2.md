@@ -1,7 +1,7 @@
 ---
 dataKey: articles
 title: "Opinión: Smartgyro Xtreme Speedway V2.0 - entre los mejores"
-cardTitle: "Opinión: Smartgyro Xtreme Speedway V2.0 - entre los mejores"
+cardTitle: Smartgyro Xtreme Speedway V2.0
 description: Te hablamos del patinete eléctrico Smartgyro Xtreme Speedway V2.0,
   un modelo muy potente y veloz que llama la atención por sus cualidades
   técnicas y precio a pesar de sus 22 kg.
@@ -17,6 +17,7 @@ relatedArticles:
   - article: guia-ultima-del-patinete-electrico
   - article: Los-6-mejores-patinetes-electricos-de-2021
 ---
+
 </script>
 <script type="application/ld+json">
     {
@@ -24,7 +25,7 @@ relatedArticles:
         "@type": "Organization",
         "name": "www.guiadelconsumidor.es",
         "url": "https://guiadelconsumidor.es/",
-        "logo": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png"
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
     }
 </script>
 
@@ -35,8 +36,8 @@ relatedArticles:
     "mainEntityOfPage": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2/",
     "name": "Opinión: Smartgyro Xtreme Speedway V2.0 - entre los mejores",
     "headline": "Pesa 22 kg y es difícil de llevar… Pero ofrece prestaciones de alto nivel por un precio razonable",
-    "datePublished": " 02-04-2021",
-    "dateModified": " 02-04-2021",
+    "datePublished": "2021-04-09",
+    "dateModified": "2021-04-18",
     "description": "Su autonomía es parecida a la de tres de nuestros modelos favoritos: el Cecotec Bongo Serie A Advance Connected MAX, el Xiaomi Pro 2 y el Hiboy S2 Pro, con prestaciones muy superiores gracias a su potente motor y sus suspensiones de gama alta. ¡Una relación calidad precio realmente sobresaliente!
 
 Si añadimos que este scooter se ha visto en Amazon por menos de 400 Euros (ocasionalmente), entonces no dudes en comprarlo a condición de que ni su peso ni su tamaño sean un problema para ti. ¡No te arrepentirás!",
@@ -45,26 +46,70 @@ Si añadimos que este scooter se ha visto en Amazon por menos de 400 Euros (ocas
         "name": "Guiadelconsumidor.es",
         "logo": {
             "@type": "ImageObject",
-            "url": "https://guiadelconsumidor.es/static/6543e8fa6b76f92b290c851610396589/6d161/logo.png",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
             "width": "100",
             "height": "52"
         }
     },
     "image": {
         "@type": "ImageObject",
-        "url": "https://guiadelconsumidor.es/static/99e71fdd0db30748f3ba0e03ec0dc516/0f3a1/smartgyro-xtreme-speedway-v-2.jpg"
+        "url": "https://guiadelconsumidor.es/img/smartgyro-xtreme-speedway-v-2.jpg"
     },
     "author": {
         "@type": "Person",
         "name": "Arthemis"
     },
-    "url": "https://guiadelconsumidor.es/static/99e71fdd0db30748f3ba0e03ec0dc516/0f3a1/smartgyro-xtreme-speedway-v-2.jpg",
-    "thumbnailUrl": "https://guiadelconsumidor.es/static/99e71fdd0db30748f3ba0e03ec0dc516/0f3a1/smartgyro-xtreme-speedway-v-2.jpg",
+    "url": "https://guiadelconsumidor.es/img/smartgyro-xtreme-speedway-v-2.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/smartgyro-xtreme-speedway-v-2.jpg",
     "articleSection": "/patinetes-electricos/",
     "creator": "Arthemis",
-    "keywords": "mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
+    "keywords": "Smartgyro Xtreme Speedway V2.0, mejor patinete eléctrico, mejores patinetes eléctricos, patinete Xiaomi, patinetes Xiaomi, monopatín, patinete eléctrico Xiaomi, patinete Hiboy"
 }
 </script>
+<script type="application/ld+json">    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Opinión: Smartgyro Xtreme Speedway V2.0 - entre los mejores",
+      "image": [
+        "https://guiadelconsumidor.es/img/smartgyro-xtreme-speedway-v-2.jpg",
+        "https://guiadelconsumidor.es/img/smartgyro-xtreme-speedway-v-2.jpg"
+       ],
+      "description": "Pesa 22 kg y es difícil de llevar… Pero ofrece prestaciones de alto nivel por un precio razonable",
+      "brand": {
+        "@type": "Brand",
+        "name": "Smartgyro"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "4.5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "75"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2/",
+        "priceCurrency": "EUR",
+        "price": "250"
+      }
+    }
+    </script>
+
+
+
+
+
+
 
 <!--
 
