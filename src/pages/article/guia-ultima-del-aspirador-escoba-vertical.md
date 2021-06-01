@@ -519,11 +519,15 @@ Con un **precio de 129 euros en Amazon España es una de las mejores compras que
 
 ### Bosch BBH32551 Flexxo Serie, potencia y versatilidad alemana
 
+![Análisis y opinión - Un diseño cuidado para esta aspiradora alemana](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390339/Aspiradores%20verticales/Aspirador-escoba-Bosch-Flexxo-4-conjunto_nm8ydt.jpg "Análisis y opinión - Un diseño cuidado para esta aspiradora alemana")
+
 Desde Alemania nos llega la excelente **aspiradora escoba sin cable Bosch Flexxo Serie 4 BBH32551**, un equipo dotado de **potencia de sobra para cumplir con las exigencias más altas** a la hora de limpiar tu casa o coche.
 
 Se trata de un aspirador 2 en 1 de gama media, con un peso de 3,1 kilogramos y una longitud de 115 centímetros. Aunque es algo más pesado que otros modelos de su mismo nicho de mercado, cuenta con un **diseño ergonómico y elegante que lo hace muy fácil de manejar** en cualquiera de sus dos modos, escoba o aspirador de mano.
 
 Tanto el motor como el depósito de polvo se ubican en la parte superior del asa, equilibrando el peso de su cabezal de limpieza. Esta sección **se puede separar fácilmente del tubo principal para convertirse en un aspirador de mano**, al que se le adaptan diferentes boquillas.
+
+![Análisis y opinión - Un diseño cuidado para esta aspiradora alemana](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390339/Aspiradores%20verticales/Aspirador-escoba-Bosch-Flexxo-4-conjunto_nm8ydt.jpg "Análisis y opinión - Un diseño cuidado para esta aspiradora alemana")
 
 El aspirador escoba Bosch Flexxo Serie 4 BBH32551 **posee un motor de 160W de potencia que le da una gran capacidad de succión de 20000 pascales**. La parte motriz está alimentada por una batería de 25,2 voltios que requiere unas 5 horas para recargarse al 100 por ciento. 
 
@@ -534,6 +538,9 @@ En cuanto a los accesorios, la **escoba eléctrica Bosh se vende con un cabezal 
 A esto se suma una boquilla larga, una boquilla corta y un cepillo de cerdas para limpiar tapicería y alfombras. Su boquilla corta es ancha y posee cerdas para telas, lo que permite usarla para todo tipo de limpieza sin tener que cambiar de accesorios.
 
 El **depósito de polvo tiene una capacidad de 0,4 litros**, que es menor a otros modelos de su categoría. Sin embargo, está ubicada bajo el motor y muy cerca del asa, lo que facilita el maniobrar el equipo, sobre todo cuando se hacen limpiezas largas.
+
+![Análisis y prueba - Un aspirador de calidad eficaz y poco voluminozo eficaz en todos tipos de superficies](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390340/Aspiradores%20verticales/Aspirador-escoba-Bosch-Flexxo-4-salon_ozddiw.jpg "Análisis y prueba - Un aspirador de calidad eficaz y poco voluminozo eficaz en todos tipos de superficies")
+
 
 El **aspirador escoba sin cable Bosch Flexxo Serie 4 BBH32551** se vende en  Amazon España por un **precio estimado de tiene un precio de 164,91€**, bastante atractivo en comparación con otros modelos de gama media.
 
@@ -570,19 +577,27 @@ En definitiva, el **aspirador escoba Bosh BBH32551 Flexxo Serie** está hecho pa
 
 ### Rowenta RH9021 Air Force 360
 
+![Análisis y prueba - Un aspiradora de mano cuando lo necesites](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390414/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-aspira-sofa_y3c5fa.jpg "Análisis y prueba - Un aspiradora de mano cuando lo necesites")
+
 La **aspiradora escoba Rowenta RH9021 Air Force 360** es una de las más potentes que encontrarás en el mercado entre los modelos sin cable.
 
 Destaca especialmente por **poseer varios modos de funcionamiento y una gran variedad de accesorios y configuraciones** que permiten usarla para limpiar desde pisos duros o de madera y alfombras hasta los rincones más altos de tu casa.
+
+![Análisis y prueba - Práctico para limpiar hasta los sitios más insospechados](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390412/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-limpia-reja_ediswj.jpg "Análisis y prueba - Práctico para limpiar hasta los sitios más insospechados")
 
 Como muchos de los modelos más exitosos, **esta aspiradora escoba Rowenta es del tipo 3 en 1**, lo que significa que **puede desarmarse parcialmente para convertirse en una aspiradora de mano** y si se le agrega un tubo de extensión se puede convertir también en un **aspirador para techos y puntos altos**.
 
 Gran parte de las virtudes de esta aspiradora provienen de su motor digital de 21,9W de potencia y una batería de litio que le da autonomía de 30 minutos.
 
+![Análisis y opinión - Un aspirador para todos los días](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390412/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-aspira-migas_samjtf.jpg "Análisis y opinión - Un aspirador para todos los días")
+
 Además, cuenta con un cabezal de aspiración  que **incorpora un cepillo motorizado que gira a 6.500 revoluciones por minuto**, capaz de remover hasta el polvo y pelos más difíciles de suelos y alfombras. Este cabezal también posee iluminación LED para facilitar la limpieza de zonas oscuras.
+
+![Prueba y opinión - Un cabezal motorizado para extraer el polvo más tenaz](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390415/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-cabezal_vujfkw.jpg "Prueba y opinión - Un cabezal motorizado para extraer el polvo más tenaz")
 
 La **aspiración del polvo se hace con tecnología ciclónica**, que garantiza una máxima retención del polvo y residuos, incluyendo pelos de mascotas, tanto en suelos duros como en maderas o alfombras.
 
-Se trata de un equipo liviano, con un peso de solo 2,5 kilogramos y para facilitar su uso por tiempo prolongado i**ncluye un gatillo en el asa que permite activar y detener la marcha** sin tener que presionarlo continuamente.
+Se trata de un equipo liviano, con un peso de solo 2,5 kilogramos y para facilitar su uso por tiempo prolongado **incluye un gatillo en el asa que permite activar y detener la marcha** sin tener que presionarlo continuamente.
 
 Además **posee dos modos de limpieza, normal y turbo**. El modo normal se usa para limpiezas regulares donde no hay mucho polvo que retirar, mientras que el **modo turbo permite aspirar en una sola pasada pelos de mascotas** atrapadas en alfombras y tapicerías.
 
@@ -590,9 +605,13 @@ Además **posee dos modos de limpieza, normal y turbo**. El modo normal se usa p
 
 El **aspirador escoba sin cable Rowenta Airforce 360** cuenta con un depósito de polvo de 0,65 litros de capacidad, que se puede retirar fácilmente para limpiarlo.
 
+![Análisis y prueba - Esta aspiradora viene con una selección reducida de accesorios](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390410/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-Accesorios_blstsw.jpg "Análisis y prueba - Esta aspiradora viene con una selección reducida de accesorios")
+
 #### Opiniones en Amazon
 
 Los **compradores de este modelo en Amazon España destacan su potencia** y la facilidad con la que limpia pelos de animales, sobre todo en modo turbo. Y aunque en este modo la autonomía se reduce bastante, consideran que esto queda compensado por el hecho de que permite limpiar todo en una sola pasada.
+
+![Análisis y prueba - Un aspiradora de mano cuando lo necesites](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390414/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-aspira-sofa_y3c5fa.jpg "Análisis y prueba - Un aspiradora de mano cuando lo necesites")
 
 También hay **buenas críticas a su cabezal con cepillo rotatorio**, que limpia rápidamente alfombras y suelos duros. Además hay un consenso general en que su peso está más que bien para un equipo de su categoría, aunque algunos consideran molesto que el aire de en la cara del usuario cuando se usa para limpiar rincones altos.
 
