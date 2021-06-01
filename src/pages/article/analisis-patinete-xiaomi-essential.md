@@ -97,7 +97,7 @@ relatedArticles:
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-essential/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "275"
       }
     }
     </script>
