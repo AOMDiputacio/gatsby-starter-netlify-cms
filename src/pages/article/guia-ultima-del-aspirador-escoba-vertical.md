@@ -300,6 +300,9 @@ Un **aspirador escoba sin cable debe limpiar todo tipo de superficies**, incluye
 
 Y aquí es donde debemos dar un vistazo a una característica muy importante en cualquier aspirador, la **capacidad de succión**.
 
+![Prueba y opinión - Limpia todas las superficies](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390411/Aspiradores%20verticales/Aspirador-escoba-vertical-Rowenta-RH9021-esquema-aspiracion_d3mnnp.jpg "Prueba y opinión - Limpia todas las superficies")
+
+
 Con este término nos referimos a la **cantidad de aire que puede aspirar por segundo** y que depende en gran parte de la potencia de su motor, tipo de filtro usado y de la boquilla o accesorio que pongamos en el pico de la aspiradora.
 
 Los fabricantes no suelen ser muy claros a la hora de indicar el poder de succión de sus productos. Pero en algunos casos podrás encontrar en su hoja técnico dos términos que te pueden orientar sobre qué tan potente es la succión del aspirador.
@@ -315,6 +318,8 @@ En último lugar, te advertimos que la **potencia del motor no significa que un 
 Y por último, toma nota de si el modelo de tu interés posee más de un modo de succión, que permita ajustar su potencia según el tipo de superficie a limpiar.
 
 ### Diseño, ergonomía y comodidad de uso
+
+![Análisis y opinión - Un diseño cuidado para esta aspiradora alemana](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390339/Aspiradores%20verticales/Aspirador-escoba-Bosch-Flexxo-4-conjunto_nm8ydt.jpg "Análisis y opinión - Un diseño cuidado para esta aspiradora alemana")
 
 Como dijimos antes, las **aspiradoras escoba sin cable son más ligeras y fáciles de usar** que los modelos con enchufe y las aspiradoras de trineo.
 
