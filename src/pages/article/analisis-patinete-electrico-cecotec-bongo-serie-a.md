@@ -98,7 +98,7 @@ relatedArticles:
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-a",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "330"
       }
     }
     </script>
