@@ -100,7 +100,7 @@ relatedArticles:
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "360"
       }
     }
     </script>
