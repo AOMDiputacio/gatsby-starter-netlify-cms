@@ -333,6 +333,8 @@ También debes tener en cuenta si poseen con una pantalla LCD que te indique el 
 
 Las **aspiradoras escoba sin cable cuentan con varios accesorios** para limpiar tanto el piso como otras superficies. La cantidad y tipo de **accesorios varían de un modelo a otro**, así  como entre los de gama baja, media y alta.
 
+![Análisis y opinión - Un kit de accesorios incluidos muy completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541850/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-accesorios_awhwmj.jpg "Análisis y opinión - Un kit de accesorios incluidos muy completo")
+
 Antes que nada, el **equipamiento mínimo aceptable es un cepillo para limpiar el piso**, que puede recoger tanto polvo como pelusa de suelos duros y moquetas. A esto se suma un tubo extensor para poder llegar a puntos altos o para facilitar su uso por parte de personas altas.
 
 Pero también debes tener en cuenta si poseen accesorios para aspirar las cortinas, techos altos y esquinas. Otro accesorio importante **si tienes mascotas es un cepillo especial para recoger pelos**.
@@ -340,6 +342,8 @@ Pero también debes tener en cuenta si poseen accesorios para aspirar las cortin
 Un accesorio que no siempre es tomado en cuenta antes de comprar una aspiradora escoba sin cable es su **base de carga**. Lo ideal es elegir un modelo cuya base de carga permita también **guardar la escoba aspiradora en posición vertical**, sin ocupar mucho espacio en el armario.
 
 ### El tamaño y peso, factor clave en las aspiradoras escoba sin cable
+
+![Prueba y opinión - Extremadamente práctico también para limpiar sofas y tapicerías](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390314/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7-Sofa_h8lvcj.jpg "Prueba y opinión - Extremadamente práctico también para limpiar sofas y tapicerías")
 
 El tamaño y peso de la escoba aspiradora sin cable son dos características que **pueden marcar la diferencia entre una buena compra o una mala decisión**.
 
@@ -352,6 +356,8 @@ Por lo general, los **modelos que se ubican alrededor de los 3 kilogramos de pes
 Finalmente, es importante señalar que **los modelos que tienen el motor, la batería y el peso en general cerca de la boquilla de aspiración serán más fáciles de manejar que los que lo tienen a nível de la mano**, como es el caso con los modelos Cecotec, por ejemplo.
 
 ### ¿Tiene autonomía suficiente para poder limpiar la casa?
+
+![Análisis y opinión - Siete baterías intercambiables](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390375/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-baterias_u3k3k6.jpg "Análisis y opinión - Siete baterías intercambiables")
 
 La autonomía es una característica clave que debemos ver en todo equipo eléctrico alimentado por batería. Ya sea un patinete, una bici eléctrica o un aspirador, la **batería es muy importante para determinar cuánto tiempo puede funcionar entre cargas**.
 
@@ -399,19 +405,28 @@ Si nuestra selección te pareció incompleta y quieres saber de más aspiradores
 
 ### Aspirador escoba sin cable JASHEN  V18, potencia para todo tipo de situación
 
+![Prueba y opinión - Eficaz tanto para el suelo que para aspirar el polvo de los muebles](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390375/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-con-y-sin-tubo_ufpyut.jpg "Prueba y opinión - Eficaz tanto para el suelo que para aspirar el polvo de los muebles")
+
 El **aspirador escoba sin cable JASHEN V18** es uno de los productos más versátiles del mercado, pues se trata de un potente **modelo 2 en 1 bien equipado para realizar todo tipo de limpieza**.
 
 Esto significa que no solo lo puedes usar como escoba eléctrica para limpiar el suelo y alfombras, sino también como **aspirador de mano para limpiar esos rincones más difíciles** y estrechos.
 
-Basado en **tecnología de aspiración ciclónica**, cuenta con un **poderoso motor sin escobillas de 350W de potencia** movido por una batería extraíble Samsung de iones de litio de 2500 mAh y 25,2V.
+Basado en **tecnología de aspiración ciclónica**, cuenta con un **poderoso motor sin escobillas de 350W de potencia** movido por una batería extraíble Samsung de iones de litio de 2500 mAh y 25V.
+
 
 Al ser extraíble puedes adquirir una segunda batería para aumentar su autonomía a la hora de limpiar, estimada en unos 40 minutos por carga (en modo de potencia mínima). Esta batería se puede recargar en solo 4 horas.
+
+![Análisis y opinión - Siete baterías intercambiables](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390375/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-baterias_u3k3k6.jpg "Análisis y opinión - Siete baterías intercambiables")
 
 Y hablando de potencia **este equipo tiene una fuerza de succión de 22 kilopascales** y se puede ajustar en tres modos: Mínimo (12 kPA), Automático y Máximo (22 kPA).
 
 **En modo automático, este aspirador varía la potencia según la cantidad de polvo** o sucio que detecte el sensor ubicado en su cabezal de barrido. Este cabezal es giratorio para poder limpiar mejor esquinas y zonas difíciles de la casa.
 
+![Análisis y prueba - Una potencia variable adaptada a todas las utilizaciones](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390380/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-potencia-variable_qurlef.jpg "Análisis y prueba - Una potencia variable adaptada a todas las utilizaciones")
+
 **Este aspirador escoba inalámbrico utiliza tecnología ciclónica** para aspirar el polvo y depositarlo en un receptáculo de 0,5 litros de capacidad, sin necesitar bolsas de papel o tela.
+
+![Análisis y opinión - Eficaz contra los pelos de mascota](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390379/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-perro_o29p13.jpg "Análisis y opinión - Eficaz contra los pelos de mascota")
 
 Pero lo mejor es que **este depósito puede vaciarse con solo pulsar un botón**, sin tener que tocar el polvo y sucio con las manos, **algo que agradecerás mucho si sufres de alergias**. 
 
@@ -420,6 +435,8 @@ Para limpiar el aire que retorna al ambiente y eliminar polen y ácaros, cuenta 
 En cuanto a su peso, listo para usar con cepillo eléctrico y tubo extendido **apenas alcanza los 2,5 kilogramos**.
 
 **Este modelo tiene una buena variedad de accesorios**, que incluyen un cabezal eléctrico con luces LED (que se enciende cuando detecta poca luz ambiente), un cepillo suave, **un cepillo eléctrico para limpiar tapicerías**, cepillo para alfombras, cepillo 2x1 para polvo y cepillo para suelo duro. Además se incluyen varios tipos de boquillas.
+
+![Prueba y opinión - Viene con una multitud de accesorios por toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390378/Aspiradores%20verticales/Aspirador-escoba-vertical-Jashen-accesorios_cbzth5.jpg "Prueba y opinión - Viene con una multitud de accesorios por toda la casa")
 
 Finalmente, destaca la presencia de una pantalla digital que te mostrará información sobre el nivel de energía de la batería y el estado del filtro. Su base de carga permite fijarlo a la pared, ocupando muy poco espacio.
 
