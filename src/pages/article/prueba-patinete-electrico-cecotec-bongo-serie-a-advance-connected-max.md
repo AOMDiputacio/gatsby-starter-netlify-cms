@@ -102,7 +102,7 @@ Esta excelente relación calidad precio así como unas prestaciones destacadas c
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "450"
       }
     }
     </script>
