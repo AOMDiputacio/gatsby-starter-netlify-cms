@@ -178,7 +178,7 @@ También hay quienes critican el peso, pero otros señalan que a pesar de esto *
 
 En resumen, este es un **equipo fácil de usar y mantener, perfecto para familias con niños y animales** y que está respaldado por una de las marcas más antiguas y respetadas del mercado.
 
-Cecotec Conga Rockstar 900 Ultimate ErgoWet, el rey de los aspiradores escoba sin cable
+### Cecotec Conga Rockstar 900 Ultimate ErgoWet, el rey de los aspiradores escoba sin cable
 La **aspiradora escoba sin cable Conga Rockstar 900 Ultimate ErgoWet** es uno de los modelos más potentes y a la vez de mejor precio que encontramos en el mercado europeo en este momento.
 
 Fabricada por la empresa española Cecotec, la Ultimate ErgoWet **incluye el brazo articulado del modelo ErgoFlex**, uno de los cuatro modelos que conforman la serie Rockstar 900.
