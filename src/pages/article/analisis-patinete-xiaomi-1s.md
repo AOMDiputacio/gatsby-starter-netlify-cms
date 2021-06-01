@@ -107,7 +107,7 @@ Finalmente, vale la pena mencionar que el Kugoo S1 es 40 Euros más barato que e
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-xiaomi-1-s/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "350"
       }
     }
     </script>
