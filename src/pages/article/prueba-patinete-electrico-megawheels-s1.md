@@ -108,7 +108,7 @@ Pensamos que se trata del mejor de su categoría.",
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-patinete-electrico-megawheels-s-1/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "220"
       }
     }
     </script>
