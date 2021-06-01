@@ -15,6 +15,8 @@ image: /img/logo.png
 imageAlt: Ligeros e inalambricos, los aspiradores escoba, o aspiradores
   verticales son uno de los electrodomésticos imprescindibles en apartamentos
   pequeños
+relatedArticles:
+  - article: Comparacion-de-aspiradores-y-guia-de-compra
 ---
 #### Tabla de contenido
 ```toc
