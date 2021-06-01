@@ -99,7 +99,7 @@ Especialmente si nos creemos que la batería del S2 pro tiene una esperanza de v
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "470"
       }
     }
     </script>
