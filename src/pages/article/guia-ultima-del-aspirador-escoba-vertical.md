@@ -208,11 +208,17 @@ Pero además **cuenta con un depósito de fregado para lavar pisos y dos cepillo
 
 Esta aspiradora escoba **se puede transformar en aspirador de mano** y resalta por tener una **potencia de succión muy elevada, de 26 kilopascales de presión** (200 vatios de aire o aW). Con un peso de solo 2,5 kilogramos, se trata del modelo más potente en la categoría de las escobas eléctricas ligeras.
 
+![Análisis y prueba - Práctico también como aspirador de mano](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541847/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-conjunto-mesa-de-cocina_vulxhw.jpg "Análisis y prueba - Práctico también como aspirador de mano")
+
 Esto lo logra gracias a su motor sin escobillas de 580W. Pero además, cuenta con una poderosa batería de 3000 mAh y 29,6V que le brinda una gran **autonomía de 90 minutos (en modo eco), el doble que la ofrecida por muchos modelos de su categoría**.
 
 **La batería de esta escoba eléctrica Cecotec se recarga en solo 2 horas**, gracias a su sistema de carga rápida de última generación. Y además su base de carga está diseñada para colgarla de la pared, lo que ayuda a ahorrar espacio al guardarla.
 
+![Análisis y opinión - Ocupa poco espacio en los apartamentos más pequeños](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541852/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-base-recarga_qifgjz.jpg "Análisis y opinión - Ocupa poco espacio en los apartamentos más pequeños")
+
 Posee también un sistema de regulación automática de potencia, que ayuda a optimizar la eficiencia energética y el consumo de batería según el tipo y cantidad de sucio que se tenga que limpiar.
+
+![Análisis y opinión - Una pantalla muy completa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541848/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-conjunto-pantalla_hfjofq.jpg "Análisis y opinión - Una pantalla muy completa")
 
 Otra particularidad de la **aspiradora Cecotec RockStar 900 Ultimate ErgoWet** es que los accesorios se quitan con solo pulsar un botón, facilitando cambiar de una boquilla o cepillo a otro.
 
@@ -228,7 +234,11 @@ También incluye un cepillo para tejidos y un cepillo Jalisco diseñado para rec
 
 Este accesorio **incluye una mopa de microfibra de alta calidad y el depósito especial para fregar pisos WaterTank**, lo que le permite a la escoba **aspirar y fregar simultáneament**e, con un nivel de limpieza excepcional.
 
+![Análisis y opinión - Un kit de accesorios incluidos muy completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541850/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-accesorios_awhwmj.jpg "Análisis y opinión - Un kit de accesorios incluidos muy completo")
+
 Finalmente, la **aspiradora Conga RockStar 900 Ultimate ErgoWet** cuenta con una **pantalla digital que muestra información** sobre el nivel de batería, alertas, potencia de succión e incluso da recomendaciones al usuario.
+
+![Análisis y prueba - La pantalla permite configurar el aparato](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541853/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-pantalla2_jmx12z.jpg "Análisis y prueba - La pantalla permite configurar el aparato")
 
 #### Opiniones en Amazon
 
