@@ -231,10 +231,7 @@ En cuanto a las críticas, muchos usuarios **lamentan la ausencia de servicio t�
 </div><div class="col">
 <div class="cons-header">Se puede mejorar</div>
 <div class="cons-item">Materiales plásticos poco resistentes al uso, especialmente a nivel del brazo articulado</div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
-<div class="cons-item"></div>
+
 </div>
 </div>
 
