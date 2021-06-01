@@ -100,7 +100,7 @@ Si añadimos que este scooter se ha visto en Amazon por menos de 400 Euros (ocas
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "500"
       }
     }
     </script>
