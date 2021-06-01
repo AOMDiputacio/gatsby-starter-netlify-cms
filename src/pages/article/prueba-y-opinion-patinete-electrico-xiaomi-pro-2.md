@@ -105,7 +105,7 @@ Por 35 Euros más, el modelo Hiboy S2 Pro tiene un motor de 350 W, es decir 50 W
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "450"
       }
     }
     </script>
