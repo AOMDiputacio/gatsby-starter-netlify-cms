@@ -323,9 +323,9 @@ De nada vale comprar la aspiradora mas bonita y moderna, si su batería es insuf
 
 Ya que el tamaño del aspirador debe ser moderado, lo ideal es que la **combinación de su batería y motor ofrezca una autonomía de 30 a 60 minutos**. Esto es suficiente para una limpieza normal en nuestra casa.
 
-Sin embargo, hay que tomar en cuenta que los tiempos de autonomía que los fabricantes presumen se miden en condiciones de funcionamiento a baja velocidad y exigir mucho al motor.
+Sin embargo, hay que tomar en cuenta que **los tiempos de autonomía que los fabricantes presumen se miden en condiciones de funcionamiento a baja velocidad**.
 
-Por lo tanto, en una limpieza real es posible que la batería ion-litio no llegue a los 25 a 45 minutos de autonomía, lo que se reduce todavía más cuando usamos los modos de succión más potentes.
+Por lo tanto, **en una limpieza real es posible que la batería ion-litio no llegue a los 25 a 45 minutos de autonomía**, lo que se reduce todavía más cuando usamos los modos de succión más potentes.
 
 Considerando que las baterías pierden progresivamente su poder de carga con cada ciclo de uso, es **preferible optar por modelos con baterías extraíbles**. En este caso puedes adquirir una segunda batería para poder seguir aspirando tu casa cuando la primera se agota.
 
@@ -333,27 +333,27 @@ Considerando que las baterías pierden progresivamente su poder de carga con cad
 
 Los modelos antiguos de aspiradora usaban un filtro de papel que actuaba como un depósito para el polvo y que debía ser desechado una vez que se llenaba.
 
-Hoy en día el **polvo queda directamente en un depósito especia**l, mientras que el aire que sale de la aspiradora es filtrado para evitar que regrese al ambiente.
+Hoy en día, con la tecnología ciclónica (o multiciclónica), el **polvo queda directamente atrapado en un depósito especial**, mientras que el aire que sale de la aspiradora es filtrado para evitar que el polvo más fino regrese al ambiente.
 
 Las **aspiradoras escoba sin cable más usadas suelen tener un depósito de 0,5 a 1,2 litros** de capacidad. Hay que verificar que el modelo de tu interés tenga un depósito fácil de limpiar después de cada uso sin exponerte al polvo, sobre todo si eres alérgico.
 
-En cuanto a los filtros, **procura escoger un modelo con filtro HEPA**, uno de los más eficientes que podrás encontrar en cualquier tipo de aspiradora moderna.
+En cuanto a los filtros, **procura escoger un modelo con filtro HEPA**, uno de los más eficientes, que podrás encontrar en cualquier tipo de aspiradora moderna.
 
 Se trata de filtros de alta eficiencia, capaces de retener un 99,97 del polvo del aire y filtrar partículas de apenas 0,3 micrones de diámetro.
 
 Otra variedad de filtro es el denominado “ciclónico”. Funciona creando un remolino que hace que el aire limpio ascienda por el tubo de aspirado mientras que el polvo, más pesado que el aire, cae en el depósito.
 
-Ten en cuenta que los  **modelos con filtro ciclónico pueden ser más caros** que los que usan algún tipo de filtro metálico, de tela o de material sintético.
+Ten en cuenta que los  **modelos con filtro ciclónico pueden ser más caros** que los que usan algún tipo de filtro metálico, de tela o de material sintético. Como nota personal, los filtros de papel eran relativamente baratos, evitaban todo contacto con la suciedad, y no se debía lavar ningún filtro.
 
-Sin embargo, requiere muy poco mantenimiento y los ciclones **no pierden eficiencia cuando el depósito se llena de polvo**, a diferencia de los otros sistemas.
+Sin embargo,  los ciclones requieren muy poco mantenimiento y **no pierden eficiencia cuando el depósito se llenan de polvo**, a diferencia de los otros sistemas.
 
 ### Conclusiones
 
 Finalmente, **debes considerar la garantía que ofrece el fabricante** sobre defectos y la política de devoluciones de su distribuidor.
 
-Los **aspiradores escoba sin cable son susceptibles a golpes y daños** y es importante saber que podrás recibir servicio técnico ante cualquier falla. 
+Los **aspiradores escoba sin cable son sensibles a los golpes y otros daños** y es importante saber que deberás recurrir al servicio técnico ante cualquier falla. 
 
-También es importante revisar la opinión de otros compradores en los portales como Amazon y Ebay, pues te permitirá saber qué experiencia de uso han tenido con el modelo que te interesa, cuál es su vida útil y si han recibido (o no) servicio técnico del fabricante.
+También es importante revisar la opinión de otros compradores en los portales como Amazon, pues te permitirá saber qué experiencia de uso han tenido con el modelo que te interesa, cuál es su vida útil y si han recibido (o no) servicio técnico del fabricante.
 
 En Europa se exige una garantía de dos años en la compra de este tipo de aparatos para el hogar, pero las **mejores marcas pueden ofrecer coberturas ampliadas** y garantizar cualquier repuesto o accesorio que necesites.
 
@@ -504,9 +504,9 @@ También hay quienes consideran insuficiente la capacidad del depósito de polvo
 <div class="pros-item">Excelente autonomía y potencia</div>
 <div class="pros-item">Insuperable calidad de materiales y diseño muy cómodo y elegante</div>
 <div class="pros-item">Cabezal mecanizado de buena calidad, capaz de girar 90 grados para limpiar esquinas</div>
-<div class="pros-item"></div>
-<div class="pros-item"></div>
-</div><div class="col">
+</div>
+
+<div class="col">
 <div class="cons-header">Se puede mejorar</div>
 <div class="cons-item">Batería requiere 5 horas para recargarse</div>
 <div class="cons-item">Forma y posición del depósito impiden “acostar” la aspiradora para limpiar bajo muebles y camas</div>
