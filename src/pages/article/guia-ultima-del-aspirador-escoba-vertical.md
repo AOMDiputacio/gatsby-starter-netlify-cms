@@ -219,24 +219,24 @@ En cuanto a las críticas, muchos usuarios **lamentan la ausencia de servicio t�
 
 #### Pros y contras del aspirador Ultimate ErgoWet
 
-"<div class=""row"">
+<div class="row">
 
-<div class=""col"">
-<div class=""pros-header"">Nos gustó</div>
-<div class=""pros-item"">Potencia excepcional de 580W y nivel de succión de 26 kPa le dan poder para limpiar cualquier tipo de sucio</div>
-<div class=""pros-item"">Función Smart Auto optimiza la duración de la batería</div>
-<div class=""pros-item"">Autonomía de 90 minutos, suficiente para limpiar una casa grande</div>
-<div class=""pros-item"">Pantalla digital completa que puede mostrar consejos de uso</div>
-<div class=""pros-item"">Excelente variedad de accesorios, incluyendo el depósito de fregado WaterTank y el tubo articulado para limpiar debajo de los muebles y zonas altas</div>
-</div><div class=""col"">
-<div class=""cons-header"">Se puede mejorar</div>
-<div class=""cons-item"">Materiales plásticos poco resistentes al uso, especialmente a nivel del brazo articulado</div>
-<div class=""cons-item""></div>
-<div class=""cons-item""></div>
-<div class=""cons-item""></div>
-<div class=""cons-item""></div>
+<div class="col">
+<div class="pros-header">Nos gustó</div>
+<div class="pros-item">Potencia excepcional de 580W y nivel de succión de 26 kPa le dan poder para limpiar cualquier tipo de sucio</div>
+<div class="pros-item">Función Smart Auto optimiza la duración de la batería</div>
+<div class="pros-item">Autonomía de 90 minutos, suficiente para limpiar una casa grande</div>
+<div class="pros-item">Pantalla digital completa que puede mostrar consejos de uso</div>
+<div class="pros-item">Excelente variedad de accesorios, incluyendo el depósito de fregado WaterTank y el tubo articulado para limpiar debajo de los muebles y zonas altas</div>
+</div><div class="col">
+<div class="cons-header">Se puede mejorar</div>
+<div class="cons-item">Materiales plásticos poco resistentes al uso, especialmente a nivel del brazo articulado</div>
+<div class="cons-item"></div>
+<div class="cons-item"></div>
+<div class="cons-item"></div>
+<div class="cons-item"></div>
 </div>
-</div>"
+</div>
 
 En conclusión, este es uno de los mejores aspiradoras escoba del mercado en términos de relación precio potencia y con un **precio mucho más bajo que su equivalente de otras marcas** conocidas.
 
