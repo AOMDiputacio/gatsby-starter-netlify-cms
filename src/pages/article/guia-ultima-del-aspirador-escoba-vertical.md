@@ -16,7 +16,6 @@ imageAlt: Ligeros e inalambricos, los aspiradores escoba, o aspiradores
   verticales son uno de los electrodomésticos imprescindibles en apartamentos
   pequeños
 ---
-
 #### Tabla de contenido
 ```toc
 ```
@@ -179,6 +178,7 @@ También hay quienes critican el peso, pero otros señalan que a pesar de esto *
 En resumen, este es un **equipo fácil de usar y mantener, perfecto para familias con niños y animales** y que está respaldado por una de las marcas más antiguas y respetadas del mercado.
 
 ### Cecotec Conga Rockstar 900 Ultimate ErgoWet, el rey de los aspiradores escoba sin cable
+
 La **aspiradora escoba sin cable Conga Rockstar 900 Ultimate ErgoWet** es uno de los modelos más potentes y a la vez de mejor precio que encontramos en el mercado europeo en este momento.
 
 Fabricada por la empresa española Cecotec, la Ultimate ErgoWet **incluye el brazo articulado del modelo ErgoFlex**, uno de los cuatro modelos que conforman la serie Rockstar 900.
@@ -273,7 +273,7 @@ Con este término nos referimos a la **cantidad de aire que puede aspirar por se
 
 Los fabricantes no suelen ser muy claros a la hora de indicar el poder de succión de sus productos. Pero en algunos casos podrás encontrar en su hoja técnico dos términos que te pueden orientar sobre qué tan potente es la succión del aspirador.
 
-Se trata de los términos “vatios de aire” y “kilopascales”.
+Se trata de los términos **“vatios de aire”** y **“kilopascales”**.
 
 El término vatio de aire se refiere a cuántos vatios requiere la aspiradora para transportar una unidad de aire desde la boquilla al depósito. Puedes encontrar este valor expresado en VA (vatio-aire) o WA (watts-air).
 
@@ -291,7 +291,7 @@ En todo caso, debes asegurarte de escoger un modelo liviano, fácil de manipular
 
 Es **preferible que elijas un modelo cuyo pico se pueda separar**, convirtiendo al equipo en un **aspirador de mano perfecto para limpiar el coche** o cualquier mueble donde es incómodo usarlo en modo “escoba”.
 
-También debes tener en cuenta si poseen con una pantalla LCD que te indique el nivel de batería y modo de operación, entre otros valores.
+También debes tener en cuenta si poseen con una pantalla LCD que te indique el nivel de batería y modo de operación, entre otros parametros.
 
 ### Accesorios y extras de los aspiradores escobas sin cable
 
@@ -309,9 +309,11 @@ El tamaño y peso de la escoba aspiradora sin cable son dos características que
 
 En este tipo de equipos lo primero que **se busca es comodidad y facilidad de uso**, lo que te debe llevar a preferir el que tenga menor peso, que será mucho más fácil de mover y usar durante una larga jornada de limpieza.
 
-Este criterio también vale para lo que corresponde a su transporte y almacenamiento al finalizar el uso. Un m**enor peso implica menor volumen y tamaño** y por lo tanto, s**erá más fácil encontrar un rincón discreto donde guardarlo**.
+Este criterio también vale para lo que corresponde a su transporte y almacenamiento al finalizar el uso. Un **menor peso implica menor volumen y tamaño** y por lo tanto, **será más fácil encontrar un rincón discreto donde guardarlo**.
 
 Por lo general, los **modelos que se ubican alrededor de los 3 kilogramos de peso** son considerados mucho más fáciles de maniobrar al tiempo que **ofrecen buena relación de potencia de succión y autonomía de batería**.
+
+Finalmente, es importante señalar que **los modelos que tienen el motor, la batería y el peso en general cerca de la boquilla de aspiración serán más fáciles de manejar que los que lo tienen a nível de la mano**, como es el caso con los modelos Cecotec, por ejemplo.
 
 ### ¿Tiene autonomía suficiente para poder limpiar la casa?
 
@@ -894,4 +896,3 @@ Si
 <td>120</td>
 </tr>
 </table>
-
