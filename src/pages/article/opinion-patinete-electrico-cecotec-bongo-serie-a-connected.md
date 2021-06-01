@@ -99,7 +99,7 @@ Sin embargo, por 10 Euros más el Kugoo S1 tendrá una autonomía muy superior, 
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "350"
       }
     }
     </script>
