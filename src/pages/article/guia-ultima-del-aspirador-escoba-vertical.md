@@ -71,7 +71,7 @@ Para ayudarte a **escoger el modelo de aspirador escoba sin cables** que más se
   </tr>
 </table>
 
-**\* precios en Mayo del 2021**
+\* precios en Mayo del 2021
 
 ### Aspirador escoba sin cable SAMBA Vertical
 
