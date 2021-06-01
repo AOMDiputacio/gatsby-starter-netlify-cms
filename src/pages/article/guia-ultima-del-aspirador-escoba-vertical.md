@@ -129,15 +129,20 @@ Además, se trata de un **modelo fácil de instalar y operar**, que casi no nece
 
 ### Aspirador Bissell CrossWave Cordless, potencia y facilidad a la hora de limpiar pisos y alfombras
 
-![Prueba y opinión - La aspiradora que lava y aspira](https://res.cloudinary.com/aom/image/upload/c_scale,W_500/v1622390330/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-_hkf2hc.jpg "Prueba y opinión - La aspiradora que lava y aspira")
+![Prueba y opinión - La aspiradora que lava y aspira](https://res.cloudinary.com/aom/image/upload/c_scale,w_200/v1622390330/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-_hkf2hc.jpg "Prueba y opinión - La aspiradora que lava y aspira")
+
 
 La **aspiradora escoba Bissell CrossWave Cordless** es un equipo todo-en-uno pensado para quienes necesitan hacer una limpieza completa y profunda que incluya **aspirar, lavar y secar pisos duros y alfombras**, de forma eficiente y rápida.
+
+![Prueba y opinión - Aspira incluso los liquidos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390326/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-aspira-agua_xbcyzp.jpg "Prueba y opinión - Aspira incluso los liquidos")
 
 Este es un producto de la marca estadounidense Bissel, que tiene una larga trayectoria produciendo equipos de alta calidad para la limpieza del hogar.
 
 En este caso nos encontramos con una aspiradora que tiene una potencia de succión de 100 aW, más que suficiente para aspirar todo tipo de suciedad, sea esta sólida o líquida.
 
-Por lo tanto **es perfecta para las casas donde hay animales y/o niños,** en los que hay que limpiar pelos, zumos derramados, papillas y todo tipo de sólidos y semilíquidos.
+Por lo tanto **es perfecta para las casas donde hay animales y/o niños**, en los que hay que limpiar pelos, zumos derramados, papillas y todo tipo de sólidos y semilíquidos.
+
+![Análisis y opinión - Un cabezal motorizado para extraer la suciedad más incrustada](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390326/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-multiples-superficies_to4x7p.jpg "Análisis y opinión - Un cabezal motorizado para extraer la suciedad más incrustada")
 
 **Esta aspiradora escoba multifuncional no utiliza bolsa** ni depósito seco para recoger la suciedad. En su lugar, cuenta con un depósito de agua limpia (con detergente) de 820 mililitros y otro para recoger el agua sucia de 620 mililitros.
 
@@ -149,11 +154,16 @@ Solo basta con pulsar el botón Rug (alfombra) o Hard Floor (suelo duro) en el a
 
 En este cabezal  encontramos un **cepillo giratorio que permite limpiar polvo seco o sustancias semilíquidas pegadas en las alfombras**. También tiene un inyector que expulsa agua limpia para hacer el lavado de la superficie, el cual se activa pulsando un botón en el asa.
 
+![Análisis y prueba - Su doble depósito permite lavar todas las superficies](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390326/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-limpia_wfsruo.jpg "Análisis y prueba - Su doble depósito permite lavar todas las superficies")
+
+
 La **escoba eléctrica Bissel CrosWave Cordless pesa en vacío 5,7 kilogramos**, lo que la ubica en el rango semipesado. Este peso aumenta a los 8,2 kilogramos cuando se llenan sus depósitos de agua.
 
 **Posee una potencia de succión de 100 aW,** similar a otros modelos costosos de gama media. Gracias a su batería de 36V **tiene una autonomía de 25 a 28 minutos**, suficiente para aspirar, fregar y secar el área de tu casa que necesites, en una sola pasada.
 
 Su estación de carga permite recargar la batería en unas 4 horas así como limpiar la aspiradora y sus cepillos después de usarla, facilitando mucho su mantenimiento.
+
+![Análisis y prueba - Polivalente para todos tipos de superficies y de suciedad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390328/Aspiradores%20verticales/Aspirador-escoba-vertical-Bissel-Crosswave-suelo-comedor_glf6va.jpg "Análisis y prueba - Polivalente para todos tipos de superficies y de suciedad")
 
 #### Opiniones de los compradores en Amazon España
 
@@ -183,11 +193,18 @@ En resumen, este es un **equipo fácil de usar y mantener, perfecto para familia
 
 ### Cecotec Conga Rockstar 900 Ultimate ErgoWet, el rey de los aspiradores escoba sin cable
 
+![Prueba y opinión - La mejor relación calidad precio](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541850/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-accesorios_awhwmj.jpg "Prueba y opinión - La mejor relación calidad precio")
+
 La **aspiradora escoba sin cable Conga Rockstar 900 Ultimate ErgoWet** es uno de los modelos más potentes y a la vez de mejor precio que encontramos en el mercado europeo en este momento.
 
 Fabricada por la empresa española Cecotec, la Ultimate ErgoWet **incluye el brazo articulado del modelo ErgoFlex**, uno de los cuatro modelos que conforman la serie Rockstar 900.
 
+![Análisis y opinión - El tubo de la aspiradora se dobla para llegar a los rincones sin esforsarze](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541850/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-tubo-doblado_dbw58s.jpg "Análisis y opinión - El tubo de la aspiradora se dobla para llegar a los rincones sin esforsarze")
+
+
 Pero además **cuenta con un depósito de fregado para lavar pisos y dos cepillos especiales**, uno de ellos multifuncional y el otro para recoger polvo fino.
+
+![Análisis y opinión - Una limieza fácil en todo tipo de superficie](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622541852/Aspiradores%20verticales/Aspirador-escoba-cecotec-conga-rockstar-900-ultimate-ergowet-aspira-suelo-duro_ddnpze.jpg "Análisis y opinión - Una limieza fácil en todo tipo de superficie")
 
 Esta aspiradora escoba **se puede transformar en aspirador de mano** y resalta por tener una **potencia de succión muy elevada, de 26 kilopascales de presión** (200 vatios de aire o aW). Con un peso de solo 2,5 kilogramos, se trata del modelo más potente en la categoría de las escobas eléctricas ligeras.
 
