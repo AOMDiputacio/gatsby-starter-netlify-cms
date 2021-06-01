@@ -639,21 +639,31 @@ En conclusión el **aspirador escoba sin cable Rowenta RH9021 Air Force 360 es u
 
 ### Aspiradora AEG CX7-2-45AN, ideal para quienes tienen mascotas
 
+![Análisis y opinión - Viene equipado con los accesorios más habituales](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390310/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7-accesorios-conjunto_yxzogi.jpg "Análisis y opinión - Viene equipado con los accesorios más habituales")
+
 La **aspiradora escoba sin cable AEG CX7-2-45AN es perfecta para quienes tengan mascotas** y necesiten limpiar polvo y pelos tanto en el suelo de su casa como en los muebles de tapicería, alfombras, interior del coche y cualquier rincón poco accesible.
 
 Se trata de una aspiradora 2x1, pues demás de funcionar como una escoba eléctrica, **este equipo también se puede convertir fácilmente en un aspirador de mano**, lo que te permite usarlo en cualquier tipo de situación.
+
+![Análisis y opinión - Un diseño depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390311/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7-salon_koir7x.jpg "Análisis y opinión - Un diseño depurado y elegante")
 
 **Destaca por su ligero peso con un total de 2,48 kilogramos**, que se reduce a solo 1,08 kilogramos cuando se separa su sección principal para usarla como aspirador de mano.
 
 Además cuenta con el kit de accesorios AKIT 360, que incluye un cepillo de succión miniturbo diseñado para atrapar la pelusa de animales, ácaros y polvo en muebles tapizados, camas o alfombras.
 
+![Prueba y opinión - Extremadamente práctico también para limpiar sofas y tapicerías](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390314/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7-Sofa_h8lvcj.jpg "Prueba y opinión - Extremadamente práctico también para limpiar sofas y tapicerías")
+
 A esto se suma un cepillo EasySteer para el barrido de suelos duros, que puede girar 180 grados para limpiar esquinas y posee ruedas para facilitar su desplazamiento sobre las superficies.
 
 Otro accesorio incluido es la boquilla integrada Easy Reach, que permite llegar a puntos de difícil acceso como esquinas, espacios entre los cojines de sofás o en el interior de cajones y armarios.
 
+![Prueba y opinión - Versatil para aspirar todo el polvo de tu casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390311/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7-polivalente_rgpktz.jpg "Prueba y opinión - Versatil para aspirar todo el polvo de tu casa")
+
 Esta boquilla se encuentra integrada en el pico de la aspiradora y se puede extraer cuando lo necesites para aspirar en superficies de difícil acceso, sin tener que detener la limpieza para colocar este accesorio.
 
 La **aspiradora escoba sin cable AEG CX7-2-45AN cuenta con un sistema de tres luces LED Dust Spooter**, que facilita limpiar las áreas oscuras.
+
+![Análisis y prueba - El sistema de alumbrado te permite ver la suciedad incluso en los rincones oscuros](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622390311/Aspiradores%20verticales/Aspirador-escoba-AEG-CX7_luz_tjclt4.jpg "Análisis y prueba - El sistema de alumbrado te permite ver la suciedad incluso en los rincones oscuros")
 
 En cuanto a su sistema de aspirado, utiliza aspiración ciclónica, que elimina el uso de bolsa. **Los residuos quedan almacenados en un depósito de 0,5 litros** de capacidad.
 
