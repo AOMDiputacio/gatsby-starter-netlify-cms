@@ -103,7 +103,7 @@ Gracias a estas características, convierten a este patinete en nuestro favorito
         "@type": "Offer",
         "url": "https://guiadelconsumidor.es/patinetes-electricos/opinion-patinete-electrico-kugoo-s-1/",
         "priceCurrency": "EUR",
-        "price": "250"
+        "price": "270"
       }
     }
     </script>
