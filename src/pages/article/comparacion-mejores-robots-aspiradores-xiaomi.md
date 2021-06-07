@@ -239,23 +239,30 @@ Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las ne
 
 Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
 
-![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
+
+![Análisis y prueba - Estructura del filtro](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-filtro_r55cbd.jpg "Análisis y prueba - Estructura del filtro")
 
 
 
 La marca apuesta en esta ocasión por un motor NIDEC que ofrece potencia de succión de 2200 Pascales. **El depósito para agua del MiJia G1 es de 200 ml**, ideal para fregar y barrer.
 
 
-
 La bomba de agua electrónica que incorpora el equipo le permite ejecutar sus funciones  en diferentes tipos de superficies con la misma efectividad.
+
+![Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884083/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-cambio-superficies_b7ftb1.jpg "Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie")
+
 
 
 
 El **sistema de navegación de este robot Xiaomi** es a través de sensores, esto lo convierte en un modelo más básico si tomamos en cuenta que sus competidores cuentan con navegación láser.
 
+![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
+
 
 
 La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos muebles y sofás gracias a su altura de solo 82 milímetros** de alto. Este robot aspiradora incorpora ruedas que lo hacen capaz de superar obstáculos de 1,7 centímetros.
+
+![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
 
 
 
@@ -272,6 +279,8 @@ A través de la APP tienes la alternativa de configurar el menú de opciones, ad
 
 
 También te brinda la opción de seleccionar zonas específicas de tu casa, para que el robot limpie puntualmente.
+
+![Análisis y opinión - Caracteristicas del Xiaomi G1](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-caracteristicas_j8xdgg.jpg "Análisis y opinión - Caracteristicas del Xiaomi G1")
 
 
 
@@ -291,6 +300,8 @@ La mayoría de las opiniones sobre este robot aspiradora de Xiaomi, son excelent
 Se refieren en gran medida a la excelente relación calidad precio del equipo. Además, aplauden el modo silencioso del robot y su efectividad a la hora de limpiar migas o polvo.
 
 Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan la capacidad que tiene su depósito de agua.
+
+![Prueba y opinión - Un aspirador completo para mantener la casa limpia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-accesorios_ob7odo.jpg "Prueba y opinión - Un aspirador completo para mantener la casa limpia")
 
 
 
@@ -328,35 +339,56 @@ Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan
 
 
 
-
 ## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología de avanzada
 
-Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max. **Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
+
+
+Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max**. Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
+
+
 
 Este es el equipo que buscas si quieres que tus pisos luzcan impecables a pesar de las travesuras de tus mascotas. Es fiable, capaz de desempeñarse con eficiencia hasta en los entornos más complicados.
 
+
+
 Incluye un sistema de navegación inteligente por medio de láser y su autonomía es de sus mejores características. **Roborock S4 Max incorpora una enorme batería de litio de 5.200 mAh **que le permite abarcar áreas más extensas con una misma carga.
+
+
 
 Su autonomía representa una de las más amplias del mercado de robots aspiradoras inteligentes, con 180 minutos continuos antes de recargarse.
 
+
+
 El diseño de este moderno equipo incluye tres botones en su parte superior para el manejo manual. A través de estos mandos podemos iniciar la limpieza o  enviar al **robot aspiradora** a su base de carga.
+
+
 
 Pero, si prefieres lo simple y cómodo, tienes la opción de **manejar el Roborock S4 Max por medio de una aplicación móvil **desde la comodidad de cualquier dispositivo electrónico.
 
 Desde la APP tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
 
 
+
+
 ### Lo que opinan los usuarios del Roborock S4 Max
+
+
 
 En general la **valoración del Roborock S4 Max** se basa en su desempeño en diferentes tipos de suelos. En suelos de maderas el funcionamiento del equipo se considera excelente.
 
 Al parecer el **Roborock S4 Max** hace la diferencia limpiando en lugares de difícil acceso, sobre todo en este tipo de superficie.
 
+
+
 Probando el desempeño del equipo en alfombras lisas la labor fue realizada sin ningún inconveniente, de hecho el trabajo fue catalogado como perfecto.
 
 **Recomiendan probar el Roborock S4 Max en alfombras** pero en modalidad turbo, para que el trabajo se realice más eficientemente.
 
+
+
 En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sobre todo para los que viven en pisos de grandes dimensiones.
+
+
 
 
 ### ¿Cuáles son las ventajas y las desventajas del Roborock S4 Max?
@@ -621,23 +653,37 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 
 El sistema de vibración sónica que incorpora **Roborock S7** lo convierte en un equipo que friega y aspira más eficientemente. Potencia máxima y gran autonomía, son algunas de las características de este modelo, sigue aquí para que lo conozcas a fondo.
 
+
+
 En general, la marca sorprende por sus modernos y eficientes robots aspiradoras. **Roborock S7** es una apuesta elevada porque incorpora mejoras atractivas para potenciar su eficacia.
 
-Una de esas mejoras se enfocó en el algoritmo de navegación y posicionamiento. La marca insiste en asegurar que el sistema de fregado es más eficiente en el **Roborock S7.**
+Una de esas mejoras se enfocó en el algoritmo de navegación y posicionamiento. La marca insiste en asegurar que el sistema de fregado es más eficiente en el **Roborock S7**.
+
+
 
 Agregaron en su diseño  un motor de vibración para que la mopa húmeda pueda frotar y quitar las manchas en las superficies. En otras palabras potenciaron este aspecto tan importante en un robot aspiradora.
 
+
+
 El diseño de este equipo  es robusto, de hecho es uno de los modelos más grande en diámetro y su aspecto es chato. Estas características pudieran dificultad la limpieza en zonas estrechas.
+
+
 
 **La potencia de aspiración del Roborock S7 alcanza los 2.500 pascales** y su autonomía es de 180 minutos, es decir es capaz de limpiar por 3 horas continuas con una misma carga.
 
 Si las habitaciones de tu casa tienen alfombras, puedes **configurar el Roborock S7** de acuerdo las necesidades de limpieza.
 
+
+
 Por ejemplo, activa el modo turbo para más potencia en el fregado y una navegación silenciosa. Si tu alfombra es de pelo corto selecciona el modo de fregado, así el equipo fregará  y aspirará la zona.
+
+
 
 Tiene una opción para evitar la alfombra, si es lo que necesitas que haga la aspiradora inteligente del ecosistema Xiaomi.
 
-Además, puedes  **manejar las funciones del Roborock S7 a través de una aplicación móvil. **Se trata de una App intuitiva de fácil acceso y configuración.
+
+
+Además, puedes  **manejar las funciones del Roborock S7 a través de una aplicación móvil**. Se trata de una App intuitiva de fácil acceso y configuración.
 
 
 
@@ -648,7 +694,11 @@ Además, puedes  **manejar las funciones del Roborock S7 a través de una aplica
 
 Como satisfactoria, así califican la mayoría de los usuarios al **Roborock S7.** Coinciden en decir que está lejos de alcanzar la eficiencia óptima en limpieza,  que logra una persona con una escoba y una mopa.
 
+
+
 Pero, en general cumple con sus funciones satisfactoriamente y la experiencia con su avanzada tecnología ha sido igualmente aceptable.
+
+
 
 Consideran que se trata del equipo ideal para el mantenimiento de casas con mascotas que necesitan una limpieza diaria.
 
@@ -674,12 +724,6 @@ Consideran que se trata del equipo ideal para el mantenimiento de casas con masc
 <div class="cons-item">Su precio es bastante elevado.</div>
 </div>
 
-
-
-
-
-
-"
 
 
 
