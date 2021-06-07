@@ -13,7 +13,7 @@ slug: comparacion-mejores-robots-aspiradores-xiaomi
 date: 2021-06-07T10:01:00.558Z
 tags:
   - tag: aspiradoras
-  - tag: patinete-xiaomi
+  - tag: guias
 image: /img/logo.png
 imageAlt: De todos los modelos Xiaomi, hemos identificado los mejores robots aspiradores
 ---
