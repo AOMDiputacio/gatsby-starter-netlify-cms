@@ -79,9 +79,14 @@ Cabe destacar que **todos los modelos presentados nos parecieron dignos de inter
 
 ### Aspirador escoba sin cable SAMBA Vertical
 
+![Análisis y opinión - Un aspirador muy completo por un precio más que asequible](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814647/Aspiradores%20verticales/Aspirador-escoba-Samba-descripcion-accesorios_e6klnp.jpg "Análisis y opinión - Un aspirador muy completo por un precio más que asequible")
+
+
 Gracias a una combinación de bajo precio y excelentes características, el **aspirador escoba sin cable SAMBA Vertical es uno de los modelos más vendidos del momento**.
 
 Su precio de 60 Euros en Amazon sorprende al considerar que este equipo **compite en funciones y potencia con modelos que pueden costar hasta 2 y 3 veces más** en el mercado europeo.
+
+![Prueba y opinión - El aspirador vertical que hace de todo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814646/Aspiradores%20verticales/Aspirador-escoba-Samba-caracteristicas_viyvmd.jpg "Prueba y opinión - El aspirador vertical que hace de todo")
 
 Está diseñado bajo la configuración 2 en 1, por lo que **puede usarse como escoba vertical o como aspirador de mano**. En modo escoba su peso apenas llega a 1,8 kilogramos, mientras que en modo aspirador de mano no sobrepasa los 700 gramos, siendo por tanto un equipo muy cómodo y fácil de manipular.
 
@@ -89,13 +94,19 @@ Gracias al diseño eficiente de su motor y filtros, el **aspirador escoba SAMBA 
 
 Su batería de iones de Litio de 21,6V y 2200 mAh de capacidad le da una **autonomía de 40 minutos en modo Eco y de unos 25 minutos en modo MAX** (máxima potencia). Esto es más que suficiente para limpiar la casa cada día, incluyendo pisos duros, alfombras y muebles.
 
+![Prueba y opinión - EL cepillo plumero permite limpiar las superficies delicadas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814646/Aspiradores%20verticales/Aspirador-escoba-Samba-caracteristicas2_tneutr.jpg "Prueba y opinión - EL cepillo plumero permite limpiar las superficies delicadas")
+
 Y todo esto lo realiza de forma silenciosa, pues su nivel de ruido es de solo 68dB (decibelios).
 
 Dispone de un **cabezal de limpieza motorizado que puede girar 180 grados** para llegar fácilmente a rincones y espacios difíciles. También posee una luz LED para iluminar espacios oscuros al limpiar.
 
+![Análisis y opinión - Una luz led para limpiar en los rincones más oscuros](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814644/Aspiradores%20verticales/Aspirador-escoba-Samba-caracteristicas-luz_vpwi6t.jpg "Análisis y opinión - Una luz led para limpiar en los rincones más oscuros")
+
 Ambas son características que solo veremos en equipos de más de 150 euros, pero que el SAMBA Vertical nos puede dar por menos de 60 euros.
 
 Su **depósito tiene capacidad de 0,8 litros, uno de los más grandes que hemos visto** en esta gama. No utiliza bolsa y funciona bajo la tecnología Cyclon-Twin-Spin, que utiliza torbellinos de aire para separar las pesadas partículas de polvo del aire a través de un proceso de centrifugado.
+
+![Análisis y opinión - Un vaciado fácil e higiénico](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814646/Aspiradores%20verticales/Aspirador-escoba-Samba-caracteristicas-vaciado_o8od3t.jpg "Análisis y opinión - Un vaciado fácil e higiénico")
 
 El polvo acumulado en el depósito se desecha fácilmente, pues basta presionar un botón para liberarlo y vaciarlo.
 
