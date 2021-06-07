@@ -56,43 +56,32 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 ### Lo bueno y lo malo de Mi Smart Vacuum 1C
 
 
-<table>
-  <tr>
-   <td>Pros
-   </td>
 
-   <td>Contras
-   </td>
-  </tr>
-  <tr>
-   <td>Es un equipo de buena calidad con un precio bajo.
-   </td>
 
-   <td>No tiene sistema de navegación láser. Cuando pasa de una habitación a otra su recorrido puede ser errático.
-   </td>
-  </tr>
-  <tr>
-   <td>Tiene múltiples funciones, aspira, barre, friega y pasa mota.
-   </td>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Es un equipo de buena calidad con un precio bajo.</div>
+<div class="pros-item">Tiene múltiples funciones, aspira, barre, friega y pasa mota.</div>
+<div class="pros-item">Ofrece máxima potencia a la hora de aspirar cualquier tipo de superficies.</div>
+<div class="pros-item">App intuitiva de fácil manejo.</div>
+</div>
 
-   <td>Su autonomía es poca en comparación con otros equipos de la misma serie.
-   </td>
-  </tr>
-  <tr>
-   <td>Ofrece máxima potencia a la hora de aspirar cualquier tipo de superficies.
-   </td>
-   <td> 
-   </td>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">No tiene sistema de navegación láser. Cuando pasa de una habitación a otra su recorrido puede ser errático.</div>
+<div class="cons-item">Su autonomía es poca en comparación con otros equipos de la misma serie.</div>
+</div>
 
-  </tr>
-  <tr>
-   <td>App intuitiva de fácil manejo.
-   </td>
-   <td> 
-   </td>
 
-  </tr>
-</table>
+
+
+
+
+
+
+
+
 
 
  
@@ -133,38 +122,33 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 ### Conoce las ventajas y desventajas del Roborock E4
 
 
-<table>
-  <tr>
-   <td><strong>Ventajas</strong>
-   </td>
-   <td><strong>Desventajas</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente autonomía.
-   </td>
-   <td>El usuario tiene que hacerle mantenimiento recurrente, lo que genera gastos continuos.
-   </td>
-  </tr>
-  <tr>
-   <td>El diseño del Roborock E4 es compacto y elegante.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Está diseñado con materiales de excelente calidad. Es un equipo con larga vida útil.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Roborock E4 es compatible con el  asistente inteligente Alexa.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Excelente autonomía.</div>
+<div class="pros-item">El diseño del Roborock E4 es compacto y elegante.</div>
+<div class="pros-item">Está diseñado con materiales de excelente calidad. Es un equipo con larga vida útil.</div>
+<div class="pros-item">Roborock E4 es compatible con el asistente inteligente Alexa.</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El usuario tiene que hacerle mantenimiento recurrente, lo que genera gastos continuos.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -209,38 +193,32 @@ Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan
 
 
 
-<table>
-  <tr>
-   <td>Pros
-   </td>
-   <td>Contras
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente relación calidad- precio.
-   </td>
-   <td>El modelo no cuenta con sistema inteligente de navegación láser.
-   </td>
-  </tr>
-  <tr>
-   <td>Cuenta con 4 niveles de potencia y 3 niveles de fregado.
-   </td>
-   <td>Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.
-   </td>
-  </tr>
-  <tr>
-   <td>Es un modelo eficiente limpiando en húmedo.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Su tamaño le permite alcanzar lugares de difícil acceso.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Excelente relación calidad- precio.</div>
+<div class="pros-item">Cuenta con 4 niveles de potencia y 3 niveles de fregado.</div>
+<div class="pros-item">Es un modelo eficiente limpiando en húmedo.</div>
+<div class="pros-item">Su tamaño le permite alcanzar lugares de difícil acceso.</div>
+</div>
+
+<div class="col"">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El modelo no cuenta con sistema inteligente de navegación láser.</div>
+<div class="cons-item">Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
