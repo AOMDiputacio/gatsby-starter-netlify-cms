@@ -19,6 +19,8 @@ imageAlt: De todos los modelos Xiaomi, hemos identificado los mejores robots asp
 ---
 
 
+
+
 ## Mi Smart Vacuum 1C: El Robot aspiradora multifuncional de Xiaomi
 
 
@@ -275,42 +277,35 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 ### ¿Cuáles son las ventajas y las desventajas del Roborock S4 Max?
 
 
-<table>
-  <tr>
-   <td>Ventajas
-   </td>
-   <td>Desventajas
-   </td>
-  </tr>
-  <tr>
-   <td>Tiene gran poder de succión y es capaz de adaptarse a diferentes tipos de suelos.
-   </td>
 
-   <td>No incluye función de fregado.
-   </td>
-  </tr>
-  <tr>
-   <td>Puede limpiar hasta 180 minutos continuos con una misma carga.
-   </td>
 
-   <td>Es más ruidoso que otros equipos de la marca.
-   </td>
-  </tr>
-  <tr>
-   <td>La APP te permite acceso a múltiples funciones.
-   </td>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Tiene gran poder de succión y es capaz de adaptarse a diferentes tipos de suelos.</div>
+<div class="pros-item">Puede limpiar hasta 180 minutos continuos con una misma carga.</div>
+<div class="pros-item">La APP te permite acceso a múltiples funciones.</div>
+<div class="pros-item">Tiene un diseño que evita que se atasque en su recorrido.</div>
+</div>
 
-   <td>Configurar la App puede convertirse en una tarea complicada.
-   </td>
-  </tr>
-  <tr>
-   <td>Tiene un diseño que evita que se atasque en su recorrido.
-   </td>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">No incluye función de fregado.</div>
+<div class="cons-item">Es más ruidoso que otros equipos de la marca.</div>
+<div class="cons-item">Configurar la App puede convertirse en una tarea complicada.</div>
+</div>
 
-   <td> 
-   </td>
-  </tr>
-</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -362,38 +357,29 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 
 
 
-<table>
-  <tr>
-   <td>Pros
-   </td>
-   <td>Contras
-   </td>
-  </tr>
-  <tr>
-   <td>Es excelente fregando las superficies.
-   </td>
-   <td>Su precio es bastante elevado.
-   </td>
-  </tr>
-  <tr>
-   <td>Cuenta con un depósito para la suciedad suficientemente grande.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Es fácil personalizar la configuración.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Se puede controlar por medio de comandos de voz y a través del móvil.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Es excelente fregando las superficies.</div>
+<div class="pros-item">Cuenta con un depósito para la suciedad suficientemente grande.</div>
+<div class="pros-item">Es fácil personalizar la configuración.</div>
+<div class="pros-item">Se puede controlar por medio de comandos de voz y a través del móvil.</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Su precio es bastante elevado.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
  
@@ -442,38 +428,30 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 
 
 
-<table>
-  <tr>
-   <td><strong>Ventajas</strong>
-   </td>
-   <td><strong>Desventajas</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente relación calidad- precio.
-   </td>
-   <td>El equipo no incluye accesorios de repuestos.
-   </td>
-  </tr>
-  <tr>
-   <td>Eficiente sistema de navegación láser.
-   </td>
-   <td>El material del cepillo lateral es goma, pudiendo ser de un material más efectivo, por ejemplo silicon.
-   </td>
-  </tr>
-  <tr>
-   <td>Mapea zonas específicas de acuerdo a como lo programes.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>APP de fácil gestión para un manejo más eficiente.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+"<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Excelente relación calidad- precio.</div>
+<div class="pros-item">Eficiente sistema de navegación láser.</div>
+<div class="pros-item">Mapea zonas específicas de acuerdo a como lo programes.</div>
+<div class="pros-item">APP de fácil gestión para un manejo más eficiente.</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El equipo no incluye accesorios de repuestos.</div>
+<div class="cons-item">El material del cepillo lateral es goma, pudiendo ser de un material más efectivo, por ejemplo silicon.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -524,38 +502,29 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 
 
 
-<table>
-  <tr>
-   <td>Pros
-   </td>
-   <td>Contras
-   </td>
-  </tr>
-  <tr>
-   <td>Su diseño incluye doble  cámara con tecnología Al.
-   </td>
-   <td>Puede detectar de forma  erróneas  algunos obstáculos en su ruta.
-   </td>
-  </tr>
-  <tr>
-   <td>Es capaz de mapear todos los niveles de tu casa.
-   </td>
-   <td>Hay que vaciar con mucha frecuencia el depósito de suciedad.
-   </td>
-  </tr>
-  <tr>
-   <td>Múltiples funciones con opción a personalizarlas.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Excelente autonomía. Puede limpiar durante 3 horas continuas con una misma carga.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Su diseño incluye doble cámara con tecnología Al.</div>
+<div class="pros-item">Es capaz de mapear todos los niveles de tu casa.</div>
+<div class="pros-item">Múltiples funciones con opción a personalizarlas.</div>
+<div class="pros-item">Excelente autonomía. Puede limpiar durante 3 horas continuas con una misma carga.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Puede detectar de forma erróneas algunos obstáculos en su ruta.</div>
+<div class="cons-item">Hay que vaciar con mucha frecuencia el depósito de suciedad.</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -606,38 +575,611 @@ Consideran que se trata del equipo ideal para el mantenimiento de casas con masc
 
 
 
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Es excelente fregando las superficies.</div>
+<div class="pros-item">Cuenta con un depósito para la suciedad suficientemente grande.</div>
+<div class="pros-item">Es fácil personalizar la configuración.</div>
+<div class="pros-item">Se puede controlar por medio de comandos de voz y a través del móvil.</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Su precio es bastante elevado.</div>
+</div>
+
+
+
+
+
+
+"
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+## Tabla comparativa de los robots aspiradores Xiaomi que hemos analizado
+
+
 <table>
   <tr>
-   <td>Ventajas
+   <td>
    </td>
-   <td>Desventajas
+   <td>Modelo
    </td>
-  </tr>
-  <tr>
-   <td>Ofrece potencia con un desempeño silencioso
+   <td>Xiaomi MiJia 1C
    </td>
-   <td>El depósito para la suciedad no es suficiente.
+   <td>Roborock E4
    </td>
-  </tr>
-  <tr>
-   <td>Calidad en los materiales. Su rodillo es de goma.
+   <td>Xiaomi MiJia G1
    </td>
-   <td>No incluye recambios.
+   <td>Roborock S5 Max
    </td>
-  </tr>
-  <tr>
-   <td>No solo aspira, también friega con gran eficiencia
+   <td>Roborock S6 Pure
    </td>
-   <td>Se le dificulta la limpieza en las esquinas.
+   <td>Roborock S4 Max
+   </td>
+   <td>Roborock S6 MaxV
+   </td>
+   <td>Roborock S7
    </td>
   </tr>
   <tr>
+   <td rowspan="13" >Programación / navegación
+   </td>
+   <td>Cartografía
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>TecNología de cartografía
+   </td>
+   <td>Visual Sensor
+   </td>
+   <td>Dual gyroscope + OpticEye
+   </td>
+   <td>Gyroscope
+   </td>
+   <td>LDS
+   </td>
+   <td>LDS
+   </td>
+   <td>LDS
+   </td>
+   <td>LDS + camera estéreo
+   </td>
+   <td>LDS
+   </td>
+  </tr>
+  <tr>
+   <td>Recognición de objetos
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+  </tr>
+  <tr>
+   <td>Limpieza por zona
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Alexa / Google Home Support
+   </td>
+   <td>Sí
+   </td>
+   <td>Sólo Alexa
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Identificación de alfombra
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Áreas restringidas / Límites virtuales
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>RecoNocimiento de salas
+   </td>
+   <td>No
+   </td>
+   <td> 
+   </td>
+   <td>No
+   </td>
    <td> 
    </td>
    <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+  </tr>
+  <tr>
+   <td>Programación para limpiar en una sala específica
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Soporte de múltiples mapas
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>No
+   </td>
+   <td>4 maps
+   </td>
+   <td>4 maps
+   </td>
+   <td>4 maps
+   </td>
+   <td>4 maps
+   </td>
+   <td>4 maps
+   </td>
+  </tr>
+  <tr>
+   <td>Sensores
+   </td>
+   <td>15 types of sensors
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+  </tr>
+  <tr>
+   <td>Recargar y reanudar
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Aplicación
+   </td>
+   <td>Mi Home
+   </td>
+   <td>Mi Home
+   </td>
+   <td>Mi Home
+   </td>
+   <td>Mi Home / Roborock
+   </td>
+   <td>Mi Home / Roborock
+   </td>
+   <td>Roborock
+   </td>
+   <td>Mi Home / Roborock
+   </td>
+   <td>Mi Home / Roborock
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="12" >Caracteristicas técnicas
+   </td>
+   <td>Tiempo de descarga (min)
+   </td>
+   <td>110
+   </td>
+   <td>200
+   </td>
+   <td>90
+   </td>
+   <td>180
+   </td>
+   <td>180
+   </td>
+   <td>180
+   </td>
+   <td>180
+   </td>
+   <td>180
+   </td>
+  </tr>
+  <tr>
+   <td>Poder de succión (Pa)
+   </td>
+   <td>2500
+   </td>
+   <td>2000
+   </td>
+   <td>2200
+   </td>
+   <td>2000
+   </td>
+   <td>2000
+   </td>
+   <td>2000
+   </td>
+   <td>2500
+   </td>
+   <td>2500
+   </td>
+  </tr>
+  <tr>
+   <td>Tamaño de la basura (ml)
+   </td>
+   <td>600
+   </td>
+   <td>640
+   </td>
+   <td>600
+   </td>
+   <td>460
+   </td>
+   <td>460
+   </td>
+   <td>460
+   </td>
+   <td>460
+   </td>
+   <td>470
+   </td>
+  </tr>
+  <tr>
+   <td>Fregona
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>Control de nível de agua
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+   <td>No
+   </td>
+   <td>-
+   </td>
+   <td>Sí
+   </td>
+   <td>Sí
+   </td>
+  </tr>
+  <tr>
+   <td>capacidad del depósito de agua
+   </td>
+   <td>200
+   </td>
+   <td> 
+   </td>
+   <td>200
+   </td>
+   <td>280
+   </td>
+   <td>180
+   </td>
+   <td>-
+   </td>
+   <td>300
+   </td>
+   <td>300
+   </td>
+  </tr>
+  <tr>
+   <td>Tipo de filtro
+   </td>
+   <td>HEPA
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+   <td>HEPA
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+   <td>HEPA E11 lavable
+   </td>
+  </tr>
+  <tr>
+   <td>Capacidad de la batería (mAh)
+   </td>
+   <td>2,4
+   </td>
+   <td>Sí
+   </td>
+   <td>2,5
+   </td>
+   <td>5,2
+   </td>
+   <td>5,2
+   </td>
+   <td>5,2
+   </td>
+   <td>5,2
+   </td>
+   <td>5,2
+   </td>
+  </tr>
+  <tr>
+   <td>Nivel de ruido (dB)
+   </td>
+   <td>72
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td>60
+   </td>
+   <td>60
+   </td>
+   <td>68
+   </td>
+   <td> 
+   </td>
+   <td>67
+   </td>
+  </tr>
+  <tr>
+   <td>Altura de escalada (mm)
+   </td>
+   <td>20
+   </td>
+   <td>20
+   </td>
+   <td>17
+   </td>
+   <td>20
+   </td>
+   <td>20
+   </td>
+   <td>20
+   </td>
+   <td>20
+   </td>
+   <td>20
+   </td>
+  </tr>
+  <tr>
+   <td>Altura del robot (cm)
+   </td>
+   <td>8.15
+   </td>
+   <td>9
+   </td>
+   <td>8.2
+   </td>
+   <td>9.6
+   </td>
+   <td>9.6
+   </td>
+   <td>9.6
+   </td>
+   <td>9.6
+   </td>
+   <td>9.6
+   </td>
+  </tr>
+  <tr>
+   <td>Cobertura de limpieza (m2)
+   </td>
+   <td>60
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+   <td> 
+   </td>
+  </tr>
+  <tr>
+   <td rowspan="2" >Caracteristicas comerciales
+   </td>
+   <td>Fecha de lanzamiento
+   </td>
+   <td>Oct-19
+   </td>
+   <td>Apr-20
+   </td>
+   <td>Apr-20
+   </td>
+   <td>Sep-19
+   </td>
+   <td>Jan-20
+   </td>
+   <td>oct, 2020
+   </td>
+   <td>Apr-20
+   </td>
+   <td>Jan, 2021
+   </td>
+  </tr>
+  <tr>
+   <td>Precio
+   </td>
+   <td>188
+   </td>
+   <td>230
+   </td>
+   <td>276
+   </td>
+   <td>400
+   </td>
+   <td>400
+   </td>
+   <td> 
+   </td>
+   <td>520
+   </td>
+   <td>569
    </td>
   </tr>
 </table>
 
 
- 
