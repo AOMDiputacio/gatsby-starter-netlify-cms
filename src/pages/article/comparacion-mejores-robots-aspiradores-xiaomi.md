@@ -21,6 +21,7 @@ imageAlt: De todos los modelos Xiaomi, hemos identificado los mejores robots asp
 
 
 
+
 ## Mi Smart Vacuum 1C: El Robot aspiradora multifuncional de Xiaomi
 
 
