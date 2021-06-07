@@ -485,21 +485,45 @@ En conclusión, la **aspiradora escoba sin cable JASHEN V18 cumple lo que promet
 
 ### Aspirador escoba Taurus Ideal Avant, perfecta para la limpieza diaria
 
-El **aspirador escoba sin cable Tauros Ideal Avant es un versátil equipo 3 en 1** que se puede utilizar como escoba eléctrica, aspirador de mano y aspirador de techo.
+![Análisis y prueba - Un aspirador vertical completo convertible en aspirador de mano](https://res.cloudinary.com/aom/image/upload/c_scale,w_300/v1622814663/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant_wtp5hs.jpg "Análisis y prueba - Un aspirador vertical completo convertible en aspirador de mano")
+
+El **aspirador escoba sin cable Taurus Ideal Avant es un versátil equipo 3 en 1** que se puede utilizar como escoba eléctrica, aspirador de mano y aspirador de techo.
 
 Esto lo hace ideal para quienes necesitan un **equipo liviano capaz de cumplir todas las tareas de limpieza del hogar** y eliminar para siempre las escobas y cepillos manuales.
 
 Su peso de 4,06 kilogramos lo coloca entre los más pesados de los modelos de aspiradoras escobas sin cable del mercado, pero esto lo compensa con su capacidad para realizar todo tipo de limpiezas gracias a su motor de 350W y su autonomía de 45 minutos.
 
+![Prueba y opinión - Eficaz en alfombras gracias a su cepillo y a su potencia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814677/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant-alfombra_lcgw2x.jpg "Prueba y opinión - Eficaz en alfombras gracias a su cepillo y a su potencia")
+
+
 Esta **escoba eléctrica Taurus** viene con un accesorio 2 en 1 que funciona como cepillo para tapicería y muebles y lanza para ranuras (cuando se usa como aspirador de mano).
+
 
 **Su batería de 29,6V es de tipo intercambiable de carga rápida (4 horas)**, que gracias a su capacidad de 2200 mAh puede alimentar por 45 minutos a esta escoba eléctrica en su modo ECO, mientras que en el modo MAX da para unos 25 minutos.
 
+![Análisis y prueba - Este aspirador se puede colocar en cualquier rincon gracias a su base de recarga](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814672/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant-base-recarga_o2ceiw.jpg "Análisis y prueba - Este aspirador se puede colocar en cualquier rincon gracias a su base de recarga")
+
+
 Posee un tubo de extensión de aluminio de 70 centímetros de largo, que permite transformarlo en un aspirador de techos, además de poder ser utilizado con comodidad como **escoba eléctrica por personas con una estatura entre 1,60 y 1,80 metros**.
+
+![Análisis y opinión - Su boquilla la más estrecha permita aspirar hasta en el más pequeño rincón](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814673/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant-rincon_tovc8g.jpg "Análisis y opinión - Su boquilla la más estrecha permita aspirar hasta en el más pequeño rincón")
+
 
 Los accesorios incluyen dos cepillos. El **cabezal de limpieza es  motorizado y cuenta con un sistema de barrido rotatorio Turbo Brush** y sistema de aspiración ciclónica, lo que le permite limpiar a profundidad tanto suelos duros como alfombras.
 
-Este cabezal puede girar 180 grados para llegar fácilmente a rincones y zonas difíciles. Adicionalmente, c**uenta con iluminación LED para ver mejor al limpiar áreas oscuras**.
+<table class="product-table">
+<tr>
+<td>
+![Prueba y opinión - El cepillo rotativo intercambiable permite adaptarse a todas las superficies - cepillo de nylon para las alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814673/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant-diferentes-cepillos-alfombra_bcstl5.jpg "Prueba y opinión - El cepillo rotativo intercambiable permite adaptarse a todas las superficies - cepillo de nylon para las alfombras")
+</td>
+<td>
+![Prueba y opinión - Su rodillo de microfibras permite limpiar eficazmente las valdosas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622814669/Aspiradores%20verticales/Aspirador-escoba-taurus-ideal-avant-diferentes-cepillo-suelo-duro_epjyam.jpg "Prueba y opinión - Su rodillo de microfibras permite limpiar eficazmente las valdosas")
+</td>
+</tr>
+
+
+
+Este cabezal puede girar 180 grados para llegar fácilmente a rincones y zonas difíciles. Adicionalmente, **cuenta con iluminación LED para ver mejor al limpiar áreas oscuras**.
 
 Y por si fuera poco, cuenta con una zapata que puede alojar dos tipos de cepillo, el S-Fuzzy Brush para limpiar pelo y polvo fino y el Multi-Use Brush para sucio más pesado. Todos los accesorios se colocan y quitan con un solo clic gracias a su sistema de encaje One Touch.
 
