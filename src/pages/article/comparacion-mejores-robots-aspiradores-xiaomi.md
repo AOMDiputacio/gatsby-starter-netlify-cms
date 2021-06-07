@@ -124,34 +124,71 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 
 ## Roborock E4: Excelente autonomía en un equipo eficiente  de gama media
 
-**El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4.**
+![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884218/Robots%20aspiradores/Robot-aspirador-roborock-E4-perspectiva2_zqhrfs.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
-Los productos de esta marca se dividen en dos series, la línea S que cobija equipos de gama alta con navegación láser y la línea E que incluye navegación avanzada, potencia de succión increíble y precios más baratos.
+
+
+**El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4**.
+
+
+
+
+Los productos de esta marca se dividen en dos series, la línea S que cobija equipos de gama alta con navegación láser y la línea E que incluye navegación avanzada, potencia de succión eficaz y precios más baratos.
+
+
 
 **Roborock E4 pertenece a la gama media de la marca**, es un equipo bastante competitivo, incluso algunos aspectos pueden compararse con la línea S de gama alta.
 
+
+
 En general la valoración del **Roborock E4** ha sido excelente, obteniendo 96 sobre 100. Su diseño es clásico y robusto, por lo general la marca prefiere el color negro para sus productos así que también es elegante y bonito.
+
+
 
 Este robot aspiradora otorga una potencia de succión de 2.000 pascales. Posee una pista en forma de Z que le permite limpiar los suelo de tu casa más eficiente y rápidamente.
 
 Destaca la autonomía que ofrece, hasta 3 horas continuas limpiando con una misma carga. Sin duda, se trata de una característica ventajosa para quienes tienen espacios grandes que limpiar en casa.
 
+![Análisis y prueba - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884221/Robots%20aspiradores/Robot-aspirador-roborock-E4-arriba_srkvlo.jpg "Análisis y prueba - Un aspirador robot ideal para toda la casa")
+
+
+
+
 Es un equipo inteligente que determina si ha terminado su trabajo. **Si la batería esta baja el E4 regresará a su estación Home para recargarse** y posteriormente vuelve a limpiar justo en el lugar donde se detuvo.
 
+![Análisis y prueba - Regresa solo a la base de carga una vez terminada la limpieza](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884216/Robots%20aspiradores/Robot-aspirador-roborock-E4-base-carga_qzxsgp.jpg "Análisis y prueba - Regresa solo a la base de carga una vez terminada la limpieza")
+
+
+
 Los giroscopios que incorpora este modelo detectan los cambios de ángulos  más mínimos, incluso pueden determinar cuando el robot ha sido derribado.
+
+
 
 **El diseño de Roborock E4 incluye tecnología OpticEye**. Básicamente utiliza láser y luces Leds para hacer un análisis en alta frecuencia de la superficie aspirada.
 
 Con respecto a la aplicación móvil, a través de ella puedes iniciar  o parar el proceso de limpieza, tienes la posibilidad de configurar a tu gusto la potencia de succión, incluso puedes darle comandos de voz, por ejemplo para detener la limpieza en un espacio específico.
 
+![Análisis y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884215/Robots%20aspiradores/Robot-aspirador-roborock-E4-frente_dj2ckv.jpg "Análisis y opinión - Un diseño cuidado")
+
+
+
+
 
 ### Opiniones: ¿Qué tan eficiente es Roborock E4?
 
-Las opiniones apuntan a un rendimiento impecable de este robot aspiradora de gama media de la marca Roborock. Consideran al **Roborock E4 una  excelente alternativa para casas desnudas.**
+
+
+Las opiniones apuntan a un rendimiento impecable de este robot aspiradora de gama media de la marca Roborock. Consideran al **Roborock E4 una  excelente alternativa para casas con pocos muebles.**
+
+
 
 Su forma compacta le permite limpiar eficientemente en zonas estrechas y debajo de los muebles. Su batería de 5200 Am le otorga una autonomía  suficiente para aspirar una casa de tamaño convencional.
 
+
+
 En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cuando corresponde hacerle recambio al equipo, para muchos usuarios significa aumento de costos a largo tiempo.
+
+
 
 
 ### Conoce las ventajas y desventajas del Roborock E4
@@ -186,44 +223,79 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 
 
 
-
 ## Xiaomi MiJia G1: El robot aspiradora con la mejor relación calidad- precio
+
+![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
+
+
 
 Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
 
+
+
 Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las necesidades más exigentes pero, con un precio bastante asequible.
 
-Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, por ejemplo la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
+
+
+Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
+
+![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
+
+
 
 La marca apuesta en esta ocasión por un motor NIDEC que ofrece potencia de succión de 2200 Pascales. **El depósito para agua del MiJia G1 es de 200 ml**, ideal para fregar y barrer.
 
+
+
 La bomba de agua electrónica que incorpora el equipo le permite ejecutar sus funciones  en diferentes tipos de superficies con la misma efectividad.
+
+
 
 El **sistema de navegación de este robot Xiaomi** es a través de sensores, esto lo convierte en un modelo más básico si tomamos en cuenta que sus competidores cuentan con navegación láser.
 
+
+
 La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos muebles y sofás gracias a su altura de solo 82 milímetros** de alto. Este robot aspiradora incorpora ruedas que lo hacen capaz de superar obstáculos de 1,7 centímetros.
+
+
 
 **La autonomía del Xiaomi MiJia G1** otorga por lo menos hora y media de funcionamiento continuo o lo que es lo mismo, limpia  120 metros cuadrados de tu casa y es que este modelo cuenta con una batería de 2.500 mAh.
 
+
+
 Es posible emparejar el nuevo Xiaomi MiJia G1  con la aplicación móvil Mi Home, propia de la marca.
+
+
 
 A través de la APP tienes la alternativa de configurar el menú de opciones, además podrás ver el mapa de tu casa al tiempo que el equipo esté operando.
 
+
+
 También te brinda la opción de seleccionar zonas específicas de tu casa, para que el robot limpie puntualmente.
+
+
 
 **Puedes controlar  con la voz tu Xiaomi MiJia G1 mediante el asistente Xiao Al**, una característica poco común para equipos de gama de entrada.
 
 
+
+
 ### Valoración: ¿Qué opinan del  MiJia G1 de Xiaomi?
 
-La mayoría de las opiniones sobre este robot aspiradora de Xiaomi, son excelentes. Alagan la autonomía, indicando que es suficiente para limpiar por completo un apartamento de unos 80 metros cuadrados. 
+
+
+La mayoría de las opiniones sobre este robot aspiradora de Xiaomi, son excelentes. Alagan la autonomía, indicando que es suficiente para limpiar por completo un apartamento de unos 80 metros cuadrados.
+
+
 
 Se refieren en gran medida a la excelente relación calidad precio del equipo. Además, aplauden el modo silencioso del robot y su efectividad a la hora de limpiar migas o polvo.
 
 Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan la capacidad que tiene su depósito de agua.
 
 
-### Lo bueno y lo malo del Xiaomi MiJia G 1
+
+
+### Lo bueno y lo malo del Xiaomi MiJia G1
 
 
 
