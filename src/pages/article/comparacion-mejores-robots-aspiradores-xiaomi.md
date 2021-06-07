@@ -50,6 +50,8 @@ Otras características compensas esta falencia, por ejemplo es una aspiradora in
 
 Su diseño compacto y ligero lo hacen más versátil, logrando limpiar en lugares estrechos y por  debajo de los muebles, sin ningún problema.
 
+![Análisis y prueba - el robot aspirador es tan fino que puede pasar por debajo de los muebles más bajos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-debajo-cama_owmsoo.jpg "Análisis y prueba - el robot aspirador es tan fino que puede pasar por debajo de los muebles más bajos")
+
 
 
 Uno de los puntos débiles de este modelo es su autonomía. Para este modelo de la serie C, la marca China optó por reducirla un poco, así que tendrás solo 90 minutos de autonomía, justo lo que otorga la batería de 2.400mAh.
@@ -59,6 +61,8 @@ Uno de los puntos débiles de este modelo es su autonomía. Para este modelo de 
 Si tienes un espacio de 100 o 120 metros cuadrados, con  **Mi Smart Vacuum 1C de Xiaomi **podrás cubrirlo antes de que el equipo  vuelva a su estación de carga.
 
 Una particularidad de este modelo es que cuando la batería marca 15% el robot vuelve a su base, si aún no ha terminado de limpiar automáticamente retoma su labor justo donde la dejó cuando la carga llega a 80%.
+
+![Análisis y opinión - Un serie de sensores y un ordenador de bordo permiten al robot aspirador ubicarse de feorma inteligente](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884305/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-full-sensores_l5iby5.jpg "Análisis y opinión - Un serie de sensores y un ordenador de bordo permiten al robot aspirador ubicarse de feorma inteligente")
 
 
 
@@ -75,7 +79,11 @@ Hablemos de la APP  Mi Home a través de la cual podrás manejar las funciones d
 
 Logró una importante puntuación de 4.5 estrellas, solo un 5% opinó negativamente dándole una estrella al desempeño del equipo.
 
-Quienes ya han probado este robot aspiradora destacan lo bien que desempeña su labor de limpieza en el modo de aspiradora. También se refieren a la excelente relación calidad- precio que ofrece este modelo de la serie C de Xiaomi.
+Quienes ya han probado este robot aspiradora destacan lo bien que desempeña su labor de limpieza en el modo de aspiradora.
+
+![Prueba y opinión - Un robot autonomo para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884305/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-parquet_inkzzb.jpg "Prueba y opinión - Un robot autonomo para toda la casa")
+
+También se refieren a la excelente relación calidad- precio que ofrece este modelo de la serie C de Xiaomi.
 
 Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal que los usuarios coincidan en no   manifestar grandes problemas.
 
