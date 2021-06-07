@@ -38,7 +38,13 @@ Su desempeño es increíble hasta en las habitaciones más sucias, esto gracias 
 
 
 
-**El sistema de navegación del modelo Smart Vacuum 1 C **es aceptable, aunque no funciona a través de láser. Otras características compensas esta falencia, por ejemplo es una aspiradora inteligente multifunción, barre, pasa mopa, friega pisos y aspira.
+**El sistema de navegación del modelo Smart Vacuum 1C **es aceptable, aunque no funciona a través de láser.
+
+![Análisis y opinión - Limpia la casa de forma ordenada a pesar de no disponer de un laser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-limpieza-ordenada_ddhhfc.jpg "Análisis y opinión - Limpia la casa de forma ordenada a pesar de no disponer de un laser")
+
+Otras características compensas esta falencia, por ejemplo es una aspiradora inteligente multifunción, barre, pasa mopa, friega pisos y aspira.
+
+![Prueba y opinión - El mopa humedece el suelo y elimina las particulas más finas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-mopa_eme9z3.jpg "Prueba y opinión - El mopa humedece el suelo y elimina las particulas más finas")
 
 
 
