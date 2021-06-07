@@ -426,15 +426,23 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 
 
 
-##  Roborock S 5 Max: Gran autonomía y eficiente desempeño
+##  Roborock S5 Max: Gran autonomía y eficiente desempeño
+
+
 
 Más de 150 minutos continuos limpiando con una misma carga, esa es la  excelente autonomía que tendrás con el **Roborock S5 Max, el equipo ideal para limpiar espacios de grandes dimensiones**.
 
+
+
  Si quieres conocer más a fondo a este  **robot aspiradora de Roborock**, sigue leyendo este post.
+
+
 
 En esta ocasión te presentamos un equipo que no solo aspira, también friega y lo hace de forma eficiente, esquivando cualquier tipo de objetos en su recorrido.
 
 **El modelo S5 Max de Roborock  incluye 5 modos de limpieza**, así el fabricante  garantiza satisfacer todas las necesidades.
+
+
 
 
 * Tiene un modo rápido que limpia en una sola pasada.
@@ -451,11 +459,17 @@ En esta ocasión te presentamos un equipo que no solo aspira, también friega y 
 
 * Un modo Max, ideal para limpiar más fuerte. Esto implica máxima potencia, más ruido y consumo de batería.
 
+
+
 **Roborock S5 Max** tiene sensores inteligentes que hacen que los programas funcionen de forma óptima. Estos dispositivos permiten que el  robot navegue inteligentemente, ayudando que las áreas de riesgos se aseen con seguridad.
 
 En general, el rendimiento del Roborock S5 Max es aceptable. Es muy notorio que se trata de un robot aspiradora de gama alta.
 
+
+
 Puede desempeñarse con mucha eficiencia en superficies duras, pero también hace buen trabajo sobre alfombras.
+
+
 
 Cabe destacar que, en las modalidades que consumen menos energía, el desempeño es superior, así que tómalo como un consejo si decides probar este equipo.
 
@@ -464,7 +478,11 @@ Cabe destacar que, en las modalidades que consumen menos energía, el desempeño
 
 Potencia e inteligencia superior, así describen algunos usuarios a **Roborock S5 Max**. Destacan la cantidad de funciones que incluye este equipo, que además resultan sencillas de utilizar.
 
+
+
 Es un equipo completo -opinan los usuarios- que aspira y friega con mucha eficiencia. El rendimiento de la batería es suficiente para limpiar espacios de gran tamaño, lo que ha encantado a los dueños de casas grandes con muchas mascotas.
+
+
 
 Encuentran en el precio un punto en contra de este modelo  de gama alta de Roborock. Lo consideran bastante costoso, un precio que supera a sus compañeros de serie  por mucho.
 
@@ -506,13 +524,19 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 
 ## Roborock S6 Pure: El robot aspiradora de gama alta con el  mejor precio del mercado
 
+![Análisis y opinión - Diseño clásico y estético](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884164/Robots%20aspiradores/Robot-aspirador-roborock-S6-vertical_xnrmii.jpg "Análisis y opinión - Diseño clásico y estético")
 
 
-**Roborock S6 Pure **es el equipo del hábitat Xiaomi que te presentaremos en está ocasión. Se trata de un robot aspiradora que ofrece características de gama alta, pero con un precio bastante atractivo si lo comparamos con sus competidores.
+
+
+**Roborock S6 Pure** es el equipo del hábitat Xiaomi que te presentaremos en está ocasión. Se trata de un robot aspiradora que ofrece características de gama alta, pero con un precio bastante atractivo si lo comparamos con sus competidores.
 
 
 
 Entre los aspectos que más resalta el fabricante sobre este modelo en particular, es su navegación inteligente a través de láser. Una característica que optimiza su capacidad de mapear el área de limpieza, convirtiéndolo en un equipo muy eficiente.
+
+![Análisis y opinión - Un robot aspirado bonito y a la vez funcional](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884162/Robots%20aspiradores/Robot-aspirador-roborock-S6-perspectiva_bby3v0.jpg "Análisis y opinión - Un robot aspirado bonito y a la vez funcional")
+
 
 
 
@@ -529,6 +553,8 @@ En acción, este **robot aspiradora** es eficiente e inteligente en su navegaci�
 
 
 Su diseño es clásico, en forma cilíndrica que le permite mayor movilidad. Integra en su parte delantera un protector anti golpes, mientras que en la parte superior del equipo se encuentra el sensor láser, además de los controles manuales.
+
+![Análisis y prueba - Un diseño clásico](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884164/Robots%20aspiradores/Robot-aspirador-roborock-S6-arriba_zpi3ii.jpg "Análisis y prueba - Un diseño clásico")
 
 
 
