@@ -262,7 +262,7 @@ El **sistema de navegación de este robot Xiaomi** es a través de sensores, est
 
 La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos muebles y sofás gracias a su altura de solo 82 milímetros** de alto. Este robot aspiradora incorpora ruedas que lo hacen capaz de superar obstáculos de 1,7 centímetros.
 
-![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
+![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
 
 
 
@@ -341,13 +341,19 @@ Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan
 
 ## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología de avanzada
 
+![Prueba y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-apoyado2_wykzmf.jpg "Prueba y opinión - Un diseño cuidado")
+
 
 
 Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max**. Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
 
+![Análisis y prueba - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-perspectiva_2_syqbkn.jpg "Análisis y prueba - Un aspirador robot ideal para toda la casa")
+
 
 
 Este es el equipo que buscas si quieres que tus pisos luzcan impecables a pesar de las travesuras de tus mascotas. Es fiable, capaz de desempeñarse con eficiencia hasta en los entornos más complicados.
+
+![Análisis y prueba - El cepillo universal para suelos duros y alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884200/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-debajo_hjztvy.jpg "Análisis y prueba - El cepillo universal para suelos duros y alfombras")
 
 
 
@@ -365,6 +371,8 @@ El diseño de este moderno equipo incluye tres botones en su parte superior para
 
 Pero, si prefieres lo simple y cómodo, tienes la opción de **manejar el Roborock S4 Max por medio de una aplicación móvil **desde la comodidad de cualquier dispositivo electrónico.
 
+
+
 Desde la APP tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
 
 
@@ -375,6 +383,8 @@ Desde la APP tienes acceso a todas las funciones que incorpora este equipo del e
 
 
 En general la **valoración del Roborock S4 Max** se basa en su desempeño en diferentes tipos de suelos. En suelos de maderas el funcionamiento del equipo se considera excelente.
+
+
 
 Al parecer el **Roborock S4 Max** hace la diferencia limpiando en lugares de difícil acceso, sobre todo en este tipo de superficie.
 
@@ -428,9 +438,13 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 
 ##  Roborock S5 Max: Gran autonomía y eficiente desempeño
 
+![Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884181/Robots%20aspiradores/Robot-aspirador-roborock-perspectiva_lquazp.jpg "Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo")
+
 
 
 Más de 150 minutos continuos limpiando con una misma carga, esa es la  excelente autonomía que tendrás con el **Roborock S5 Max, el equipo ideal para limpiar espacios de grandes dimensiones**.
+
+![Prueba y opinión - Un excelente poder de succión para dejar hasta las alfombras limpias](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884187/Robots%20aspiradores/Robot-aspirador-roborock-autonomia-bateria_xhxaw7.jpg "Prueba y opinión - Un excelente poder de succión para dejar hasta las alfombras limpias")
 
 
 
@@ -459,9 +473,16 @@ En esta ocasión te presentamos un equipo que no solo aspira, también friega y 
 
 * Un modo Max, ideal para limpiar más fuerte. Esto implica máxima potencia, más ruido y consumo de batería.
 
+![Prueba y opinión - El laser ayuda a escanear la sala y ubicar el robot aspirador en ella](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884180/Robots%20aspiradores/Robot-aspirador-roborock-limpieza-ordenada-laser_cersvw.jpg "Prueba y opinión - El laser ayuda a escanear la sala y ubicar el robot aspirador en ella")
+
+
 
 
 **Roborock S5 Max** tiene sensores inteligentes que hacen que los programas funcionen de forma óptima. Estos dispositivos permiten que el  robot navegue inteligentemente, ayudando que las áreas de riesgos se aseen con seguridad.
+
+![Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884183/Robots%20aspiradores/Robot-aspirador-roborock-algoritmos_l5edfe.jpg "Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi")
+
+
 
 En general, el rendimiento del Roborock S5 Max es aceptable. Es muy notorio que se trata de un robot aspiradora de gama alta.
 
@@ -469,12 +490,20 @@ En general, el rendimiento del Roborock S5 Max es aceptable. Es muy notorio que 
 
 Puede desempeñarse con mucha eficiencia en superficies duras, pero también hace buen trabajo sobre alfombras.
 
+![Análisis y prueba - Puede subirse a alfombras de hasta 2 cm de altura](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884183/Robots%20aspiradores/Robot-aspirador-roborock-alfombra-2cm_arfotr.jpg "Análisis y prueba - Puede subirse a alfombras de hasta 2 cm de altura")
+
 
 
 Cabe destacar que, en las modalidades que consumen menos energía, el desempeño es superior, así que tómalo como un consejo si decides probar este equipo.
 
+![Prueba y opinión - Un mantenimiento fácil y rápido](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884182/Robots%20aspiradores/Robot-aspirador-roborock--mantenimiento_icyidc.jpg "Prueba y opinión - Un mantenimiento fácil y rápido")
+
+
+
 
 ### ¿Cómo trabaja el Roborock S5 Max? Opiniones
+
+
 
 Potencia e inteligencia superior, así describen algunos usuarios a **Roborock S5 Max**. Destacan la cantidad de funciones que incluye este equipo, que además resultan sencillas de utilizar.
 
@@ -482,9 +511,14 @@ Potencia e inteligencia superior, así describen algunos usuarios a **Roborock S
 
 Es un equipo completo -opinan los usuarios- que aspira y friega con mucha eficiencia. El rendimiento de la batería es suficiente para limpiar espacios de gran tamaño, lo que ha encantado a los dueños de casas grandes con muchas mascotas.
 
+![Análisis y opinión - El mopa ayuda a mantener la casa limpia y fresca](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884180/Robots%20aspiradores/Robot-aspirador-roborock-mopa_cvyohb.jpg "Análisis y opinión - El mopa ayuda a mantener la casa limpia y fresca")
+
+
 
 
 Encuentran en el precio un punto en contra de este modelo  de gama alta de Roborock. Lo consideran bastante costoso, un precio que supera a sus compañeros de serie  por mucho.
+
+
 
 
 ### Lo bueno y lo malo del Roborock S5 Max
@@ -568,6 +602,8 @@ En los laterales encontramos sensor de pared y un parachoques con sensor de carg
 
 Los elementos de limpieza de Roborock S6 Pure incluyen, un cepillo lateral que actúa de forma rotativa y otro en el centro del equipo. El elemento principal gira a un máximo de 1350 RPM y combina goma en su superficie y filas de cerdas.
 
+![Prueba y opinión - Siempre el cepillo universal con cerdas y silicona](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884162/Robots%20aspiradores/Robot-aspirador-roborock-S6-debajo_oykak5.jpg "Prueba y opinión - Siempre el cepillo universal con cerdas y silicona")
+
 
 
 
@@ -630,38 +666,80 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 
 ## Roborock S6 MaxV: Detecta la suciedad de tus mascotas
 
+![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884238/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-perspectiva_ogt8pi.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
+
+
+
 Si tienes mascotas en casa **el Roborock S6 MaxV** es el equipo ideal para ti. Se trata de un robot aspiradora con tecnología inteligente que limpia tu casa mientras la recorre eficientemente.
+
+
 
 El diseño de este equipo incluye un sistema de doble cámara para una navegación más efectiva. Por ejemplo, este sistema le  permite al robot evitar las heces de tus mascotas.
 
+
+
 El sistema inteligente del **Roborock S6 MaxV funciona a través de un procesador Qualcomm APQ8053, **además de inteligencia artificial. Gracias a  esta tecnología el robot puede detectar diferentes objetos en su recorrido, los marca en la APP  y te informa detalladamente, incluso a través de fotografías.
+
+
 
 **El poder de succión de este modelo es de 2500 pascales**, lo que significa un 25% más que su  compañero de serie Roborock S6.
 
+
+
 El S6 MaxV es capaz de mapear varios pisos y su autonomía le permite aspirar durante 3 horas con una misma carga.
 
+
+
 **La batería que incluye este modelo es de 5200mAh** y se recarga de forma inteligente.
+
+![Prueba y opinión - Regresa solo a la base de carga una vez terminada la limpieza](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884235/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-base-carga_exuk8f.jpg "Prueba y opinión - Regresa solo a la base de carga una vez terminada la limpieza")
+
+
 
 Posee reconocimiento automático de cada habitación, una característica  que le permite trapear ajustando la potencia que requiere cada superficie.
 
 Cuenta con un tanque de agua con sistema electrónico de 300 ml y presurización de alfombras. El cubo para almacenar la suciedad que integra el **Roborock S6 MaxV **es de 460 ml.
 
+
+
 El equipo necesitará que vacíes con frecuencia el depósito de basura, porque con cada recorrido logra recoger gran cantidad de polvo y escombros.
+
+![Análisis y opinión - Un depósito fácil de extraer y limpiar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884249/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-deposito_nphseu.jpg "Análisis y opinión - Un depósito fácil de extraer y limpiar")
+
+
+
 
  El sistema de cepillo de este modelo de Roborock es de doble acción, tiene aletas y también tiene celdas,  ideal para pisos rústicos, pero funciona genial igualmente en alfombras.
 
+
+
 Es importante mantener el robot aspiradora en óptimas condiciones, por eso sus filtros son fácilmente lavables.
 
+
+
 Incluye herramienta de corte que le permite eliminar con mucha facilidad el pelo de tus mascotas, así como otras fibras que se pueden enlazar en el cepillo.
+
+![Análisis y prueba - El cepillo universal para suelos duros y alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884245/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-debajo_g1igkx.jpg "Análisis y prueba - El cepillo universal para suelos duros y alfombras")
+
+
+
 
 
 ### Impresiones sobre el Roborock S6 MaxV
 
+
+
 Los usuarios describen a **Roborock S6 MaxV** como el equipo más completo en cuanto a funciones.
+
+
 
 Que tenga múltiples opciones para personalización, mapeo múltiple inteligente y además, que sea capaz de evitar la caca de las mascotas, son ventajas que agradecen quienes ya han probado este equipo.
 
+
+
 Su capacidad de limpieza es óptima. Básicamente el **S6 MaxV de Roborock** ofrece lo que los usuarios más exigentes buscan en una aspiradora robot.
+
+
 
 Su sistema de cámara y en general toda la tecnología que incluye, hacen de este equipo el mejor del mercado, certificado por algunos usuarios de la marca que prefieren pagar un alto precio por un excelente resultado.
 
