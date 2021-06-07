@@ -278,4 +278,4 @@ Si tienes una oficina, almacén o casa muy grande te pueden interesar algunos **
 
  
 
-Algunas de estas funciones pueden ser innecesarias a efectos prácticos, pero ¡es mejor tenerlas que lamentar su ausencia cuando haga falta!.
+Algunas de estas funciones pueden ser innecesarias a efectos prácticos, pero ¡es mejor tenerlas que lamentar su ausencia cuando haga falta! ;-)
