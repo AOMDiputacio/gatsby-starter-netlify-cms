@@ -75,7 +75,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
  
 
-A la hora de **elegir un robot aspirador **lo primero que buscarás es el precio de los modelos más vendidos. Y algo que te sorprenderá es que **muchos pueden costar más que un aspirador convencional de la misma gama**.
+A la hora de **elegir un robot aspirador** lo primero que buscarás es el precio de los modelos más vendidos. Y algo que te sorprenderá es que **muchos pueden costar más que un aspirador convencional de la misma gama**.
 
  
 
