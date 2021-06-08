@@ -91,6 +91,8 @@ Cuesta más de el doble que el Mijia 1C.</td>
 
 > El **Xiaomi MiJia G1** no dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo. 
 
+### Ficha técnica
+
 <table>
 <tr>
 <td class="green-box-cell">
@@ -347,6 +349,8 @@ Finalmente, remarcan que es poco habitual que un robot de entrada de gama sepa r
 
 > Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza.
 > Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños.
+
+### Ficha técnica
 
 <table>
 <tr>
@@ -605,6 +609,8 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 
 > Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, el  **Roborock E4** es unos 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
 
+### Ficha técnica
+
 <table>
 <tr>
 <td class="green-box-cell">
@@ -855,6 +861,8 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 
 > Un robot aspirador capaz y completo, con aplicación, navegación laser y todas las caracteristicas de un robot de media gama con calidad Xiaomi por 20 Euros más barato que el S5 Max y el S6 Pure.
 
+### Ficha técnica
+
 <table>
 <tr>
 <td class="green-box-cell">
@@ -1104,6 +1112,8 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 
 > Prestaciones excelentes por un precio medio; es el robot aspirador de Xiaomi que mejor limpia y aspira en las pruebas que hemos realizado. Su mapeo por laser, su gran autonomía así como su capacidad de grabar hasta 4 mapas lo hace ideal para cualquier tipo de apartamento o casa con varios pisos.
 > Cuesta más de el doble que el Mijia 1C.
+
+### Ficha técnica
 
 <table>
 <tr>
@@ -1368,6 +1378,8 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 
 > Unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.
 
+### Ficha técnica
+
 <table>
 <tr>
 <td class="green-box-cell">
@@ -1623,6 +1635,8 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884238/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-perspectiva_ogt8pi.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
 > Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium.
+
+### Ficha técnica
 
 <table>
 <tr>
@@ -1899,6 +1913,8 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 ![Análisis y opinión - Un diseño clásico y eficiente](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884150/Robots%20aspiradores/Robot-aspirador-roborock-S7-vertical_v58lcl.jpg "Análisis y opinión - Un diseño clásico y eficiente")
 
 > Un aspirador robot de gama alta: lo tiene todo... Por un precio relativamente elevado por tratarse de un Xiaomi.
+
+### Ficha técnica
 
 <table>
 <tr>
