@@ -39,7 +39,7 @@ Encontrarás al final del artículo una tabla recapitulativa de las caracteristi
 
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
 
-\> Ideal para apartamentos o salas de menos de 60 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente poco sofisticado; su aspiración potente, su filtro HEPA y su mopa aseguran un nivel de limpieza impecable
+> Ideal para apartamentos o salas de menos de 60 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente poco sofisticado; su aspiración potente, su filtro HEPA y su mopa aseguran un nivel de limpieza impecable
 
 **El Xiaomi Smart Vacuum 1C** es un equipo robusto, con un diseño moderno y poder de succión elevado, además es multifuncional. Se trata del robot aspiradora ideal para los que buscan calidad a bajo precio.
 
@@ -104,7 +104,7 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884218/Robots%20aspiradores/Robot-aspirador-roborock-E4-perspectiva2_zqhrfs.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
-\> Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, el  **Roborock E4** es unos 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
+> Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, el  **Roborock E4** es unos 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
 
 **El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4**.
 
@@ -160,7 +160,8 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 
 ![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
 
-\> El **Xiaomi MiJia G1** tampoco dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero dispone de un mapeo gracias a su sistema giroscapico y su comportamiento en pruebas reales es excelente. Es esta excelente relación calidad-precio que convierte este robot aspiradors Xiaomi en uno de nuestros favoritos.
+> El **Xiaomi MiJia G1** tampoco dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es excelente. 
+>Es esta excelente relación calidad-precio que convierte este robot aspiradors Xiaomi en uno de nuestros favoritos.
 
 Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
 
@@ -223,7 +224,7 @@ Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan
 <div class="cons-item">Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.</div>
 </div>
 
-## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología de avanzada
+## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología avanzada
 
 ![Prueba y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-apoyado2_wykzmf.jpg "Prueba y opinión - Un diseño cuidado")
 
@@ -301,7 +302,7 @@ En esta ocasión te presentamos un equipo que no solo aspira, también friega y 
 
 ![Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884183/Robots%20aspiradores/Robot-aspirador-roborock-algoritmos_l5edfe.jpg "Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi")
 
-En general, el rendimiento del Roborock S5 Max es aceptable. Es muy notorio que se trata de un robot aspiradora de gama alta.
+En general, el rendimiento del Roborock S5 Max es excelente. Es muy notorio que se trata de un robot aspiradora de gama alta.
 
 Puede desempeñarse con mucha eficiencia en superficies duras, pero también hace buen trabajo sobre alfombras.
 
@@ -394,6 +395,59 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 <div class="cons-item">El equipo no incluye accesorios de repuestos.</div>
 <div class="cons-item">El material del cepillo lateral es goma, pudiendo ser de un material más efectivo, por ejemplo silicon.</div>
 </div>
+
+## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología avanzada
+
+![Prueba y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-apoyado2_wykzmf.jpg "Prueba y opinión - Un diseño cuidado")
+
+Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max**. Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
+
+![Análisis y prueba - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-perspectiva_2_syqbkn.jpg "Análisis y prueba - Un aspirador robot ideal para toda la casa")
+
+Este es el equipo que buscas si quieres que tus pisos luzcan impecables a pesar de las travesuras de tus mascotas. Es fiable, capaz de desempeñarse con eficiencia hasta en los entornos más complicados.
+
+![Análisis y prueba - El cepillo universal para suelos duros y alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884200/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-debajo_hjztvy.jpg "Análisis y prueba - El cepillo universal para suelos duros y alfombras")
+
+Incluye un sistema de navegación inteligente por medio de láser y su autonomía es de sus mejores características. **Roborock S4 Max incorpora una enorme batería de litio de 5.200 mAh** que le permite abarcar áreas más extensas con una misma carga.
+
+Su autonomía representa una de las más amplias del mercado de robots aspiradoras inteligentes, con 180 minutos continuos antes de recargarse.
+
+El diseño de este moderno equipo incluye tres botones en su parte superior para el manejo manual. A través de estos mandos podemos iniciar la limpieza o  enviar al **robot aspiradora** a su base de carga.
+
+Pero, si prefieres lo simple y cómodo, tienes la opción de **manejar el Roborock S4 Max por medio de una aplicación móvil** desde la comodidad de cualquier dispositivo electrónico.
+
+Desde la APP tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
+
+### Lo que opinan los usuarios del Roborock S4 Max
+
+En general la **valoración del Roborock S4 Max** se basa en su desempeño en diferentes tipos de suelos. En suelos de maderas el funcionamiento del equipo se considera excelente.
+
+Al parecer el **Roborock S4 Max** hace la diferencia limpiando en lugares de difícil acceso, sobre todo en este tipo de superficie.
+
+Probando el desempeño del equipo en alfombras lisas la labor fue realizada sin ningún inconveniente, de hecho el trabajo fue catalogado como perfecto.
+
+**Recomiendan probar el Roborock S4 Max en alfombras** pero en modalidad turbo, para que el trabajo se realice más eficientemente.
+
+En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sobre todo para los que viven en pisos de grandes dimensiones.
+
+### ¿Cuáles son las ventajas y las desventajas del Roborock S4 Max?
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Tiene gran poder de succión y es capaz de adaptarse a diferentes tipos de suelos.</div>
+<div class="pros-item">Puede limpiar hasta 180 minutos continuos con una misma carga.</div>
+<div class="pros-item">La APP te permite acceso a múltiples funciones.</div>
+<div class="pros-item">Tiene un diseño que evita que se atasque en su recorrido.</div>
+</div>
+
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">No incluye función de fregado.</div>
+<div class="cons-item">Es más ruidoso que otros equipos de la marca.</div>
+<div class="cons-item">Configurar la App puede convertirse en una tarea complicada.</div>
+</div>
+
 
 ## Roborock S6 MaxV: Detecta la suciedad de tus mascotas
 
