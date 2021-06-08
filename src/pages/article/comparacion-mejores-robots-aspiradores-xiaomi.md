@@ -117,7 +117,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -376,7 +376,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -635,7 +635,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -887,7 +887,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -1139,7 +1139,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -1404,7 +1404,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -1662,7 +1662,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >Sí</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
@@ -1941,7 +1941,7 @@ La cartografía láser es la más eficaz.</div>
 </td>
 <td >No</div>
 </td>
-<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+<td >Calcetines, comida de mascotas, juguetes… Idealmente el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
 </td>
 </tr><tr>
 <td >Limpieza por zona</div>
