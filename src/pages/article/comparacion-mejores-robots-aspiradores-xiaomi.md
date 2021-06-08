@@ -729,7 +729,7 @@ La cartografía láser es la más eficaz.</div>
 
 
 
-
+### Descripción del Roborock S6
 
 El sistema de vibración sónica que incorpora **Roborock S7** lo convierte en un equipo que friega y aspira más eficientemente. Potencia máxima y gran autonomía, son algunas de las características de este modelo, sigue aquí para que lo conozcas a fondo.
 
