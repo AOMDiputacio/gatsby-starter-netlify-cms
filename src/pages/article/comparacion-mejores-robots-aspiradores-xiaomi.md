@@ -697,7 +697,7 @@ La cartografía láser es la más eficaz.</div>
 <td ></div>
 </td>
 </tr><tr>
-<td >Precio</div>
+<td >Precio (en Euros)</div>
 </td>
 <td >569</div>
 </td>
