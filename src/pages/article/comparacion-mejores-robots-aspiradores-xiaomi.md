@@ -86,6 +86,196 @@ Cuesta más de el doble que el Mijia 1C.</td>
 
 > El **Xiaomi MiJia G1** no dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo. 
 
+<table>
+<tr>
+<td class="green-box-cell">
+<div class="green-box">Característica</div>
+</td>
+<td class="green-box-cell">
+<div class="green-box">Xiaomi MiJia G1</div>
+</td>
+<td class="green-box-cell">
+<div class="green-box">Descripción</div>
+</td>
+</tr><tr>
+<td >TecNología de cartografía</div>
+</td>
+<td >giroscopio</div>
+</td>
+<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar, identificando las zonas que ya están limpias y las que están pendientes. De esta forma el robot optimiza su recorrido, tiempo de limpieza y batería.
+La cartografía láser es la más eficaz.</div>
+</td>
+</tr><tr>
+<td >Recognición de objetos</div>
+</td>
+<td >No</div>
+</td>
+<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+</td>
+</tr><tr>
+<td >Limpieza por zona</div>
+</td>
+<td >No</div>
+</td>
+<td >En cualquier casa hay zonas que se ensucián mucho y otras que apenas se usan. Esta modalidad permite elegir las zonas que se limpian y las que no.</div>
+</td>
+</tr><tr>
+<td >Alexa / Google Home Support</div>
+</td>
+<td >No</div>
+</td>
+<td >Estas aplicaciones permiten controlar a distancia los objetos de casa</div>
+</td>
+</tr><tr>
+<td >Identificación de alfombra</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots asspiradores aumentan la potencia de aspiración cuando detectan una alfombra para dejarla impecable.</div>
+</td>
+</tr><tr>
+<td >Áreas restringidas / Límites virtuales</div>
+</td>
+<td >No</div>
+</td>
+<td >Esta funcionalidad prohibir el acceso a zonas dónde el robot no tiene que ir; el cuarto de baño, zonas dónde hay muchos cables o rjuguetes de bebé, comida para animales etc.</div>
+</td>
+</tr><tr>
+<td >RecoNocimiento de salas</div>
+</td>
+<td >No</div>
+</td>
+<td >Esta funcionalidad permite identificar cada sala y darles un nombre mediante la aplicación</div>
+</td>
+</tr><tr>
+<td >Programación para limpiar en una sala específica</div>
+</td>
+<td >No</div>
+</td>
+<td >Una vez las salas identificadas, la aplicación permite comunicar al robot cuales hay que limpiar</div>
+</td>
+</tr><tr>
+<td >Soporte de múltiples mapas</div>
+</td>
+<td >No</div>
+</td>
+<td >Esta funcionalidad permite usar un solo robot en viviendas de varios pisos sin que este tenga que volver a realizar la cartografía del piso</div>
+</td>
+</tr><tr>
+<td >Recargar y reanudar</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Cuando el robot aspirador se queda sin batería, vuelve a su base para cargarse y reanude la limpieza dónde la había dejado hasta terminar el ciclo</div>
+</td>
+</tr><tr>
+<td >Aplicación</div>
+</td>
+<td >Mi Home</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tiempo de descarga (min)</div>
+</td>
+<td >90</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Poder de succión (Pa)</div>
+</td>
+<td >2200</div>
+</td>
+<td >Aunque influyan muchos parametros, un mayor poder de succión se suele relacionar con un mayor poder de limpieza</div>
+</td>
+</tr><tr>
+<td >Tamaño de la basura (ml)</div>
+</td>
+<td >600</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Fregona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots aspiradores Xiaomi cuentan con un mopa; conviene hacer los necesario para que el robot no pase por alfombras con el mopa</div>
+</td>
+</tr><tr>
+<td >Control de nível de agua</div>
+</td>
+<td >Sí</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >capacidad del depósito de agua</div>
+</td>
+<td >200</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tipo de filtro</div>
+</td>
+<td >HEPA</div>
+</td>
+<td >Los filtros HEPA se consideran los más eficaces contra los polvos más finos y los elementos alérgenos; aunque sean lavables, hay que cambiarlos regularmente</div>
+</td>
+</tr><tr>
+<td >Capacidad de la batería (mAh)</div>
+</td>
+<td >2,5</div>
+</td>
+<td >Una batería de mayor capacidad permita aspirar con más potencia durante más tiempo</div>
+</td>
+</tr><tr>
+<td >Nivel de ruido (dB)</div>
+</td>
+<td >0</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Altura de escalada (mm)</div>
+</td>
+<td >17</div>
+</td>
+<td >El robot no podrá franquear un obstáculo de mayor altura; los robots modernos no se suelen atascar en cables o alfombras pero sí en bases de muebles de sillas o de lámparas dependiente de su forma</div>
+</td>
+</tr><tr>
+<td >Altura del robot (cm)</div>
+</td>
+<td >8.2</div>
+</td>
+<td >Un robot más fino podrá limpiar por debajor de muebles más bajos; cuanto más fino el robot, mejor</div>
+</td>
+</tr><tr>
+<td >Fecha de lanzamiento</div>
+</td>
+<td >Ábril 20</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Precio (en Euros)</div>
+</td>
+<td >No disponible</div>
+</td>
+<td ></div>
+</td>
+</tr>
+</table>
+/* La tabla resumen de las caracteristicas de todos los robots aspiradores Xiaomi analizados se encuentra al final de este artículo
+
+### Descripción del Roborock S6
+
+
+
+
+
 Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
 
 Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las necesidades más exigentes pero, con un precio bastante asequible.
@@ -728,6 +918,7 @@ La cartografía láser es la más eficaz.</div>
 
 
 
+/* La tabla resumen de las caracteristicas de todos los robots aspiradores Xiaomi analizados se encuentra al final de este artículo
 
 ### Descripción del Roborock S6
 
