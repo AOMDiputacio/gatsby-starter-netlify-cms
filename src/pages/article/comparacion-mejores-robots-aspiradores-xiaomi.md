@@ -39,6 +39,8 @@ Encontrarás al final del artículo una tabla recapitulativa de las caracteristi
 
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
 
+\> Ideal para apartamentos o salas de menos de 60 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente poco sofisticado; su aspiración potente y su mopa aseguran un nivel de limpieza impecable
+
 **El Xiaomi Smart Vacuum 1C** es un equipo robusto, con un diseño moderno y poder de succión elevado, además es multifuncional. Se trata del robot aspiradora ideal para los que buscan calidad a bajo precio.
 
 Su desempeño es increíble hasta en las habitaciones más sucias, esto gracias a sus **2.500 pascales de potencia en succión** en su modalidad máxima. El modo silencioso y estándar del equipo también te darán buenos resultados con menos  energía.
