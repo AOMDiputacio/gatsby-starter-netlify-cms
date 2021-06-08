@@ -512,12 +512,26 @@ Consideran que se trata del equipo ideal para el mantenimiento de casas con masc
 
 ### Conoce lo bueno y lo malo del Roborock S7
 
-
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Ofrece potencia con un desempeño silencioso</div>
+<div class="pros-item">Calidad en los materiales. Su rodillo es de goma.</div>
+<div class="pros-item">No solo aspira, también friega con gran eficiencia</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El depósito para la suciedad no es suficiente.</div>
+<div class="cons-item">No incluye recambios.</div>
+<div class="cons-item">Se le dificulta la limpieza en las esquinas.</div>
+</div>
 
 
 
 
 ---
+### Tabla resumen de caracteristicas destacadas de todos los Robots Aspiradores Xiaomi analizados
+
 <table>
 <tr>
 <td>Modelo</td>
