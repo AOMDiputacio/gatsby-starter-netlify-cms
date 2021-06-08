@@ -104,7 +104,7 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884218/Robots%20aspiradores/Robot-aspirador-roborock-E4-perspectiva2_zqhrfs.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
-\> Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, este robot es 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
+\> Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, el  **Roborock E4** es unos 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
 
 **El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4**.
 
@@ -159,6 +159,8 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 ## Xiaomi MiJia G1: El robot aspiradora con la mejor relación calidad- precio
 
 ![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
+
+\> El **Xiaomi MiJia G1** tampoco dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero dispone de un mapeo gracias a su sistema giroscapico y su comportamiento en pruebas reales es excelente. Es esta excelente relación calidad-precio que convierte este robot aspiradors Xiaomi en uno de nuestros favoritos.
 
 Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
 
