@@ -39,7 +39,7 @@ Para simplificarte la vida, **hemos analizado los aspiradores robots Xiaomi los 
 
 Encontrarás al final del artículo una tabla recapitulativa de las caracteristicas y precios de todos los modelos de robots aspiradores que hemos analizado para que no te puedas equivocar.
 
-### Los mejores robots aspiradores Xiaomi por el 2021
+### Los mejores robots aspiradores Xiaomi en 2021
 <table>
 <tr>
 <td><b>Modelo</b></td>
