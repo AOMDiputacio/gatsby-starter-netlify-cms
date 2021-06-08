@@ -145,6 +145,7 @@ Finalmente, remarcan que es poco habitual que un robot de entrada de gama sepa r
 <div class="cons-item">El modelo no cuenta con sistema inteligente de navegación láser.</div>
 <div class="cons-item">Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.</div>
 </div>
+</div>
 
 ## Mi Smart Vacuum 1C: El Robot aspirador multifuncional de Xiaomi
 
@@ -211,6 +212,7 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 <div class="cons-item">No tiene sistema de navegación láser. Cuando pasa de una habitación a otra su recorrido puede ser errático.</div>
 <div class="cons-item">Su autonomía es poca en comparación con otros equipos de la misma serie.</div>
 </div>
+</div>
 
 ## Roborock E4: Excelente autonomía en un equipo eficiente  de gama media
 
@@ -267,6 +269,7 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 <div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">El usuario tiene que hacerle mantenimiento recurrente, lo que genera gastos continuos.</div>
 </div>
+</div>
 
 ## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología avanzada
 
@@ -320,6 +323,7 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 <div class="cons-item">No incluye función de fregado.</div>
 <div class="cons-item">Es más ruidoso que otros equipos de la marca.</div>
 <div class="cons-item">Configurar la App puede convertirse en una tarea complicada.</div>
+</div>
 </div>
 
 ## Roborock S5 Max: Gran autonomía y eficiente desempeño
@@ -386,6 +390,7 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 <div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Su precio es bastante elevado.</div>
 </div>
+</div>
 
 ## Roborock S6 Pure: El robot aspiradora de gama alta con el  mejor precio del mercado
 
@@ -445,6 +450,7 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 <div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">El equipo no incluye accesorios de repuestos.</div>
 <div class="cons-item">El material del cepillo lateral es goma, pudiendo ser de un material más efectivo, por ejemplo silicon.</div>
+</div>
 </div>
 
 ## Roborock S6 MaxV: Detecta la suciedad de tus mascotas
@@ -507,6 +513,7 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 <div class="cons-header">Se debe mejorar</div>
 <div class="cons-item">Puede detectar de forma erróneas algunos obstáculos en su ruta.</div>
 <div class="cons-item">Hay que vaciar con mucha frecuencia el depósito de suciedad.</div>
+</div>
 </div>
 
 ## Roborock S 7: El robot aspiradora  más avanzando de la serie S
