@@ -13,6 +13,7 @@ slug: elegir-robot-aspirador-guia-completa-y-definitiva
 date: 2021-06-07T08:17:23.095Z
 tags:
   - tag: aspiradoras
+  - tag: guias
 image: /img/logo.png
 imageAlt: Hemos seleccionado por tí los mejores robots aspiradores para hacerte
   la vida fácil
