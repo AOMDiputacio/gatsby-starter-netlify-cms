@@ -539,7 +539,7 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 </td>
 <td >LDS</div>
 </td>
-<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar e identificar las zonas que ya están limpias y las que están pendientes e optimizando los recorridos, el tiempo de limpieza y la batería.
+<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar, identificando las zonas que ya están limpias y las que están pendientes. De esta forma el robot optimiza su recorrido, tiempo de limpieza y batería.
 La cartografía láser es la más eficaz.</div>
 </td>
 </tr><tr>
