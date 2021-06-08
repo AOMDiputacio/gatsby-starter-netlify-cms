@@ -39,7 +39,7 @@ Encontrarás al final del artículo una tabla recapitulativa de las caracteristi
 
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
 
-\> Ideal para apartamentos o salas de menos de 60 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente poco sofisticado; su aspiración potente y su mopa aseguran un nivel de limpieza impecable
+\> Ideal para apartamentos o salas de menos de 60 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente poco sofisticado; su aspiración potente, su filtro HEPA y su mopa aseguran un nivel de limpieza impecable
 
 **El Xiaomi Smart Vacuum 1C** es un equipo robusto, con un diseño moderno y poder de succión elevado, además es multifuncional. Se trata del robot aspiradora ideal para los que buscan calidad a bajo precio.
 
@@ -103,6 +103,8 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 ## Roborock E4: Excelente autonomía en un equipo eficiente  de gama media
 
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884218/Robots%20aspiradores/Robot-aspirador-roborock-E4-perspectiva2_zqhrfs.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
+
+\> Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, este robot es 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.
 
 **El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4**.
 
