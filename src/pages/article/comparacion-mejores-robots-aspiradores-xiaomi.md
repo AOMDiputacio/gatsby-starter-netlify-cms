@@ -96,13 +96,13 @@ Cuesta más de el doble que el Mijia 1C.</td>
 <table>
 <tr>
 <td class="green-box-cell">
-<div class="green-box">Característica</div>
+Característica</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Xiaomi MiJia G1</div>
+Xiaomi MiJia G1</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Descripción</div>
+Descripción</div>
 </td>
 </tr><tr>
 <td >TecNología de cartografía</div>
@@ -355,13 +355,13 @@ Finalmente, remarcan que es poco habitual que un robot de entrada de gama sepa r
 <table>
 <tr>
 <td class="green-box-cell">
-<div class="green-box">Característica</div>
+Característica</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Xiaomi MiJia 1C</div>
+Xiaomi MiJia 1C</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Descripción</div>
+Descripción</div>
 </td>
 </tr><tr>
 <td >TecNología de cartografía</div>
@@ -614,13 +614,13 @@ Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal qu
 <table>
 <tr>
 <td class="green-box-cell">
-<div class="green-box">Característica</div>
+Característica</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Roborock E4</div>
+Roborock E4</div>
 </td>
 <td class="green-box-cell">
-<div class="green-box">Descripción</div>
+Descripción</div>
 </td>
 </tr><tr>
 <td >TecNología de cartografía</div>
