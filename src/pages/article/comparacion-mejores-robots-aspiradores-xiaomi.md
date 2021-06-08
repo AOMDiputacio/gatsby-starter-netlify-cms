@@ -35,6 +35,74 @@ Para simplificarte la vida, **hemos analizado los aspiradores robots Xiaomi los 
 
 Encontrarás al final del artículo una tabla recapitulativa de las caracteristicas y precios de todos los modelos de robots aspiradores que hemos analizado para que no te puedas equivocar.
 
+## Xiaomi MiJia G1: El robot aspiradora con la mejor relación calidad- precio
+
+![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
+
+> El **Xiaomi MiJia G1** tampoco dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es excelente. 
+> Es esta excelente relación calidad-precio que convierte este robot aspiradors Xiaomi en uno de nuestros favoritos.
+
+Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
+
+Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las necesidades más exigentes pero, con un precio bastante asequible.
+
+Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
+
+![Análisis y prueba - Estructura del filtro](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-filtro_r55cbd.jpg "Análisis y prueba - Estructura del filtro")
+
+La marca apuesta en esta ocasión por un motor NIDEC que ofrece potencia de succión de 2200 Pascales. **El depósito para agua del MiJia G1 es de 200 ml**, ideal para fregar y barrer.
+
+La bomba de agua electrónica que incorpora el equipo le permite ejecutar sus funciones  en diferentes tipos de superficies con la misma efectividad.
+
+![Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884083/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-cambio-superficies_b7ftb1.jpg "Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie")
+
+El **sistema de navegación de este robot Xiaomi** es a través de sensores, esto lo convierte en un modelo más básico si tomamos en cuenta que sus competidores cuentan con navegación láser.
+
+![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
+
+La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos muebles y sofás gracias a su altura de solo 82 milímetros** de alto. Este robot aspiradora incorpora ruedas que lo hacen capaz de superar obstáculos de 1,7 centímetros.
+
+![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
+
+**La autonomía del Xiaomi MiJia G1** otorga por lo menos hora y media de funcionamiento continuo o lo que es lo mismo, limpia  120 metros cuadrados de tu casa y es que este modelo cuenta con una batería de 2.500 mAh.
+
+Es posible emparejar el nuevo Xiaomi MiJia G1  con la aplicación móvil Mi Home, propia de la marca.
+
+A través de la APP tienes la alternativa de configurar el menú de opciones, además podrás ver el mapa de tu casa al tiempo que el equipo esté operando.
+
+También te brinda la opción de seleccionar zonas específicas de tu casa, para que el robot limpie puntualmente.
+
+![Análisis y opinión - Caracteristicas del Xiaomi G1](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-caracteristicas_j8xdgg.jpg "Análisis y opinión - Caracteristicas del Xiaomi G1")
+
+**Puedes controlar  con la voz tu Xiaomi MiJia G1 mediante el asistente Xiao Al**, una característica poco común para equipos de gama de entrada.
+
+### Valoración: ¿Qué opinan del  MiJia G1 de Xiaomi?
+
+La mayoría de las opiniones sobre este robot aspiradora de Xiaomi, son excelentes. Alagan la autonomía, indicando que es suficiente para limpiar por completo un apartamento de unos 80 metros cuadrados.
+
+Se refieren en gran medida a la excelente relación calidad precio del equipo. Además, aplauden el modo silencioso del robot y su efectividad a la hora de limpiar migas o polvo.
+
+Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan la capacidad que tiene su depósito de agua.
+
+![Prueba y opinión - Un aspirador completo para mantener la casa limpia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-accesorios_ob7odo.jpg "Prueba y opinión - Un aspirador completo para mantener la casa limpia")
+
+### Lo bueno y lo malo del Xiaomi MiJia G1
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Excelente relación calidad- precio.</div>
+<div class="pros-item">Cuenta con 4 niveles de potencia y 3 niveles de fregado.</div>
+<div class="pros-item">Es un modelo eficiente limpiando en húmedo.</div>
+<div class="pros-item">Su tamaño le permite alcanzar lugares de difícil acceso.</div>
+</div>
+
+<div class="col"">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El modelo no cuenta con sistema inteligente de navegación láser.</div>
+<div class="cons-item">Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.</div>
+</div>
+
 ## Mi Smart Vacuum 1C: El Robot aspiradora multifuncional de Xiaomi
 
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
@@ -156,129 +224,13 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 <div class="cons-item">El usuario tiene que hacerle mantenimiento recurrente, lo que genera gastos continuos.</div>
 </div>
 
-## Xiaomi MiJia G1: El robot aspiradora con la mejor relación calidad- precio
 
-![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
-
-> El **Xiaomi MiJia G1** tampoco dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es excelente. 
->Es esta excelente relación calidad-precio que convierte este robot aspiradors Xiaomi en uno de nuestros favoritos.
-
-Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos. Se trata del **Xiaomi MiJia G1**, el robot aspiradora con la mejor relación calidad- precio del mercado.
-
-Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las necesidades más exigentes pero, con un precio bastante asequible.
-
-Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
-
-![Análisis y prueba - Estructura del filtro](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-filtro_r55cbd.jpg "Análisis y prueba - Estructura del filtro")
-
-La marca apuesta en esta ocasión por un motor NIDEC que ofrece potencia de succión de 2200 Pascales. **El depósito para agua del MiJia G1 es de 200 ml**, ideal para fregar y barrer.
-
-La bomba de agua electrónica que incorpora el equipo le permite ejecutar sus funciones  en diferentes tipos de superficies con la misma efectividad.
-
-![Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884083/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-cambio-superficies_b7ftb1.jpg "Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie")
-
-El **sistema de navegación de este robot Xiaomi** es a través de sensores, esto lo convierte en un modelo más básico si tomamos en cuenta que sus competidores cuentan con navegación láser.
-
-![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
-
-La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos muebles y sofás gracias a su altura de solo 82 milímetros** de alto. Este robot aspiradora incorpora ruedas que lo hacen capaz de superar obstáculos de 1,7 centímetros.
-
-![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
-
-**La autonomía del Xiaomi MiJia G1** otorga por lo menos hora y media de funcionamiento continuo o lo que es lo mismo, limpia  120 metros cuadrados de tu casa y es que este modelo cuenta con una batería de 2.500 mAh.
-
-Es posible emparejar el nuevo Xiaomi MiJia G1  con la aplicación móvil Mi Home, propia de la marca.
-
-A través de la APP tienes la alternativa de configurar el menú de opciones, además podrás ver el mapa de tu casa al tiempo que el equipo esté operando.
-
-También te brinda la opción de seleccionar zonas específicas de tu casa, para que el robot limpie puntualmente.
-
-![Análisis y opinión - Caracteristicas del Xiaomi G1](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-caracteristicas_j8xdgg.jpg "Análisis y opinión - Caracteristicas del Xiaomi G1")
-
-**Puedes controlar  con la voz tu Xiaomi MiJia G1 mediante el asistente Xiao Al**, una característica poco común para equipos de gama de entrada.
-
-### Valoración: ¿Qué opinan del  MiJia G1 de Xiaomi?
-
-La mayoría de las opiniones sobre este robot aspiradora de Xiaomi, son excelentes. Alagan la autonomía, indicando que es suficiente para limpiar por completo un apartamento de unos 80 metros cuadrados.
-
-Se refieren en gran medida a la excelente relación calidad precio del equipo. Además, aplauden el modo silencioso del robot y su efectividad a la hora de limpiar migas o polvo.
-
-Agradecen la  **eficiencia del Xiaomi MiJia G1** limpiando en húmedo y destacan la capacidad que tiene su depósito de agua.
-
-![Prueba y opinión - Un aspirador completo para mantener la casa limpia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-accesorios_ob7odo.jpg "Prueba y opinión - Un aspirador completo para mantener la casa limpia")
-
-### Lo bueno y lo malo del Xiaomi MiJia G1
-
-<div class="row">
-<div class="col">
-<div class="pros-header">Nos ha gustado</div>
-<div class="pros-item">Excelente relación calidad- precio.</div>
-<div class="pros-item">Cuenta con 4 niveles de potencia y 3 niveles de fregado.</div>
-<div class="pros-item">Es un modelo eficiente limpiando en húmedo.</div>
-<div class="pros-item">Su tamaño le permite alcanzar lugares de difícil acceso.</div>
-</div>
-
-<div class="col"">
-<div class="cons-header">Se debe mejorar</div>
-<div class="cons-item">El modelo no cuenta con sistema inteligente de navegación láser.</div>
-<div class="cons-item">Se limita a la limpieza de lugares pequeños, por la capacidad de su batería.</div>
-</div>
-
-## El Roborock S4 Max combina diseño, excelentes prestaciones y tecnología avanzada
-
-![Prueba y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-apoyado2_wykzmf.jpg "Prueba y opinión - Un diseño cuidado")
-
-Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max**. Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
-
-![Análisis y prueba - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-perspectiva_2_syqbkn.jpg "Análisis y prueba - Un aspirador robot ideal para toda la casa")
-
-Este es el equipo que buscas si quieres que tus pisos luzcan impecables a pesar de las travesuras de tus mascotas. Es fiable, capaz de desempeñarse con eficiencia hasta en los entornos más complicados.
-
-![Análisis y prueba - El cepillo universal para suelos duros y alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884200/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-debajo_hjztvy.jpg "Análisis y prueba - El cepillo universal para suelos duros y alfombras")
-
-Incluye un sistema de navegación inteligente por medio de láser y su autonomía es de sus mejores características. **Roborock S4 Max incorpora una enorme batería de litio de 5.200 mAh** que le permite abarcar áreas más extensas con una misma carga.
-
-Su autonomía representa una de las más amplias del mercado de robots aspiradoras inteligentes, con 180 minutos continuos antes de recargarse.
-
-El diseño de este moderno equipo incluye tres botones en su parte superior para el manejo manual. A través de estos mandos podemos iniciar la limpieza o  enviar al **robot aspiradora** a su base de carga.
-
-Pero, si prefieres lo simple y cómodo, tienes la opción de **manejar el Roborock S4 Max por medio de una aplicación móvil** desde la comodidad de cualquier dispositivo electrónico.
-
-Desde la APP tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
-
-### Lo que opinan los usuarios del Roborock S4 Max
-
-En general la **valoración del Roborock S4 Max** se basa en su desempeño en diferentes tipos de suelos. En suelos de maderas el funcionamiento del equipo se considera excelente.
-
-Al parecer el **Roborock S4 Max** hace la diferencia limpiando en lugares de difícil acceso, sobre todo en este tipo de superficie.
-
-Probando el desempeño del equipo en alfombras lisas la labor fue realizada sin ningún inconveniente, de hecho el trabajo fue catalogado como perfecto.
-
-**Recomiendan probar el Roborock S4 Max en alfombras** pero en modalidad turbo, para que el trabajo se realice más eficientemente.
-
-En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sobre todo para los que viven en pisos de grandes dimensiones.
-
-### ¿Cuáles son las ventajas y las desventajas del Roborock S4 Max?
-
-<div class="row">
-<div class="col">
-<div class="pros-header">Nos ha gustado</div>
-<div class="pros-item">Tiene gran poder de succión y es capaz de adaptarse a diferentes tipos de suelos.</div>
-<div class="pros-item">Puede limpiar hasta 180 minutos continuos con una misma carga.</div>
-<div class="pros-item">La APP te permite acceso a múltiples funciones.</div>
-<div class="pros-item">Tiene un diseño que evita que se atasque en su recorrido.</div>
-</div>
-
-<div class="col">
-<div class="cons-header">Se debe mejorar</div>
-<div class="cons-item">No incluye función de fregado.</div>
-<div class="cons-item">Es más ruidoso que otros equipos de la marca.</div>
-<div class="cons-item">Configurar la App puede convertirse en una tarea complicada.</div>
-</div>
 
 ## Roborock S5 Max: Gran autonomía y eficiente desempeño
 
 ![Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884181/Robots%20aspiradores/Robot-aspirador-roborock-perspectiva_lquazp.jpg "Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo")
+
+> Prestaciones excelentes por un precio medio; es el robot aspirador de Xiaomi que mejor limpia y aspira en las pruebas que hemos realizado. Su mapeo por laser, su gran autonomía así como su capacidad de grabar hasta 4 mapas lo hace ideal para cualquier tipo de casa o apartamento. 
 
 Más de 150 minutos continuos limpiando con una misma carga, esa es la  excelente autonomía que tendrás con el **Roborock S5 Max, el equipo ideal para limpiar espacios de grandes dimensiones**.
 
@@ -341,6 +293,8 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 ## Roborock S6 Pure: El robot aspiradora de gama alta con el  mejor precio del mercado
 
 ![Análisis y opinión - Diseño clásico y estético](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884164/Robots%20aspiradores/Robot-aspirador-roborock-S6-vertical_xnrmii.jpg "Análisis y opinión - Diseño clásico y estético")
+
+> unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.
 
 **Roborock S6 Pure** es el equipo del hábitat Xiaomi que te presentaremos en está ocasión. Se trata de un robot aspiradora que ofrece características de gama alta, pero con un precio bastante atractivo si lo comparamos con sus competidores.
 
@@ -447,7 +401,6 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 <div class="cons-item">Es más ruidoso que otros equipos de la marca.</div>
 <div class="cons-item">Configurar la App puede convertirse en una tarea complicada.</div>
 </div>
-
 
 ## Roborock S6 MaxV: Detecta la suciedad de tus mascotas
 
