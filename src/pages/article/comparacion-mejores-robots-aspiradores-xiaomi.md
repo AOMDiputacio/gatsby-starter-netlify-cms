@@ -25,13 +25,13 @@ imageAlt: De todos los modelos Xiaomi, hemos identificado los mejores robots asp
 
 Xiaomi es sin duda la marca del momento. Este grupo Xino se dió a conocer con sus teléfonos inteligentes que replicaban la tecnología de las mejores marcas por una fracción del precio. 
 
-Luego siguió desarrollando multitud de productos electronicos siempre conservando la misma filosofía de calidad con un precio muy bajo, y no tardó en posicionarse como una de las marcas las más exitosas del mundo.
+Luego siguió desarrollando multitud de productos electronicos **siempre conservando la misma filosofía de calidad con un precio muy bajo**, y no tardó en posicionarse como una de las marcas las más exitosas del mundo.
 
 Los aspiradores robots de Xiaomi no son la excepción. Cuentan con la mejor tecnología del momento por un excelente precio y se han convertido en los robots aspiradores más vendidos en el mundo.
 
-Pero gracias a este éxito, la marca va proponiendo nuevos aspiradores varias veces al año, todos con caracteristicas adaptados a cada uso, por lo que no es tarea fácil saber cual de estos modelos se adaptan a las necesidades de uno.
+Pero gracias a este éxito, **la marca va proponiendo nuevos aspiradores varias veces al año**, todos con caracteristicas adaptados a cada uso, por lo que **no es tarea fácil saber cual de estos modelos se adaptan a las necesidades de uno**.
 
-Por facilitarte la vida, hemos analizado los aspiradores robots Xiaomi los más recientes y los que se siguen vendiendo masivamente para determinar el más adaptado a cada uso.
+Para simplificarte la vida, **hemos analizado los aspiradores robots Xiaomi los más recientes y los que se siguen vendiendo masivamente para determinar el más adaptado a cada uso**.
 
 Encontrarás al final del artículo una tabla recapitulativa de las caracteristicas y precios de todos los modelos de robots aspiradores que hemos analizado para que no te puedas equivocar.
 
