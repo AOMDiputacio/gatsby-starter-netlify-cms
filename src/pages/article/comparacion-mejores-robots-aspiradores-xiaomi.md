@@ -406,6 +406,8 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884238/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-perspectiva_ogt8pi.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
+> Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium
+
 Si tienes mascotas en casa **el Roborock S6 MaxV** es el equipo ideal para ti. Se trata de un robot aspiradora con tecnología inteligente que limpia tu casa mientras la recorre eficientemente.
 
 El diseño de este equipo incluye un sistema de doble cámara para una navegación más efectiva. Por ejemplo, este sistema le  permite al robot evitar las heces de tus mascotas.
@@ -465,6 +467,8 @@ Su sistema de cámara y en general toda la tecnología que incluye, hacen de est
 ## Roborock S 7: El robot aspiradora  más avanzando de la serie S
 
 ![Análisis y opinión - Un diseño clásico y eficiente](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884150/Robots%20aspiradores/Robot-aspirador-roborock-S7-vertical_v58lcl.jpg "Análisis y opinión - Un diseño clásico y eficiente")
+
+> Un aspirador robot de gama alta: lo tiene todo... Por un precio relativamente elevado por tratarse de un Xiaomi.
 
 El sistema de vibración sónica que incorpora **Roborock S7** lo convierte en un equipo que friega y aspira más eficientemente. Potencia máxima y gran autonomía, son algunas de las características de este modelo, sigue aquí para que lo conozcas a fondo.
 
