@@ -1100,6 +1100,204 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 > Prestaciones excelentes por un precio medio; es el robot aspirador de Xiaomi que mejor limpia y aspira en las pruebas que hemos realizado. Su mapeo por laser, su gran autonomía así como su capacidad de grabar hasta 4 mapas lo hace ideal para cualquier tipo de apartamento o casa con varios pisos.
 > Cuesta más de el doble que el Mijia 1C.
 
+<table>
+<tr>
+<td class="green-box-cell">
+Característica</div>
+</td>
+<td class="green-box-cell">
+Roborock S5 Max</div>
+</td>
+<td class="green-box-cell">
+Descripción</div>
+</td>
+</tr><tr>
+<td >TecNología de cartografía</div>
+</td>
+<td >LDS</div>
+</td>
+<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar, identificando las zonas que ya están limpias y las que están pendientes. De esta forma el robot optimiza su recorrido, tiempo de limpieza y batería.
+La cartografía láser es la más eficaz.</div>
+</td>
+</tr><tr>
+<td >Recognición de objetos</div>
+</td>
+<td >No</div>
+</td>
+<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+</td>
+</tr><tr>
+<td >Limpieza por zona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >En cualquier casa hay zonas que se ensucián mucho y otras que apenas se usan. Esta modalidad permite elegir las zonas que se limpian y las que no.</div>
+</td>
+</tr><tr>
+<td >Alexa / Google Home Support</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Estas aplicaciones permiten controlar a distancia los objetos de casa</div>
+</td>
+</tr><tr>
+<td >Identificación de alfombra</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots asspiradores aumentan la potencia de aspiración cuando detectan una alfombra para dejarla impecable.</div>
+</td>
+</tr><tr>
+<td >Áreas restringidas / Límites virtuales</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad prohibir el acceso a zonas dónde el robot no tiene que ir; el cuarto de baño, zonas dónde hay muchos cables o rjuguetes de bebé, comida para animales etc.</div>
+</td>
+</tr><tr>
+<td >RecoNocimiento de salas</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad permite identificar cada sala y darles un nombre mediante la aplicación</div>
+</td>
+</tr><tr>
+<td >Programación para limpiar en una sala específica</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Una vez las salas identificadas, la aplicación permite comunicar al robot cuales hay que limpiar</div>
+</td>
+</tr><tr>
+<td >Soporte de múltiples mapas</div>
+</td>
+<td >4 mapas</div>
+</td>
+<td >Esta funcionalidad permite usar un solo robot en viviendas de varios pisos sin que este tenga que volver a realizar la cartografía del piso</div>
+</td>
+</tr><tr>
+<td >Recargar y reanudar</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Cuando el robot aspirador se queda sin batería, vuelve a su base para cargarse y reanude la limpieza dónde la había dejado hasta terminar el ciclo</div>
+</td>
+</tr><tr>
+<td >Aplicación</div>
+</td>
+<td >Mi Home / Roborock</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tiempo de descarga (min)</div>
+</td>
+<td >180</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Poder de succión (Pa)</div>
+</td>
+<td >2000</div>
+</td>
+<td >Aunque influyan muchos parametros, un mayor poder de succión se suele relacionar con un mayor poder de limpieza</div>
+</td>
+</tr><tr>
+<td >Tamaño de la basura (ml)</div>
+</td>
+<td >460</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Fregona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots aspiradores Xiaomi cuentan con un mopa; conviene hacer los necesario para que el robot no pase por alfombras con el mopa</div>
+</td>
+</tr><tr>
+<td >Control de nível de agua</div>
+</td>
+<td >Sí</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >capacidad del depósito de agua</div>
+</td>
+<td >280</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tipo de filtro</div>
+</td>
+<td >HEPA E11 lavable</div>
+</td>
+<td >Los filtros HEPA se consideran los más eficaces contra los polvos más finos y los elementos alérgenos; aunque sean lavables, hay que cambiarlos regularmente</div>
+</td>
+</tr><tr>
+<td >Capacidad de la batería (mAh)</div>
+</td>
+<td >5,2</div>
+</td>
+<td >Una batería de mayor capacidad permita aspirar con más potencia durante más tiempo</div>
+</td>
+</tr><tr>
+<td >Nivel de ruido (dB)</div>
+</td>
+<td >60</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Altura de escalada (mm)</div>
+</td>
+<td >20</div>
+</td>
+<td >El robot no podrá franquear un obstáculo de mayor altura; los robots modernos no se suelen atascar en cables o alfombras pero sí en bases de muebles de sillas o de lámparas dependiente de su forma</div>
+</td>
+</tr><tr>
+<td >Altura del robot (cm)</div>
+</td>
+<td >9.6</div>
+</td>
+<td >Un robot más fino podrá limpiar por debajor de muebles más bajos; cuanto más fino el robot, mejor</div>
+</td>
+</tr><tr>
+<td >Fecha de lanzamiento</div>
+</td>
+<td >Sept. 19</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Precio (en Euros)</div>
+</td>
+<td >400</div>
+</td>
+<td ></div>
+</td>
+</tr>
+</table>
+/* La tabla resumen de las caracteristicas de todos los robots aspiradores Xiaomi analizados se encuentra al final de este artículo
+
+
+
+
+### Descripción del Roborock S5 Max
+
+
+
+
+
+
+
+
+
+
 Más de 150 minutos continuos limpiando con una misma carga, esa es la  excelente autonomía que tendrás con el **Roborock S5 Max, el equipo ideal para limpiar espacios de grandes dimensiones**.
 
 ![Prueba y opinión - Un excelente poder de succión para dejar hasta las alfombras limpias](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884187/Robots%20aspiradores/Robot-aspirador-roborock-autonomia-bateria_xhxaw7.jpg "Prueba y opinión - Un excelente poder de succión para dejar hasta las alfombras limpias")
@@ -1165,6 +1363,201 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 
 > Unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.
 
+<table>
+<tr>
+<td class="green-box-cell">
+Característica</div>
+</td>
+<td class="green-box-cell">
+Roborock S6 Pure</div>
+</td>
+<td class="green-box-cell">
+Descripción</div>
+</td>
+</tr><tr>
+<td >TecNología de cartografía</div>
+</td>
+<td >LDS</div>
+</td>
+<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar, identificando las zonas que ya están limpias y las que están pendientes. De esta forma el robot optimiza su recorrido, tiempo de limpieza y batería.
+La cartografía láser es la más eficaz.</div>
+</td>
+</tr><tr>
+<td >Recognición de objetos</div>
+</td>
+<td >No</div>
+</td>
+<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+</td>
+</tr><tr>
+<td >Limpieza por zona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >En cualquier casa hay zonas que se ensucián mucho y otras que apenas se usan. Esta modalidad permite elegir las zonas que se limpian y las que no.</div>
+</td>
+</tr><tr>
+<td >Alexa / Google Home Support</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Estas aplicaciones permiten controlar a distancia los objetos de casa</div>
+</td>
+</tr><tr>
+<td >Identificación de alfombra</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots asspiradores aumentan la potencia de aspiración cuando detectan una alfombra para dejarla impecable.</div>
+</td>
+</tr><tr>
+<td >Áreas restringidas / Límites virtuales</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad prohibir el acceso a zonas dónde el robot no tiene que ir; el cuarto de baño, zonas dónde hay muchos cables o rjuguetes de bebé, comida para animales etc.</div>
+</td>
+</tr><tr>
+<td >RecoNocimiento de salas</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad permite identificar cada sala y darles un nombre mediante la aplicación</div>
+</td>
+</tr><tr>
+<td >Programación para limpiar en una sala específica</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Una vez las salas identificadas, la aplicación permite comunicar al robot cuales hay que limpiar</div>
+</td>
+</tr><tr>
+<td >Soporte de múltiples mapas</div>
+</td>
+<td >4 mapas</div>
+</td>
+<td >Esta funcionalidad permite usar un solo robot en viviendas de varios pisos sin que este tenga que volver a realizar la cartografía del piso</div>
+</td>
+</tr><tr>
+<td >Recargar y reanudar</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Cuando el robot aspirador se queda sin batería, vuelve a su base para cargarse y reanude la limpieza dónde la había dejado hasta terminar el ciclo</div>
+</td>
+</tr><tr>
+<td >Aplicación</div>
+</td>
+<td >Mi Home / Roborock</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tiempo de descarga (min)</div>
+</td>
+<td >180</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Poder de succión (Pa)</div>
+</td>
+<td >2000</div>
+</td>
+<td >Aunque influyan muchos parametros, un mayor poder de succión se suele relacionar con un mayor poder de limpieza</div>
+</td>
+</tr><tr>
+<td >Tamaño de la basura (ml)</div>
+</td>
+<td >460</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Fregona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots aspiradores Xiaomi cuentan con un mopa; conviene hacer los necesario para que el robot no pase por alfombras con el mopa</div>
+</td>
+</tr><tr>
+<td >Control de nível de agua</div>
+</td>
+<td >No</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >capacidad del depósito de agua</div>
+</td>
+<td >180</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tipo de filtro</div>
+</td>
+<td >HEPA E11 lavable</div>
+</td>
+<td >Los filtros HEPA se consideran los más eficaces contra los polvos más finos y los elementos alérgenos; aunque sean lavables, hay que cambiarlos regularmente</div>
+</td>
+</tr><tr>
+<td >Capacidad de la batería (mAh)</div>
+</td>
+<td >5,2</div>
+</td>
+<td >Una batería de mayor capacidad permita aspirar con más potencia durante más tiempo</div>
+</td>
+</tr><tr>
+<td >Nivel de ruido (dB)</div>
+</td>
+<td >60</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Altura de escalada (mm)</div>
+</td>
+<td >20</div>
+</td>
+<td >El robot no podrá franquear un obstáculo de mayor altura; los robots modernos no se suelen atascar en cables o alfombras pero sí en bases de muebles de sillas o de lámparas dependiente de su forma</div>
+</td>
+</tr><tr>
+<td >Altura del robot (cm)</div>
+</td>
+<td >9.6</div>
+</td>
+<td >Un robot más fino podrá limpiar por debajor de muebles más bajos; cuanto más fino el robot, mejor</div>
+</td>
+</tr><tr>
+<td >Fecha de lanzamiento</div>
+</td>
+<td >Ene. 20</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Precio (en Euros)</div>
+</td>
+<td >400</div>
+</td>
+<td ></div>
+</td>
+</tr>
+</table>
+/* La tabla resumen de las caracteristicas de todos los robots aspiradores Xiaomi analizados se encuentra al final de este artículo
+
+
+### Descripción del Roborock S6 Pure
+
+
+
+
+
+
+
+
+
 **Roborock S6 Pure** es el equipo del hábitat Xiaomi que te presentaremos en está ocasión. Se trata de un robot aspiradora que ofrece características de gama alta, pero con un precio bastante atractivo si lo comparamos con sus competidores.
 
 Entre los aspectos que más resalta el fabricante sobre este modelo en particular, es su navegación inteligente a través de láser. Una característica que optimiza su capacidad de mapear el área de limpieza, convirtiéndolo en un equipo muy eficiente.
@@ -1225,6 +1618,219 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884238/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-perspectiva_ogt8pi.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
 > Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium.
+
+<table>
+<tr>
+<td class="green-box-cell">
+Característica</div>
+</td>
+<td class="green-box-cell">
+Roborock S6 MaxV</div>
+</td>
+<td class="green-box-cell">
+Descripción</div>
+</td>
+</tr><tr>
+<td >TecNología de cartografía</div>
+</td>
+<td >LDS + camera estéreo</div>
+</td>
+<td >La cartografía (mapeo en Inglés), a lo contrario de la limpieza aleatoria permite al robot reconocer la forma de la zona a limpiar, identificando las zonas que ya están limpias y las que están pendientes. De esta forma el robot optimiza su recorrido, tiempo de limpieza y batería.
+La cartografía láser es la más eficaz.</div>
+</td>
+</tr><tr>
+<td >Recognición de objetos</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Calcetines, comida de mascotas, juguetes… De forma ideal el robot tiene que ser capaz de identificar estos objetos para no atascarse o evitar derrames</div>
+</td>
+</tr><tr>
+<td >Limpieza por zona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >En cualquier casa hay zonas que se ensucián mucho y otras que apenas se usan. Esta modalidad permite elegir las zonas que se limpian y las que no.</div>
+</td>
+</tr><tr>
+<td >Alexa / Google Home Support</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Estas aplicaciones permiten controlar a distancia los objetos de casa</div>
+</td>
+</tr><tr>
+<td >Identificación de alfombra</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots asspiradores aumentan la potencia de aspiración cuando detectan una alfombra para dejarla impecable.</div>
+</td>
+</tr><tr>
+<td >Áreas restringidas / Límites virtuales</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad prohibir el acceso a zonas dónde el robot no tiene que ir; el cuarto de baño, zonas dónde hay muchos cables o rjuguetes de bebé, comida para animales etc.</div>
+</td>
+</tr><tr>
+<td >RecoNocimiento de salas</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Esta funcionalidad permite identificar cada sala y darles un nombre mediante la aplicación</div>
+</td>
+</tr><tr>
+<td >Programación para limpiar en una sala específica</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Una vez las salas identificadas, la aplicación permite comunicar al robot cuales hay que limpiar</div>
+</td>
+</tr><tr>
+<td >Soporte de múltiples mapas</div>
+</td>
+<td >4 mapas</div>
+</td>
+<td >Esta funcionalidad permite usar un solo robot en viviendas de varios pisos sin que este tenga que volver a realizar la cartografía del piso</div>
+</td>
+</tr><tr>
+<td >Recargar y reanudar</div>
+</td>
+<td >Sí</div>
+</td>
+<td >Cuando el robot aspirador se queda sin batería, vuelve a su base para cargarse y reanude la limpieza dónde la había dejado hasta terminar el ciclo</div>
+</td>
+</tr><tr>
+<td >Aplicación</div>
+</td>
+<td >Mi Home / Roborock</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tiempo de descarga (min)</div>
+</td>
+<td >180</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Poder de succión (Pa)</div>
+</td>
+<td >2500</div>
+</td>
+<td >Aunque influyan muchos parametros, un mayor poder de succión se suele relacionar con un mayor poder de limpieza</div>
+</td>
+</tr><tr>
+<td >Tamaño de la basura (ml)</div>
+</td>
+<td >460</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Fregona</div>
+</td>
+<td >Sí</div>
+</td>
+<td >La mayoría de los robots aspiradores Xiaomi cuentan con un mopa; conviene hacer los necesario para que el robot no pase por alfombras con el mopa</div>
+</td>
+</tr><tr>
+<td >Control de nível de agua</div>
+</td>
+<td >Sí</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >capacidad del depósito de agua</div>
+</td>
+<td >300</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Tipo de filtro</div>
+</td>
+<td >HEPA E11 lavable</div>
+</td>
+<td >Los filtros HEPA se consideran los más eficaces contra los polvos más finos y los elementos alérgenos; aunque sean lavables, hay que cambiarlos regularmente</div>
+</td>
+</tr><tr>
+<td >Capacidad de la batería (mAh)</div>
+</td>
+<td >5,2</div>
+</td>
+<td >Una batería de mayor capacidad permita aspirar con más potencia durante más tiempo</div>
+</td>
+</tr><tr>
+<td >Nivel de ruido (dB)</div>
+</td>
+<td >0</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Altura de escalada (mm)</div>
+</td>
+<td >20</div>
+</td>
+<td >El robot no podrá franquear un obstáculo de mayor altura; los robots modernos no se suelen atascar en cables o alfombras pero sí en bases de muebles de sillas o de lámparas dependiente de su forma</div>
+</td>
+</tr><tr>
+<td >Altura del robot (cm)</div>
+</td>
+<td >9.6</div>
+</td>
+<td >Un robot más fino podrá limpiar por debajor de muebles más bajos; cuanto más fino el robot, mejor</div>
+</td>
+</tr><tr>
+<td >Fecha de lanzamiento</div>
+</td>
+<td >Abr. 20</div>
+</td>
+<td ></div>
+</td>
+</tr><tr>
+<td >Precio (en Euros)</div>
+</td>
+<td >520</div>
+</td>
+<td ></div>
+</td>
+</tr>
+</table>
+/* La tabla resumen de las caracteristicas de todos los robots aspiradores Xiaomi analizados se encuentra al final de este artículo
+
+
+
+
+### Descripción del Roborock S6 MaxV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Si tienes mascotas en casa **el Roborock S6 MaxV** es el equipo ideal para ti. Se trata de un robot aspiradora con tecnología inteligente que limpia tu casa mientras la recorre eficientemente.
 
