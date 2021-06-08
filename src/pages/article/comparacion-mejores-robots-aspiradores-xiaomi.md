@@ -35,6 +35,51 @@ Para simplificarte la vida, **hemos analizado los aspiradores robots Xiaomi los 
 
 Encontrarás al final del artículo una tabla recapitulativa de las caracteristicas y precios de todos los modelos de robots aspiradores que hemos analizado para que no te puedas equivocar.
 
+<table>
+<tr>
+<td><b>Modelo</b></td>
+<td><b>Opinión</b></td>
+<td><b>Precio</b> (Euros en Junio  2021)</td>
+</tr><tr>
+<td>Xiaomi MiJia G1</td>
+<td>El Xiaomi MiJia G1 no dispone de sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo.</td>
+<td>No disponible</td>
+</tr><tr>
+<td>Xiaomi MiJia 1C</td>
+<td>Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza.
+> Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños.</td>
+<td>188</td>
+</tr><tr>
+<td>Roborock E4</td>
+<td>Con un sistema de navegación ligeramente más evolucionado que el Xiaomi 1C, el  **Roborock E4** es unos 30 Euros más caro y su potencia de succión es más limitada; su principal ventaja reside en una autonomía más elevada y en un buen desempeño en la limpieza durante los ensayos.</td>
+<td>230</td>
+</tr><tr>
+<td>Roborock S4 Max</td>
+<td>Un robot aspirador capaz y completo, con aplicación, navegación laser y todas las caracteristicas de un robot de media gama con calidad Xiaomi por 20 Euros más barato que el S5 Max y el S6 Pure.</td>
+<td>380</td>
+</tr><tr>
+<td>Roborock S5 Max</td>
+<td>Prestaciones excelentes por un precio medio; es el robot aspirador de Xiaomi que mejor limpia y aspira en las pruebas que hemos realizado. Su mapeo por laser, su gran autonomía así como su capacidad de grabar hasta 4 mapas lo hace ideal para cualquier tipo de apartamento o casa con varios pisos.
+Cuesta más de el doble que el Mijia 1C.</td>
+<td>400</td>
+</tr><tr>
+<td>Roborock S6 Pure</td>
+<td>Unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.</td>
+<td>400</td>
+</tr><tr>
+<td>Roborock S6 MaxV</td>
+<td>Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium.</td>
+<td>520</td>
+</tr><tr>
+<td>Roborock S7</td>
+<td>Un aspirador robot de gama alta: lo tiene todo... Por un precio relativamente elevado por tratarse de un Xiaomi</td>
+<td>569</td>
+</tr>
+</table>
+
+
+
+
 ## Xiaomi MiJia G1: El robot aspiradora con la mejor relación calidad- precio
 
 ![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
@@ -282,7 +327,7 @@ En cuanto a su autonomía, las opiniones destacan que es una enorme ventaja, sob
 ![Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884181/Robots%20aspiradores/Robot-aspirador-roborock-perspectiva_lquazp.jpg "Análisis y prueba - Xiaomi ha procurado cuidar el diseño de este modelo")
 
 > Prestaciones excelentes por un precio medio; es el robot aspirador de Xiaomi que mejor limpia y aspira en las pruebas que hemos realizado. Su mapeo por laser, su gran autonomía así como su capacidad de grabar hasta 4 mapas lo hace ideal para cualquier tipo de apartamento o casa con varios pisos.
-> cuesta más de el doble que el Mijia 1C.
+> Cuesta más de el doble que el Mijia 1C.
 
 Más de 150 minutos continuos limpiando con una misma carga, esa es la  excelente autonomía que tendrás con el **Roborock S5 Max, el equipo ideal para limpiar espacios de grandes dimensiones**.
 
@@ -346,7 +391,7 @@ Encuentran en el precio un punto en contra de este modelo  de gama alta de Robor
 
 ![Análisis y opinión - Diseño clásico y estético](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884164/Robots%20aspiradores/Robot-aspirador-roborock-S6-vertical_xnrmii.jpg "Análisis y opinión - Diseño clásico y estético")
 
-> unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.
+> Unas caracteristicas técnicas y un precio muy similares al S5 Max analizado anteriormente. Se adapta a viviendas de cualquier superficie y de varios pisos.
 
 **Roborock S6 Pure** es el equipo del hábitat Xiaomi que te presentaremos en está ocasión. Se trata de un robot aspiradora que ofrece características de gama alta, pero con un precio bastante atractivo si lo comparamos con sus competidores.
 
@@ -406,7 +451,7 @@ En suelos rústicos la efectividad del modo silencioso es menos del 100%, prefie
 
 ![Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884238/Robots%20aspiradores/Robot-aspirador-roborock-s6-maxv-perspectiva_ogt8pi.jpg "Prueba y opinión - Uno de los mejores robots aspiradores que hemos probado")
 
-> Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium
+> Muy similar al S6 con cámara video e inteligencia artificial para reconocer objetos y evitarlos si procede; por un precio premium.
 
 Si tienes mascotas en casa **el Roborock S6 MaxV** es el equipo ideal para ti. Se trata de un robot aspiradora con tecnología inteligente que limpia tu casa mientras la recorre eficientemente.
 
