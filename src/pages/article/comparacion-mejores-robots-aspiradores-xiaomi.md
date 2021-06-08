@@ -227,7 +227,7 @@ En cuanto a la aplicación, la valoración es tímida. El hecho que recuerde cua
 
 ![Prueba y opinión - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884199/Robots%20aspiradores/Robot-aspirador-roborock-S4Max-apoyado2_wykzmf.jpg "Prueba y opinión - Un diseño cuidado")
 
-> Un robot aspirador capaz y completo, con aplicación, navegación laser y todas las caracteristicas de un robot de media gama con calidad Xiaomi y por un precio muy razonable.
+> Un robot aspirador capaz y completo, con aplicación, navegación laser y todas las caracteristicas de un robot de media gama con calidad Xiaomi por 20 Euros más barato que el S5 Max y el S6 Pure.
 
 Los fanáticos de los productos Xiaomi estarán complacidos con el **Roborock S4 Max**. Un robot aspiradora inteligente  que garantiza eficiencia y potencia además, de la facilidad de manejo a través de una aplicación móvil.
 
