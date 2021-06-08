@@ -512,472 +512,363 @@ Consideran que se trata del equipo ideal para el mantenimiento de casas con masc
 
 ### Conoce lo bueno y lo malo del Roborock S7
 
-<div class="row">
-<div class="col">
-<div class="pros-header">Nos ha gustado</div>
-<div class="pros-item">Es excelente fregando las superficies.</div>
-<div class="pros-item">Cuenta con un depósito para la suciedad suficientemente grande.</div>
-<div class="pros-item">Es fácil personalizar la configuración.</div>
-<div class="pros-item">Se puede controlar por medio de comandos de voz y a través del móvil.</div>
-</div>
 
-<div class="col">
-<div class="cons-header">Se debe mejorar</div>
-<div class="cons-item">Su precio es bastante elevado.</div>
-</div>
 
-## Tabla comparativa de los robots aspiradores Xiaomi que hemos analizado
 
+
+
+---
 <table>
 <tr>
 <td>Modelo</td>
+<td>Xiaomi MiJia G1</td>
 <td class="green-box-cell">
 <div class="green-box">Mejor precio</div>
 Xiaomi MiJia 1C
 </td>
 <td>Roborock E4</td>
+<td>Roborock S4 Max</td>
 <td class="blue-box-cell">
-<div class="blue-box">Calidad/precio</div>
-Xiaomi MiJia G1
-</td>
-<td class="green-box-cell">
-<div class="green-box">Favorito</div>
+<div class="blue-box">Nuestro favorito</div>
 Roborock S5 Max
 </td>
 <td>Roborock S6 Pure</td>
-<td>Roborock S4 Max</td>
 <td>Roborock S6 MaxV</td>
 <td>Roborock S7</td>
 </tr><tr>
-<td>Cartografía</td>
-<td class="green-box-cell">
-Sí
-</td>
-<td>Sí</td>
-<td class="blue-box-cell">
-Sí
-</td>
-<td class="green-box-cell">
-Sí
-</td>
-<td>Sí</td>
-<td>Sí</td>
-<td>Sí</td>
-<td>Sí</td>
-</tr><tr>
 <td>TecNología de cartografía</td>
+<td>giroscopio</td>
 <td class="green-box-cell">
-Visual Sensor
+Sensor visual
 </td>
-<td>Dual gyroscope + OpticEye</td>
+<td>Giroscopio dual + OpticEye</td>
+<td>LDS</td>
 <td class="blue-box-cell">
-Gyroscope
-</td>
-<td class="green-box-cell">
 LDS
 </td>
-<td>LDS</td>
 <td>LDS</td>
 <td>LDS + camera estéreo</td>
 <td>LDS</td>
 </tr><tr>
 <td>Recognición de objetos</td>
+<td>No</td>
 <td class="green-box-cell">
 No
 </td>
+<td>No</td>
 <td>No</td>
 <td class="blue-box-cell">
 No
 </td>
-<td class="green-box-cell">
-No
-</td>
-<td>No</td>
 <td>No</td>
 <td>Sí</td>
 <td>No</td>
 </tr><tr>
 <td>Limpieza por zona</td>
+<td>No</td>
 <td class="green-box-cell">
 Sí
 </td>
 <td>No</td>
+<td>Sí</td>
 <td class="blue-box-cell">
-No
-</td>
-<td class="green-box-cell">
 Sí
 </td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Alexa / Google Home Support</td>
+<td>No</td>
 <td class="green-box-cell">
 Sí
 </td>
 <td>Sólo Alexa</td>
+<td>Sí</td>
 <td class="blue-box-cell">
-No
-</td>
-<td class="green-box-cell">
 Sí
 </td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Identificación de alfombra</td>
+<td>Sí</td>
 <td class="green-box-cell">
 No
 </td>
 <td>Sí</td>
+<td>Sí</td>
 <td class="blue-box-cell">
 Sí
 </td>
-<td class="green-box-cell">
-Sí
-</td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Áreas restringidas / Límites virtuales</td>
+<td>No</td>
 <td class="green-box-cell">
 Sí
 </td>
 <td>No</td>
+<td>Sí</td>
 <td class="blue-box-cell">
-No
-</td>
-<td class="green-box-cell">
 Sí
 </td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>RecoNocimiento de salas</td>
+<td>No</td>
 <td class="green-box-cell">
 No
 </td>
 <td></td>
+<td>Sí</td>
 <td class="blue-box-cell">
-No
+Sí
 </td>
-<td class="green-box-cell">
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Sí</td>
+<td>Sí</td>
+<td>Sí</td>
 </tr><tr>
 <td>Programación para limpiar en una sala específica</td>
+<td>No</td>
 <td class="green-box-cell">
 No
 </td>
 <td>No</td>
+<td>Sí</td>
 <td class="blue-box-cell">
-No
-</td>
-<td class="green-box-cell">
 Sí
 </td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Soporte de múltiples mapas</td>
+<td>No</td>
 <td class="green-box-cell">
 No
 </td>
 <td>No</td>
+<td>4 mapas</td>
 <td class="blue-box-cell">
-No
+4 mapas
 </td>
-<td class="green-box-cell">
-4 maps
-</td>
-<td>4 maps</td>
-<td>4 maps</td>
-<td>4 maps</td>
-<td>4 maps</td>
-</tr><tr>
-<td>Sensores</td>
-<td class="green-box-cell">
-15 types of sensors
-</td>
-<td></td>
-<td class="blue-box-cell">
-
-</td>
-<td class="green-box-cell">
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>4 mapas</td>
+<td>4 mapas</td>
+<td>4 mapas</td>
 </tr><tr>
 <td>Recargar y reanudar</td>
+<td>Sí</td>
 <td class="green-box-cell">
 Sí
 </td>
+<td>Sí</td>
 <td>Sí</td>
 <td class="blue-box-cell">
 Sí
 </td>
-<td class="green-box-cell">
-Sí
-</td>
-<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Aplicación</td>
+<td>Mi Home</td>
 <td class="green-box-cell">
 Mi Home
 </td>
 <td>Mi Home</td>
+<td>Roborock</td>
 <td class="blue-box-cell">
-Mi Home
-</td>
-<td class="green-box-cell">
 Mi Home / Roborock
 </td>
 <td>Mi Home / Roborock</td>
-<td>Roborock</td>
 <td>Mi Home / Roborock</td>
 <td>Mi Home / Roborock</td>
 </tr><tr>
 <td>Tiempo de descarga (min)</td>
+<td>90</td>
 <td class="green-box-cell">
 110
 </td>
 <td>200</td>
+<td>180</td>
 <td class="blue-box-cell">
-90
-</td>
-<td class="green-box-cell">
 180
 </td>
 <td>180</td>
 <td>180</td>
 <td>180</td>
-<td>180</td>
 </tr><tr>
 <td>Poder de succión (Pa)</td>
+<td>2200</td>
 <td class="green-box-cell">
 2500
 </td>
 <td>2000</td>
+<td>2000</td>
 <td class="blue-box-cell">
-2200
-</td>
-<td class="green-box-cell">
 2000
 </td>
-<td>2000</td>
 <td>2000</td>
 <td>2500</td>
 <td>2500</td>
 </tr><tr>
 <td>Tamaño de la basura (ml)</td>
+<td>600</td>
 <td class="green-box-cell">
 600
 </td>
 <td>640</td>
+<td>460</td>
 <td class="blue-box-cell">
-600
-</td>
-<td class="green-box-cell">
 460
 </td>
-<td>460</td>
 <td>460</td>
 <td>460</td>
 <td>470</td>
 </tr><tr>
 <td>Fregona</td>
-<td class="green-box-cell">
-Sí
-</td>
 <td>Sí</td>
-<td class="blue-box-cell">
-Sí
-</td>
 <td class="green-box-cell">
 Sí
 </td>
 <td>Sí</td>
 <td>No</td>
+<td class="blue-box-cell">
+Sí
+</td>
+<td>Sí</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>Control de nível de agua</td>
-<td class="green-box-cell">
-Sí
-</td>
-<td>No</td>
-<td class="blue-box-cell">
-Sí
-</td>
+<td>Sí</td>
 <td class="green-box-cell">
 Sí
 </td>
 <td>No</td>
 <td>-</td>
+<td class="blue-box-cell">
+Sí
+</td>
+<td>No</td>
 <td>Sí</td>
 <td>Sí</td>
 </tr><tr>
 <td>capacidad del depósito de agua</td>
+<td>200</td>
 <td class="green-box-cell">
 200
 </td>
 <td></td>
+<td>-</td>
 <td class="blue-box-cell">
-200
-</td>
-<td class="green-box-cell">
 280
 </td>
 <td>180</td>
-<td>-</td>
 <td>300</td>
 <td>300</td>
 </tr><tr>
 <td>Tipo de filtro</td>
+<td>HEPA</td>
 <td class="green-box-cell">
 HEPA
 </td>
 <td>HEPA E11 lavable</td>
+<td>HEPA E11 lavable</td>
 <td class="blue-box-cell">
-HEPA
-</td>
-<td class="green-box-cell">
 HEPA E11 lavable
 </td>
 <td>HEPA E11 lavable</td>
 <td>HEPA E11 lavable</td>
 <td>HEPA E11 lavable</td>
-<td>HEPA E11 lavable</td>
 </tr><tr>
 <td>Capacidad de la batería (mAh)</td>
+<td>2,5</td>
 <td class="green-box-cell">
 2,4
 </td>
-<td>Sí</td>
+<td>5,2</td>
+<td>5,2</td>
 <td class="blue-box-cell">
-2,5
-</td>
-<td class="green-box-cell">
 5,2
 </td>
 <td>5,2</td>
 <td>5,2</td>
 <td>5,2</td>
-<td>5,2</td>
 </tr><tr>
 <td>Nivel de ruido (dB)</td>
+<td></td>
 <td class="green-box-cell">
 72
 </td>
 <td></td>
+<td>68</td>
 <td class="blue-box-cell">
-
-</td>
-<td class="green-box-cell">
 60
 </td>
 <td>60</td>
-<td>68</td>
 <td></td>
 <td>67</td>
 </tr><tr>
 <td>Altura de escalada (mm)</td>
+<td>17</td>
 <td class="green-box-cell">
 20
 </td>
+<td>20</td>
 <td>20</td>
 <td class="blue-box-cell">
-17
-</td>
-<td class="green-box-cell">
 20
 </td>
-<td>20</td>
 <td>20</td>
 <td>20</td>
 <td>20</td>
 </tr><tr>
 <td>Altura del robot (cm)</td>
+<td>8.2</td>
 <td class="green-box-cell">
 8.15
 </td>
 <td>9</td>
+<td>9.6</td>
 <td class="blue-box-cell">
-8.2
-</td>
-<td class="green-box-cell">
 9.6
 </td>
 <td>9.6</td>
 <td>9.6</td>
 <td>9.6</td>
-<td>9.6</td>
-</tr><tr>
-<td>Cobertura de limpieza (m2)</td>
-<td class="green-box-cell">
-60
-</td>
-<td></td>
-<td class="blue-box-cell">
-
-</td>
-<td class="green-box-cell">
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr><tr>
 <td>Fecha de lanzamiento</td>
+<td>Abril 20</td>
 <td class="green-box-cell">
-43739
+Oct. 19
 </td>
-<td>43922</td>
+<td>Abr. 20 </td>
+<td>Oct. 20</td>
 <td class="blue-box-cell">
-43922
+Sept. 19
 </td>
-<td class="green-box-cell">
-43709
-</td>
-<td>43831</td>
-<td>oct, 2020</td>
-<td>43922</td>
-<td>Jan, 2021</td>
+<td>Ene. 20</td>
+<td>Abr. 20</td>
+<td>Ene. 21</td>
 </tr><tr>
 <td>Precio</td>
+<td>No disponible</td>
 <td class="green-box-cell">
 188
 </td>
 <td>230</td>
+<td>380</td>
 <td class="blue-box-cell">
-276
-</td>
-<td class="green-box-cell">
 400
 </td>
 <td>400</td>
-<td></td>
 <td>520</td>
 <td>569</td>
 </tr>
