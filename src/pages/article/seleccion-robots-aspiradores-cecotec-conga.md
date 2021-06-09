@@ -153,13 +153,19 @@ Su precio en el mercado es ajustado a sus excelentes prestaciones, lo puedes ten
 
 **El modelo 3790 de la serie Conga** es capaz de ejercer sus 4 funciones al mismo tiempo, además incluye en su caja el cepillo Jalisco con el que puede aspirar con más efectividad en una sola pasada.
 
+![Análisis y opinión - Ideal para mantener tu casa libre de pelos de mascotas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-pelos-mascota_awifkg.jpg "Análisis y opinión - Ideal para mantener tu casa libre de pelos de mascotas")
+
 El sistema de navegación inteligente que incorpora el Conga 3790 es el iTech Láser 360. A través de esta tecnología el equipo podrá mapear tu casa y planificar eficientemente la mejor ruta para limpiar tus espacios.
+
+![Análisis y opinión - El laser identifica en cada momento la forma de la sala y la ubicación del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-mapping-laser_ru0hda.jpg "Análisis y opinión - El laser identifica en cada momento la forma de la sala y la ubicación del robot")
 
 El robot aspirará con una potencia de 2300 pascales gracias al sistema ForceClean que le otorga máxima potencia a través de su turbina.
 
 La autonomía que ofrece ese modelo de la serie Conga te otorga 150 minutos de limpieza continua con una misma carga. Y es que el 3790 tiene una batería de Ion de Litio de 3200 mAh.
 
 Si se queda sin carga, el robot automáticamente vuelve a su estación para recargar la batería y luego retoma la limpieza justo donde la dejo.
+
+![Análisis y prueba - Un robot aspirador completo para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884357/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-autonomo_mkzdbt.jpg "Análisis y prueba - Un robot aspirador completo para toda la casa")
 
 Uno de **los implementos de limpieza que incluye Cecotec en su modelo Conga 3790** es un cepillo especial para recoger el pelo de tus mascotas. Lo han denominado Sistema Best Friend Care especial.
 
@@ -178,6 +184,8 @@ Hasta 10 modos de limpieza para seleccionar. Puedes escoger entre:
 * Modo limpieza vuelta a la casa.
 
 Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la comodidad de tu dispositivo móvil. 
+
+![Análisis y prueba - La aplicación permite determinar que zonas limpiar y las que no](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884354/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-control-mapa_tq3kpo.jpg "Análisis y prueba - La aplicación permite determinar que zonas limpiar y las que no")
 
 ### ¿Qué opinan del Cecotec Conga 3790 en Amazon?
 
@@ -205,11 +213,16 @@ Un 56% de los usuarios que probaron el equipo le dieron 5 estrellas a su experie
 
 ## Cecotec Conga 4690 Ultra: Gran autonomía y mayor potencia de succión
 
+![Análisis y prueba - Un excelente aspirador ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884266/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-accesorios_jcm5vi.jpg "Análisis y prueba - Un excelente aspirador ideal para toda la casa")
+
+
 **El Cecotec Conga 4690 Ultra** pertenece a la serie elite de la marca. En este modelo, la marca incorpora mayor autonomía, poder de succión optimizado y otras mejores superan a sus antecesores.
 
 Si quieres conocer este robot aspirado, ideal para casa con mascotas peludas,  que puede ser tuyo por poco más de 350 euros, sigue aquí porque te lo contamos todo.
 
 Destaquemos lo que el fabricante anuncia con bombos sobre este modelo, su increíble autonomía. Se trata de la más amplia del mercado, hasta 300 minutos limpiando continuamente con carga completa.
+
+![Análisis y opinión - Un robot aspirador conectado controlable a distancia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884270/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-conectado_d2e0yo.jpg "Análisis y opinión - Un robot aspirador conectado controlable a distancia")
 
 Y es que **la batería que incorpora el modelo 4690 Ultra es de 6400 mAh**, sin duda esta es una característica atractiva que atrae a esos compradores con espacios amplios en casa.
 
@@ -217,13 +230,19 @@ Pero, también tendrás otras particularidades interesantes en **Cecotec Conga 4
 
 Además, es multifunción y su cepillo principal combina celdas y silicona para más eficiencia en cada pasada.
 
+![Prueba y opinión - Ideal para recoger los pelos de tu mascota](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884269/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-mascota_munlfd.jpg "Prueba y opinión - Ideal para recoger los pelos de tu mascota")
+
 Es ordenado y preciso en su navegación, y es que incorpora sistema de navegación inteligente iTech 360 más sensor óptico. Su sistema a base de láser lo hace un equipo preciso, además es capaz de alcanzar varios metros.
+
+![Análisis y prueba - El láser permite mapear con precisión la zona y ubicar el aspirador](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884268/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-laser_rhpolh.jpg "Análisis y prueba - El láser permite mapear con precisión la zona y ubicar el aspirador")
 
 No podrás creer la fluidez de este modelo Conga, mapeará tu casa en pocos minutos y luego la recorrerá con excelente precisión, evitando obstáculos en su camino.
 
-Tiene la capacidad de guardar hasta 5 mapas, una función increíble para quienes tienen casa de varios niveles.
 
 El equipo **Cecotec Conga 4690 Ultra te permite emparejarlo con una  App** a través de la cuál podrás tener acceso a los mapas de tu casa e interactuar con el robot. Puedes programar la limpieza, seleccionar zonas, restringir espacios, adaptar el nivel de potencia y otras tantas funciones desde la comodidad de tu móvil.
+Tiene la capacidad de guardar hasta 5 mapas, una función increíble para quienes tienen casa de varios niveles.
+
+![Análisis y opinión - Su conección wifi te permite controlar tu robot aspirador de cualquier lugar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884269/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-conectado-distancia_niwtgu.jpg "Análisis y opinión - Su conección wifi te permite controlar tu robot aspirador de cualquier lugar")
 
 ### ¿Cómo es el Cecotec Conga 4690 Ultra? Lo que opinan los usuarios
 
@@ -247,9 +266,12 @@ Además, tienen excelente valoración del desempeño del 4690 Ultra mapeando cas
 </div>
 </div>
 
-##  **Cecotec Conga 6090 Ultra: Máxima potencia para mayor efectividad**
+##  Cecotec Conga 6090 Ultra: Máxima potencia para mayor efectividad
+
+![Análisis y prueba - Un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884330/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-accesorios_hdajpc.jpg "Análisis y prueba - Un robot aspirador completo")
 
 A continuación te presentamos a un robot aspiradora que logra limpieza más profunda en tu hogar gracias a su nivel de potencia. Nos referimos al **Cecotec Conga 6090 Ultra con unos increíbles 10.000 pascales de puro poder de succión**.
+
 
 Está es una característica única que hace de este modelo uno de los más vendidos en el mercado español, aunque su precio supera los 400 euros. Si quieres saber si vale la pena el gasto, no te apartes de este post.
 
@@ -259,15 +281,23 @@ Puede barrer, también aspira, friega tus pisos y te libra de pasar mopa. Ademá
 
 **La Conga 6090 Ultra** incluye sistema de navegación inteligente combinado, con sensor láser y sensor óptico para mayor efectividad en su limpieza, además es mucho más rápido en cada pasada.
 
+![Análisis y opinión - El laser guía el robot de forma muy precisa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884332/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-laser_yqlqkf.jpg "Análisis y opinión - El laser guía el robot de forma muy precisa")
+
 Es capaz de mapear cada habitación de tu casa, para luego recorrerla con mucha precisión. Sin duda son características de un robot potente y completo, de la más alta gama.
 
 La reconocida marca española de robot aspiradora ha incorporado en este modelo la tecnología Room Plan 3.0 para que puedas programar un plan de limpieza de acuerdo a las necesidades de cada espacio, también es posible que definas el orden para limpiar cada espacio.
+
+![Prueba y opinión - La aplicación permite determinar que zonas limpiar y las que no](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884328/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-control-espacio_lqrpri.jpg "Prueba y opinión - La aplicación permite determinar que zonas limpiar y las que no")
 
 **La autonomía que ofrece Cecotec Conga 6090 Ultra es suficiente para una casa con espacios amplios.** En 4 horas tendrás pisos relucientes y antes de que el robot vuelva a su estación para recargar batería.
 
 Si lo emparejas con la APP puedes controlar sus múltiples funciones desde tu teléfono móvil, pero también tienes la opción de hacerlo de forma manual.
 
+![Análisis y prueba - Un robot conectado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884336/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-conectado_oor9r2.jpg "Análisis y prueba - Un robot conectado")
+
 Es el equipo ideal para casas con mascotas peludas. Recuerda que tiene potencia de 10.000 pascales, pero además incluye el cepillo Best Friend Care capaz de recoger todo el pelo de tu mejor amigo y el sistema de filtrado es excelente.
+
+![Análisis y opinión - Ideal para recoger los pelos de tu mascota](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884328/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-pelos-mascota_gmg9zx.jpg "Análisis y opinión - Ideal para recoger los pelos de tu mascota")
 
 ### Conoce las opiniones del Cecotec Conga 6090 Ultra aquí
 
@@ -280,6 +310,9 @@ Nos encontramos con experiencias diversas, pero en general la valoración sobre 
 Destacan y agradecen a la marca que sea un modelo con múltiples funciones. Además opinan que su potencia es suficiente para dejar los pisos relucientes.
 
 Los que tienen mascotas en casa alaban su accionar y manifiestan que se trata del mejor en el mercado para limpiar diferentes tipos de superficies.
+
+![Prueba y opinión - El robot aspirador regresa solo a la base una vez el trabajo terminado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884331/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-retorno-base_cmehxm.jpg "Prueba y opinión - El robot aspirador regresa solo a la base una vez el trabajo terminado")
+
 
 ### Lo que debes saber del Cecotec Conga 6090 Ultra: Lo bueno y lo malo
 
