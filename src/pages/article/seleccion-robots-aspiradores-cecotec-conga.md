@@ -145,6 +145,8 @@ Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resulta
 
 ## Cecotec Conga 3790: Multifunción con mucha eficiencia
 
+![Prueba y opinión - Un excelente robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-accesorios_zbjzq6.jpg "Prueba y opinión - Un excelente robot aspirador para toda la casa")
+
 En esta ocasión te presentamos el **Conga 3790 de Cecotec**. Un robot inteligente que aspira, barre, friega y pasa mopa en cualquier tipo de superficie con la misma eficiencia.
 
 Su precio en el mercado es ajustado a sus excelentes prestaciones, lo puedes tener en casa por poco más de 300 euros. Si lo quieres conocer continua en este post.
