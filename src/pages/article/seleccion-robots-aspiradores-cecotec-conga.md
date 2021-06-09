@@ -35,7 +35,7 @@ Otro aspecto que resalta es su cepillo de silicona que se puede cambiar fácilme
 
 Ciertamente posee características básicas, pero es funcional y eficiente y debes tomar en cuenta su increíble precio, por menos de 200 euros tendrás un excelente  robot aspiradora.
 
-## **Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force**
+### Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force
 
 **Las opiniones con respecto al desempeño general del Cecotec Conga 1090** son diversas. Hay quienes se sienten complacidos con la experiencia y otros tantos no quedaron satisfechos con el accionar del equipo.
 
@@ -43,7 +43,7 @@ Algunos usuarios se quejan de que el robot aspiradora pasa muchas veces limpiand
 
 Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertamente tiene falencias, pero si quieres darte el gusto de tener uno de estos equipos en casa por un precio bajo, este es el indicado.
 
-## **Los pros y los contras del Cecotec Conga 1090 Connected Force**
+### Los pros y los contras del Cecotec Conga 1090 Connected Force
 
 <div class="row">
 <div class="col">
@@ -85,7 +85,7 @@ Con este modelo de Cecotec también tienes la opción de controlarlo a través d
 
 La aplicación que forma parte del **sistema inteligente del robot aspiradora Conga 1790 Titanium es compatible con Alexa y Google Home.**
 
-## **Opiniones en Amazon sobre el Cecotec Conga 1790 Titanium**
+### Opiniones en Amazon sobre el Cecotec Conga 1790 Titanium
 
 El 51% de los usuarios que dejaron sus opiniones en Amazon le otorgaron 5 estrellas a su desempeño, mientras que un 12% opinaron que solo merecía una estrella.
 
@@ -95,7 +95,7 @@ Se refieren a su autonomía, habiendo probado el **Cecotec Conga 1790 Titanium**
 
 Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resultando molesto y repetitivo volver a configurarla.
 
-## **Conoce las ventajas y las desventajas del modelo Conga 1790 Titanium de Cecotec**
+### Conoce las ventajas y las desventajas del modelo Conga 1790 Titanium de Cecotec
 
 <div class="row">
 <div class="col">
@@ -133,36 +133,17 @@ Uno de **los implementos de limpieza que incluye Cecotec en su modelo Conga 3790
 
 Hasta 10 modos de limpieza para seleccionar. Puedes escoger entre:
 
-```
-·       Limpieza auto.
 
-
-·       En espiral.
-
-
-·       Puntual.
-
-
-·       Área inteligente.
-
-
-·       Limpieza en área restringida.
-
-
-·       Para limpiar bordes.
-
-
-·       Modo manual.
-
-
-·       Deep Cleaning.
-
-
-·       Scrubbing.
-
-
-·       Modo limpieza vuelta a la casa.
-```
+* Limpieza auto.
+* En espiral.
+* Puntual.
+* Área inteligente.
+* Limpieza en área restringida.
+* Para limpiar bordes.
+* Modo manual.
+* Deep Cleaning.
+* Scrubbing.
+* Modo limpieza vuelta a la casa.
 
 Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la comodidad de tu dispositivo móvil. 
 
