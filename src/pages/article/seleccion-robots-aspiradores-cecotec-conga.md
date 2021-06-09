@@ -17,6 +17,8 @@ relatedArticles:
 
 ## Cecotec Conga 1090 Connected Force: Ideal para un presupuesto ajustado
 
+![Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884050/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-conectado_pnhfc9.jpg "Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo")
+
 **El Cecotec Conga 1090 Connected Force** es un robot aspiradora de gama media, ideal para los amantes de estos equipos que tienen un presupuesto ajustado.
 
 Las funciones que incluyen en este robot aspiradora no tienen nada que envidiarles a los equipos más costosos del mercado, incluso tienen una característica propia de la marca Cecotec y es que su depósito es mixto y para mota.
