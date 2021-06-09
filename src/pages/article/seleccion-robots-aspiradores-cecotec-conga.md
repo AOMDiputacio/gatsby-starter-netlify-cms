@@ -23,25 +23,37 @@ relatedArticles:
 
 Las funciones que incluyen en este robot aspiradora no tienen nada que envidiarles a los equipos más costosos del mercado, incluso tienen una característica propia de la marca Cecotec y es que su depósito es mixto y para mota.
 
+![Análisis y opinión - Un mopa para dejar el suelo impecable](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884060/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-mopa_tbld7i.jpg "Análisis y opinión - Un mopa para dejar el suelo impecable")
+
 **El modelo 1090 ofrece 4 modalidades de limpieza**, friega, barre, aspira y pasa mopa con la misma eficiencia. Incluye un sistema de válvula que lo hace capaz de dosificar el agua en la mopa para optimizar el trabajo.
 
 Si quieres que friegue tus pisos, puedes escoger entre tres modalidades, superficial, diario o intenso, además viene con tecnología ALL IN ONE, es  decir este robot aspiradora barre, friega y aspira al mismo tiempo.
+
+![Prueba y opinión - Un resultado impecable a pesar de un bajo coste](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884053/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-impecable_mvkvxi.jpg "Prueba y opinión - Un resultado impecable a pesar de un bajo coste")
 
 **Conga 1090 de Cecotec** te permite programar su manejo a través de tu dispositivo móvil, emparejándolo con la APP Mi Home. Es compatible con Google Home y el asistente inteligente Alexa.
 
 Los 1.400 pascales de potencia de succión serán suficientes para una limpieza profunda y eficiente.
 
+![Análisis y prueba - Un robot aspirador de bajo costo pero potente para limpiar las alfombras](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884063/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-aspira-caf%C3%A9_ietzkn.jpg "Análisis y prueba - Un robot aspirador de bajo costo pero potente para limpiar las alfombras")
+
+
 Una característica que resalta de este modelo en particular es su excelente autonomía. **Cecotec Conga 1090 Connected Force** tiene una gran batería suficiente para 160 minutos continuos de limpieza con la misma carga.
 
 Otro aspecto que resalta es su cepillo de silicona que se puede cambiar fácilmente. Es parte del diseño para recoger el pelo de tus mascotas, además el filtro actúa con alta eficacia.
 
-Ciertamente posee características básicas, pero es funcional y eficiente y debes tomar en cuenta su increíble precio, por menos de 200 euros tendrás un excelente  robot aspiradora.
+Ciertamente posee características básicas, pero es funcional y eficiente y debes tomar en cuenta su increíble precio, por menos de 200 euros tendrás un excelente  robot aspirador.
+
+![Análisis y opinión - Se sube a alfombras de hasta 2 cm de espesor](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884049/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-alfombra-2cm_s8skmv.jpg "Análisis y opinión - Se sube a alfombras de hasta 2 cm de espesor")
 
 ### Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force
 
 **Las opiniones con respecto al desempeño general del Cecotec Conga 1090** son diversas. Hay quienes se sienten complacidos con la experiencia y otros tantos no quedaron satisfechos con el accionar del equipo.
 
 Algunos usuarios se quejan de que el robot aspiradora pasa muchas veces limpiando el mismo lugar y esto porque carece de un sistema de navegación inteligente y de mapeo.
+
+![Análisis y opinión - Este robot aspirador detecta las paredes gracias a sus captadores de proximidad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884050/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-detecta-paredes_bbwbep.jpg "Análisis y opinión - Este robot aspirador detecta las paredes gracias a sus captadores de proximidad")
+
 
 Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertamente tiene falencias, pero si quieres darte el gusto de tener uno de estos equipos en casa por un precio bajo, este es el indicado.
 
