@@ -117,6 +117,7 @@ El 51% de los usuarios que dejaron sus opiniones en Amazon le otorgaron 5 estrel
 
 Las opiniones son diversas, hay quienes aseguran que se trata de una maravilla, destacando su accionar silencioso e inteligente.
 
+![Análisis y opinión - limpiatoda la casa de forma autonoma](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884372/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-parquet_h7fecr.jpg "Análisis y opinión - limpiatoda la casa de forma autonoma")
 
 
 
