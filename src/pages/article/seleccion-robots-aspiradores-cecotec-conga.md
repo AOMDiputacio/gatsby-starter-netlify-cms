@@ -46,40 +46,23 @@ Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertame
 ## **Los pros y los contras del Cecotec Conga 1090 Connected Force**
 
 
-<table>
-  <tr>
-   <td><strong>Pros</strong>
-   </td>
-   <td><strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Incluye un cepillo especial para el pelo de mascotas.
-   </td>
-   <td>No incluye función de mapeo.
-   </td>
-  </tr>
-  <tr>
-   <td>Tiene un depósito para polvo y uno mixto.
-   </td>
-   <td>El modo alfombra no es tan eficiente.
-<p>
- 
-   </td>
-  </tr>
-  <tr>
-   <td>El modo silencioso es muy eficiente.
-   </td>
-   <td> 
-   </td>
-  </tr>
-  <tr>
-   <td>Es un equipo barato.
-   </td>
-   <td> 
-   </td>
-  </tr>
-</table>
+
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Incluye un cepillo especial para el pelo de mascotas.</div>
+<div class="pros-item">Tiene un depósito para polvo y uno mixto.</div>
+
+<div class="pros-item">El modo silencioso es muy eficiente.</div>
+<div class="pros-item">Es un equipo barato.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">No incluye función de mapeo.</div>
+<div class="cons-item">El modo alfombra no es tan eficiente.</div>
+</div>
+</div>
 
 
  
@@ -124,38 +107,34 @@ Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resulta
 ## **Conoce las ventajas y las desventajas del modelo Conga 1790 Titanium de Cecotec**
 
 
-<table>
-  <tr>
-   <td><strong>Ventajas</strong>
-   </td>
-   <td><strong>Desventajas</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Equipo de gama media con un precio asequible.
-   </td>
-   <td>El depósito de suciedad no es suficientemente grande.
-   </td>
-  </tr>
-  <tr>
-   <td>Autonomía suficiente para limpiar 160 minutos con la misma carga.
-   </td>
-   <td>No guarda mapas.
-   </td>
-  </tr>
-  <tr>
-   <td>Su desempeño en alfombras es excelente.
-   </td>
-   <td>La APP tiende a desvincularse con mucha frecuencia.
-   </td>
-  </tr>
-  <tr>
-   <td>Es el modelo ideal para limpiar casa con mascotas peludas.
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Equipo de gama media con un precio asequible.</div>
+<div class="pros-item">Autonomía suficiente para limpiar 160 minutos con la misma carga.</div>
+<div class="pros-item">Su desempeño en alfombras es excelente.</div>
+<div class="pros-item">Es el modelo ideal para limpiar casa con mascotas peludas.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El depósito de suciedad no es suficientemente grande.</div>
+<div class="cons-item">No guarda mapas.</div>
+<div class="cons-item">La APP tiende a desvincularse con mucha frecuencia.</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,59 +203,23 @@ Un 56% de los usuarios que probaron el equipo le dieron 5 estrellas a su experie
 ### Lo bueno y lo malo: Lo que debes saber del Cecotec Conga 3790
 
 
-<table>
-  <tr>
-   <td>
-<h2><strong>Lo bueno</strong></h2>
 
 
-   </td>
-   <td>
-<h2><strong>Lo malo</strong></h2>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">Excelente autonomía. Hasta 150 minutos continuos limpieza tu casa con una misma carga.</div>
+<div class="pros-item">Es un equipo multifunción. Barre, aspira, friega y pasa mopa.</div>
+<div class="pros-item">Puede mapear tu casa para una limpieza más eficiente.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">El acceso al depósito mixto es difícil.</div>
+<div class="cons-item">La APP sólo funciona con redes WiFi de 2,4GHz</div>
+</div>
+</div>
 
 
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Excelente autonomía. Hasta 150 minutos continuos limpieza tu casa con una misma carga.</strong></h2>
-
-
-   </td>
-   <td>
-<h2><strong>El acceso al depósito mixto es difícil.</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Es un equipo multifunción. Barre, aspira, friega y pasa mopa.</strong></h2>
-
-
-   </td>
-   <td>
-<h2><strong>La APP sólo funciona con redes WiFi de 2,4GHz</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Puede mapear tu casa para una limpieza más eficiente.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
 
 
 
@@ -313,59 +256,22 @@ Además, tienen excelente valoración del desempeño del 4690 Ultra mapeando cas
 ### Ventajas y desventajas del Cecotec Conga 4690 Ultra
 
 
-<table>
-  <tr>
-   <td>
-<h2><strong>Ventajas</strong></h2>
+
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">La mayor autonomía del mercado. Puede limpiar hasta 300 minutos continuos.</div>
+<div class="pros-item">Mayor potencia para una limpieza más eficiente.</div>
+<div class="pros-item">Es multifunción, aspira, barre, friega y pasa mopa.</div>
+<div class="pros-item">Mapea y guarda los mapas para optimizar la limpieza y hacerla más fluida y precisa.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">En su modalidad más potente, el equipo hace más ruido.</div>
+</div>
+</div>
 
 
-   </td>
-   <td>
-<h2><strong>Desventajas</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>La mayor autonomía del mercado. Puede limpiar hasta 300 minutos continuos.</strong></h2>
-
-
-   </td>
-   <td>
-<h2><strong>En su modalidad más potente, el equipo hace más ruido.</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Mayor potencia para una limpieza más eficiente.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Es multifunción, aspira, barre, friega y pasa mopa.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Mapea y guarda los mapas para optimizar la limpieza y hacerla más fluida y precisa.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
 
 
 
@@ -408,59 +314,23 @@ Los que tienen mascotas en casa alaban su accionar y manifiestan que se trata de
 ### Lo que debes saber del Cecotec Conga 6090 Ultra: Lo bueno y lo malo
 
 
-<table>
-  <tr>
-   <td>
-<h2><strong>Lo bueno</strong></h2>
 
 
-   </td>
-   <td>
-<h2><strong>Lo malo</strong></h2>
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">10.000 pascales de potencia de succión para una limpieza más efectiva.</div>
+<div class="pros-item">Es un equipo 4 en 1 que puede barrer, pasar mopa, fregar y también aspira con la misma eficiencia.</div>
+<div class="pros-item">Puedes controlarlo a través de una APP o de forma manual.</div>
+<div class="pros-item">Si tienes mascotas en casa este es el equipo ideal.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">Los usuarios se quejan del nivel de ruido, sobre todo en modo de máxima potencia.</div>
+</div>
+</div>
 
 
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>10.000 pascales de potencia de succión para una limpieza más efectiva.</strong></h2>
-
-
-   </td>
-   <td>
-<h2><strong>Los usuarios se quejan del nivel de ruido, sobre todo en modo de máxima potencia.</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Es un equipo 4 en 1 que puede barrer, pasar mopa, fregar y también aspira con la misma eficiencia.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Puedes controlarlo a través de una APP o de forma manual.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Si tienes mascotas en casa este es el equipo ideal.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
 
 
 
@@ -487,67 +357,28 @@ Si eliges **comprar la Conga 7090 Al** tendrás más de 240 minutos de autonomí
 Además puede emparejar el robot con tu teléfono móvil a través de una App. Controla desde tu teléfono celular todas las funciones de la Conga 7090.
 
 
-### Lo que opinan del Cecotec Conga 7090 Al
+### Lo que opinan del Cecotec Conga 7090 AI
 
 Con respecto al desempeño del **Cecotec Conga 7090 Al**, la opiniones están  divididas. Algunos usuarios indican que se trata de un excelente equipo por el cual vale la pena pagar una alta suma.
 
 Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo en el apartado de la APP. Aseguran que la aplicación no acompaña la eficiencia del robot aspiradora en general.
 
 
-###  Pros y contras del Cecotec Conga Al
+###  Pros y contras del Cecotec Conga 7090 AI
 
 
-<table>
-  <tr>
-   <td>
-<h2><strong>Pros</strong></h2>
 
 
-   </td>
-   <td>
-<h2><strong>Contras</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>10.000 pascales de potencia de succión, para una limpieza más eficiente.</strong></h2>
-
-
-   </td>
-   <td>
-<h2><strong>En el modo más potente no es silencioso.</strong></h2>
-
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Es el equipo óptimo para casas de grandes dimensiones y con mascotas.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>4 en 1: barre, aspira, friega y pasa mopa.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h2><strong>Sistema de mapeo eficiente.</strong></h2>
-
-
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
+<div class="row">
+<div class="col">
+<div class="pros-header">Nos ha gustado</div>
+<div class="pros-item">10.000 pascales de potencia de succión, para una limpieza más eficiente.</div>
+<div class="pros-item">Es el equipo óptimo para casas de grandes dimensiones y con mascotas.</div>
+<div class="pros-item">4 en 1: barre, aspira, friega y pasa mopa.</div>
+<div class="pros-item">Sistema de mapeo eficiente.</div>
+</div>
+<div class="col">
+<div class="cons-header">Se debe mejorar</div>
+<div class="cons-item">En el modo más potente no es silencioso.</div>
+</div>
+</div>
