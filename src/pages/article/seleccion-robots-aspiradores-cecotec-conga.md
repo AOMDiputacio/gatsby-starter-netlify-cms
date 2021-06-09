@@ -332,15 +332,23 @@ Los que tienen mascotas en casa alaban su accionar y manifiestan que se trata de
 
 ## Cecotec Conga 7090 Al: Limpia en cualquier tipo de superficie por más tiempo
 
+![Análisis y opinión - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884288/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-accesorios_bzp6ui.jpg "Análisis y opinión - Un aspirador robot ideal para toda la casa")
+
 Con la puesta en el mercado del renovado **Conga 7090 Al de Cecotec**, la reconocida marca española da un gigantesco paso en cuanto a innovación. Este equipo es uno de los más completos y eficientes asistente de limpieza, que   puedes obtener por menos de 600 euros.
 
 Por ese precio debes suponer que se trata de un robot aspiradora de gama alta, con excelentes características y prestaciones de avanzada. La marca local busca bridarle a sus seguidores mayor potencia, autonomía suprema y resultados óptimos en un mismo equipo.
+
+![Prueba y opinión - La potencia de este aspirador con un filtro ciclonico](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884286/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-tecnologia-ciclonica_tbtroo.jpg "Prueba y opinión - La potencia de este aspirador con un filtro ciclonico")
 
 Un aspecto que resalta en la **Conga 7090 Al es su ultra potencia ciclónica.** Para este equipo no será difícil lograr pisos limpios sin importar el tipo de superficie y es que incluye **tecnología Cy- Clean con máxima potencia de 10.000 pascales**.
 
 Este modelo de Cecotec incorpora inteligencia artificial 3Diana. Básicamente, el robot es capaz de dejar impecable cada habitación, aplicando un plan de limpieza para cada superficie.
 
+![Prueba y opinión - Identifica los objetos que no debe aspirar para evitarlos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884291/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-identifica-objetos_jdqpiq.jpg "Prueba y opinión - Identifica los objetos que no debe aspirar para evitarlos")
+
 Además, puede reconocer objetos, evita obstáculos en su recorrido y mientras lo hace su base de datos se va llenando con la información que necesita para que tu casa quede siempre impecable.
+
+![Análisis y prueba - La inteligencia artificial reconoce a las mascotas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884286/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-identifica-mascota_am5jvd.jpg "Análisis y prueba - La inteligencia artificial reconoce a las mascotas")
 
 **La tecnología de navegación inteligente que la marca incorporó en el modelo Conga 7090 Al es la iTech Láser Cyclone.** El mapeo es más preciso gracias a esta tecnología y la manera de limpiar del equipo es más rápida y ordenada.
 
@@ -352,9 +360,15 @@ Si eliges **comprar la Conga 7090 Al** tendrás más de 240 minutos de autonomí
 
 Además puede emparejar el robot con tu teléfono móvil a través de una App. Controla desde tu teléfono celular todas las funciones de la Conga 7090.
 
+![Análisis y prueba - Un aspirador conectado que se puede controlar a distancia](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884288/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-conectado_awqsvb.jpg "Análisis y prueba - Un aspirador conectado que se puede controlar a distancia")
+
+
 ### Lo que opinan del Cecotec Conga 7090 AI
 
 Con respecto al desempeño del **Cecotec Conga 7090 Al**, la opiniones están  divididas. Algunos usuarios indican que se trata de un excelente equipo por el cual vale la pena pagar una alta suma.
+
+![Análisis y opinión - Sus camaras permiten al aparato reconocer objetos gracias a su inteligencia artificial](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884291/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-camaras_ipg39j.jpg "Análisis y opinión - Sus camaras permiten al aparato reconocer objetos gracias a su inteligencia artificial")
+
 
 Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo en el apartado de la APP. Aseguran que la aplicación no acompaña la eficiencia del robot aspiradora en general.
 
