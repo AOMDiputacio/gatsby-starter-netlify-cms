@@ -4,6 +4,9 @@ title: Nuestra selección de mejores robots aspiradores Cecotec-Conga-2021
 cardTitle: Merores Robots aspiradores Cecotec Conga
 slug: seleccion-robots-aspiradores-cecotec-conga
 date: 2021-06-09T12:17:55.556Z
+tags:
+  - tag: aspiradoras
+  - tag: guias
 image: /img/logo.png
 imageAlt: Cecotec produce de los mejores robots aspiradores del mercado...
   Hardware, software, batería; los hemos comparado para ti
