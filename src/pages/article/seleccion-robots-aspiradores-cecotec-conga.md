@@ -77,19 +77,31 @@ Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertame
 
 ## Cecotec Conga 1790 Titanium: El gama media más completo del mercado
 
+![Análisis y opinión - Un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884367/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-complementos_jq9snn.jpg "Análisis y opinión - Un robot aspirador completo")
+
+
 La extensa familia de robots aspiradoras de la serie Conga recibe a un nuevo integrante. Se trata del **Cecotec Conga 1790 Titanium**, un equipo de gama media con prestaciones de lujo que puede ser tuyo por menos de 250 euros.
 
 Este modelo ha obtenido una valoración general de 96 sobre 100, gracias a sus excelentes características a su desempeño limpiando superficies y a su precio asequible.
 
 Como ya es costumbre en los equipos Cecotec, este modelo es multifunción, barre, pasa mopa, friega y aspira con la misma eficiencia en cualquier tipo de superficie.
 
+![Análisis y prueba - El mejor robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884369/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-salon_x2wsjn.jpg "Análisis y prueba - El mejor robot aspirador para toda la casa")
+
 **El robot aspiradora Conga 1790 Titanium** está equipado con el sistema Force Clean que le añade una poderosa turbina para optimizar el nivel de potencia de succión que alcanza unos 2100 pascales.
 
-Además, incluye tecnología de fregado Scrubbing, una característica que solo tienen los equipos más potentes del mercado.
+![Prueba y opinión - Ideal para mantener tu casa libre de pelos de mascotas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884374/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-pelos-de-mascota_pwfpq5.jpg "Prueba y opinión - Ideal para mantener tu casa libre de pelos de mascotas")
+
+Además, incluye tecnología de fregado "Scrubbing" (fregar con agua), una característica que solo tienen los equipos más potentes del mercado.
 
 El sistema de navegación que incluyeron en este modelo es el SmartGyro 3.0. Básicamente el robot navegará por tus espacios de una forma más ordenada para una limpieza más efectiva.
 
+![Prueba y opinión - Un aspirador inteligente que limpia la casa de forma ordenada](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884370/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-limpieza-ordenada_hg5dc4.jpg "Prueba y opinión - Un aspirador inteligente que limpia la casa de forma ordenada")
+
+
 En general este sistema es más automático y es porque tiene sensores giroscópicos, sensores de proximidad, antichoques y sensores para evitar caídas.
+
+![Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de laser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884373/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-Limpieza-ordenada2_meingp.jpg "Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de laser")
 
 La batería de este nuevo modelo de la serie Conga está integrada por celdas de litio con capacidad de 2600 mAh. La marca promete que su robot **1790 Titanium podrá limpiar por 160 minutos continuos con una misma carga.**
 
@@ -104,6 +116,9 @@ La aplicación que forma parte del **sistema inteligente del robot aspiradora Co
 El 51% de los usuarios que dejaron sus opiniones en Amazon le otorgaron 5 estrellas a su desempeño, mientras que un 12% opinaron que solo merecía una estrella.
 
 Las opiniones son diversas, hay quienes aseguran que se trata de una maravilla, destacando su accionar silencioso e inteligente.
+
+
+
 
 Se refieren a su autonomía, habiendo probado el **Cecotec Conga 1790 Titanium** en una casa con tres plantas con excelente resultado.
 
