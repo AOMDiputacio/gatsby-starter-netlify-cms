@@ -409,3 +409,410 @@ Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo e
 <div class="cons-item">En el modo más potente no es silencioso.</div>
 </div>
 </div>
+
+## Tabla resumen de todos los robots aspiradores Cecotec analizados
+
+<table>
+<tr>
+<td>Modelo</td>
+<td>Cecotec Conga 990</td>
+<td>Cecotec Conga 1090 connected force</td>
+<td>Cecotec Conga 1790 Titanium</td>
+<td class="green-box-cell">
+<div class="green-box">Laser más barato</div>
+Cecotec Conga 3790
+</td>
+<td>Cecotec Conga 4690 Ultra</td>
+<td class="blue-box-cell">
+<div class="blue-box">Potencia por precio</div>
+Cecotec Conga 6090 Ultra
+</td>
+<td>Cecotec Conga 7090 IA</td>
+</tr><tr>
+<td>TecNología de cartografía</td>
+<td>Sín cartografía / navegación inteligente</td>
+<td>Sín cartografía / navegación inteligente</td>
+<td>Sín cartografía / giroscopio y sensores</td>
+<td class="green-box-cell">
+Laser
+</td>
+<td>Laser + detector optico</td>
+<td class="blue-box-cell">
+Laser
+</td>
+<td>Laser</td>
+</tr><tr>
+<td>Recognición de objetos</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td class="green-box-cell">
+No
+</td>
+<td>No</td>
+<td class="blue-box-cell">
+No
+</td>
+<td>Sí</td>
+</tr><tr>
+<td>Limpieza por zona</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Alexa / Google Home Support</td>
+<td>No</td>
+<td>Si</td>
+<td>Si</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Identificación de alfombra</td>
+<td>Sí</td>
+<td>No</td>
+<td>Sí</td>
+<td class="green-box-cell">
+Sí
+</td>
+<td>Sí</td>
+<td class="blue-box-cell">
+Sí
+</td>
+<td>Sí</td>
+</tr><tr>
+<td>Áreas restringidas / Límites virtuales</td>
+<td>No</td>
+<td>No</td>
+<td>Con bandas magnéticas no incluidas</td>
+<td class="green-box-cell">
+Sí
+</td>
+<td>Sí</td>
+<td class="blue-box-cell">
+Sí
+</td>
+<td>Sí</td>
+</tr><tr>
+<td>RecoNocimiento de salas</td>
+<td>No</td>
+<td>No</td>
+<td>Si</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Programación para limpiar en una sala específica</td>
+<td>No</td>
+<td>No</td>
+<td>Si</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Soporte de múltiples mapas</td>
+<td>No</td>
+<td>No</td>
+<td>No</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Recargar y reanudar</td>
+<td>No</td>
+<td>No</td>
+<td>Si</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Aplicación</td>
+<td>No</td>
+<td>Si</td>
+<td>Si</td>
+<td class="green-box-cell">
+Si
+</td>
+<td>Si</td>
+<td class="blue-box-cell">
+Si
+</td>
+<td>Si</td>
+</tr><tr>
+<td>Modos de limpieza</td>
+<td>Auto, Bordes, Habitación, Espiral y Vuelta a casa
+Modo TURBO</td>
+<td>Auto, bordes, manual, habitación, espiral y vuelta a casa</td>
+<td>8 modos</td>
+<td class="green-box-cell">
+10 modos
+</td>
+<td>10 modos</td>
+<td class="blue-box-cell">
+10 modos
+</td>
+<td>10 modos</td>
+</tr><tr>
+<td>Tiempo de descarga (min)</td>
+<td>130</td>
+<td>160</td>
+<td>160</td>
+<td class="green-box-cell">
+150
+</td>
+<td>300</td>
+<td class="blue-box-cell">
+240
+</td>
+<td>240</td>
+</tr><tr>
+<td>Poder de succión máximo (Pa)</td>
+<td>1400</td>
+<td>1400</td>
+<td>2200</td>
+<td class="green-box-cell">
+2300
+</td>
+<td>2700</td>
+<td class="blue-box-cell">
+10000
+</td>
+<td>10000</td>
+</tr><tr>
+<td>Tamaño de la basura (ml)</td>
+<td>300</td>
+<td>600</td>
+<td>500</td>
+<td class="green-box-cell">
+570
+</td>
+<td>570</td>
+<td class="blue-box-cell">
+570
+</td>
+<td>570</td>
+</tr><tr>
+<td>Fregona</td>
+<td>Sí</td>
+<td>Sí</td>
+<td>Sí</td>
+<td class="green-box-cell">
+Sí
+</td>
+<td>Sí</td>
+<td class="blue-box-cell">
+Sí
+</td>
+<td>Sí</td>
+</tr><tr>
+<td>Control de nível de agua</td>
+<td></td>
+<td></td>
+<td></td>
+<td class="green-box-cell">
+
+</td>
+<td></td>
+<td class="blue-box-cell">
+
+</td>
+<td></td>
+</tr><tr>
+<td>capacidad del depósito de agua</td>
+<td>300</td>
+<td>300</td>
+<td>300</td>
+<td class="green-box-cell">
+200
+</td>
+<td>270</td>
+<td class="blue-box-cell">
+270
+</td>
+<td>270</td>
+</tr><tr>
+<td>Tipo de filtro</td>
+<td>EPA + malla</td>
+<td>EPA + malla</td>
+<td>HEPA</td>
+<td class="green-box-cell">
+HEPA
+</td>
+<td>HEPA</td>
+<td class="blue-box-cell">
+HEPA
+</td>
+<td>HEPA</td>
+</tr><tr>
+<td>Capacidad de la batería (mAh)</td>
+<td>2600</td>
+<td>2600</td>
+<td>2600</td>
+<td class="green-box-cell">
+3200
+</td>
+<td>6400</td>
+<td class="blue-box-cell">
+6400
+</td>
+<td>6400</td>
+</tr><tr>
+<td>Nivel de ruido (dB)</td>
+<td>64</td>
+<td>64</td>
+<td>64</td>
+<td class="green-box-cell">
+64
+</td>
+<td>64</td>
+<td class="blue-box-cell">
+64
+</td>
+<td>64</td>
+</tr><tr>
+<td>Altura de escalada (mm)</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td class="green-box-cell">
+20
+</td>
+<td>20</td>
+<td class="blue-box-cell">
+20
+</td>
+<td>20</td>
+</tr><tr>
+<td>Altura del robot (cm)</td>
+<td>7.4</td>
+<td>7.5</td>
+<td>7.5</td>
+<td class="green-box-cell">
+9.5
+</td>
+<td>9.5</td>
+<td class="blue-box-cell">
+9.7
+</td>
+<td>9.7</td>
+</tr><tr>
+<td>Otras caracteristicas de interés</td>
+<td>No compatible con Wifi 5 Ghz; mando a distancia</td>
+<td>No compatible con Wifi 5 Ghz; mando a distancia</td>
+<td>No compatible con Wifi 5 Ghz; mando a distancia</td>
+<td class="green-box-cell">
+Compatible con Wifi 5 Ghz; mando a distancia; movimiento en palmera del mopa*
+</td>
+<td>Compatible con Wifi 5 Ghz; mando a distancia; movimiento en palmera del mopa*</td>
+<td class="blue-box-cell">
+Compatible con Wifi 5 Ghz; mando a distancia; movimiento en palmera del mopa*
+</td>
+<td>Compatible con Wifi 5 Ghz; mando a distancia; movimiento en palmera del mopa*</td>
+</tr><tr>
+<td>Precio (en Euros)</td>
+<td>140</td>
+<td>181</td>
+<td>230</td>
+<td class="green-box-cell">
+309
+</td>
+<td>347</td>
+<td class="blue-box-cell">
+450
+</td>
+<td>600</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
