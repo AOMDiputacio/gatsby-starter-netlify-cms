@@ -24,11 +24,13 @@ relatedArticles:
 
 **Disfrutar de una casa limpia es un placer** que todos compartimos y no hay nada más agradable que caminar descalzos por un suelo impecable.
 
-Sin embargo, la dura realidad es que por mucho que lo deseemos, la mayoría de las veces las obligaciones y el trabajo no nos dejarán tiempo libre para dedicar a l**impiar la casa como nos gustaría**.
+Sin embargo, la dura realidad es que por mucho que lo deseemos, la mayoría de las veces las obligaciones y el trabajo no nos dejarán tiempo libre para dedicar a **limpiar la casa como nos gustaría**.
 
-Entonces, ¿cómo puedes aprovechar mejor el tiempo para limpiar tu hogar? Pues la respuesta es sencilla: ¡**compra una aspiradora**!.
+Entonces, ¿cómo puedes aprovechar mejor el tiempo para limpiar tu hogar? Pues la respuesta es sencilla: ¡**compra una aspiradora**!
 
 Las **aspiradoras recogen polvo con una eficiencia superior** a la de cualquier escoba. Y han evolucionado tanto que puedes encontrar modelos muy ligeros, con una enorme potencia y diseñadas para todo tipo de limpieza.
+
+Además, ya existen unos modelos que también limpian muebles, tapicerías y suelo; sin hablar de los robots aspiradores que incluso hablan :-)
 
 Con esta guía queremos ayudarte a entender mejor **cómo son las aspiradoras que encontrarás en el mercado** y cómo escoger la mejor para ti.
 
