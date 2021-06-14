@@ -56,7 +56,10 @@ Por otra parte, suelen ser más grandes y requerir mayor espacio al guardarlos, 
 
 Y como dependen de una conexión eléctrica, se hace necesario ir cambiando de enchufe mientras se recorre toda la casa.
 
-### Aspirador escoba
+
+### Aspiradores escoba y de mano
+
+#### Aspiradores escoba
 
 Este tipo de aspiradoras también se llaman **escobas eléctricas o aspiradoras verticales**. Su cuerpo es alargado y tienen un diseño estilizado, con el motor y el depósito de polvo o líquido en la zona central o superior, cerca del asa donde se sujeta.
 
@@ -68,7 +71,9 @@ En casi todos los modelos el **pico se puede acortar para usarla como una aspira
 
 Entre sus desventajas tenemos una menor potencia y capacidad de succión que las aspiradoras de trineo. Además, su **autonomía depende mucho de la capacidad de su batería**.
 
-### Aspiradoras de mano
++ [Los aspiradores escoba, a menudo convertibles en aspiradores de mano se han convertido en un aparato imprescindible para la casa; te explicamos cuales elegir y porqué](/aspiradoras/guia-ultima-del-aspirador-escoba-vertical)
+
+#### Aspiradores de mano
 
 Las **aspiradoras de mano son una herramienta indispensable** que no pueden faltar en los hogares. Permiten limpiar fácilmente todo tipo de muebles y espacios, gracias a su pequeño tamaño y fácil manejo.
 
@@ -110,7 +115,7 @@ Finalmente, tenemos los que usan agua para atrapar la suciedad. En las aspirador
 
 Algunas veces se combina el filtro de agua con un un sistema de filtrado HEPA para darle mayor poder de purificación. Esto es importante si buscas eliminar el problema de los ácaros y las alergias que provocan y obtener un aire limpio.
 
-### Características a observar al elegir tu nueva aspiradora
+## Características a observar al elegir tu nueva aspiradora
 
 Queremos señalarte algunas características básicas que debes mirar al elegir tu nueva aspiradora. De estas características dependerá poder elegir cuál es la que más te conviene según tus necesidades.
 
