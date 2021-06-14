@@ -35,10 +35,10 @@ De forma inesperada, la empresa española Cecotec adoptó la misma formula ganad
 
 Asimismo, si nos enfocamos en los robots aspiradores, **Xiaomi y Cecotec son las dos opciones para quienes necesitan un aparato de calidad por un precio asequible**.
 
-Tras haber analizado los robots aspiradores de varias marcas, nos parece que Xiaomi sigue siendo la mejor opción en robots aspiradores inteligentes económicos, es decir en los que no disponen de mapeo laser; pues **el Xiaomi 1C es probablemente el mejor robot aspirador sin mapeo láser del momento, y se encuentra en AliExpress por menos de 160 Euros según las promociones del momento**!
+Tras haber analizado los robots aspiradores de varias marcas, nos parece que Xiaomi sigue siendo la mejor opción en robots aspiradores inteligentes económicos, es decir en los que no disponen de cartografía láser; pues **el Xiaomi 1C es probablemente el mejor robot aspirador sin láser del momento, y se encuentra en AliExpress por menos de 160 Euros según las promociones del momento**!
 
 >Nuestra valoración general:
->Si hablamos de **robots más avanzados con mapeo láser, Cecotec se destaca claramente de la competencia**: mejores accesorios, más potencia, batería con mayor autonomía, excelente software y aplicación **por un precio muy ajustado.**
+>Si hablamos de **robots más avanzados con cartografía láser, Cecotec se destaca claramente de la competencia**: mejores accesorios, más potencia, batería con mayor autonomía, excelente software y aplicación **por un precio muy ajustado.**
 
 Cabe mencionar que, en este momento, la disponibilidad de piezas de repuesto y la calidad del servicio a cliente de ambas marcas son muy buenas en España.
 
@@ -56,7 +56,7 @@ Podrás encontrar una tabla resumen de las caracteríasticas de todos los robots
 ![Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884050/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-conectado_pnhfc9.jpg "Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo")
 
 > Nuestra opinión: 
->el robot aspirador Xiaomi 1C se vende por ALiExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza el mapeo de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.
+>el robot aspirador Xiaomi 1C se vende por ALiExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.
 
 **El Cecotec Conga 1090 Connected Force** es un robot aspiradora de gama media, ideal para los amantes de estos equipos que tienen un presupuesto ajustado.
 
@@ -88,7 +88,7 @@ Ciertamente posee características básicas, pero es funcional y eficiente y deb
 
 **Las opiniones con respecto al desempeño general del Cecotec Conga 1090** son diversas. Hay quienes se sienten complacidos con la experiencia y otros tantos no quedaron satisfechos con el accionar del equipo.
 
-Algunos usuarios se quejan de que el robot aspiradora pasa muchas veces limpiando el mismo lugar y esto porque carece de un sistema de navegación inteligente y de mapeo.
+Algunos usuarios se quejan de que el robot aspiradora pasa muchas veces limpiando el mismo lugar y esto porque carece de un sistema de navegación inteligente y de cartografía.
 
 ![Análisis y opinión - Este robot aspirador detecta las paredes gracias a sus captadores de proximidad](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884050/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-detecta-paredes_bbwbep.jpg "Análisis y opinión - Este robot aspirador detecta las paredes gracias a sus captadores de proximidad")
 
@@ -107,7 +107,7 @@ Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertame
 </div>
 <div class="col">
 <div class="cons-header">Se debe mejorar</div>
-<div class="cons-item">No incluye función de mapeo.</div>
+<div class="cons-item">No incluye función de cartografía.</div>
 <div class="cons-item">El modo alfombra no es tan eficiente.</div>
 </div>
 </div>
@@ -117,7 +117,7 @@ Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertame
 ![Análisis y opinión - Un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884367/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-complementos_jq9snn.jpg "Análisis y opinión - Un robot aspirador completo")
 
 >Nuestra opinión
->El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home realiza un mapeo de la casa a medida que se va encontrando con obstáculos, y lo guarda en memoria. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia no justifica la diferencia de coste de más de 50 Euros.
+>El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home realiza una cartografía de la casa a medida que se va encontrando con obstáculos, y lo guarda en memoria. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia no justifica la diferencia de coste de más de 50 Euros.
 
 La extensa familia de robots aspiradoras de la serie Conga recibe a un nuevo integrante. Se trata del **Cecotec Conga 1790 Titanium**, un equipo de gama media con prestaciones de lujo que puede ser tuyo por menos de 250 euros.
 
@@ -139,7 +139,7 @@ El sistema de navegación que incluyeron en este modelo es el SmartGyro 3.0. Bá
 
 En general este sistema es más automático y es porque tiene sensores giroscópicos, sensores de proximidad, antichoques y sensores para evitar caídas.
 
-![Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de laser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884373/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-Limpieza-ordenada2_meingp.jpg "Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de laser")
+![Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884373/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-Limpieza-ordenada2_meingp.jpg "Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de láser")
 
 La batería de este nuevo modelo de la serie Conga está integrada por celdas de litio con capacidad de 2600 mAh. La marca promete que su robot **1790 Titanium podrá limpiar por 160 minutos continuos con una misma carga.**
 
@@ -196,7 +196,7 @@ Su precio en el mercado es ajustado a sus excelentes prestaciones, lo puedes ten
 
 El sistema de navegación inteligente que incorpora el Conga 3790 es el iTech Láser 360. A través de esta tecnología el equipo podrá mapear tu casa y planificar eficientemente la mejor ruta para limpiar tus espacios.
 
-![Análisis y opinión - El laser identifica en cada momento la forma de la sala y la ubicación del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-mapping-laser_ru0hda.jpg "Análisis y opinión - El laser identifica en cada momento la forma de la sala y la ubicación del robot")
+![Análisis y opinión - El láser identifica en cada momento la forma de la sala y la ubicación del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-mapping-laser_ru0hda.jpg "Análisis y opinión - El láser identifica en cada momento la forma de la sala y la ubicación del robot")
 
 El robot aspirará con una potencia de 2300 pascales gracias al sistema ForceClean que le otorga máxima potencia a través de su turbina.
 
@@ -323,7 +323,7 @@ Puede barrer, también aspira, friega tus pisos y te libra de pasar mopa. Ademá
 
 **La Conga 6090 Ultra** incluye sistema de navegación inteligente combinado, con sensor láser y sensor óptico para mayor efectividad en su limpieza, además es mucho más rápido en cada pasada.
 
-![Análisis y opinión - El laser guía el robot de forma muy precisa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884332/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-laser_yqlqkf.jpg "Análisis y opinión - El laser guía el robot de forma muy precisa")
+![Análisis y opinión - El láser guía el robot de forma muy precisa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884332/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-laser_yqlqkf.jpg "Análisis y opinión - El láser guía el robot de forma muy precisa")
 
 Es capaz de mapear cada habitación de tu casa, para luego recorrerla con mucha precisión. Sin duda son características de un robot potente y completo, de la más alta gama.
 
@@ -395,7 +395,7 @@ Además, puede reconocer objetos, evita obstáculos en su recorrido y mientras l
 
 ![Análisis y prueba - La inteligencia artificial reconoce a las mascotas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884286/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-identifica-mascota_am5jvd.jpg "Análisis y prueba - La inteligencia artificial reconoce a las mascotas")
 
-**La tecnología de navegación inteligente que la marca incorporó en el modelo Conga 7090 Al es la iTech Láser Cyclone.** El mapeo es más preciso gracias a esta tecnología y la manera de limpiar del equipo es más rápida y ordenada.
+**La tecnología de navegación inteligente que la marca incorporó en el modelo Conga 7090 Al es la iTech Láser Cyclone.** La cartografía es más precisa gracias a esta tecnología y la manera de limpiar del equipo es más rápida y ordenada.
 
 El 7090 no solo aspira, también barre, friega los pisos y pasa mopa con mucha eficiencia, es decir sin duda es el equipo más completo para los amantes de la tecnología y la  comodidad.
 
@@ -423,7 +423,7 @@ Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo e
 <div class="pros-item">10.000 pascales de potencia de succión, para una limpieza más eficiente.</div>
 <div class="pros-item">Es el equipo óptimo para casas de grandes dimensiones y con mascotas.</div>
 <div class="pros-item">4 en 1: barre, aspira, friega y pasa mopa.</div>
-<div class="pros-item">Sistema de mapeo eficiente.</div>
+<div class="pros-item">Sistema de cartografía eficiente.</div>
 </div>
 <div class="col">
 <div class="cons-header">Se debe mejorar</div>
@@ -440,7 +440,7 @@ Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo e
 <td>Cecotec Conga 1090 connected force</td>
 <td>Cecotec Conga 1790 Titanium</td>
 <td class="green-box-cell">
-<div class="green-box">Laser más barato</div>
+<div class="green-box">Láser más barato</div>
 Cecotec Conga 3790
 </td>
 <td>Cecotec Conga 4690 Ultra</td>
@@ -453,15 +453,15 @@ Cecotec Conga 6090 Ultra
 <td>TecNología de cartografía</td>
 <td>Sín cartografía / navegación inteligente</td>
 <td>Sín cartografía / navegación inteligente</td>
-<td>Sín cartografía / giroscopio y sensores</td>
+<td>Cartografía de proximidad / giroscopio y sensores</td>
 <td class="green-box-cell">
-Laser
+Láser
 </td>
-<td>Laser + detector optico</td>
+<td>Láser + detector optico</td>
 <td class="blue-box-cell">
-Laser
+Láser
 </td>
-<td>Laser</td>
+<td>Láser</td>
 </tr><tr>
 <td>Recognición de objetos</td>
 <td>No</td>
