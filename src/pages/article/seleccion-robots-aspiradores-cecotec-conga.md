@@ -465,6 +465,8 @@ Mientras que otros manifiestan que, es modelo con muchas falencias, sobre todo e
 
 ## Tabla resumen de todos los robots aspiradores Cecotec analizados
 
+
+
 <table>
 <tr>
 <td>Modelo</td>
