@@ -17,6 +17,8 @@ imageAlt: Con esta guía aprovecharás los modelos disponibles solo por internet
   dejarás de elegir tu aspiradora al azar
 relatedArticles:
   - article: guia-ultima-del-aspirador-escoba-vertical
+  - article: elegir-robot-aspirador-guia-completa-y-definitiva
+  - article: comparacion-mejores-robots-aspiradores-xiaomi
 ---
 #### Tabla de contenido
 ```toc
@@ -30,7 +32,7 @@ Entonces, ¿cómo puedes aprovechar mejor el tiempo para limpiar tu hogar? Pues 
 
 Las **aspiradoras recogen polvo con una eficiencia superior** a la de cualquier escoba. Y han evolucionado tanto que puedes encontrar modelos muy ligeros, con una enorme potencia y diseñadas para todo tipo de limpieza.
 
-Además, ya existen unos modelos que también limpian muebles, tapicerías y suelo; sin hablar de los robots aspiradores que incluso hablan :-)
+Además, ya existen unos modelos que también limpian muebles, tapicerías y suelo; y desde luego, los robots aspiradores incluso hablan :-)
 
 Con esta guía queremos ayudarte a entender mejor **cómo son las aspiradoras que encontrarás en el mercado** y cómo escoger la mejor para ti.
 
