@@ -69,24 +69,24 @@ Las funciones que incluyen en este robot aspiradora no tienen nada que envidiarl
 <table>
 <tr>
 <td>Cecotec Conga 1090</td>
-<td>El robot aspirador Xiaomi 1C tiene mejores prestaciones que este modelo básico sin capacidad de cartografía. Se vende por ALiExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.</td>
+<td>El robot aspirador Xiaomi 1C tiene mejores prestaciones que este **modelo básico sin capacidad de cartografía**. Se vende por ALiExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.</td>
 <td>181</td>
 </tr><tr>
 <td>Cecotec Conga 1790 Titanium</td>
-<td>El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home realiza una cartografía de la casa a medida que se va encontrando con obstáculos, y lo guarda en memoria. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia no justifica la diferencia de coste de más de 50 Euros.</td>
+<td>El Cecotec Conga 1790 se puede ver como una **mejora del 1090 que aparte de ser compatible con Alexa y Google home realiza una cartografía de la casa a medida que se va encontrando con obstáculos, y la guarda en memoria**. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia no justifica la diferencia de coste de más de 50 Euros.</td>
 <td>230</td>
 </tr><tr>
 <td>Cecotec Conga 3790</td>
-<td>Es uno de nuestros favoritos entre todas las marcas: un robot aspirador con cartografía láser bueno y (relativamente) barato. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.</td>
+<td>**Es uno de nuestros favoritos entre todas las marcas: un robot aspirador con cartografía láser bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.</td>
 <td>309</td>
 </tr><tr>
 <td>Cecotec Conga 4690 Ultra</td>
-<td>La autonomía del Cecotec Conga 4690 duplica la del 3790 y tiene más potencia de aspiración por un precio 40 Euros más elevado que varía según las promociones del momento. Es una buena adquisición si tu casa es realmente muy grande o si quieres que la batería dure muchos años.</td>
+<td>**La autonomía del Cecotec Conga 4690 duplica la del 3790 y tiene más potencia de aspiración por un precio 40 Euros más elevado** (que varía según las promociones del momento). Es una buena adquisición si tu casa es realmente muy grande o si quieres que la batería dure muchos años.</td>
 <td>347</td>
 </tr><tr>
 <td>Cecotec Conga 6090 Ultra</td>
 <td>Como el Cecotec Conga 4690, el Conga 6090 dispone de un excelente software de la aplicación Cecotec, de una batería de alta capacidad por unas 4 horas de trabajo (en condiciones óptimas).
-Pero sobre todo, dispone de una potencia máxima de succión de unos 10.000 Pa!</td>
+Pero sobre todo, **dispone de una potencia máxima de succión de unos 10.000 Pa!**</td>
 <td>450</td>
 </tr><tr>
 <td>Cecotec Conga 7090 AI</td>
@@ -95,8 +95,6 @@ Cuesta unos 600 Euros.</td>
 <td>600</td>
 </tr>
 </table>
-
-
 
 **El modelo 1090 ofrece 4 modalidades de limpieza**, friega, barre, aspira y pasa mopa con la misma eficiencia. Incluye un sistema de válvula que lo hace capaz de dosificar el agua en la mopa para optimizar el trabajo.
 
@@ -151,7 +149,7 @@ Sin embargo, la mayoría coincide en destacar el precio de este modelo. Ciertame
 ![Análisis y opinión - Un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884367/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-complementos_jq9snn.jpg "Análisis y opinión - Un robot aspirador completo")
 
 > **Nuestra opinión:**
-> El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home **realiza una cartografía de la casa a medida que se va encontrando con obstáculos, y lo guarda en memoria**. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia **no justifica una diferencia de precio de más de 50 Euros**.
+> El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home **realiza una cartografía de la casa a medida que se va encontrando con obstáculos, y la guarda en memoria**. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia **no justifica una diferencia de precio de más de 50 Euros**.
 
 La extensa familia de robots aspiradoras de la serie Conga recibe a un nuevo integrante. Se trata del **Cecotec Conga 1790 Titanium**, un equipo de gama media con prestaciones de lujo que puede ser tuyo por menos de 250 euros.
 
