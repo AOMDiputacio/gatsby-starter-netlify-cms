@@ -7,7 +7,7 @@ description: "Si las aspiradoras son uno de los electrodomésticos los más
   te simplificará la vida: robot aspirador, aspirador escoba o aspirador
   vertical, aspirador de mano, aspirador trineo o incluso aspirador Xiaomi;
   estamos aquí para ayudarte a elegir el modelo de aspiradora que necesitas."
-image: /img/logo.png
+image: /img/guia-aspiradora.jpg
 imageAlt: Quien no tiene su aspiradora aún? Estamos aquí para ayudarte a elegir
   la aspiradora que mejor se adaptará a tus necesidades
 ---
