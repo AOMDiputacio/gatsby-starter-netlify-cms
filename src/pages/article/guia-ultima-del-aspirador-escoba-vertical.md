@@ -778,13 +778,13 @@ Bissell CrossWave Cordless
 </tr><tr>
 <td>Tecnología</td>
 <td class="green-box-cell">
-
+Cyclon-Twin-Spin + HEPA
 </td>
 <td class="blue-box-cell">
 ciclónica
 </td>
 <td class="green-box-cell">
-
+Filtro a agua + HEPA
 </td>
 <td>ciclónica</td>
 <td>ciclónica</td>
