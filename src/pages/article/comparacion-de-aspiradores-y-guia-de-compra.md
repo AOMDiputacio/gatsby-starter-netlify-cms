@@ -12,7 +12,7 @@ date: 2021-05-30T16:03:51.261Z
 tags:
   - tag: guias
   - tag: aspiradoras
-image: /img/logo.png
+image: /img/guia-aspiradora.jpg
 imageAlt: Con esta guía aprovecharás los modelos disponibles solo por internet y
   nunca más eligirás tu aspiradora al azar
 relatedArticles:
