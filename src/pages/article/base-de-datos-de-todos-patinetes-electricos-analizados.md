@@ -9,7 +9,7 @@ date: 2021-04-28T15:33:05.088Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-image: /img/chica-patinete-electrico.jpg
+image: /img/patinetes-electricos-mas-vendidos-en-espana.jpg
 imageAlt: Todas las caracteristicas de todos lo mejores patinetes eléctricos más
   vendidos en España agrupadas en una sola tabla resumen
 relatedArticles:
