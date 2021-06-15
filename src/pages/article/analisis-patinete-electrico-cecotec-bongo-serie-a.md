@@ -104,20 +104,20 @@ relatedArticles:
     </script>
 
 <!--
-\\\\*\\\\*Slug:\\\\*\\\\*
+\\\\\*\\\\\*Slug:\\\\\*\\\\\*
 
 analisis-patinete-electrico-cecotec-bongo-serie-A
 
-\\\\*\\\\*Palabras clave:\\\\*\\\\*
+\\\\\*\\\\\*Palabras clave:\\\\\*\\\\\*
 
 N/A tráfico orgánico nulo
 
-\\\\*\\\\*Clearscope (MAX):\\\\*\\\\* https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize
+\\\\\*\\\\\*Clearscope (MAX):\\\\\*\\\\\* https://www.clearscope.io/aom/reports/80890dbdbbac8b94/optimize
 
 # Prueba del Cecotec Bongo Serie A - el más barato de los Cecotec
 # Cecotec Bongo Serie A
 
-!\\\\[Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
+!\\\\\[Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619945944/Patinetes-electricos/Patinete-Cecotec-Bongo-Serie-A/Cecotec-Bongo-Serie-A-Paseo2_gp2zi8.jpg "Análisis y prueba - El patinete Cecotec ideal para paseos cortos y como primer patinete")
 
 -->
 
@@ -146,9 +146,7 @@ En cuanto a su posicionamiento, **se trata de un claro competidor del Xiaomi Ess
 >
 > Te explicamos porqué en el [capitulo de comparación](#mejores-alternativas-a-este-patinete-según-nuestro-modelo-de-regresión) de este artículo.
 
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a"></a>
-
- <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a"></a>
+@data-link="amzn-cecotec-bongo-serie-a-connected"
 
 * [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
 
