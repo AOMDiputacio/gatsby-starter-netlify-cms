@@ -14,7 +14,7 @@ date: 2021-06-07T08:17:23.095Z
 tags:
   - tag: aspiradoras
   - tag: guias
-image: /img/logo.png
+image: /img/elegir-robot-aspirador.jpg
 imageAlt: Hemos seleccionado por tí los mejores robots aspiradores para hacerte
   la vida fácil
 relatedArticles:
