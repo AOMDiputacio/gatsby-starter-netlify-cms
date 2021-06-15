@@ -9,7 +9,7 @@ date: 2021-05-06T16:31:57.855Z
 tags:
   - tag: patinetes-electricos
   - tag: guias
-image: /img/patinete-electrico-hiboy-s2-pro-ride.jpg
+image: /img/bicicleta-patinete-o-motocicleta.jpg
 imageAlt: Prueba y opinión - Un patinete confortable para manejar en todos tipos
   de terreno
 relatedArticles:
