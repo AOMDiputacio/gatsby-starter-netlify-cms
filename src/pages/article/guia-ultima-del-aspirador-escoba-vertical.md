@@ -52,7 +52,7 @@ Cabe destacar que **todos los modelos presentados nos parecieron dignos de inter
   <tr>
    <td><strong>SAMBA vertical</strong>
    </td>
-   <td>Ligero, low cost, pero completo, con filtro HEPA y de esponja, por una relación calidad precio inmejorable
+   <td>Ligero, low cost, pero completo, con filtro HEPA y de esponja, por una relación calidad precio inmejorable; tiene menos potencia de succión, menos autonomía de batería y menos accesorios pero es 2 a 3 veces más baratos que modelos muy parecidos
    </td>
    <td><strong>64</strong>
    </td>
