@@ -17,7 +17,7 @@ featureTags:
   - tag: patinete-hiboy
   - tag: patinete-kugoo
 section2:
-  image: /img/chica-patinete-electrico.jpg
+  image: /img/first-image.png
   tagline: UN BUEN LUGAR PARA EMPEZAR
   title: Encuentra tu patinete urbano ideal
   description: Por patinetes urbano entendemos estos patinetes eléctricos de menos
