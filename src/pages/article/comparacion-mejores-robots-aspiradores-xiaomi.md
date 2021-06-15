@@ -14,7 +14,7 @@ date: 2021-06-07T10:01:00.558Z
 tags:
   - tag: aspiradoras
   - tag: guias
-image: /img/logo.png
+image: /img/robots-aspiradores-xiaomi.jpg
 imageAlt: De todos los modelos Xiaomi, hemos identificado los mejores robots aspiradores
 relatedArticles:
   - article: elegir-robot-aspirador-guia-completa-y-definitiva
