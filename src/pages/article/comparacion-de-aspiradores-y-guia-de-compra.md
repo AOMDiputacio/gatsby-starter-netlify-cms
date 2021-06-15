@@ -14,7 +14,7 @@ tags:
   - tag: aspiradoras
 image: /img/logo.png
 imageAlt: Con esta guía aprovecharás los modelos disponibles solo por internet y
-  dejarás de elegir tu aspiradora al azar
+  nunca más eligirás tu aspiradora al azar
 relatedArticles:
   - article: guia-ultima-del-aspirador-escoba-vertical
   - article: elegir-robot-aspirador-guia-completa-y-definitiva
