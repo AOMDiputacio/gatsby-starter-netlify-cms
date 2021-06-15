@@ -14,7 +14,7 @@ date: 2021-06-09T12:17:55.556Z
 tags:
   - tag: aspiradoras
   - tag: guias
-image: /img/logo.png
+image: /img/aspiradores-cecotec-conga.jpg
 imageAlt: Cecotec produce de los mejores robots aspiradores del mercado...
   Hardware, software, batería; los hemos comparado para ti
 relatedArticles:
