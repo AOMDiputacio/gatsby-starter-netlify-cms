@@ -212,7 +212,7 @@ Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resulta
 ![Prueba y opinión - Un excelente robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-accesorios_zbjzq6.jpg "Prueba y opinión - Un excelente robot aspirador para toda la casa")
 
 > **Nuestra opinion:**
-> e**s uno de nuestros favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
+> **se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
 
 En esta ocasión te presentamos el **Conga 3790 de Cecotec**. Un robot inteligente que aspira, barre, friega y pasa mopa en cualquier tipo de superficie con la misma eficiencia.
 
