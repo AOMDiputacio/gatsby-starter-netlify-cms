@@ -177,6 +177,11 @@ También tienes la opción de controlar este equipo Cecotec a través de botones
 
 La aplicación que forma parte del **sistema inteligente del robot aspiradora Conga 1790 Titanium es compatible con Alexa y Google Home.**
 
+Este robot aspirador permite elegir entre 8 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Prueba y opinión - 8 funciones de limpieza y de manejo para que el robot sea realmente autonomo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/8_modos_Cecotecjpg_gdlcug.jpg "Prueba y opinión - 8 funciones de limpieza y de manejo para que el robot sea realmente autonomo")
+
+
 ### Opiniones en Amazon sobre el Cecotec Conga 1790 Titanium
 
 El 51% de los usuarios que dejaron sus opiniones en Amazon le otorgaron 5 estrellas a su desempeño, mientras que un 12% opinaron que solo merecía una estrella.
@@ -248,6 +253,10 @@ Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la
 
 ![Análisis y prueba - La aplicación permite determinar que zonas limpiar y las que no](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884354/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-control-mapa_tq3kpo.jpg "Análisis y prueba - La aplicación permite determinar que zonas limpiar y las que no")
 
+Este robot aspirador permite elegir entre 10 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Análisis y prueba - 10 funciones por un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/10_modos_Cecotecjpg_lradjg.jpg "Análisis y prueba - 10 funciones por un robot aspirador completo")
+
 ### ¿Qué opinan del Cecotec Conga 3790 en Amazon?
 
 Las opiniones sobre el **modelo 3790 de la serie Conga** están divididas. Hay quienes califican su desempeño como excelente, especialmente considerando su precio y sus prestaciones.
@@ -291,7 +300,7 @@ Y es que **la batería que incorpora el modelo 4690 Ultra es de 6400 mAh**, sin 
 
 Pero, también tendrás otras particularidades interesantes en **Cecotec Conga 4690 Ultra,** características propias de un robot aspiradora de gama alta. Por ejemplo, su poder de succión alcanza 2700 pascales, una potencia superior a otros equipos de elite.
 
-Además, es multifunción y su cepillo principal combina celdas y silicona para más eficiencia en cada pasada.
+Además, es multifunción y su cepillo principal combina cerdas y silicona para más eficiencia en cada pasada.
 
 ![Prueba y opinión - Ideal para recoger los pelos de tu mascota](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884269/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-mascota_munlfd.jpg "Prueba y opinión - Ideal para recoger los pelos de tu mascota")
 
@@ -305,6 +314,10 @@ El equipo **Cecotec Conga 4690 Ultra te permite emparejarlo con una  App** a tra
 Tiene la capacidad de guardar hasta 5 mapas, una función increíble para quienes tienen casa de varios niveles.
 
 ![Análisis y opinión - Su conección wifi te permite controlar tu robot aspirador de cualquier lugar](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884269/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-conectado-distancia_niwtgu.jpg "Análisis y opinión - Su conección wifi te permite controlar tu robot aspirador de cualquier lugar")
+
+Este robot aspirador permite elegir entre 10 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Análisis y prueba - 10 funciones por un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/10_modos_Cecotecjpg_lradjg.jpg "Análisis y prueba - 10 funciones por un robot aspirador completo")
 
 ### ¿Cómo es el Cecotec Conga 4690 Ultra? Lo que opinan los usuarios
 
@@ -328,7 +341,7 @@ Además, tienen excelente valoración del desempeño del 4690 Ultra mapeando cas
 </div>
 </div>
 
-## Cecotec Conga 6090 Ultra: una fuerza demencial de succión de 10.000 Pa
+## Cecotec Conga 6090 Ultra: una fuerza demente de succión de 10.000 Pa
 
 ![Análisis y prueba - Un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884330/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-accesorios_hdajpc.jpg "Análisis y prueba - Un robot aspirador completo")
 
@@ -359,6 +372,10 @@ La reconocida marca española de robot aspiradora ha incorporado en este modelo 
 Si lo emparejas con la APP puedes controlar sus múltiples funciones desde tu teléfono móvil, pero también tienes la opción de hacerlo de forma manual.
 
 ![Análisis y prueba - Un robot conectado](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884336/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-6090-conectado_oor9r2.jpg "Análisis y prueba - Un robot conectado")
+
+Este robot aspirador permite elegir entre 10 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Análisis y prueba - 10 funciones por un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/10_modos_Cecotecjpg_lradjg.jpg "Análisis y prueba - 10 funciones por un robot aspirador completo")
 
 Es el equipo ideal para casas con mascotas peludas. Recuerda que tiene potencia de 10.000 pascales, pero además incluye el cepillo Best Friend Care capaz de recoger todo el pelo de tu mejor amigo y el sistema de filtrado es excelente.
 
@@ -409,6 +426,10 @@ Por ese precio debes suponer que se trata de un robot aspiradora de gama alta, c
 ![Prueba y opinión - La potencia de este aspirador con un filtro ciclonico](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884286/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-7090-IA-tecnologia-ciclonica_tbtroo.jpg "Prueba y opinión - La potencia de este aspirador con un filtro ciclonico")
 
 Un aspecto que resalta en la **Conga 7090 Al es su ultra potencia ciclónica.** Para este equipo no será difícil lograr pisos limpios sin importar el tipo de superficie y es que incluye **tecnología Cy- Clean con máxima potencia de 10.000 pascales**.
+
+Este robot aspirador permite elegir entre 10 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Análisis y prueba - 10 funciones por un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/10_modos_Cecotecjpg_lradjg.jpg "Análisis y prueba - 10 funciones por un robot aspirador completo")
 
 Este modelo de Cecotec incorpora inteligencia artificial 3Diana. Básicamente, el robot es capaz de dejar impecable cada habitación, aplicando un plan de limpieza para cada superficie.
 
