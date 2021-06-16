@@ -805,15 +805,15 @@ La cartografía láser es la más eficaz.</div>
 
 **El ecosistema Xiaomi cobija a la marca Roborock**. Actualmente es una empresa que ha logrado posicionarse con excelente desempeño en el mercado de los robots aspiradoras con equipos como el que te presentamos a continuación, el  **Roborock E4**.
 
-Los productos de esta marca se dividen en dos series, la línea S que cobija equipos de gama alta con navegación láser y la línea E que incluye navegación avanzada, potencia de succión eficaz y precios más baratos.
+Los productos de esta marca se dividen en dos series, la línea S que cobija equipos de gama alta con navegación láser y la línea E que incluye navegación avanzada pero sin láser, potencia de succión eficaz y precios más baratos.
 
 **Roborock E4 pertenece a la gama media de la marca**, es un equipo bastante competitivo, incluso algunos aspectos pueden compararse con la línea S de gama alta.
 
 En general la valoración del **Roborock E4** ha sido excelente, obteniendo 96 sobre 100. Su diseño es clásico y robusto, por lo general la marca prefiere el color negro para sus productos así que también es elegante y bonito.
 
-Este robot aspiradora otorga una potencia de succión de 2.000 pascales. Posee una pista en forma de Z que le permite limpiar los suelo de tu casa más eficiente y rápidamente.
+Este robot aspiradora otorga una potencia de succión de 2.000 pascales. Adopta un recorrido en forma de Z que le permite limpiar los suelo de tu casa más eficiente y rápidamente.
 
-Destaca la autonomía que ofrece, hasta 3 horas continuas limpiando con una misma carga. Sin duda, se trata de una característica ventajosa para quienes tienen espacios grandes que limpiar en casa.
+Destaca la autonomía que ofrece, hasta 3 horas continuas limpiando con una misma carga. Se trata de una característica ventajosa para quienes tienen espacios grandes que limpiar en casa.
 
 ![Análisis y prueba - Un aspirador robot ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884221/Robots%20aspiradores/Robot-aspirador-roborock-E4-arriba_srkvlo.jpg "Análisis y prueba - Un aspirador robot ideal para toda la casa")
 
@@ -821,7 +821,7 @@ Es un equipo inteligente que determina si ha terminado su trabajo. **Si la bater
 
 ![Análisis y prueba - Regresa solo a la base de carga una vez terminada la limpieza](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884216/Robots%20aspiradores/Robot-aspirador-roborock-E4-base-carga_qzxsgp.jpg "Análisis y prueba - Regresa solo a la base de carga una vez terminada la limpieza")
 
-Los giroscopios que incorpora este modelo detectan los cambios de ángulos  más mínimos, incluso pueden determinar cuando el robot ha sido derribado.
+Los giroscopios que incorpora este modelo detectan los cambios de ángulos  más mínimos, incluso pueden determinar cuando el robot ha patinado o cambiado de rumbo de forma fortuita.
 
 **El diseño de Roborock E4 incluye tecnología OpticEye**. Básicamente utiliza láser y luces Leds para hacer un análisis en alta frecuencia de la superficie aspirada.
 
@@ -1072,7 +1072,7 @@ El diseño de este moderno equipo incluye tres botones en su parte superior para
 
 Pero, si prefieres lo simple y cómodo, tienes la opción de **manejar el Roborock S4 Max por medio de una aplicación móvil** desde la comodidad de cualquier dispositivo electrónico.
 
-Desde la APP tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
+Desde la aplicación tienes acceso a todas las funciones que incorpora este equipo del ecosistema Xiaomi. Tendrás  la posibilidad de poner en funcionamiento tu Roborock S4 Max cada vez que quieras desde donde quieras.
 
 ### Lo que opinan los usuarios del Roborock S4 Max
 
@@ -1330,7 +1330,7 @@ En esta ocasión te presentamos un equipo que no solo aspira, también friega y 
 
 ![Prueba y opinión - El laser ayuda a escanear la sala y ubicar el robot aspirador en ella](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884180/Robots%20aspiradores/Robot-aspirador-roborock-limpieza-ordenada-laser_cersvw.jpg "Prueba y opinión - El laser ayuda a escanear la sala y ubicar el robot aspirador en ella")
 
-**Roborock S5 Max** tiene sensores inteligentes que hacen que los programas funcionen de forma óptima. Estos dispositivos permiten que el  robot navegue inteligentemente, con la opción de evitar zonas sensibles en dónde hayan cables por ejemplo o comida para tu mascota.
+**Roborock S5 Max** tiene sensores inteligentes que hacen que los programas funcionen de forma óptima. Estos dispositivos permiten que el robot navegue inteligentemente, con la opción de evitar zonas sensibles en dónde hayan cables por ejemplo o comida para tu mascota.
 
 ![Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884183/Robots%20aspiradores/Robot-aspirador-roborock-algoritmos_l5edfe.jpg "Análisis y opinión - Siempre el sobresaliente algoritmo de limpieza Xiaomi")
 
@@ -2185,7 +2185,7 @@ Consideran que se trata del equipo ideal para el mantenimiento de casas con masc
 
 
 ---
-### Tabla resumen de caracteristicas destacadas de todos los Robots Aspiradores Xiaomi analizados
+## Tabla resumen de caracteristicas destacadas de todos los Robots Aspiradores Xiaomi analizados
 
 <table>
 <tr>
