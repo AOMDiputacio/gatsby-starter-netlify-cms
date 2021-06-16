@@ -286,7 +286,7 @@ Xiaomi trae este nuevo modelo que no solo aspira, también friega y barre pisos.
 
 Es un equipo ideal para los que buscan un modelo eficiente que cumpla con las necesidades más exigentes pero, con un precio bastante asequible.
 
-Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una APP.
+Este **robot aspiradora  de Xiaomi** no cuenta con algunas funciones destacadas, ni con la navegación láser, pero incorpora otras características técnicas bastante atractivas, como el depósito de agua y la posibilidad de manejarlo a través de  una aplicación.
 
 ![Análisis y prueba - Estructura del filtro](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-filtro_r55cbd.jpg "Análisis y prueba - Estructura del filtro")
 
@@ -296,7 +296,7 @@ La bomba de agua electrónica que incorpora el equipo le permite ejecutar sus fu
 
 ![Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884083/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-cambio-superficies_b7ftb1.jpg "Análisis y opinión - Este robot aspirado es eficaz en cualquier tipo de superficie")
 
-El **sistema de navegación de este robot Xiaomi** es a través de sensores, esto lo convierte en un modelo más básico si tomamos en cuenta que sus competidores cuentan con navegación láser.
+El **sistema de navegación de este robot Xiaomi** no dispone de radar láser pero percibe su entorno a través de sensores, lo que lo convierte en un modelo relativamente básico.
 
 ![Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-inteligente_qdvb5x.jpg "Análisis y prueba - Un robot inteligente a pesar de la ausencia de láser")
 
@@ -304,12 +304,11 @@ La marca China alardea diciendo que su robot **MiJia G1 puede aspirar bajos mueb
 
 ![Análisis y opinión - Dimensiones del robot](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884080/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-dimensiones_gof0p2.jpg "Análisis y opinión - Dimensiones del robot")
 
-**La autonomía del Xiaomi MiJia G1** otorga por lo menos hora y media de funcionamiento continuo o lo que es lo mismo, limpia  120 metros cuadrados de tu casa y es que este modelo cuenta con una batería de 2.500 mAh.
+**La autonomía del Xiaomi MiJia G1** otorga por lo menos hora y media de funcionamiento continuo o lo que es lo mismo, limpia  120 metros cuadrados de tu casa ya que este modelo cuenta con una batería de 2.500 mAh.
 
 Es posible emparejar el nuevo Xiaomi MiJia G1  con la aplicación móvil Mi Home, propia de la marca.
 
 A través de la APP tienes la alternativa de configurar el menú de opciones, además podrás ver el mapa de tu casa al tiempo que el equipo esté operando.
-
 
 ![Análisis y opinión - Caracteristicas del Xiaomi G1](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884081/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-caracteristicas_j8xdgg.jpg "Análisis y opinión - Caracteristicas del Xiaomi G1")
 
@@ -543,27 +542,27 @@ La cartografía láser es la más eficaz.</div>
 
 
 
-**El Xiaomi Smart Vacuum 1C** es un equipo robusto, con un diseño moderno y poder de succión elevado, además es multifuncional. Se trata del robot aspiradora ideal para los que buscan calidad a bajo precio.
+**El Xiaomi Smart Vacuum 1C** es un equipo robusto, con un diseño moderno y poder de succión elevado. Es además multifuncional. Se trata del robot aspiradora ideal para los que buscan calidad a bajo precio.
 
 Su desempeño es increíble hasta en las habitaciones más sucias, esto gracias a sus **2.500 pascales de potencia en succión** en su modalidad máxima. El modo silencioso y estándar del equipo también te darán buenos resultados con menos  energía.
 
 ![Análisis y prueba - Un poder de succión correcto; sin más](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-poder-de-succion_px8yya.jpg "Análisis y prueba - Un poder de succión correcto; sin más")
 
-**El sistema de navegación del modelo Smart Vacuum 1C** es aceptable, aunque no funciona a través de láser.
+**El sistema de navegación del modelo Smart Vacuum 1C** es aceptable. Aunque no funcione a través de láser, cuenta en su parte superior con una cámara con un ángulode visión de 166 grados que le permite percibir su entorno.
 
 ![Análisis y opinión - Limpia la casa de forma ordenada a pesar de no disponer de un laser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-limpieza-ordenada_ddhhfc.jpg "Análisis y opinión - Limpia la casa de forma ordenada a pesar de no disponer de un laser")
 
-Otras características compensas esta falencia, por ejemplo es una aspiradora inteligente multifunción, barre, pasa mopa, friega pisos y aspira.
+Cuenta además con otras caracteristicas dignas de robots aspiradores mucho más costosos: es una aspiradora inteligente multifunción, barre, pasa mopa, friega pisos aspira y cuenta con un sistema de navegación y de cartografía avanzado.
 
 ![Prueba y opinión - El mopa humedece el suelo y elimina las particulas más finas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-mopa_eme9z3.jpg "Prueba y opinión - El mopa humedece el suelo y elimina las particulas más finas")
 
-Su diseño compacto y ligero lo hacen más versátil, logrando limpiar en lugares estrechos y por  debajo de los muebles, sin ningún problema.
+Su diseño compacto y su altura de 8.2 cm le permiten limpiar en lugares estrechos y por  debajo de los muebles.
 
 ![Análisis y prueba - el robot aspirador es tan fino que puede pasar por debajo de los muebles más bajos](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884307/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-debajo-cama_owmsoo.jpg "Análisis y prueba - el robot aspirador es tan fino que puede pasar por debajo de los muebles más bajos")
 
 Uno de los puntos débiles de este modelo es su autonomía. Para este modelo de la serie C, la marca China optó por reducirla un poco, así que tendrás solo 90 minutos de autonomía, justo lo que otorga la batería de 2.400mAh.
 
-Si tienes un espacio de 100 o 120 metros cuadrados, con  **Mi Smart Vacuum 1C de Xiaomi** podrás cubrirlo antes de que el equipo  vuelva a su estación de carga.
+Sin embargo,  nuestra experiencia demuestra que si tienes un espacio de 100 o 120 metros cuadrados, con  **Mi Smart Vacuum 1C de Xiaomi** podrás cubrirlo antes de que el equipo  vuelva a su estación de carga.
 
 Una particularidad de este modelo es que cuando la batería marca 15% el robot vuelve a su base, si aún no ha terminado de limpiar automáticamente retoma su labor justo donde la dejó cuando la carga llega a 80%.
 
