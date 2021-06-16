@@ -47,7 +47,7 @@ Encontrarás al final del artículo una tabla recapitulativa de las caracteristi
 <td><b>Precio</b> (Euros en Junio  2021)</td>
 </tr><tr>
 <td>Xiaomi MiJia G1</td>
-<td>El Xiaomi MiJia G1 no dispone de sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo.</td>
+<td>El Xiaomi MiJia G1 no dispone de sistema de mapeo láser y su autonomía no es de las mejores. Pero su sistema giroscopico le permita navegar de forma inteligente y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo.</td>
 <td>No disponible</td>
 </tr><tr>
 <td>Xiaomi MiJia 1C</td>
@@ -89,7 +89,7 @@ Cuesta más de el doble que el Mijia 1C.</td>
 
 ![Prueba y opinión - Un diseño clásico pero depurado y elegante](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884082/Robots%20aspiradores/Robot-aspirador-Xiaomi-mijia-G1-perspectiva_u1none.jpg "Prueba y opinión - Un diseño clásico pero depurado y elegante")
 
-> El **Xiaomi MiJia G1** no dispone de un sistema de mapeo láser y su autonomía no es de las mejores. Pero efectua su mapeo gracias a su sistema giroscopico y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo. 
+> El Xiaomi MiJia G1 no dispone de sistema de mapeo láser y su autonomía no es de las mejores. Pero su sistema giroscopico le permita navegar de forma inteligente y su comportamiento en pruebas reales es muy correcto. Es más aconsejable usarlo en apartamentos de 80 m2 máximo.
 
 ### Ficha técnica
 
