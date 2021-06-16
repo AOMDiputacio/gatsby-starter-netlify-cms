@@ -153,29 +153,27 @@ Muchos coinciden en destacar el precio de este modelo. Probablemente por descono
 
 La extensa familia de robots aspiradoras de la serie Conga recibe a un nuevo integrante. Se trata del **Cecotec Conga 1790 Titanium**, un equipo de gama media con prestaciones medias por un precio en linea con sus competidores.
 
-Como ya es costumbre en los equipos Cecotec, este modelo es multifunción, barre, pasa mopa, friega y aspira con la misma eficiencia en cualquier tipo de superficie.
+Como ya es costumbre en los equipos Cecotec, este modelo es multifunción, barre, pasa la mopa, friega y aspira con la misma eficiencia en cualquier tipo de superficie.
 
 ![Análisis y prueba - El mejor robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884369/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-salon_x2wsjn.jpg "Análisis y prueba - El mejor robot aspirador para toda la casa")
 
-**El robot aspiradora Conga 1790 Titanium** está equipado con el sistema Force Clean que le añade una poderosa turbina para optimizar el nivel de potencia de succión que alcanza unos 2100 pascales.
+**El robot aspiradora Conga 1790 Titanium** está equipado con el sistema "Force Clean" que optimiza la potencia de succión  de su turbina que alcanza unos 2100 pascales.
 
 ![Prueba y opinión - Ideal para mantener tu casa libre de pelos de mascotas](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884374/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-pelos-de-mascota_pwfpq5.jpg "Prueba y opinión - Ideal para mantener tu casa libre de pelos de mascotas")
-
-Además, incluye tecnología de fregado "Scrubbing" (fregar con agua), una característica que solo tienen los equipos más potentes del mercado.
 
 El sistema de navegación que incluyeron en este modelo es el SmartGyro 3.0. Básicamente el robot navegará por tus espacios de una forma más ordenada para una limpieza más efectiva.
 
 ![Prueba y opinión - Un aspirador inteligente que limpia la casa de forma ordenada](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884370/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-limpieza-ordenada_hg5dc4.jpg "Prueba y opinión - Un aspirador inteligente que limpia la casa de forma ordenada")
 
-En general este sistema es más automático y es porque tiene sensores giroscópicos, sensores de proximidad, antichoques y sensores para evitar caídas.
+En general este sistema es más automático porque cuenta con sensores giroscópicos, de proximidad, antichoques y anticaídas.
 
 ![Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de láser](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884373/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1790-Titanium-Limpieza-ordenada2_meingp.jpg "Análisis y prueba - Limpia de forma ordenada a pesar de no disponer de láser")
 
 La batería de este nuevo modelo de la serie Conga está integrada por celdas de litio con capacidad de 2600 mAh. La marca promete que su robot **1790 Titanium podrá limpiar por 160 minutos continuos con una misma carga.**
 
-Cuando se descarga, automáticamente vuelve a su base de carga, recarga y luego vuelve justo al sitio donde dejó la limpieza.
+Cuando se descarga, automáticamente vuelve a su base de carga y vuelve al sitio dónde dejó la limpieza cuando la carga de la batería sea suficiente para finalizar la operación.
 
-Con este modelo de Cecotec también tienes la opción de controlarlo a través de sus botones físicos ubicados en la parte posterior del equipo. Pero si prefieres hacerlo de forma remota, desde la comodidad de tu móvil, puedes darle comandos de voz utilizando la APP.
+También tienes la opción de controlar este equipo Cecotec a través de botones físicos ubicados en la parte posterior. Pero si prefieres hacerlo de forma remota, puedes controlarlo con tu voz mediante la aplicación movil.
 
 La aplicación que forma parte del **sistema inteligente del robot aspiradora Conga 1790 Titanium es compatible con Alexa y Google Home.**
 
