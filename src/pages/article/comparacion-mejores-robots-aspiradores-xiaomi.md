@@ -568,7 +568,7 @@ Una particularidad de este modelo es que cuando la batería marca 15% el robot v
 
 ![Análisis y opinión - Un serie de sensores y un ordenador de bordo permiten al robot aspirador ubicarse de feorma inteligente](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884305/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-full-sensores_l5iby5.jpg "Análisis y opinión - Un serie de sensores y un ordenador de bordo permiten al robot aspirador ubicarse de feorma inteligente")
 
-Hablemos de la APP  Mi Home a través de la cual podrás manejar las funciones de Mi Smart Vacuum 1C.  Está disponible para dispositivos móviles con sistema operativo iOS y Android, es fácil de instalar y su uso te permitirá un excelente control del aparato.
+Hablemos de la APP  Mi Home a través de la cual podrás manejar las funciones de Mi Smart Vacuum 1C.  Está disponible para dispositivos móviles con sistema operativo iOS y Android, es fácil de instalar y su uso te permitirá un excelente control del aparato, permitiendote definir areas de tu casa a limpiar o a evitar.
 
 ### Opiniones: ¿Por qué Mi Smart Vacuum 1C tiene 4.5 estrellas en Amazon?
 
@@ -580,9 +580,9 @@ Quienes ya han probado este robot aspiradora destacan lo bien que desempeña su 
 
 ![Prueba y opinión - Un robot autonomo para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884305/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-parquet_inkzzb.jpg "Prueba y opinión - Un robot autonomo para toda la casa")
 
-También se refieren a la excelente relación calidad- precio que ofrece este modelo de la serie C de Xiaomi.
+También se refieren a la excelente relación calidad precio que ofrece este modelo de la serie C de Xiaomi.
 
-Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal que los usuarios coincidan en no manifestar problemas muy relevantes.
+Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal que los usuarios coincidan en no manifestar problemas sistematicos muy relevantes.
 
 ### Lo bueno y lo malo de Mi Smart Vacuum 1C
 
