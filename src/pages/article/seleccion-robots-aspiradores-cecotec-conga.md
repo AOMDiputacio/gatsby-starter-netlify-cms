@@ -236,18 +236,13 @@ Si se queda sin carga, el robot automáticamente vuelve a su estación para reca
 
 Uno de **los implementos de limpieza que incluye Cecotec en su modelo Conga 3790** es un cepillo especial para recoger el pelo de tus mascotas. Lo han denominado Sistema Best Friend Care especial.
 
-Hasta 10 modos de limpieza para seleccionar. Puedes escoger entre:
+Puedes elegir entre los 10 modos de limpieza siguientes:
 
-* Limpieza auto.
-* En espiral.
-* Puntual.
-* Área inteligente.
-* Limpieza en área restringida.
-* Para limpiar bordes.
-* Modo manual.
-* Deep Cleaning.
-* Scrubbing.
-* Modo limpieza vuelta a la casa.
+![Análisis y prueba - 10 funciones por un robot aspirador completo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/10_modos_Cecotecjpg_lradjg.jpg "Análisis y prueba - 10 funciones por un robot aspirador completo")
+
+El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.
+
+![El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1623851975/Robots%20aspiradores/conga-3790-modo-scrubbing_cydcyj.jpg "El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.")
 
 Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la comodidad de tu dispositivo móvil. 
 
@@ -255,7 +250,7 @@ Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la
 
 ### ¿Qué opinan del Cecotec Conga 3790 en Amazon?
 
-Las opiniones sobre el **modelo 3790 de la serie Conga** están divididas. Hay quienes califican su desempeño como excelente, un accionar propio de un equipo de su precio y con sus prestaciones.
+Las opiniones sobre el **modelo 3790 de la serie Conga** están divididas. Hay quienes califican su desempeño como excelente, especialmente considerando su precio y sus prestaciones.
 
 Otros tantos indicaron que su experiencia con el Conga 3790 fue mala. Se quejaron del ruido, del pobre desempeño limpiando en lugares de difícil acceso y de lo difícil que se hace sacar el depósito mixto para limpiarlo.
 
@@ -282,7 +277,7 @@ Un 56% de los usuarios que probaron el equipo le dieron 5 estrellas a su experie
 ![Análisis y prueba - Un excelente aspirador ideal para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884266/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-4690-ultra-accesorios_jcm5vi.jpg "Análisis y prueba - Un excelente aspirador ideal para toda la casa")
 
 > **Nuestra opinión:**
-> la autonomía del Cecotec Conga 4690 duplica la del 3790 y tiene más potencia de aspiración por un precio 40 Euros más elevado que varía según las promociones del momento. **Es una buena adquisición si tu casa es realmente muy grande** o si quieres que la batería dure muchos años.
+> la autonomía del Cecotec Conga 4690 duplica la del 3790 y tiene más potencia de aspiración por un precio 40 Euros más elevado que varía según las promociones del momento. **Es una buena adquisición si tu casa es realmente muy grande**... o si quieres que la batería dure muchos años.
 
 **El Cecotec Conga 4690 Ultra** pertenece a la serie elite de la marca. En este modelo, la marca incorpora mayor autonomía, poder de succión optimizado y otras mejores superan a sus antecesores.
 
