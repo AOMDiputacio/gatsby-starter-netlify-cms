@@ -27,11 +27,11 @@ relatedArticles:
 
 ## Como elegimos los mejores robots Xiaomi por el 2021
 
-Xiaomi es sin duda la marca del momento. Este grupo Xino se dió a conocer con sus teléfonos inteligentes que replicaban la tecnología de las mejores marcas por una fracción del precio. 
+Xiaomi es sin duda la marca del momento. Este grupo Chino se dió a conocer con sus teléfonos inteligentes que replicaban la tecnología de las mejores marcas por una fracción del precio. 
 
 Luego siguió desarrollando multitud de productos electronicos **siempre conservando la misma filosofía de calidad con un precio muy bajo**, y no tardó en posicionarse como una de las marcas las más exitosas del mundo.
 
-Los aspiradores robots de Xiaomi no son la excepción. Cuentan con la mejor tecnología del momento por un excelente precio y se han convertido en los robots aspiradores más vendidos en el mundo.
+Con sus aspiradores robots, Xiaomi replicó esta misma estrategia. Sus robots cuentan con la mejor tecnología del momento por un excelente precio y se han convertido en los aparatos más vendidos en el mundo.
 
 Pero gracias a este éxito, **la marca va proponiendo nuevos aspiradores varias veces al año**, todos con caracteristicas adaptados a cada uso, por lo que **no es tarea fácil saber cual de estos modelos se adaptan a las necesidades de uno**.
 
