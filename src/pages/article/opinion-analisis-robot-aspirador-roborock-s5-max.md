@@ -87,39 +87,30 @@ Desacataron la autonomía. Una batería con suficiente rendimiento para limpiar 
 
 ## Pros y contras del Roborock S5 Max
 
-<table>
-  <tr>
-   <td>
-<strong>Pros</strong>
 
-   </td>
-   <td>
 
-<strong>Contras</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Máxima eficiencia y rendimiento.
-   </td>
-   <td>Es un poco ruidoso en su máxima potencia.
-   </td>
-  </tr>
-  <tr>
-   <td>Contiene un filtro tipo HEPA; Limpia y purifica el entorno.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Múltiples funciones.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Sistema de fregado optimizado para mayor eficiencia.
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+<div class="row">
+
+<div class="col">
+
+<div class="pros-header">Nos ha gustado</div>
+
+<div class="pros-item">Máxima eficiencia y rendimiento.</div>
+
+<div class="pros-item">Contiene un filtro tipo HEPA; Limpia y purifica el entorno.</div>
+
+<div class="pros-item">Múltiples funciones.</div>
+
+<div class="pros-item">Sistema de fregado optimizado para mayor eficiencia.</div>
+
+</div>
+
+<div class="col">
+
+<div class="cons-header">Se debe mejorar</div>
+
+<div class="cons-item">Es un poco ruidoso en su máxima potencia.</div>
+
+</div>
+
+</div>
