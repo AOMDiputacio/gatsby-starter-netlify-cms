@@ -90,7 +90,7 @@ Pero sobre todo, dispone de una potencia máxima de succión de unos 10.000 Pa!<
 > **Nuestra opinión:** 
 > el robot aspirador Xiaomi 1C tiene mejores prestaciones que este **modelo básico sin capacidad de cartografía**. Se vende por AliExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.
 
-**El Cecotec Conga 1090 Connected Force** es un robot aspiradora de gama media, deiseñado para las personas que tengan una superficie a limpiar pequeña y un presupuesto ajustado.
+**El Cecotec Conga 1090 Connected Force** es un robot aspiradora de gama media, diseñado para las personas que tengan una superficie a limpiar pequeña y un presupuesto ajustado.
 
 Las funciones que incluyen en este robot aspiradora no tienen nada que envidiarles a los equipos más costosos del mercado, incluso tienen una característica propia de la marca Cecotec y es que su depósito es mixto y para mota.
 
