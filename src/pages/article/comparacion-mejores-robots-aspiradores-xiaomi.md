@@ -582,7 +582,7 @@ Quienes ya han probado este robot aspiradora destacan lo bien que desempeña su 
 
 También se refieren a la excelente relación calidad precio que ofrece este modelo de la serie C de Xiaomi.
 
-Las quejas, son por lo general sobre casos muy puntuales. Es una buena señal que los usuarios coincidan en no manifestar problemas sistematicos muy relevantes.
+Las quejas, conciernen generalmente casos muy puntuales. Es una buena señal que los usuarios coincidan en no manifestar problemas sistematicos muy relevantes.
 
 ### Lo bueno y lo malo de Mi Smart Vacuum 1C
 
