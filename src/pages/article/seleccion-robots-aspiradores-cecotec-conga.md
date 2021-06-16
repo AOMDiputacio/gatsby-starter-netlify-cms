@@ -118,7 +118,7 @@ Ciertamente posee características básicas, pero es funcional y eficiente aunqu
 
 Este robot aspirador permite elegir entre 6 funciones distintas de limpieza pero no cuenta con el modo "Scrubbing" propio de Cecotec que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
 
-![Análisis y opinión - 6 funciones básicas para limpiar toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623416753/Robots%20aspiradores/6_modos_Cecotecjpg_yy5z7l.jpg "Análisis y opinión - 6 funciones básicas para limpiar toda la casa")
+![Análisis y opinión - 6 funciones básicas para limpiar toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/a_hflip/v1623416753/Robots%20aspiradores/6_modos_Cecotecjpg_yy5z7l.jpg "Análisis y opinión - 6 funciones básicas para limpiar toda la casa")
 
 
 ### Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force
