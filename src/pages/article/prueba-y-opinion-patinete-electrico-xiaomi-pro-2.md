@@ -1,6 +1,6 @@
 ---
 dataKey: articles
-title: "Opinión: El patinete Xiaomi Pro 2"
+title: Hemos probado a fondo el patinete Xiaomi Pro 2 y te contamos todo
 cardTitle: Xiaomi Pro 2
 description: El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la
   calidad Xiaomi por un precio relativamente razonable; se trata de uno de los
