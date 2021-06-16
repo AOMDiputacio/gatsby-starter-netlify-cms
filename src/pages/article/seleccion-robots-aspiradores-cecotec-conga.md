@@ -116,6 +116,11 @@ Ciertamente posee características básicas, pero es funcional y eficiente aunqu
 
 ![Análisis y opinión - Se sube a alfombras de hasta 2 cm de espesor](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1622884049/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-alfombra-2cm_s8skmv.jpg "Análisis y opinión - Se sube a alfombras de hasta 2 cm de espesor")
 
+Este robot aspirador permite elegir entre 6 funciones distintas de limpieza pero no cuenta con el modo "Scrubbing" propio de Cecotec que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
+
+![Análisis y opinión - 6 funciones básicas para limpiar toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623416753/Robots%20aspiradores/6_modos_Cecotecjpg_yy5z7l.jpg "Análisis y opinión - 6 funciones básicas para limpiar toda la casa")
+
+
 ### Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force
 
 **Las opiniones con respecto al desempeño general del Cecotec Conga 1090** son diversas. Hay quienes se sienten complacidos con la experiencia y otros tantos no quedaron satisfechos con el accionar del equipo.
