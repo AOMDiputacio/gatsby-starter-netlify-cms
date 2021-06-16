@@ -196,7 +196,7 @@ Este patinete eléctrico Xiaomi es la **versión actualizada del Pro 1** lanzado
 
 Por lo tanto, el patinete eléctrico Xiaomi Pro 2 es **ideal para uso intensivo diario en calles con todo tipo de desnivel**, sin tener que preocuparse por recargar batería con frecuencia.\
 \
-Todas estas caracteristicas se analizarán exhaustivamente durante el análisis más abajo.
+Todas estas caracteristicas se analizarán exhaustivamente durante el análisis que desarrollamos más adelante.
 
 <table class="product-table">
 <tr>
