@@ -2,6 +2,13 @@
 dataKey: articles
 title: "Roborock S5 Max: el que mejor limpia en las pruebas"
 cardTitle: Roborock S5 Max
+description: >-
+  El Roborock S5 ha sido una apuesta segura deste su aparición a finales de
+  2019. La mejor opción para los usuarios que necesitaban un equipo excelente:
+  Autonomía, potencia de aspiración, fregado y calidad.
+
+
+  A pesar de haber salido a la venta a finales de 2019, el Roborock S5 Max todavía sigue siendo unas de las mejores ventas de Xiaomi y el robot aspirador que recomendamos si quieres un equipo excelente por un precio razonable.
 slug: opinion-analisis-robot-aspirador-roborock-s5-max
 date: 2021-06-16T09:11:59.893Z
 tags:
