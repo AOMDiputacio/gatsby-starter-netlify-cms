@@ -9,6 +9,8 @@ tags:
 image: /img/logo.png
 imageAlt: EL S5 max obtiene de forma consistente la mejor valoración en pruebas
   de limpieza
+relatedArticles:
+  - article: comparacion-mejores-robots-aspiradores-xiaomi
 ---
 **Roborock S5 Max** es la versión mejorada de su antecesor de unos de los modelos más vendidos de la marca, el S5. 
 
@@ -88,10 +90,12 @@ Desacataron la autonomía. Una batería con suficiente rendimiento para limpiar 
 <table>
   <tr>
    <td>
-<h2><strong>Pros</strong></h2>
+<strong>Pros</strong>
 
    </td>
-   <td>Contras
+   <td>
+
+<strong>Contras</strong>
    </td>
   </tr>
   <tr>
