@@ -304,6 +304,49 @@ Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resulta
 > **Nuestra opinion:**
 > **se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
 
+<div class="row">
+<div class="col">
+
+**Navegación y software**
++ Cartografía láser
++ Reconocimiento de salas
++ Limpieza por sala, zona, zonas restringidas y barreras virtuales
++ 10 modos de limpieza
++ Movimiento de la mopa en palmera para evitar marcar el suelo
++ Soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 3.200 mAh
++ Tiempo de descarga de la batería: 150 minutos
++ Poder máximo de succión: 2.700 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo HEPA
++ Mopa
++ Capacidad del depósito de agua: 200 ml
++ Capacidad de la basura: 570 ml
++ Altura del robot: 9.5 cm
++ Altura de escalada: 2 cm
+
+
+
+
+
+</div>
+</div>
+
+
 En esta ocasión te presentamos el **Conga 3790 de Cecotec**. Un robot inteligente que aspira, barre, friega y pasa mopa en cualquier tipo de superficie con la misma eficiencia.
 
 Su precio en el mercado es ajustado a sus excelentes prestaciones, lo puedes tener en casa por poco más de 300 euros. Si lo quieres conocer continua en este post.
@@ -373,6 +416,50 @@ Un 56% de los usuarios que probaron el equipo le dieron 5 estrellas a su experie
 > **Nuestra opinión:**
 > la autonomía del Cecotec Conga 4690 duplica la del 3790 y tiene más potencia de aspiración por un precio 40 Euros más elevado que varía según las promociones del momento. **Es una buena adquisición si tu casa es realmente muy grande**... o si quieres que la batería dure muchos años.
 
+<div class="row">
+<div class="col">
+
+**Navegación y software**
++ Cartografía láser avanzada
++ Reconocimiento de salas
++ Limpieza por sala, zona, zonas restringidas y barreras virtuales
++ 10 modos de limpieza
++ Movimiento de la mopa en palmera para evitar marcar el suelo
++ Soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 6.400 mAh
++ Tiempo de descarga de la batería: 300 minutos
++ Poder máximo de succión: 2.700 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo HEPA
++ Mopa
++ Capacidad del depósito de agua: 270 ml
++ Capacidad de la basura: 570 ml
++ Altura del robot: 9.5 cm
++ Altura de escalada: 2 cm
+
+
+
+
+
+
+</div>
+</div>
+
 **El Cecotec Conga 4690 Ultra** pertenece a la serie elite de la marca. En este modelo, la marca incorpora mayor autonomía, poder de succión optimizado y otras mejores superan a sus antecesores.
 
 Si quieres conocer este robot aspirado, ideal para casa con mascotas peludas,  que puede ser tuyo por poco más de 350 euros, sigue aquí porque te lo contamos todo.
@@ -433,6 +520,53 @@ Además, tienen excelente valoración del desempeño del 4690 Ultra mapeando cas
 > **Nuestra opinión:**
 > como el Cecotec Conga 4690, el Conga 6090 dispone de un excelente software de la aplicación Cecotec, de una batería de alta capacidad por unas **4 horas de trabajo** (en condiciones óptimas).
 > Pero sobre todo, dispone de una **potencia máxima de succión de unos 10.000 Pa!**
+
+<div class="row">
+<div class="col">
+
+**Navegación y software**
++ Cartografía láser avanzada
++ Reconocimiento de salas
++ Limpieza por sala, zona, zonas restringidas y barreras virtuales
++ 10 modos de limpieza
++ Movimiento de la mopa en palmera para evitar marcar el suelo
++ Soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 6400 mAh
++ Tiempo de descarga de la batería: 240 minutos
++ Poder máximo de succión: 10.000 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo Ciclón + HEPA
++ Mopa
++ Capacidad del depósito de agua: 270 ml
++ Capacidad de la basura: 570 ml
++ Altura del robot: 9.7 cm
++ Altura de escalada: 2 cm
+
+
+
+
+
+
+
+</div>
+</div>
+
 
 A continuación te presentamos a un robot aspiradora que logra limpieza más profunda en tu hogar gracias a su nivel de potencia. Nos referimos al **Cecotec Conga 6090 Ultra con unos increíbles 10.000 pascales de puro poder de succión**.
 
@@ -503,6 +637,55 @@ Los que tienen mascotas en casa alaban su accionar y manifiestan que se trata de
 > **Nuestra opinión:**
 > la principal diferencia entre el robota aspirador Cecotec Conga 6090 y 7090 AI... es el AI, o **inteligencia artificial que le permite detectar objetos en su recorrido para evitarlos**. Este robot no aspirará los calcetines ni esparcera por el suelo la comida de tu mascota. 
 > Cuesta unos 600 Euros.
+
+<div class="row">
+<div class="col">
+
+**Navegación y software**
++ Cartografía láser avanzada
++ Reconocimiento y elusión de objetos
++ Reconocimiento de salas
++ Limpieza por sala, zona, zonas restringidas y barreras virtuales
++ 10 modos de limpieza
++ Movimiento de la mopa en palmera para evitar marcar el suelo
++ Soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 6400 mAh
++ Tiempo de descarga de la batería: 240 minutos
++ Poder máximo de succión: 10.000 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo Ciclón + HEPA
++ Mopa
++ Capacidad del depósito de agua: 270 ml
++ Capacidad de la basura: 570 ml
++ Altura del robot: 9.7 cm
++ Altura de escalada: 2 cm
+
+
+
+
+
+
+
+
+</div>
+</div>
 
 Con la puesta en el mercado del renovado **Conga 7090 Al de Cecotec**, la reconocida marca española da un gigantesco paso en cuanto a innovación. Este equipo es uno de los más completos y eficientes asistente de limpieza, que   puedes obtener por menos de 600 euros.
 
