@@ -87,6 +87,47 @@ Pero sobre todo, dispone de una potencia máxima de succión de unos 10.000 Pa!<
 
 ![Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884050/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-1090-Connected-Force-conectado_pnhfc9.jpg "Prueba y opinión - Un robot aspirador conectado a pesar de su bajo costo")
 
+<div class="row">
+<div class="col">
+
+
+
+**Navegación y software**
++ Navegación inteligente sin cartografía
++ Reconocimiento de salas
++ Limpieza por sala, barreras magnéticas (no incluidas)
++ 8 modos de limpieza
++ NO soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 2.600 mAh
++ Tiempo de descarga de la batería: 160 minutos
++ Poder máximo de succión: 1.400 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo HEPA
++ Mopa
++ Capacidad del depósito de agua: 300 ml
++ Capacidad de la basura: 600 ml
++ Altura del robot: 7.5 cm
++ Altura de escalada: 2 cm
+
+
+
+
+</div>
+</div>
+
 > **Nuestra opinión:** 
 > el robot aspirador Xiaomi 1C tiene mejores prestaciones que este **modelo básico sin capacidad de cartografía**. Se vende por AliExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.
 
@@ -155,6 +196,45 @@ Muchos coinciden en destacar el precio de este modelo. Probablemente por descono
 
 > **Nuestra opinión:**
 > El Cecotec Conga 1790 se puede ver como una mejora del 1090 que aparte de ser compatible con Alexa y Google home **realiza y memoriza una cartografía de la casa a medida que se va encontrando con obstáculos**. A la diferencia del Xiaomi 1C sabe reconocer cuando está en una alfombra para aumentar la potencia de aspiración, pero esta diferencia **no justifica una diferencia de precio de más de 50 Euros**.
+
+<div class="row">
+<div class="col">
+
+**Navegación y software**
++ Cartografía por proximidad, giroscopios y sensores
++ Reconocimiento de salas
++ Limpieza por sala, barreras magnéticas (no incluidas)
++ 8 modos de limpieza
++ NO soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
+
+
+
+</div>
+<div class="col">
+
+
+
+**Características físicas**
++ Capacidad de la batería: 2.600 mAh
++ Tiempo de descarga de la batería: 160 minutos
++ Poder máximo de succión: 2.200 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo HEPA
++ Mopa
++ Capacidad del depósito de agua: 300 ml
++ Capacidad de la basura: 600 ml
++ Altura del robot: 7.5 cm
++ Altura de escalada: 2 cm
+
+
+
+
+</div>
+</div>
 
 La extensa familia de robots aspiradoras de la serie Conga recibe a un nuevo integrante. Se trata del **Cecotec Conga 1790 Titanium**, un equipo de gama media con prestaciones medias por un precio en linea con sus competidores.
 
