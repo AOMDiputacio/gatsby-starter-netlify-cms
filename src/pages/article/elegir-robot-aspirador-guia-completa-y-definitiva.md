@@ -54,15 +54,11 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 <div class="text-center col">
 
 
-
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_200/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
-
 <div class="v-space">
 
 
-
 @data-link="link-1"
-
 
 
 </div>
@@ -70,9 +66,13 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 <div class="col">
 
 
-
 ### Mi Smart Vacuum 1C: El Robot aspirador multifuncional de Xiaomi
 
+> Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza. Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños
+
+
+</div>
+</div>
 
 <div class="row">
 <div class="col">
@@ -106,12 +106,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 </div>
 </div>
 
-> Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza. Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños
 
-
-
-</div>
-</div>
 
 
 
@@ -133,6 +128,12 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 
 ### Cecotec Conga 3790: nuestro favorito por su excelente relación calidad precio
+
+> **se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
+
+
+</div>
+</div>
 
 <div class="row">
 <div class="col">
@@ -161,12 +162,6 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 * Altura de escalada: 2 cm
 </div>
 </div>
-> **se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
-
-
-</div>
-</div>
-
 
 
 <div class="row">
@@ -194,15 +189,34 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 </div>
 </div>
 
-
-
-
-
-
-
-
-
-
+<div class="row">
+<div class="col">
+**Navegación y software**
+* Cartografía láser avanzada
+* Reconocimiento y elusión de objetos
+* Reconocimiento de salas
+* Limpieza por sala, zona, zonas restringidas y barreras virtuales
+* 10 modos de limpieza
+* Movimiento de la mopa en palmera para evitar marcar el suelo
+* Soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
+</div>
+<div class="col">
+**Características físicas**
+* Capacidad de la batería: 6400 mAh
+* Tiempo de descarga de la batería: 240 minutos
+* Poder máximo de succión: 10.000 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo Ciclón + HEPA
+* Mopa
+* Capacidad del depósito de agua: 270 ml
+* Capacidad de la basura: 570 ml
+* Altura del robot: 9.7 cm
+* Altura de escalada: 2 cm
+</div>
+</div>
 
 
 
