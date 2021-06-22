@@ -57,6 +57,8 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 ![Análisis y prueba - Un diseño cuidado](https://res.cloudinary.com/aom/image/upload/c_scale,w_200/a_hflip/v1622884303/Robots%20aspiradores/Robot-aspirador-Xiaomi-mi-smart-vacuum-1C-perspectiva_xucy2u.jpg "Análisis y prueba - Un diseño cuidado")
 
+<div class="v-space">
+
 
 
 @data-link="link-1"
@@ -119,6 +121,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 
 ![Prueba y opinión - Un excelente robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-accesorios_zbjzq6.jpg "Prueba y opinión - Un excelente robot aspirador para toda la casa")
+<div class="v-space">
 
 
 @data-link="link-1"
@@ -171,6 +174,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 
 ![Prueba y opinión - Un excelente robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-accesorios_zbjzq6.jpg "Prueba y opinión - Un excelente robot aspirador para toda la casa")
+<div class="v-space">
 
 
 @data-link="link-1"
