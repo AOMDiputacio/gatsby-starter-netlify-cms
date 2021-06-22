@@ -1,6 +1,6 @@
 ---
 dataKey: articles
-title: "Roborock S5 Max: el que mejor limpia en las pruebas"
+title: "Roborock S5 Max: el Robot aspirador que mejor limpia en las pruebas"
 cardTitle: Roborock S5 Max
 description: >-
   El Roborock S5 ha sido una apuesta segura deste su aparición a finales de
