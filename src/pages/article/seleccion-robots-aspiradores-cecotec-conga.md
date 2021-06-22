@@ -55,6 +55,10 @@ Podrás encontrar una tabla resumen de las caracteríasticas de todos los robots
 
 <table>
 <tr>
+<td><b>Modelo</b></td>
+<td><b>Nuestra valoración</b></td>
+<td><b>Precio</b></td>
+</tr><tr>
 <td>Cecotec Conga 1090</td>
 <td>El robot aspirador Xiaomi 1C tiene mejores prestaciones que este modelo básico sin capacidad de cartografía. Se vende por ALiExpress por menos de 160 Euros con entrega en 3 días desde España; aparte de disponer de una excelente aplicación, el C1 realiza la cartografía de toda la casa con un sistema de cámara infraroja y realiza una limpieza ordenada y de muy buena calidad.</td>
 <td>181</td>
@@ -77,7 +81,7 @@ Pero sobre todo, dispone de una potencia máxima de succión de unos 10.000 Pa!<
 <td>450</td>
 </tr><tr>
 <td>Cecotec Conga 7090 AI</td>
-<td>La principal diferencia entre el robota aspirador Cecotec Conga 6090 y 7090 AI... es el AI, o **inteligencia artificial que le permite detectar objetos en su recorrido para evitarlos**. Este robot no aspirará los calcetines ni esparcera por el suelo la comida de tu mascota. 
+<td>La principal diferencia entre el robota aspirador Cecotec Conga 6090 y 7090 AI... es el AI, o \*\*inteligencia artificial que le permite detectar objetos en su recorrido para evitarlos\*\*. Este robot no aspirará los calcetines ni esparcera por el suelo la comida de tu mascota. 
 </td>
 <td>600</td>
 </tr>
@@ -90,40 +94,32 @@ Pero sobre todo, dispone de una potencia máxima de succión de unos 10.000 Pa!<
 <div class="row">
 <div class="col">
 
-
-
 **Navegación y software**
-+ Navegación inteligente sin cartografía
-+ Reconocimiento de salas
-+ Limpieza por sala, barreras magnéticas (no incluidas)
-+ 8 modos de limpieza
-+ NO soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
+* Navegación inteligente sin cartografía
+* Reconocimiento de salas
+* Limpieza por sala, barreras magnéticas (no incluidas)
+* 8 modos de limpieza
+* NO soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 2.600 mAh
-+ Tiempo de descarga de la batería: 160 minutos
-+ Poder máximo de succión: 1.400 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 300 ml
-+ Capacidad de la basura: 600 ml
-+ Altura del robot: 7.5 cm
-+ Altura de escalada: 2 cm
 
-
-
+* Capacidad de la batería: 2.600 mAh
+* Tiempo de descarga de la batería: 160 minutos
+* Poder máximo de succión: 1.400 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo HEPA
+* Mopa
+* Capacidad del depósito de agua: 300 ml
+* Capacidad de la basura: 600 ml
+* Altura del robot: 7.5 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
@@ -160,7 +156,6 @@ Ciertamente posee características básicas, pero es funcional y eficiente aunqu
 Este robot aspirador permite elegir entre 6 funciones distintas de limpieza pero no cuenta con el modo "Scrubbing" propio de Cecotec que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
 
 ![Análisis y opinión - 6 funciones básicas para limpiar toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/a_hflip/v1623416753/Robots%20aspiradores/6_modos_Cecotecjpg_yy5z7l.jpg "Análisis y opinión - 6 funciones básicas para limpiar toda la casa")
-
 
 ### Aquí las  opiniones sobre Cecotec Conga 1090 Connected Force
 
@@ -201,37 +196,31 @@ Muchos coinciden en destacar el precio de este modelo. Probablemente por descono
 <div class="col">
 
 **Navegación y software**
-+ Cartografía por proximidad, giroscopios y sensores
-+ Reconocimiento de salas
-+ Limpieza por sala, barreras magnéticas (no incluidas)
-+ 8 modos de limpieza
-+ NO soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
+* Cartografía por proximidad, giroscopios y sensores
+* Reconocimiento de salas
+* Limpieza por sala, barreras magnéticas (no incluidas)
+* 8 modos de limpieza
+* NO soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 2.600 mAh
-+ Tiempo de descarga de la batería: 160 minutos
-+ Poder máximo de succión: 2.200 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 300 ml
-+ Capacidad de la basura: 600 ml
-+ Altura del robot: 7.5 cm
-+ Altura de escalada: 2 cm
 
-
-
+* Capacidad de la batería: 2.600 mAh
+* Tiempo de descarga de la batería: 160 minutos
+* Poder máximo de succión: 2.200 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo HEPA
+* Mopa
+* Capacidad del depósito de agua: 300 ml
+* Capacidad de la basura: 600 ml
+* Altura del robot: 7.5 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
@@ -265,7 +254,6 @@ La aplicación que forma parte del **sistema inteligente del robot aspiradora Co
 Este robot aspirador permite elegir entre 8 funciones distintas de limpieza y siempre cuenta con el modo "Scrubbing" que permite al mopa imitar el movimiento manual que no deja marcas en el suelo.
 
 ![Prueba y opinión - 8 funciones de limpieza y de manejo para que el robot sea realmente autonomo](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1623358780/Robots%20aspiradores/8_modos_Cecotecjpg_gdlcug.jpg "Prueba y opinión - 8 funciones de limpieza y de manejo para que el robot sea realmente autonomo")
-
 
 ### Opiniones en Amazon sobre el Cecotec Conga 1790 Titanium
 
@@ -308,44 +296,35 @@ Otros usuarios coinciden en que la APP se desvincula muy frecuentemente, resulta
 <div class="col">
 
 **Navegación y software**
-+ Cartografía láser
-+ Reconocimiento de salas
-+ Limpieza por sala, zona, zonas restringidas y barreras virtuales
-+ 10 modos de limpieza
-+ Movimiento de la mopa en palmera para evitar marcar el suelo
-+ Soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
-
+* Cartografía láser
+* Reconocimiento de salas
+* Limpieza por sala, zona, zonas restringidas y barreras virtuales
+* 10 modos de limpieza
+* Movimiento de la mopa en palmera para evitar marcar el suelo
+* Soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 3.200 mAh
-+ Tiempo de descarga de la batería: 150 minutos
-+ Poder máximo de succión: 2.700 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 200 ml
-+ Capacidad de la basura: 570 ml
-+ Altura del robot: 9.5 cm
-+ Altura de escalada: 2 cm
 
-
-
-
+* Capacidad de la batería: 3.200 mAh
+* Tiempo de descarga de la batería: 150 minutos
+* Poder máximo de succión: 2.700 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo HEPA
+* Mopa
+* Capacidad del depósito de agua: 200 ml
+* Capacidad de la basura: 570 ml
+* Altura del robot: 9.5 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
-
 
 En esta ocasión te presentamos el **Conga 3790 de Cecotec**. Un robot inteligente que aspira, barre, friega y pasa mopa en cualquier tipo de superficie con la misma eficiencia.
 
@@ -375,7 +354,7 @@ Puedes elegir entre los 10 modos de limpieza siguientes:
 
 El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.
 
-![El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1623851975/Robots%20aspiradores/conga-3790-modo-scrubbing_cydcyj.jpg "El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.")
+![El modo "Scrubbing" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/a_hflip/v1623851975/Robots%20aspiradores/conga-3790-modo-scrubbing_cydcyj.jpg "El modo \"Scrubbing\" permite al mopa imitar el movimiento manual y evita dejar marcas en el suelo.")
 
 Tienes la opción de controlar tu robot aspiradora por medio de una APP desde la comodidad de tu dispositivo móvil. 
 
@@ -420,42 +399,32 @@ Un 56% de los usuarios que probaron el equipo le dieron 5 estrellas a su experie
 <div class="col">
 
 **Navegación y software**
-+ Cartografía láser avanzada
-+ Reconocimiento de salas
-+ Limpieza por sala, zona, zonas restringidas y barreras virtuales
-+ 10 modos de limpieza
-+ Movimiento de la mopa en palmera para evitar marcar el suelo
-+ Soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
-
-
+* Cartografía láser avanzada
+* Reconocimiento de salas
+* Limpieza por sala, zona, zonas restringidas y barreras virtuales
+* 10 modos de limpieza
+* Movimiento de la mopa en palmera para evitar marcar el suelo
+* Soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 6.400 mAh
-+ Tiempo de descarga de la batería: 300 minutos
-+ Poder máximo de succión: 2.700 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 270 ml
-+ Capacidad de la basura: 570 ml
-+ Altura del robot: 9.5 cm
-+ Altura de escalada: 2 cm
 
-
-
-
-
+* Capacidad de la batería: 6.400 mAh
+* Tiempo de descarga de la batería: 300 minutos
+* Poder máximo de succión: 2.700 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo HEPA
+* Mopa
+* Capacidad del depósito de agua: 270 ml
+* Capacidad de la basura: 570 ml
+* Altura del robot: 9.5 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
@@ -525,48 +494,35 @@ Además, tienen excelente valoración del desempeño del 4690 Ultra mapeando cas
 <div class="col">
 
 **Navegación y software**
-+ Cartografía láser avanzada
-+ Reconocimiento de salas
-+ Limpieza por sala, zona, zonas restringidas y barreras virtuales
-+ 10 modos de limpieza
-+ Movimiento de la mopa en palmera para evitar marcar el suelo
-+ Soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
-
-
-
+* Cartografía láser avanzada
+* Reconocimiento de salas
+* Limpieza por sala, zona, zonas restringidas y barreras virtuales
+* 10 modos de limpieza
+* Movimiento de la mopa en palmera para evitar marcar el suelo
+* Soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 6400 mAh
-+ Tiempo de descarga de la batería: 240 minutos
-+ Poder máximo de succión: 10.000 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo Ciclón + HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 270 ml
-+ Capacidad de la basura: 570 ml
-+ Altura del robot: 9.7 cm
-+ Altura de escalada: 2 cm
 
-
-
-
-
-
+* Capacidad de la batería: 6400 mAh
+* Tiempo de descarga de la batería: 240 minutos
+* Poder máximo de succión: 10.000 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo Ciclón + HEPA
+* Mopa
+* Capacidad del depósito de agua: 270 ml
+* Capacidad de la basura: 570 ml
+* Altura del robot: 9.7 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
-
 
 A continuación te presentamos a un robot aspiradora que logra limpieza más profunda en tu hogar gracias a su nivel de potencia. Nos referimos al **Cecotec Conga 6090 Ultra con unos increíbles 10.000 pascales de puro poder de succión**.
 
@@ -642,47 +598,33 @@ Los que tienen mascotas en casa alaban su accionar y manifiestan que se trata de
 <div class="col">
 
 **Navegación y software**
-+ Cartografía láser avanzada
-+ Reconocimiento y elusión de objetos
-+ Reconocimiento de salas
-+ Limpieza por sala, zona, zonas restringidas y barreras virtuales
-+ 10 modos de limpieza
-+ Movimiento de la mopa en palmera para evitar marcar el suelo
-+ Soporta múltiples mapas
-+ Recarga y reinicio
-+ Aplicación + mando a distancia
-+ Soporta Alexa y Google Home
 
-
-
-
-
-
-
+* Cartografía láser avanzada
+* Reconocimiento y elusión de objetos
+* Reconocimiento de salas
+* Limpieza por sala, zona, zonas restringidas y barreras virtuales
+* 10 modos de limpieza
+* Movimiento de la mopa en palmera para evitar marcar el suelo
+* Soporta múltiples mapas
+* Recarga y reinicio
+* Aplicación + mando a distancia
+* Soporta Alexa y Google Home
 
 </div>
 <div class="col">
 
-
-
 **Características físicas**
-+ Capacidad de la batería: 6400 mAh
-+ Tiempo de descarga de la batería: 240 minutos
-+ Poder máximo de succión: 10.000 Pa
-+ Nivel máximo de ruido: 64 dB
-+ Filtro de tipo Ciclón + HEPA
-+ Mopa
-+ Capacidad del depósito de agua: 270 ml
-+ Capacidad de la basura: 570 ml
-+ Altura del robot: 9.7 cm
-+ Altura de escalada: 2 cm
 
-
-
-
-
-
-
+* Capacidad de la batería: 6400 mAh
+* Tiempo de descarga de la batería: 240 minutos
+* Poder máximo de succión: 10.000 Pa
+* Nivel máximo de ruido: 64 dB
+* Filtro de tipo Ciclón + HEPA
+* Mopa
+* Capacidad del depósito de agua: 270 ml
+* Capacidad de la basura: 570 ml
+* Altura del robot: 9.7 cm
+* Altura de escalada: 2 cm
 
 </div>
 </div>
