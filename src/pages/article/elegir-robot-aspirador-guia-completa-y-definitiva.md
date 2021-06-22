@@ -68,7 +68,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 ### Mi Smart Vacuum 1C: El Robot aspirador multifuncional de Xiaomi
 
-> Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza. Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños
+Un robot de bajo costo ideal para apartamentos de menos de 80 m2 relativamente despejados, gracias a su bajo costo y su sistema de navegación relativamente eficiente; su aspiración potente, su filtro HEPA y su mopa aseguran un excelente nivel de limpieza. Se trata de nuestro robot aspirador xiaomi favorito para apartamentos pequeños
 
 
 </div>
@@ -76,6 +76,8 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 <div class="row">
 <div class="col">
+
+
 
 **Navegación y software**
 + Cartografía por sensor visual
@@ -87,8 +89,12 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 
 
+
+
 </div>
 <div class="col">
+
+
 
 **Características físicas**
 + Capacidad de la batería: 2400 mAh
@@ -115,6 +121,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 <div class="text-center col">
 
 
+
 ![Prueba y opinión - Un excelente robot aspirador para toda la casa](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1622884356/Robots%20aspiradores/Robot-aspirador-Cecotec-Conga-3790-accesorios_zbjzq6.jpg "Prueba y opinión - Un excelente robot aspirador para toda la casa")
 <div class="v-space">
 
@@ -129,7 +136,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 ### Cecotec Conga 3790: nuestro favorito por su excelente relación calidad precio
 
-> **se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
+**se trata de nuestros robot aspirador favoritos entre todas las marcas**: un robot aspirador con cartografía láser **bueno y** (relativamente) **barato**. Los que son más caros tendrán más autonomía o más potencia de aspiración; pero las características de este robot aspirador son más que suficientes para cualquier casa de una o varias plantas.
 
 
 </div>
@@ -137,29 +144,32 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 <div class="row">
 <div class="col">
+
 **Navegación y software**
-* Cartografía láser
-* Reconocimiento de salas
-* Limpieza por sala, zona, zonas restringidas y barreras virtuales
-* 10 modos de limpieza
-* Movimiento de la mopa en palmera para evitar marcar el suelo
-* Soporta múltiples mapas
-* Recarga y reinicio
-* Aplicación + mando a distancia
-* Soporta Alexa y Google Home
++ Cartografía láser
++ Reconocimiento de salas
++ Limpieza por sala, zona, zonas restringidas y barreras virtuales
++ 10 modos de limpieza
++ Movimiento de la mopa en palmera para evitar marcar el suelo
++ Soporta múltiples mapas
++ Recarga y reinicio
++ Aplicación + mando a distancia
++ Soporta Alexa y Google Home
+
 </div>
 <div class="col">
+
 **Características físicas**
-* Capacidad de la batería: 3.200 mAh
-* Tiempo de descarga de la batería: 150 minutos
-* Poder máximo de succión: 2.700 Pa
-* Nivel máximo de ruido: 64 dB
-* Filtro de tipo HEPA
-* Mopa
-* Capacidad del depósito de agua: 200 ml
-* Capacidad de la basura: 570 ml
-* Altura del robot: 9.5 cm
-* Altura de escalada: 2 cm
++ Capacidad de la batería: 3.200 mAh
++ Tiempo de descarga de la batería: 150 minutos
++ Poder máximo de succión: 2.700 Pa
++ Nivel máximo de ruido: 64 dB
++ Filtro de tipo HEPA
++ Mopa
++ Capacidad del depósito de agua: 200 ml
++ Capacidad de la basura: 570 ml
++ Altura del robot: 9.5 cm
++ Altura de escalada: 2 cm
 </div>
 </div>
 
@@ -182,8 +192,10 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 ### Cecotec Conga 7090 AI: el poder de la Inteligencia artificial para evitar objetos en el suelo
 
-> la principal diferencia entre el robota aspirador Cecotec Conga 6090 y 7090 AI... es el AI, o **inteligencia artificial que le permite detectar objetos en su recorrido para evitarlos**. Este robot no aspirará los calcetines ni esparcera por el suelo la comida de tu mascota. 
-> Cuesta unos 600 Euros.
+
+
+la principal diferencia entre el robota aspirador Cecotec Conga 6090 y 7090 AI... es el AI, o **inteligencia artificial que le permite detectar objetos en su recorrido para evitarlos**. Este robot no aspirará los calcetines ni esparcera por el suelo la comida de tu mascota. 
+Cuesta unos 600 Euros.
 
 
 </div>
@@ -191,6 +203,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 
 <div class="row">
 <div class="col">
+
 **Navegación y software**
 * Cartografía láser avanzada
 * Reconocimiento y elusión de objetos
@@ -202,8 +215,10 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 * Recarga y reinicio
 * Aplicación + mando a distancia
 * Soporta Alexa y Google Home
+
 </div>
 <div class="col">
+
 **Características físicas**
 * Capacidad de la batería: 6400 mAh
 * Tiempo de descarga de la batería: 240 minutos
@@ -215,6 +230,7 @@ Por tal razón, son ideales para mantener la casa o la oficina limpios a todo ho
 * Capacidad de la basura: 570 ml
 * Altura del robot: 9.7 cm
 * Altura de escalada: 2 cm
+
 </div>
 </div>
 
