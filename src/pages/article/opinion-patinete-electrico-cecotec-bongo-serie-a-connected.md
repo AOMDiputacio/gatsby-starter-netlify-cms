@@ -134,7 +134,7 @@ opinion-patinete-electrico-cecotec-bongo-serie-a-connected
 
 Los patinetes eléctricos son protagonistas activos en el cambio en la movilidad urbana en España y un modelo que ha contribuido a esto es el **patinete Bongo Advance Connected de la marca Cecotec**.
 
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
 
 Este modelo es uno de los **tres modelos que conforman la Serie A de la fabricante valenciana de patinetes eléctricos.**
 
@@ -475,4 +475,4 @@ Cecotec se anotó un éxito con el Bongo Advance Connected y como veremos luego,
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
 
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
