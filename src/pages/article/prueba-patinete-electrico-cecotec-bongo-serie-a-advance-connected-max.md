@@ -139,7 +139,7 @@ prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 
 + [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
 
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 
 El fabricante Español de patinetes Cecotec ha respondido al reto que vive el mundo de la movilidad urbana con la creciente migración de los vehículos pesados de combustible por nuevos vehículos ligeros de transporte personal. En este caso **te hablamos del patinete Cecotec Bongo Serie A Advance Connected MAX.**
