@@ -137,7 +137,7 @@ prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max
 
 ## Autonomía, potencia y peso pluma a un precio razonable por uno de los mejores patinetes eléctricos “ligeros”
 
-+ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana/)
 
 + [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
