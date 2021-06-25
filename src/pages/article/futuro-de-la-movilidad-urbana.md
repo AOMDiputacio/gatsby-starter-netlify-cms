@@ -223,19 +223,19 @@ Además de las antes mencionadas, un patinete eléctrico o monopatín:
 
 ![Prueba y opinión - Un precio pequeño por un patinete ligero](https://res.cloudinary.com/aom/image/upload/c_scale,w_500/v1619945408/Patinetes-electricos/Patinete-Xiaomi-Essential/Patinete-electrico-Xiaomi-Essential-Lifestyle3_wwxg99.jpg "Prueba y opinión - Un precio pequeño por un patinete ligero")
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
-+ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi)
++ [Todos los patinetes Xiaomi en un artículo completo](/patinetes-electricos/mejor-patinete-electrico-xiaomi/)
 
-+ [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A)
++ [Prueba completa del  Cecotec Bongo Serie A](/patinetes-electricos/analisis-patinete-electrico-cecotec-bongo-serie-A/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a">Ver mejor precio del Bongo Serie A</a>
   
-+ [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected)
++ [Cecotec Bongo Serie A Connected](/patinetes-electricos/opinion-patinete-electrico-cecotec-bongo-serie-a-connected/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-connected">Ver mejor precio del Serie A Connected</a>
  
-+ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
@@ -366,4 +366,4 @@ Por otra parte, **ante la aparición del COVID 19, estos VMP representan la opor
 
 Pero, lo más importante, la movilidad eléctrica está contribuyendo a devolver las calles a las personas; **en el futuro las ciudades serán más verdes, más humanas, menos ruidosas, menos contaminadas y con menos estrés.**
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
