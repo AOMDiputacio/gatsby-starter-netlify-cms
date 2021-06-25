@@ -169,7 +169,7 @@ Además, quedó a la vista que los precios de venta de más de la mitad de los p
 Una forma esquemática de explicar esto sería decir que un patinete sin batería cuesta hipotéticamente unos 138 euros y que su precio aumentará unos 76 euros por cada 100 Wh de capacidad adicional que tenga su batería.
 
 * Hemos **agrupado la información pertinente de** [todos los modelos de patinetes eléctricos en una sola tabla](/patinetes-electricos/base-de-datos-de-todos-patinetes-electricos-analizados)
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 ### ¿Cómo se agruparon los modelos para este análisis?
 
@@ -901,4 +901,4 @@ Además de la norma de la DGT, **algunos gobiernos autónomos y ayuntamientos es
 
 **Los patinetes ligeros pueden utilizar los carriles bici, ciclovías y otras vías destinadas a las bicicletas, pero la regulación de uso dependerá en muchos casos de los ayuntamientos respectivos**
 
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
