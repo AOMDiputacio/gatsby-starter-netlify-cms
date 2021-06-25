@@ -71,7 +71,7 @@ En casi todos los modelos el **pico se puede acortar para usarla como una aspira
 
 Entre sus desventajas tenemos una menor potencia y capacidad de succión que las aspiradoras de trineo. Además, su **autonomía depende mucho de la capacidad de su batería**.
 
-+ [Los aspiradores escoba, a menudo convertibles en aspiradores de mano se han convertido en un aparato imprescindible para la casa; te explicamos cuales elegir y porqué](/aspiradoras/guia-ultima-del-aspirador-escoba-vertical)
++ [Los aspiradores escoba, a menudo convertibles en aspiradores de mano se han convertido en un aparato imprescindible para la casa; te explicamos cuales elegir y porqué](/aspiradoras/guia-ultima-del-aspirador-escoba-vertical/)
 
 #### Aspiradores de mano
 
