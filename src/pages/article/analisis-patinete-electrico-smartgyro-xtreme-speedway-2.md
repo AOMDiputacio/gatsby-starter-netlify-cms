@@ -140,9 +140,9 @@ analisis-patinete-electrico-smartgyro-xtreme-speedway-2
 
 **Este patinete eléctrico con un motor de 500 W pesa 22 kilos, pero sus prestaciones son impresionantes por un precio razonable**
 
-+ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana/)
 
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 
 
@@ -327,7 +327,7 @@ Pero sus impresionantes cualidades técnicas y el hecho de ofrecer 3 meses de se
 
 Pero unas malas lenguas dicen que lo han visto por menos de 400 Euros en Amazon, de forma esporádica, eso sí… Te aconsejamos por lo tanto mantener el ojo abierto.
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
 
@@ -470,7 +470,7 @@ No solo es muy bonito e **imponente a la vista en comparación con cualquier mon
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-+ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio-Grande_vsy4yv.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
@@ -480,15 +480,15 @@ No solo es muy bonito e **imponente a la vista en comparación con cualquier mon
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio</a>
 
-+ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
++ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
-+ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
-+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
++ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio del Hiboy S2 Pro</a>
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
