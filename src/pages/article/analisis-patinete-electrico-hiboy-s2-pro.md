@@ -146,9 +146,9 @@ analisis-patinete-electrico-hiboy-s-2-pro
 
 ## Patinete eléctrico Hiboy S2 Pro: Autonomía, potencia y resistencia
 
-+ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana/)
 
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 
 
@@ -172,11 +172,11 @@ Aunque el S2 imitó en muchos aspectos al afamado Xiaomi M365, **con el lanzamie
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
-+ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2)
++ [El modelo Hiboy S2](/patinetes-electricos/opinion-patinete-electrico-hiboy-s-2/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2">Ver mejor precio del Hiboy S2</a>
 
-+ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2)
++ [Todo sobre el Hiboy MAX V2](/patinetes-electricos/opinion-patinete-electrico-hiboy-max-v-2/)
 
 ## Video de análisis completo del Hiboy S2 pro
 
@@ -342,7 +342,7 @@ En este sentido, el **Hiboy S2 Pro puede satisfacer al usuario más exigente gra
 
 Como dijimos antes, este modelo es el más potente entre los tres scooters que conforman la serie “S2” de Hiboy, que se completa con las versiones S2 y S2 Lite.
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
 ## Excelente autonomía de 40 kilómetros por carga, y... ¡Una promesa de 1000 ciclos de carga!
 
@@ -498,7 +498,7 @@ En definitiva, esta es una excelente apuesta del fabricante Hiboy para conquista
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_701/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
@@ -511,16 +511,16 @@ Si consideramos sus amortiguadores y su construcción robusta con ruedas macizas
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-hiboy-s2-pro">Ver mejor precio</a>
 
-+ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/)
   
 <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-cecotec-bongo-serie-a-advance-connected-max">Ver mejor precio del Serie A Advance Connected MAX</a>
 
-+ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
++ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-xiaomi-pro-2">Ver mejor precio del Xiaomi Pro 2</a>
 
-+ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
++ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2/)
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
 
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
