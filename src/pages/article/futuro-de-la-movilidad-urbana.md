@@ -191,7 +191,7 @@ Como verás, tu salud y el planeta, son los grandes beneficiados de caminar y ut
 
 ### 3- Patinetes eléctricos la independencia en dos ruedas
 
-+ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
++ [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 
 
