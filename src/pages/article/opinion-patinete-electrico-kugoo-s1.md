@@ -136,7 +136,7 @@ opinion-patinete-electrico-kugoo-s1
 
 ## Patinete KUGOO S1: El mejor monopatín low-cost para ir por la ciudad sin gastar mucho
 
-+ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
++ [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana/)
 
 + [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
@@ -324,7 +324,7 @@ Busca competir de esta forma con el modelo original de Xiaomi (y también el má
 
 Sin duda alguna esto hace al KUGOO S1 una de las opciones más atractivas para quienes no quieren gastar demasiado en un equipo eléctrico de movilidad personal.
 
-+ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [Barato o con mucha autonomía… ¿Qué patinete te conviene mejor? La respuesta en un gráfico](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
 ## Cuenta con una autonomía de hasta 30 kilómetros, sorprendente en un equipo tan sencillo
 
@@ -476,7 +476,7 @@ Sin duda es **un patinete potente, seguro y con grandes prestaciones que sorpren
 
 ## Mejores alternativas a este patinete según nuestro modelo de regresión
 
-+ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico)
++ [¿Qué patinete te conviene mejor? Te explicamos mejor porque la respuesta gráfica no engaña](/patinetes-electricos/guia-ultima-del-patinete-electrico/)
 
 ![Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos](https://res.cloudinary.com/aom/image/upload/c_scale,w_700/v1619946059/Patinetes-electricos/Patinete-Electrico-Scatter-Capacidad-Precio_ihb4nm.svg "Prueba y opinión - Nuestro método riguroso nos permite comparar imparcialmente el valor de los patinetes eléctricos")
 
