@@ -128,7 +128,7 @@ N/A tráfico orgánico nulo
 ## Bongo Serie A de Cecotec, el patinete eléctrico “plug and play” hecho en Valencia que tiene todo lo que necesitas
 
 * [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
 
 Tanto el COVID-19 como la transición verde **cambiarán para siempre la movilidad urbana**. Este cambio llegó para quedarse, y los automóviles pesados, peligrosos, voluminosos y contaminantes pronto darán paso a medios de transporte más seguros y sostenibles. **Devolveremos por fin las calles a los peatones y utilizaremos los medios de transporte poco invasivos como las bicicletas y patinetes ligeros**.
 
@@ -456,4 +456,4 @@ Si tenemos en cuenta que los pocos fallos que afectaron a algunas de las primera
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-kugoo-s1">Ver mejor precio del Kugoo S1</a>
 
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021)
