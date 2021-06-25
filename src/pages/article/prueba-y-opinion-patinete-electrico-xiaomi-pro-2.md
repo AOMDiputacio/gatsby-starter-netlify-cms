@@ -151,7 +151,7 @@ El patinete Xiaomi Pro 2 ofrece una excelente autonomía con la calidad Xiaomi p
 **El descendiente del Xiaomi 365 que tiene 40% más autonomía que Mi electric scooter 1S**
 
 * [¿Todavía no sabes si el patinete es lo que te conviene? Hemos seleccionado por tí las mejores soluciones de movilidad urbana según tus necesidades](/patinetes-electricos/futuro-de-la-movilidad-urbana)
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
 
 A finales de 2020 el gigante chino Xiaomi lanzó **tres modelos de patinetes eléctricos ligeros plegables que sucedieron a su gran éxito de ventas, el M365**. Y de estos, el modelo **Xiaomi Mi Pro 2 es el más costoso, pero también el que ofrece más autonomía**.
 
@@ -534,4 +534,4 @@ Sin duda será el campeón entre los patinetes eléctricos Xiaomi para enfrentar
 
  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" data-href="amzn-smartgyro-xtreme-speedway-v2">Ver mejor precio del SpeedWay V2</a>
 
-* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/patinetes-electricos/los-6-mejores-patinetes-electricos-de-2021)
+* [Comparamos los 6 mejores patinetes del momento para simplificarte la vida](/guias/los-6-mejores-patinetes-electricos-de-2021/)
