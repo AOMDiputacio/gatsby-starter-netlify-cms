@@ -185,7 +185,7 @@ También recibe opiniones positivas por sus neumáticos más grandes y amortigua
 </div>
 </div>
 
-+ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro)
++ [Nuestro análisis completo del Hiboy S2 Pro](/patinetes-electricos/analisis-patinete-electrico-hiboy-s-2-pro/)
 
 ## 2- Cecotec Bongo Serie A Advance Connected MAX
 
@@ -248,7 +248,7 @@ Por el contrario, la necesidad de **revisar con frecuencia la presión de los ne
 </div>
 </div>
 
-+ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max)
++ [Cecotec Bongo Serie A Advance Connected MAX; porque es una de las mejores ventas en España](/patinetes-electricos/prueba-patinete-electrico-cecotec-bongo-serie-a-advance-connected-max/)
 
 ## 3- Xiaomi Mi Scooter Pro 2
 
@@ -311,7 +311,7 @@ Sin embargo, critican la **falta de amortiguación** y que la bisagra del manill
 </div>
 </div>
 
-+ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2)
++ [El patinete Xiaomi Pro 2 autonomía a buen precio](/patinetes-electricos/prueba-y-opinion-patinete-electrico-xiaomi-pro-2/)
 
 ## 4-  Smartgyro Xtreme SpeedWay V2.0
 
@@ -375,7 +375,7 @@ Las **principales quejas se relacionan con su peso de 22 kilogramos**, que lo ha
 </div>
 </div>
 
-+ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2)
++ [El  SMARTGYRO Xtreme SpeedWay V2.0; pesa 22 kg pero es el mejor](/patinetes-electricos/analisis-patinete-electrico-smartgyro-xtreme-speedway-2/)
 
 ## 5- KUGOO S1
 
@@ -435,7 +435,7 @@ Otros consideran que **sus pequeñas ruedas duras no son adecuadas para calles a
 </div>
 </div>
 
-+ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1)
++ [El patinete eléctrico Kugoo S1 es uno de nuestros favoritos](/patinetes-electricos/opinion-patinete-electrico-kugoo-s1/)
 
 ## 6- M Megawheels S1
 
@@ -493,7 +493,7 @@ Su **buena construcción, rapidez y bajo precio compensa** de sobra el hecho de 
 </div>
 </div>
 
-+ [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1)
++ [El Megawheels S1: ligero, pequeño y barato](/patinetes-electricos/prueba-patinete-electrico-megawheels-s1/)
 
 ## ¿Piensas comprar un patinete eléctrico? ¡Sigue nuestra guía de compra!
 
