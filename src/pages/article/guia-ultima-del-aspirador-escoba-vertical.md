@@ -19,6 +19,60 @@ relatedArticles:
   - article: elegir-robot-aspirador-guia-completa-y-definitiva
   - article: Comparacion-de-aspiradores-y-guia-de-compra
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/aspiradoras/guia-ultima-del-aspirador-escoba-vertical",
+    "name": "¿Qué aspirador escoba debes comprar? La guía definitiva",
+    "headline": "No necesitarás leer nada más para saber que tipo y que modelo de aspiradora escoba te conviene mejor",
+    "datePublished": "2021-06-25",
+    "dateModified": "2021-07-14",
+    "description": "Con todas las obligaciones que tenemos en la vida diaria, limpiar el hogar se convierte en una tarea que deseamos realizar de forma rápida pero eficiente.
+
+Por suerte, la revolución tecnologica nos aporta muchas soluciones, y el aspirador escoba, más ligero y manejable que el aspirador tradicional, fue precisamente uno de los primeros electrodésticos en aparecer.
+
+Solo o combinado con el robot aspirador, el aspirador escoba, junto con sus complementos permite limpiar en profundidad la casa en un santiamén.
+
+Esta Guía te proporcionará toda la información que necesitas para comprar tu aspirador escoba.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/img/aspirador-escoba.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/img/aspirador-escoba.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/aspirador-escoba.jpg",
+    "articleSection": "/aspiradoras/",
+    "creator": "Arthemis",
+    "keywords": "aspiradoras, aspiradora, aspirador, aspirador escoba"
+}
+</script>
+
+
 #### Tabla de contenido
 ```toc
 ```
