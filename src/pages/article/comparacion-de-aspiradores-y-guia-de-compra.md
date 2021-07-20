@@ -20,6 +20,59 @@ relatedArticles:
   - article: elegir-robot-aspirador-guia-completa-y-definitiva
   - article: comparacion-mejores-robots-aspiradores-xiaomi
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/guias/comparacion-de-aspiradores-y-guia-de-compra",
+    "name": "Todo lo que debes saber para escoger tu nueva aspiradora - La guía definitiva",
+    "headline": "Robot aspirador, aspirador escoba, de mano o trineo… Todo lo que necesitas saber para elegir el tuyo",
+    "datePublished": "2021-06-25",
+    "dateModified": "2021-07-10",
+    "description": "Quien iba a pensar que nuestras venerables aspiradoras iban a ser impactadas con el la revolución tecnologica?
+
+Las baterías con tecnología Li-ion las ha convertido en objetos manejables y ligeros, siempre disponibles para limpiar cualquier derrame de liquidos o solidos...
+
+... Y los robots aspiradores dejarán tu casa siempre impecable sin que tengas que preocuparte de  (casi) nada.
+
+Hoy en día los enormes aspiradores trineo, que siguen siendo los más efectivos, solo son aconsejables por algunos casos bien particulares",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/img/guia-aspiradora.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/img/guia-aspiradora.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/guia-aspiradora.jpg",
+    "articleSection": "/guias/",
+    "creator": "Arthemis",
+    "keywords": "Aspiradoras, aspiradora, aspirador, robot aspirador, aspirador escoba, aspiradora vertical, aspirador trineo"
+}
+</script>
+
 #### Tabla de contenido
 ```toc
 ```
