@@ -21,6 +21,63 @@ relatedArticles:
   - article: Comparacion-de-aspiradores-y-guia-de-compra
   - article: guia-ultima-del-aspirador-escoba-vertical
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/aspiradoras/comparacion-mejores-robots-aspiradores-xiaomi",
+    "name": "Mejores robots aspiradores Xiaomi en 2021",
+    "headline": "Xiaomi fabrica los mejores robots aspiradores del mundo por un precio muy competitivo",
+    "datePublished": "2021-06-05",
+    "dateModified": "2021-06-10",
+    "description": "Xiaomi fabrique unos de los mejores robots aspiradores del mundo por un precio imbatible.
+
+De los modelos más basicos como lo Mijia G1 y 1C hasta los últimos Roborock dotados de inteligencia artificial para reconocer objetos en su recorrido, Xiaomi propone la gama la más extensa de robots aspiradores.
+
+",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/img/robots-aspiradores-xiaomi.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/img/robots-aspiradores-xiaomi.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/robots-aspiradores-xiaomi.jpg",
+    "articleSection": "/aspiradoras/",
+    "creator": "Arthemis",
+    "keywords": "Aspiradoras, aspiradora, aspirador, robot aspirador"
+}
+</script>
+
+
+
+
+
+
+
 #### Tabla de contenido
 ```toc
 ```
