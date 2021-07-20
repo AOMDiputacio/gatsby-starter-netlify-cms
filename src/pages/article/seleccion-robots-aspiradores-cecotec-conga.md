@@ -22,6 +22,69 @@ relatedArticles:
   - article: comparacion-mejores-robots-aspiradores-xiaomi
   - article: guia-ultima-del-aspirador-escoba-vertical
 ---
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "www.guiadelconsumidor.es",
+        "url": "https://guiadelconsumidor.es/",
+        "logo": "https://guiadelconsumidor.es/img/logo.png"
+    }
+</script>
+
+ <script type="application/ld+json">
+ {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": "https://guiadelconsumidor.es/aspiradoras/seleccion-robots-aspiradores-cecotec-conga",
+    "name": "Nuestra selección de mejores robots aspiradores Cecotec Conga en el 2021",
+    "headline": "Si consideramos los precios, Cecotec produce los mejores robots aspiradores con mapeo láser",
+    "datePublished": "2021-06-10",
+    "dateModified": "2021-06-20",
+    "description": "Es difícil creer que una empresa española esté competiendo con éxito con los gigantes asiáticos en un mercado tan competitivo como el de los robots aspiradores.
+
+Cecotec es una de estas empresas y sus robots aspiradores con mapeo láser son de los mejores del mercado cuando se considera el precio.
+
+Hemos seleccionado  por tí los mejores robots aspiradores Cecotec Conga.",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Guiadelconsumidor.es",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://guiadelconsumidor.es/img/logo.png",
+            "width": "100",
+            "height": "52"
+        }
+    },
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://guiadelconsumidor.es/img/aspiradores-cecotec-conga.jpg"
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Arthemis"
+    },
+    "url": "https://guiadelconsumidor.es/img/aspiradores-cecotec-conga.jpg",
+    "thumbnailUrl": "https://guiadelconsumidor.es/img/aspiradores-cecotec-conga.jpg",
+    "articleSection": "/aspiradoras/",
+    "creator": "Arthemis",
+    "keywords": "Aspirador Xiaomi, Roborock S5, Roborock S5 max, Xiaomi Roborock, aspiradoras, aspiradora, aspirador, robot aspirador"
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Tabla de contenido
 ```toc
 ```
