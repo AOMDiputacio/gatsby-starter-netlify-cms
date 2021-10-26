@@ -127,16 +127,23 @@ function tweakHtml(html, affiliateLinks) {
       .replace(/<\/table>/g, '</table></div>')
 
       // affiliateLinks
-      .replace(/@data-link="([^"]+)"/g, (match, id) => {
+      // .replace(/@data-link="([^"]+)"/g, (match, id) => {
+      .replace(/data-href="([^"]+)"/g, (match, id) => {
         const affiliate = affiliateLinksMap[id]
+
+        // console.log(html);
+        console.log(match);
+        // console.log(affiliateLinksMap);
+        // console.log(affiliate);
 
         if (affiliate) {
           const link = affiliate?.node?.frontmatter?.link
           const buttonText = affiliate?.node?.frontmatter?.buttonText
-          return `
-<div class="buy-button__wrapper">
-  <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" href="${link}">${buttonText}</a>
-</div>`
+          return `href="${link}"`
+//           return `
+// <div class="buy-button__wrapper">
+//   <a class="buy-button" rel="nofollow noreferrer noopener" target="_blank" href="${link}">${buttonText}</a>
+// </div>`
         } else {
           return match
         }

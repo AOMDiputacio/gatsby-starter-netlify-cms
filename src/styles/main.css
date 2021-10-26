@@ -1014,3 +1014,14 @@ img {
   background: #81d742;
   color: #fff;
 }
+
+/* ======== */
+.buy-button {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+td > .buy-button {
+  position: unset;
+}
