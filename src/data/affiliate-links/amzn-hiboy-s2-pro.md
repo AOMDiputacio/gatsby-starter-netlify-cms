@@ -1,6 +1,6 @@
 ---
 dataKey: affiliateLinks
 id: amzn-hiboy-s2-pro
-link: https://amzn.to/3nR97Uo
 buttonText: Ver mejor precio
+link: https://amzn.to/30r8j17
 ---
